@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+    <xsl:output method="html" encoding="utf-8" indent="no"/>
+
+    <xsl:variable name="color1">d2d2d2</xsl:variable>
+    <xsl:variable name="color2">f0f0f0</xsl:variable>
+
+    <xsl:template match="/"> 
+        <xsl:apply-templates/>
+    </xsl:template>
+
+    <xsl:template match="a">
+        <a href="{@href}"><xsl:apply-templates select="node()" /></a>
+    </xsl:template>
+
+    <xsl:template match="b">
+        <b><xsl:apply-templates select="@*|node()" /></b>
+    </xsl:template>
+
+    <xsl:template match="i">
+        <i><xsl:apply-templates select="@*|node()" /></i>
+    </xsl:template>
+
+    <xsl:template match="tt">
+        <tt><xsl:apply-templates select="@*|node()" /></tt>
+    </xsl:template>
+
+    <xsl:template match="sub">
+        <sub><xsl:apply-templates select="@*|node()" /></sub>
+    </xsl:template>
+
+    <xsl:template match="sup">
+        <sup><xsl:apply-templates select="@*|node()" /></sup>
+    </xsl:template>
+
+    <xsl:template match="concerts">    
+        <p>The first draft of this list was created by <a href="http://profiles.yahoo.com/sombrero_sam" target="_new">sombrero_sam</a> from the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_new">Keith Jarrett Yahoo! Group</a>. Some of the information in this list also comes from messages posted in the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_new">Keith Jarrett Yahoo! Group</a>, from the <a href="http://www.plosin.com/milesahead/" target="_new">Miles Ahead Discography</a>, from various trading/bootleg lists, and from people who emailed me. If you have a correction or addition to this list, please send an email to <a href="mailto:concerts@keithjarrett.org">concerts@keithjarrett.org</a>.</p>
+        
+        <p>I'm specifically looking for more information about the following concerts:
+        <ul>
+            <li>Penn State Jazz Club, University Park, PA, USA, 1966-67 (with Charles Lloyd)</li>
+            <li>Crystal Ballroom, Portland, OR, USA, 1968-69 (solo concert)</li> <!-- Pat Sigler -->
+            <li>The Fox Inn, Ashbourne, Co. Meath, Ireland, maybe in 1971 (with Barre Phillips, bass, and Stu Martin, drums; they played for a whole week)</li>
+            <li>Music Hall, Boston, MA, USA, on February 12 (the month/day are certain), maybe in 1971-1972</li>
+            <li>High School Auditorium, Santa Barbara, CA, USA, late 1974 or early to mid-1975 (solo concert)</li> <!-- John Marshall -->
+            <li>Royal Festival Hall, London, UK, around 1979 (solo concert) (same as the March 29, 1980 concert?)</li>
+            <li>Boston, MA, USA, 1979-82 (solo concert) (one piano, one harpsichord and at least one other keyboard onstage) (same as the May 3, 1979 concert?)</li> <!-- Mark McQuain -->
+            <li>Providence Performing Arts Center, Providence, RI, USA, around 1980 (solo concert)</li>
+            <li>Hungary, in the middle of the 80s (maybe in 1985-86) (solo concert)</li>
+            <li>Village Vanguard, New York, NY, USA, 1986-87 (with Gary Peacock and Jack DeJohnette; they played for a whole week)</li>
+        </ul>
+        </p>
+
+        <p>Last update: <xsl:value-of select="@modified"/>.</p>
+        <p>Number of entries: <xsl:value-of select="count(descendant::concert)"/>.</p>
+
+        <a name="Top"/>
+        
+        <p align="center">
+            <xsl:for-each select="group">
+                <a href="#{@year}"><xsl:value-of select="@year"/></a>
+                <xsl:if test="position()!=last()"><xsl:text> - </xsl:text></xsl:if>
+            </xsl:for-each>
+        </p>
+
+        <xsl:for-each select="group">
+            <xsl:call-template name="group"/>
+        </xsl:for-each>
+    </xsl:template>
+    
+    <xsl:template name="group">
+        <p>
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000">
+                <tr>
+                    <td>
+                        <p align="center">
+                            <a name="{@year}"/><font size="5" color="#ffffff"><i><xsl:value-of select="@year"/></i></font>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+        </p>
+
+        <p>
+            <table border="0" width="100%">
+                <tr>
+                    <td align="center" bgcolor="#{$color1}" style="white-space: nowrap"><b>Date</b></td>
+                    <td align="center" bgcolor="#{$color1}"><b>Place</b></td>
+                    <td align="center" bgcolor="#{$color1}"><b>Release</b></td>
+                    <td align="center" bgcolor="#{$color1}"><b>Musicians</b></td>
+                    <td align="center" bgcolor="#{$color1}" style="width: 300px"><b>Comments</b></td>
+                </tr>
+    
+                <xsl:for-each select="concert">
+                    <xsl:call-template name="concert">
+                        <xsl:with-param name="year" select="../@year"/>
+                    </xsl:call-template>
+                </xsl:for-each>
+            </table>
+        </p>
+
+        <p align="right"><a href="#Top"><font size="2">[Back to the top]</font></a></p>
+    </xsl:template>
+
+    <xsl:template name="concert">
+        <xsl:param name="year"/>
+
+        <xsl:variable name="color">
+            <xsl:choose>
+                <xsl:when test="position() mod 2 = 0"><xsl:value-of select="$color1"/></xsl:when>
+                <xsl:otherwise><xsl:value-of select="$color2"/></xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+
+        <tr>
+            <td align="center" bgcolor="#{$color}" style="white-space: nowrap">
+                <xsl:value-of select="date"/>
+                <xsl:if test=".//date/@incomplete!='yes' or string-length(.//date/@incomplete)=0"><xsl:text>,</xsl:text></xsl:if>
+                <xsl:text> </xsl:text>
+                <xsl:value-of select="$year"/>
+                <xsl:if test="string-length(.//time)!=0">
+                    <xsl:text> (</xsl:text>
+                    <xsl:value-of select=".//time"/>
+                    <xsl:text>)</xsl:text>
+                </xsl:if>
+            </td>
+            <td align="center" bgcolor="#{$color}">
+                <xsl:value-of select="place"/>
+
+                <xsl:if test="string-length(event)!=0">
+                (<xsl:apply-templates select="event"/>)
+                </xsl:if>
+            </td>
+            <td align="center" bgcolor="#{$color}">
+                <xsl:choose>
+                    <xsl:when test="count(child::release) = 1">
+                        <i><xsl:value-of select="child::release[1]"/></i>
+
+                        <xsl:if test="string-length(support[1])!=0">
+                        (<xsl:value-of select="support[1]"/>)
+                        </xsl:if>
+                    </xsl:when>
+            
+                    <xsl:when test="count(child::release) = 2">
+                        <i><xsl:value-of select="child::release[1]"/></i>
+
+                        <xsl:if test="string-length(support[1])!=0">
+                        (<xsl:value-of select="support[1]"/>)
+                        </xsl:if>
+
+                        <xsl:text> and </xsl:text>
+
+                        <i><xsl:value-of select="child::release[2]"/></i>
+
+                        <xsl:if test="string-length(support[2])!=0">
+                        (<xsl:value-of select="support[2]"/>)
+                        </xsl:if>
+                    </xsl:when>
+            
+                    <xsl:when test="count(child::release) > 2">
+                        <xsl:for-each select="release">
+                            <i><xsl:value-of select="."/></i>
+
+                            <xsl:choose>
+                                <xsl:when test="position()=last()-1">
+                                    <xsl:text>, and </xsl:text>
+                                </xsl:when>
+                        
+                                <xsl:when test="position()!=last()">
+                                    <xsl:text>, </xsl:text>
+                                </xsl:when>
+                            </xsl:choose>
+                        </xsl:for-each>
+                    </xsl:when>
+
+                    <xsl:otherwise>-</xsl:otherwise>
+                </xsl:choose>
+            </td>
+            <td align="center" bgcolor="#{$color}">
+                <xsl:apply-templates select="with"/>
+            </td>
+            <td align="center" bgcolor="#{$color}" style="width: 300px">
+                <xsl:choose>
+                    <xsl:when test="string-length(comments)!=0">
+                        <xsl:apply-templates select="comments"/>
+                    </xsl:when>
+
+                    <xsl:otherwise>-</xsl:otherwise>
+                </xsl:choose>
+            </td>
+            </tr>
+    </xsl:template>
+
+    <xsl:template match="with">
+        <xsl:choose>
+            <xsl:when test="count(child::name) = 1">
+                <xsl:value-of select="child::name[1]"/>
+                <xsl:if test="string-length(child::name[1]/@instr)!=0">
+                    <xsl:text> (</xsl:text>
+                    <xsl:value-of select="child::name[1]/@instr"/>
+                    <xsl:text>)</xsl:text>
+                </xsl:if>
+            </xsl:when>
+            
+            <xsl:when test="count(child::name) = 2">
+                <xsl:value-of select="child::name[1]"/>
+                <xsl:if test="string-length(child::name[1]/@instr)!=0">
+                    <xsl:text> (</xsl:text>
+                    <xsl:value-of select="child::name[1]/@instr"/>
+                    <xsl:text>)</xsl:text>
+                </xsl:if>
+                <xsl:text> and </xsl:text>
+                <xsl:value-of select="child::name[2]"/>
+                <xsl:if test="string-length(child::name[2]/@instr)!=0">
+                    <xsl:text> (</xsl:text>
+                    <xsl:value-of select="child::name[2]/@instr"/>
+                    <xsl:text>)</xsl:text>
+                </xsl:if>
+            </xsl:when>
+            
+            <xsl:when test="count(child::name) > 2">
+                <xsl:for-each select="name">
+                    <xsl:value-of select="."/>
+
+                    <xsl:if test="string-length(@instr)!=0">
+                        <xsl:text> (</xsl:text>
+                        <xsl:value-of select="@instr"/>
+                        <xsl:text>)</xsl:text>
+                    </xsl:if>
+
+                    <xsl:choose>
+                        <xsl:when test="position()=last()-1">
+                            <xsl:text>, and </xsl:text>
+                        </xsl:when>
+                        
+                        <xsl:when test="position()!=last()">
+                            <xsl:text>, </xsl:text>
+                        </xsl:when>
+                    </xsl:choose>
+                </xsl:for-each>
+            </xsl:when>
+
+            <xsl:otherwise>
+                <xsl:choose>
+                    <xsl:when test="@solo='yes'">Solo</xsl:when>
+                    <xsl:otherwise>?</xsl:otherwise>
+                </xsl:choose>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+
+    <xsl:template match="event">
+        <xsl:apply-templates select="@*|node()"/>
+    </xsl:template>
+
+    <xsl:template match="comments">
+        <xsl:apply-templates select="@*|node()"/>
+    </xsl:template>
+</xsl:stylesheet>
