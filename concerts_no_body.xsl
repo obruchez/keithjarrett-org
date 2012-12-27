@@ -73,10 +73,8 @@
         <p>
             <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000">
                 <tr>
-                    <td>
-                        <p align="center">
-                            <a name="{@year}"/><font size="5" color="#ffffff"><i><xsl:value-of select="@year"/></i></font>
-                        </p>
+                    <td style="text-align: center; padding-top: 0px; padding-bottom: 0px;">
+                        <a name="{@year}"/><font size="5" color="#ffffff"><i><xsl:value-of select="@year"/></i></font>
                     </td>
                 </tr>
             </table>
