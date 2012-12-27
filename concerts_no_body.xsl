@@ -45,7 +45,6 @@
             <li>Music Hall, Boston, MA, USA, on February 12 (the month/day are certain), maybe in 1971-1972</li>
             <li>High School Auditorium, Santa Barbara, CA, USA, late 1974 or early to mid-1975 (solo concert)</li> <!-- John Marshall -->
             <li>Royal Festival Hall, London, UK, around 1979 (solo concert) (same as the March 29, 1980 concert?)</li>
-            <li>Boston, MA, USA, 1979-82 (solo concert) (one piano, one harpsichord and at least one other keyboard onstage) (same as the May 3, 1979 concert?)</li> <!-- Mark McQuain -->
             <li>Providence Performing Arts Center, Providence, RI, USA, around 1980 (solo concert)</li>
             <li>Hungary, in the middle of the 80s (maybe in 1985-86) (solo concert)</li>
             <li>Village Vanguard, New York, NY, USA, 1986-87 (with Gary Peacock and Jack DeJohnette; they played for a whole week)</li>
