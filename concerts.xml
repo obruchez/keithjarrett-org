@@ -14,7 +14,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 27, 2012">
+<concerts modified="December 28, 2012">
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -5402,22 +5402,22 @@
 			</with>
 		</concert>
         <concert>
+        	<!-- 24 Heures du 5 décembre 1990 -->
 			<date>December 3</date>
 			<place>Victoria Hall, Geneva, Switzerland</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<comments>8:30 PM.</comments>
 		</concert>
         <concert>
-        	<!-- 24 Heures du 5 décembre 1990 -->
 			<date>December 5</date>
 			<place>Kongresshaus, Zürich, Switzerland</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-			<comments>8:30 PM.</comments>
 		</concert>
 	</group>
 	<group year="1991">
@@ -5548,8 +5548,10 @@
 			<with/>
 			<comments>Keith played a Shostakovich recital.</comments>
 		</concert>
-		<concert> <!-- marton.ati@t-online.hu -->
-			<date incomplete="yes"/>
+		<concert>
+			<!-- marton.ati@t-online.hu -->
+			<!-- Tóth Péter (November) -->
+			<date incomplete="yes">November (?)</date>
 			<place>Erkel Theatre, Budapest, Hungary</place>
 			<with>
 				<name>Gary Peacock</name>
