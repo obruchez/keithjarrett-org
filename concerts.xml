@@ -14,7 +14,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 28, 2012">
+<concerts modified="January 12, 2013">
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -1137,7 +1137,7 @@
 				<name>Aldo Romano</name>
 				<name>Jean-François Jenny-Clark</name>
 			</with>
-			<comments>Keith Jarrett played for about two weeks, although not every night. What's certain is that he played on November 12 and November 13. He probably played two 50-minutes per night. One night, Aldo Romano couldn't make it. Charles Bellonzi, a French drummer, wanted to play with Keith Jarrett, but he refused.</comments>
+			<comments>Keith Jarrett played for about two weeks, although not every night. What's certain is that he played on November 12 and November 13. He probably played two 50-minute sets per night. One night, Aldo Romano couldn't make it. Charles Bellonzi, a French drummer, wanted to play with Keith Jarrett, but he refused.</comments>
 		</concert>
 		<concert>
 			<!-- Vincent Lespagnol -->
@@ -1216,30 +1216,49 @@
 			<date incomplete="yes">February</date>
 			<place>Chat Qui Pêche, Paris, France</place>
 			<with>
-				<name>August "Gus" Nemeth</name>
-				<name>Paul Motian</name>
+				<name instr="bass">August "Gus" Nemeth</name>
+				<name instr="drums">Aldo Romano</name>
 			</with>
 		</concert>
 		<concert>
 			<date>February 28</date>
 			<place>Cat 4, Metz, France</place>
 			<with>
-				<name>Charlie Haden (?)</name>
-				<name>Paul Motian (?)</name>
+				<name instr="bass">August "Gus" Nemeth (?)</name>
+				<name instr="drums">Aldo Romano (?)</name>
 			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date incomplete="yes">March</date>
+			<place>Bordeaux, France</place>
+			<with>
+				<name instr="bass">August "Gus" Nemeth</name>
+				<name instr="drums">Aldo Romano</name>
+			</with>
+			<comments>Kenneth K.: "Opening for the Martial Solal trio"</comments>
 		</concert>
 		<concert>
 			<date>April 18</date>
 			<place>Apollo, Paris, France</place>
 			<with>
-				<name>Charlie Haden (?)</name>
-				<name>Paul Motian (?)</name>
+				<name instr="bass">August "Gus" Nemeth (?)</name>
+				<name instr="drums">Aldo Romano (?)</name>
 			</with>
 		</concert>
 		<concert>
 			<date>May 24</date>
 			<place>Apollo, Paris, France</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date incomplete="yes">May</date>
+			<place>Apollo, Paris, France</place>
+			<with>
+				<name instr="bass">August "Gus" Nemeth</name>
+				<name instr="drums">Aldo Romano</name>
+			</with>
 		</concert>
 		<concert>
 			<date>June 17</date>
@@ -1294,6 +1313,19 @@
 			</with>
 		</concert>
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>July 3</date>
+			<place>Hampton Roads, VA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone">Steve Grossman</name>
+				<name instr="electric piano">Chick Corea</name>
+				<name instr="bass, electric bass">Dave Holland</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
 			<date>July 6</date>
 			<time>7:00 PM</time>
 			<place>Wollman Rink, Central Park, New York, NY, USA</place>
@@ -1317,6 +1349,59 @@
 				<name>Dave Holland</name>
 				<name>Jack DeJohnette</name>
 				<name>Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>July 8</date>
+			<place>Harvard Stadium, Cambridge, MA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone">Steve Grossman</name>
+				<name instr="electric piano">Chick Corea</name>
+				<name instr="bass, electric bass">Dave Holland</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>July 10</date>
+			<place>Hollywood Bowl, Los Angeles, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone">Steve Grossman</name>
+				<name instr="electric piano">Chick Corea</name>
+				<name instr="bass, electric bass">Dave Holland</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>Kenneth K.: "Opening for The Band"</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>July 11</date>
+			<place>Newport, RI, USA</place>
+			<event>Newport Jazz Festival</event>
+			<with>
+				<name instr="vibraphone">Gary Burton</name>
+				<name instr="bass">Steve Swallow</name>
+				<name instr="electric guitr">Sam Brown</name>
+				<name instr="drums">Bill Goodwin</name>
+			</with>
+			<comments>Kenneth K.: "This is quite a logistical feat as the Bowl show took place on Friday night and Jarrett was performing on the East Coast the following afternoon. Thank God for red eye flights! Jarrett played (for the first and only time) acoustic AND electric piano for this event."</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>July 15</date>
+			<place>The Spectrum, Philadelphia, PA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone">Steve Grossman</name>
+				<name instr="electric piano">Chick Corea</name>
+				<name instr="bass, electric bass">Dave Holland</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
 			</with>
 		</concert>
 		<concert>
@@ -1346,6 +1431,19 @@
 			</with>
 		</concert>
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>July 26</date>
+			<place>Civic Opera House, Chicago, IL, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone">Steve Grossman</name>
+				<name instr="electric piano">Chick Corea</name>
+				<name instr="bass, electric bass">Dave Holland</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
 			<date>August 2</date>
 			<place>CBS Records Convention, Nassau, Bahamas</place>
 			<with>
@@ -1355,6 +1453,19 @@
 				<name>Dave Holland</name>
 				<name>Jack DeJohnette</name>
 				<name>Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>August 16</date>
+			<place>Stony Brook University, Stony Brook, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone">Steve Grossman</name>
+				<name instr="electric piano">Chick Corea</name>
+				<name instr="bass, electric bass">Dave Holland</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
 			</with>
 		</concert>
 		<concert>
@@ -1369,8 +1480,7 @@
 				<name>Jack DeJohnette</name>
 				<name>Airto Moreira</name>
 			</with>
-			<comments>
-				<i>Spanish Key</i> is a Miles Davis bootleg.</comments>
+			<comments><i>Spanish Key</i> is a Miles Davis bootleg.</comments>
 		</concert>
 		<concert>
 			<date>August 29</date>
@@ -1388,8 +1498,35 @@
 			</with>
 		</concert>
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 2</date>
+			<place>Basin Street West, San Francisco, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+				<name instr="percussions">Jim Riley</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 3</date>
+			<place>Basin Street West, San Francisco, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+				<name instr="percussions">Jim Riley</name>
+			</with>
+		</concert>
+		<concert>
 			<date>October 4</date>
 			<place>Seattle Center Arena, Seattle, WA, USA</place>
+			<event>Pacific Northwest Jazz Festival</event>
 			<with>
 				<name>Miles Davis</name>
 				<name>Gary Bartz</name>
@@ -1397,6 +1534,86 @@
 				<name>Jack DeJohnette</name>
 				<name>Airto Moreira</name>
 				<name>Jim Riley</name>
+			</with>
+			<comments>Kenneth K.: "Shares bill with Bill Evans Trio and Herbie Hancock Sextet"</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 6</date>
+			<place>Basin Street West, San Francisco, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+				<name instr="percussions">Jim Riley</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 7</date>
+			<place>Basin Street West, San Francisco, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+				<name instr="percussions">Jim Riley</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 8</date>
+			<place>Basin Street West, San Francisco, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+				<name instr="percussions">Jim Riley</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 9</date>
+			<place>Basin Street West, San Francisco, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+				<name instr="percussions">Jim Riley</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 11</date>
+			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+				<name instr="percussions">Jim Riley</name>
+			</with>
+			<comments>Not confirmed. To be investigated.</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 14</date>
+			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+				<name instr="percussions">Jim Riley</name>
 			</with>
 		</concert>
 		<concert>
@@ -1426,6 +1643,19 @@
 			</with>
 		</concert>
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 16</date>
+			<place>Fillmore West, San Francisco, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+				<name instr="percussions">Jim Riley</name>
+			</with>
+		</concert>
+		<concert>
 			<date>October 17</date>
 			<place>Fillmore West, San Francisco, CA, USA</place>
 			<release>Live 1970-1973</release>
@@ -1439,8 +1669,7 @@
 				<name>Airto Moreira</name>
 				<name>Jim Riley</name>
 			</with>
-			<comments>
-				<i>Live 1970-1973</i>, <i>Fillmore West 10/17/70</i>, and <i>What I Say, Volume 2</i> are Miles Davis bootlegs.</comments>
+			<comments><i>Live 1970-1973</i>, <i>Fillmore West 10/17/70</i>, and <i>What I Say, Volume 2</i> are Miles Davis bootlegs.</comments>
 		</concert>
 		<concert>
 			<date>October 18</date>
@@ -1526,8 +1755,33 @@
 				<name>Airto Moreira</name>
 			</with>
 		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>December 29</date>
+			<place>Village Gate, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>Several concerts (December 29, 1970-January 3, 1971). Kenneth K.: "Cancelled at last minute by Miles"</comments>
+		</concert>
 	</group>
 	<group year="1971">
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>Late February-early March</date>
+			<place>Wesleyan University, Middletown, CT, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+		</concert>
 		<concert>
 			<date>March 11-14 (?)</date>
 			<place>Lennie's on the Turnpike, Peabody, MA, USA</place>
@@ -1540,8 +1794,7 @@
 				<name>Jack DeJohnette</name>
 				<name>Airto Moreira</name>
 			</with>
-			<comments>
-				<i>Live 1970-1973</i> and <i>Lennie's on the Turnpike/Philharmonic Hall</i> are Miles Davis bootlegs.</comments>
+			<comments><i>Live 1970-1973</i> and <i>Lennie's on the Turnpike/Philharmonic Hall</i> are Miles Davis bootlegs.</comments>
 		</concert>
 		<concert> <!-- Michael McLaughlin and Richard Paske (details: two shows, Michael Henderson, etc.) -->
 			<date>March 19</date>
@@ -1555,7 +1808,8 @@
 			</with>
 			<comments>There were two concerts that night (at around 7:30 PM and 9:30 PM). Michael Henderson missed at least the first concert (snowstorms).</comments>
 		</concert>
-		<concert> <!-- Richard Paske -->
+		<concert>
+			<!-- Richard Paske -->
 			<date>March 21</date>
 			<place>Milwaukee, WI, USA</place>
 			<with>
@@ -1564,6 +1818,69 @@
 				<name>Michael Henderson</name>
 				<name>Jack DeJohnette</name>
 				<name>Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 28</date>
+			<place>Constitution Hall, Washington, DC, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date incomplete="yes">April</date>
+			<place>Gaslight Club, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>Five nights. The Gaslight Club was formerly the Cafe Au Go Go.</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>April 23</date>
+			<place>Shrine Auditorium, Los Angeles, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>Kenneth K.: "Shares bill with Nina Simone"</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>Early May</date>
+			<place>Shelly’s Manne-Hole, Los Angeles, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>Five nights. Kenneth K.: "It was during this engagement that Keith and Jack recorded 'Ruta and Daitya'"</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>May 6</date>
+			<place>Fillmore West, San Francisco, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
 			</with>
 		</concert>
 		<concert>
@@ -1576,6 +1893,69 @@
 				<name>Jack DeJohnette</name>
 				<name>Airto Moreira</name>
 			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>May 8</date>
+			<place>Fillmore West, San Francisco, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>May 9</date>
+			<place>Fillmore West, San Francisco, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>July 5</date>
+			<place>Newport, RI, USA</place>
+			<event>Newport Jazz Festival</event>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>July 20</date>
+			<place>Beacon Theater, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>Kenneth K.: "With Soft Machine and Richard Pryor"</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>July 21</date>
+			<place>Beacon Theater, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>Kenneth K.: "With Soft Machine and Richard Pryor"</comments>
 		</concert>
 		<concert>
 			<date>October 21</date>
@@ -1846,6 +2226,72 @@
 				<name>James Mtume Foreman</name>
 			</with>
 			<comments><i>Lennie's on the Turnpike/Philharmonic Hall</i> and <i>Live at Philharmonic Hall</i> are Miles Davis bootlegs.</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>December 15</date>
+			<place>Gaslight Club, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Ndugu Leon Chancler</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>December 16</date>
+			<place>Gaslight Club, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Ndugu Leon Chancler</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>December 17</date>
+			<place>Gaslight Club, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Ndugu Leon Chancler</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>December 18</date>
+			<place>Gaslight Club, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Ndugu Leon Chancler</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>December 19</date>
+			<place>Gaslight Club, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Ndugu Leon Chancler</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+			<comments>Kenneth K.: "Last show with Miles"</comments>
 		</concert>
 	</group>
 	<group year="1972">
@@ -2245,12 +2691,12 @@
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
-			<date>March 17</date>
-			<place>Alice Tully Hall, New York</place>
+			<date>March 17 (?)</date>
+			<place>Alice Tully Hall, Lincoln Center, New York, NY, USA</place>
 			<with>
 				<name>Dennis Russell Davies</name>
 			</with>
-			<comments>Kenneth K.: "Jarrett was the featured soloist in Carla Bley's '3/4 for Orchestra' conducted by Dennis Russell Davies. (...) This may be his first encounter with Dennis Russell Davies with whom he would work over the next two decades. Bley's piece required a pianist well above her skill set; not sure exactly how Jarrett was approached but the concert took place on a Sunday afternoon, just two days before his engagement at the Vanguard. Jarrett would reprise this performance that December in Minneapolis, where he performed a series of concerts for quartet and serious compositions, including a piece from 'In the Light'."</comments>
+			<comments>According to Peter E., the correct date for this concert is March 16, 1975. Kenneth K.: "Jarrett was the featured soloist in Carla Bley's '3/4 for Orchestra' conducted by Dennis Russell Davies. (...) This may be his first encounter with Dennis Russell Davies with whom he would work over the next two decades. Bley's piece required a pianist well above her skill set; not sure exactly how Jarrett was approached but the concert took place on a Sunday afternoon, just two days before his engagement at the Vanguard. Jarrett would reprise this performance that December in Minneapolis, where he performed a series of concerts for quartet and serious compositions, including a piece from 'In the Light'."</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -2454,6 +2900,13 @@
 			<with solo="yes"/>
             <comments>"He played solo and opened for the Gary Burton Quintet. At the end, he complained about the piano."</comments>
 		</concert>
+		<concert>
+			<!-- Peter Elsdon -->
+			<date>October 19</date>
+			<place>Bucks County Play House, New Hope, PA, USA</place>
+			<with solo="yes"/>
+            <comments/>
+		</concert>
 		<concert> <!-- nreis@ucla.edu -->
 			<date>October 23</date>
 			<place>Newport, RI, USA</place>
@@ -2521,6 +2974,13 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
+		<concert>
+			<!-- Peter Elsdon -->
+			<date>December 14</date>
+			<place>Koussevitsky Arts Centre, Berkshire Community College, Pittsfield, MA, USA</place>
+			<with solo="yes"/>
+            <comments/>
+		</concert>
 		<concert> <!-- Richard Paske -->
 			<date>December 22</date>
 			<place>Tyrone Guthrie Theater, Minneapolis, MN, USA</place>
@@ -2546,6 +3006,13 @@
 			<date>January 17</date>
 			<place>Kreis-Kulturraum, Kronach, Germany</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Peter Elsdon -->
+			<date>January 20</date>
+			<place>Villingen, Germany</place>
+			<with solo="yes"/>
+            <comments/>
 		</concert>
 		<concert> <!-- Sébastien Cicolella -->
 			<date>January 21</date>
@@ -2581,9 +3048,23 @@
 			<comments>Concert mentioned in <a href="http://www.zwitschermaschine.li/rubjarrett.html">"The Baden Concert"</a></comments>
 		</concert>
 		<concert>
+			<!-- Peter Elsdon -->
+			<date>January 31</date>
+			<place>Hamburg, Germany</place>
+			<with solo="yes"/>
+            <comments/>
+		</concert>
+		<concert>
 			<date>February 2</date>
 			<place>Die Glocke, Bremen, Germany</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Peter Elsdon -->
+			<date>February 3</date>
+			<place>Munich, Germany</place>
+			<with solo="yes"/>
+            <comments/>
 		</concert>
 		<concert>
 			<date>February 5</date>
@@ -2598,14 +3079,28 @@
 		</concert>
 		<concert>
 			<date>February 20</date>
-			<place>Olympia, WA, USA</place>
+			<place>Evergreen College, Olympia, WA, USA</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Peter Elsdon -->
+			<date>March 13</date>
+			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
+			<with solo="yes"/>
+            <comments/>
 		</concert>
 		<concert>
 			<!-- Howard Courtney -->
 			<date>March 21</date>
 			<place>Convocation Hall, Toronto, ON, Canada</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Peter Elsdon -->
+			<date>April 20</date>
+			<place>Given Auditorium, Waterville, Colby College, ME, USA</place>
+			<with solo="yes"/>
+            <comments/>
 		</concert>
 		<concert>
 			<date>May 27</date>
@@ -2722,6 +3217,13 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Keith Jarrett played after Oregon and before Thelonius Monk.</comments>
+		</concert>
+		<concert>
+			<!-- Peter Elsdon -->
+			<date>October 4</date>
+			<place>Iowa Memorial Union, University of Iowa, Iowa City, IA, USA</place>
+			<with solo="yes"/>
+            <comments>Solo or quartet concert?</comments>
 		</concert>
 		<concert>
 			<!-- jazzmanxxi + Chuck Hill -->

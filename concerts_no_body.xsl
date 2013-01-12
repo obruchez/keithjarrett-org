@@ -41,6 +41,7 @@
         <ul>
             <li>Penn State Jazz Club, University Park, PA, USA, 1966-67 (with Charles Lloyd)</li>
             <li>Crystal Ballroom, Portland, OR, USA, 1968-69 (solo concert)</li> <!-- Pat Sigler -->
+            <li>Boston's Jazz Workshop, Boston, MA, USA, 1970-71 (with Miles Davis)</li> <!-- -Kenneth Kubernik -->
             <li>The Fox Inn, Ashbourne, Co. Meath, Ireland, maybe in 1971 (with Barre Phillips, bass, and Stu Martin, drums; they played for a whole week)</li>
             <li>Music Hall, Boston, MA, USA, on February 12 (the month/day are certain), maybe in 1971-1972</li>
             <li>High School Auditorium, Santa Barbara, CA, USA, late 1974 or early to mid-1975 (solo concert)</li> <!-- John Marshall -->
@@ -50,6 +51,8 @@
             <li>Village Vanguard, New York, NY, USA, 1986-87 (with Gary Peacock and Jack DeJohnette; they played for a whole week)</li>
         </ul>
         </p>
+
+        <p>You can also download the discography by Maurizio Garbolino (version 12, December 2012): <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_JarrettDicembre-2012.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_JarrettDDDDDDDDDDDD.doc">Word</a>.</p>
 
         <p>Last update: <xsl:value-of select="@modified"/>.</p>
         <p>Number of entries: <xsl:value-of select="count(descendant::concert)"/>.</p>
