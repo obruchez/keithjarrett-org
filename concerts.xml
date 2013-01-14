@@ -10,11 +10,11 @@
       - Jerry Margolin: Hult Center, Eugene solo concert, 199?, mentioned in the XSL introduction
       - Simon Savary: September 26-October 15, 1988, South America (trio) -> tournée annulée et remise l'année suivante (On y apprend que la tournée sud-américaine était initialement prévue pour 1988, mais a été reportée en mai 1989 pour des raisons politiques : référendum au Chili rendant sans intérêt un concert de jazz et remaniement de la constitution au Brésil qui a causé des grèves de transport en commun. - lettre Steve Cloud 7 octobre 1988)
       
-      Thanks to: Bart Bartók, Matthias Bohlen, Maurizio Garbolino, Kenneth Kubernik, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Tóth Péter, Richard Purschwitz, Simon Savary, Pat Sigler, Christian Teichert (= Flambay)
+      Thanks to: Bart Bartók, Matthias Bohlen, Peter Eldson, Maurizio Garbolino, Kenneth Kubernik, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Tóth Péter, Richard Purschwitz, Simon Savary, Pat Sigler, Christian Teichert (= Flambay)
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 12, 2013">
+<concerts modified="January 14, 2013">
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -2691,12 +2691,12 @@
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
-			<date>March 17 (?)</date>
+			<date>March 17</date>
 			<place>Alice Tully Hall, Lincoln Center, New York, NY, USA</place>
 			<with>
 				<name>Dennis Russell Davies</name>
 			</with>
-			<comments>According to Peter E., the correct date for this concert is March 16, 1975. Kenneth K.: "Jarrett was the featured soloist in Carla Bley's '3/4 for Orchestra' conducted by Dennis Russell Davies. (...) This may be his first encounter with Dennis Russell Davies with whom he would work over the next two decades. Bley's piece required a pianist well above her skill set; not sure exactly how Jarrett was approached but the concert took place on a Sunday afternoon, just two days before his engagement at the Vanguard. Jarrett would reprise this performance that December in Minneapolis, where he performed a series of concerts for quartet and serious compositions, including a piece from 'In the Light'."</comments>
+			<comments>Kenneth K.: "Jarrett was the featured soloist in Carla Bley's '3/4 for Orchestra' conducted by Dennis Russell Davies. (...) This may be his first encounter with Dennis Russell Davies with whom he would work over the next two decades. Bley's piece required a pianist well above her skill set; not sure exactly how Jarrett was approached but the concert took place on a Sunday afternoon, just two days before his engagement at the Vanguard. Jarrett would reprise this performance that December in Minneapolis, where he performed a series of concerts for quartet and serious compositions, including a piece from 'In the Light'."</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -2803,19 +2803,73 @@
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
-			<date>May 24-29 (?)</date>
+			<date>May 28</date>
 			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
-				<name>Guilherme Franco (?)</name>
 			</with>
-			<comments>Approximate dates. One or several concerts.</comments>
+			<comments/>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
-			<date>May 31-June 5 (?)</date>
+			<date>May 29</date>
+			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>May 30</date>
+			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>May 31</date>
+			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 1</date>
+			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 2</date>
+			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 4/date>
 			<place>Keystone Korner, San Francisco, CA, USA</place>
 			<with>
 				<name>Dewey Redman</name>
@@ -2823,7 +2877,67 @@
 				<name>Paul Motian</name>
 				<name>Guilherme Franco (?)</name>
 			</with>
-			<comments>Approximate dates. One or several concerts. Kenneth K.: "It was at this engagement where the 'legendary' baby bottle incident took place"</comments>
+			<comments>Kenneth K.: "It was at this engagement where the 'legendary' baby bottle incident took place"</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 5</date>
+			<place>Keystone Korner, San Francisco, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 6</date>
+			<place>Keystone Korner, San Francisco, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 7</date>
+			<place>Keystone Korner, San Francisco, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 8</date>
+			<place>Keystone Korner, San Francisco, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 9/date>
+			<place>Keystone Korner, San Francisco, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments/>
 		</concert>
 		<concert>  <!-- Jasiek Poznanski -->
 			<date>June 12</date>
@@ -2907,7 +3021,8 @@
 			<with solo="yes"/>
             <comments/>
 		</concert>
-		<concert> <!-- nreis@ucla.edu -->
+		<concert>
+			<!-- nreis@ucla.edu -->
 			<date>October 23</date>
 			<place>Newport, RI, USA</place>
 			<event>Newport Jazz Festival</event>
