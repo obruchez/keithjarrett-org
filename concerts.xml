@@ -10,11 +10,11 @@
       - Jerry Margolin: Hult Center, Eugene solo concert, 199?, mentioned in the XSL introduction
       - Simon Savary: September 26-October 15, 1988, South America (trio) -> tournée annulée et remise l'année suivante (On y apprend que la tournée sud-américaine était initialement prévue pour 1988, mais a été reportée en mai 1989 pour des raisons politiques : référendum au Chili rendant sans intérêt un concert de jazz et remaniement de la constitution au Brésil qui a causé des grèves de transport en commun. - lettre Steve Cloud 7 octobre 1988)
       
-      Thanks to: Bart Bartók, Matthias Bohlen, Peter Eldson, Maurizio Garbolino, Kenneth Kubernik, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Tóth Péter, Richard Purschwitz, Simon Savary, Pat Sigler, Christian Teichert (= Flambay)
+      Thanks to: Bart Bartók, Matthias Bohlen, Peter Eldson, Maurizio Garbolino, Kenneth Kubernik, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Stephan Perthes, Tóth Péter, Richard Purschwitz, Simon Savary, Pat Sigler, Christian Teichert (= Flambay)
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 14, 2013">
+<concerts modified="February 24, 2013">
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -107,7 +107,8 @@
 		</concert>
 		<concert>
 			<date>August 7</date>
-			<place>Molde, Norway</place>
+			<place>Molde Kino, Molde, Norway</place>
+			<event>Molde International Jazz Festival</event>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Cecil McBee</name>
@@ -1327,7 +1328,7 @@
 		</concert>
 		<concert>
 			<date>July 6</date>
-			<time>7:00 PM</time>
+			<time>7 PM</time>
 			<place>Wollman Rink, Central Park, New York, NY, USA</place>
 			<with>
 				<name>Miles Davis</name>
@@ -2221,7 +2222,7 @@
 				<name>Miles Davis</name>
 				<name>Gary Bartz</name>
 				<name>Michael Henderson</name>
-				<name>Ndugu Leon Chancler</name>
+				<name>Jack De Johnette</name>
 				<name>Charles Don Alias</name>
 				<name>James Mtume Foreman</name>
 			</with>
@@ -2235,7 +2236,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Ndugu Leon Chancler</name>
+				<name instr="drums">Jack De Johnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -2248,7 +2249,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Ndugu Leon Chancler</name>
+				<name instr="drums">Jack De Johnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -2261,7 +2262,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Ndugu Leon Chancler</name>
+				<name instr="drums">Jack De Johnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -2274,7 +2275,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Ndugu Leon Chancler</name>
+				<name instr="drums">Jack De Johnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -2287,7 +2288,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Ndugu Leon Chancler</name>
+				<name instr="drums">Jack De Johnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -2339,7 +2340,8 @@
 		</concert>
 		<concert>
 			<date>August 2</date>
-			<place>Molde, Norway</place>
+			<place>Molde Kino, Molde, Norway</place>
+			<event>Molde International Jazz Festival</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -2493,6 +2495,21 @@
 			<date>July 16</date>
 			<place>Pescara, Italy</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Arnulf Müller -->
+			<date incomplete="yes">Late July-early August</date>
+			<place>Molde Kino, Molde, Norway</place>
+			<event>Molde International Jazz Festival</event>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Arnulf Müller -->
+			<date incomplete="yes">Early October</date>
+			<place>Vienna, Austria</place>
+			<event>Musik für 14 Hände</event>
+			<with solo="yes"/>
+			<comments>7-minute piece recorded for the Austrian television. Produced in October 1973 and broadcast in 1974. More information here: <a href="http://www.spiegel.de/spiegel/print/d-41871573.html">Piano-Jazz: Musik für 14 Hände</a></comments>
 		</concert>
 		<concert>
 			<date>November 3</date>
@@ -2869,13 +2886,12 @@
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
-			<date>June 4/date>
+			<date>June 4</date>
 			<place>Keystone Korner, San Francisco, CA, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
-				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments>Kenneth K.: "It was at this engagement where the 'legendary' baby bottle incident took place"</comments>
 		</concert>
@@ -2887,7 +2903,6 @@
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
-				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments/>
 		</concert>
@@ -2899,7 +2914,6 @@
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
-				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments/>
 		</concert>
@@ -2911,7 +2925,6 @@
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
-				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments/>
 		</concert>
@@ -2923,19 +2936,17 @@
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
-				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments/>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
-			<date>June 9/date>
+			<date>June 9</date>
 			<place>Keystone Korner, San Francisco, CA, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
-				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments/>
 		</concert>
@@ -3022,11 +3033,64 @@
             <comments/>
 		</concert>
 		<concert>
-			<!-- nreis@ucla.edu -->
+			<!-- Kenneth Kubernik -->
+			<date>October 22</date>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
 			<date>October 23</date>
-			<place>Newport, RI, USA</place>
-			<event>Newport Jazz Festival</event>
-			<with solo="yes"/>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 24</date>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 25</date>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 26</date>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 27</date>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
 		</concert>
         <concert> <!-- Simon Savary: je l'avais reçu comme Boston 31.10.74 originalement, mais avec 2 parties. La deuxième partie provenait finalement d'une autre source (May 3, 1979) -->
 			<date>October 31</date>
@@ -3034,6 +3098,17 @@
 			<event></event>
 			<with solo="yes"/>
 			<comments>Kenneth K.: "Gary Burton opening"</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date incomplete="yes">November</date>
+			<place>Trey's Lounge, Philadelphia, PA, USA</place>
+			<with>
+				<name>Dewey Redman (?)</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Kenneth K.: "Interestingly, my source only reports the trio playing. That could be a misprint or possibly Dewey didn't make the date because of conflicting schedules. It was not without precedent."</comments>
 		</concert>
 		<concert> <!-- Peter Elsdon / New York Times -->
 			<date>November 26</date>
@@ -3112,7 +3187,6 @@
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
-				<name>Guilherme Franco</name>
 			</with>
 		</concert>
 	</group>
@@ -3129,9 +3203,9 @@
 			<with solo="yes"/>
             <comments/>
 		</concert>
-		<concert> <!-- Sébastien Cicolella -->
+		<concert> <!-- Sébastien Cicolella + Stephan Perthes -->
 			<date>January 21</date>
-			<place>Freiburg, Germany</place>
+			<place>Audimax (Auditorium Maximum), Albert-Ludwigs-Universität Freiburg, Freiburg, Germany</place>
 			<with solo="yes"/>
 			<comments>The second part starts with one of the themes from "The Survivors' Suite".</comments>
 		</concert>
@@ -3856,7 +3930,7 @@
 		<concert>
 			<!-- jazzmanxxi + Ann Zanetti (exact date, has ticket stub) -->
 			<date>July 4</date>
-			<time>7:00 PM</time>
+			<time>7 PM</time>
 			<place>Tanglewood Music Shed, Lenox, MA, USA</place>
 			<with solo="yes"/>
 		</concert>
@@ -3867,9 +3941,53 @@
 			<with solo="yes"/>
             <comments>The city (Berkeley) is not completely certain, but the concert did take place in the San Francisco Bay Area.</comments>
 		</concert>
-		<concert> <!-- Sébastien Cicolella -->
+        <concert>
+          	<!-- Kenneth Kubernik -->
+			<date>October 15</date>
+			<place>Metropolitan Opera House, New York, NY, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+          	<!-- Kenneth Kubernik -->
+			<date>October 17</date>
+			<place>Auditorium Theater, Chicago, IL, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+          	<!-- Kenneth Kubernik -->
+			<date>October 19</date>
+			<place>Jones Hall, Houston, TX, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+          	<!-- Kenneth Kubernik -->
+			<date>October 22</date>
+			<place>Ford Auditorium, Detroit, MI, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+          	<!-- Kenneth Kubernik -->
+			<date>October 24</date>
+			<place>Fox Theater, Atlanta, GA, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+          	<!-- Kenneth Kubernik -->
 			<date>October 26</date>
-			<place>Ann Arbor, MI, USA</place>
+			<place>Academy of Music, Philadelphia, PA, USA</place>
+			<with solo="yes"/>
+			<comments/>
+		</concert>
+		<concert>
+          	<!-- Kenneth Kubernik -->
+			<date>October 29</date>
+			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+          	<!-- Kenneth Kubernik -->
+			<date>October 30</date>
+			<place>Pasadena Civic Auditorium, Pasadena, CA, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert> <!-- Neil Allin Elphick -->
@@ -4263,7 +4381,7 @@
 		</concert>
 		<concert> <!-- Miquel Romero -->
 			<date>June 15</date>
-			<place>Palau de la Música, Barcelona, Spain</place>
+			<place>Palau de la Música Catalana, Barcelona, Spain</place>
 			<with solo="yes"/>
 		</concert>
 		<concert> <!-- Miguel Rovira -->
@@ -5011,7 +5129,7 @@
 		</concert>
 		<concert>
 			<date>November 3</date>
-			<place>Palau de la Musica, Barcelona, Spain</place>
+			<place>Palau de la Música Catalana, Barcelona, Spain</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -5154,7 +5272,7 @@
 		</concert>
 		<concert>
 			<date>July 13</date>
-			<place>Gasteig Philharmonie, Munich, Germany</place>
+			<place>Philharmonie, Gasteig, Munich, Germany</place>
 			<release>Still Live</release>
 			<with>
 				<name>Gary Peacock</name>
@@ -5343,7 +5461,15 @@
 		</concert>
 	</group>
 	<group year="1987">
-		<concert> <!-- Diane Marcus -->
+		<concert>
+			<!-- Arnulf Müller -->
+			<date>March 27</date>
+			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
+			<with solo="yes"/>
+			<comments>Concert review: <a href="http://www.nytimes.com/1987/03/30/arts/music-keith-jarrett.html">Music: Keith Jarrett</a></comments>
+		</concert>
+		<concert>
+			<!-- Diane Marcus -->
 			<date>April 5</date>
 			<place>Davies Symphony Hall, San Francisco, CA, USA</place>
 			<with solo="yes"/>
@@ -5826,7 +5952,7 @@
 		</concert>
 		<concert>
 			<date>October 16</date>
-			<place>Philharmonie, Munich, Germany</place>
+			<place>Philharmonie, Gasteig, Munich, Germany</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -5948,7 +6074,7 @@
 		</concert>
         <concert>
 			<date>November 15</date>
-			<place>Palau de la Musica, Barcelona, Spain</place>
+			<place>Palau de la Música Catalana, Barcelona, Spain</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -6038,6 +6164,12 @@
 		</concert>
 	</group>
 	<group year="1991">
+		<concert>
+			<!-- Arnulf Müller -->
+			<date>February 17</date>
+			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
+			<with solo="yes"/>
+		</concert>
 		<concert>
 			<date>April 5</date>
 			<place>Parthenon, Tama, Japan</place>
@@ -6230,7 +6362,7 @@
 		</concert>
 		<concert>
 			<date>October 23</date>
-			<place>Philarmonie, Munich, Germany</place>
+			<place>Philharmonie, Gasteig, Munich, Germany</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -8618,4 +8750,13 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			</with>
         </concert>
     </group>
+
+    <group year="2013">
+    	<concert>
+			<date>February 21</date>
+			<place>National Concert Hall, Dublin, Ireland</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+	</group>
 </concerts>
