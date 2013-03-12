@@ -14,7 +14,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 24, 2013">
+<concerts modified="March 12, 2013">
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -8756,6 +8756,12 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<date>February 21</date>
 			<place>National Concert Hall, Dublin, Ireland</place>
 			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>February 25</date>
+			<place>Royal Festival Hall, London, UK</place>
+			<time>7:30 PM</time>
 			<with solo="yes"/>
 		</concert>
 	</group>
