@@ -9,12 +9,14 @@
      Other contributions:
       - Jerry Margolin: Hult Center, Eugene solo concert, 199?, mentioned in the XSL introduction
       - Simon Savary: September 26-October 15, 1988, South America (trio) -> tournée annulée et remise l'année suivante (On y apprend que la tournée sud-américaine était initialement prévue pour 1988, mais a été reportée en mai 1989 pour des raisons politiques : référendum au Chili rendant sans intérêt un concert de jazz et remaniement de la constitution au Brésil qui a causé des grèves de transport en commun. - lettre Steve Cloud 7 octobre 1988)
-      
+     TODO: change XML comments into XML elements
+     TODO: add first name and initial of last name in front of quotations (in comments)
+
       Thanks to: Bart Bartók, Matthias Bohlen, Peter Eldson, Maurizio Garbolino, Kenneth Kubernik, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Stephan Perthes, Tóth Péter, Richard Purschwitz, Simon Savary, Pat Sigler, Christian Teichert (= Flambay)
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 12, 2013">
+<concerts modified="May 4, 2013">
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -436,7 +438,8 @@
 			</with>
 			<comments></comments>
 		</concert>
-		<concert> <!-- Jazz Hot -->
+		<concert>
+			<!-- Jazz Hot -->
 			<date>May 4</date>
 			<place>Town Hall, New York, NY, USA</place>
 			<with>
@@ -500,7 +503,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-		<concert> <!-- Peter Whittlesey -->
+		<concert>
+			<!-- Peter Whittlesey -->
 			<date incomplete="yes">Spring</date>
 			<place>Greek Theater, UC Berkeley, Berkeley, CA, USA</place>
 			<with>
@@ -1797,7 +1801,8 @@
 			</with>
 			<comments><i>Live 1970-1973</i> and <i>Lennie's on the Turnpike/Philharmonic Hall</i> are Miles Davis bootlegs.</comments>
 		</concert>
-		<concert> <!-- Michael McLaughlin and Richard Paske (details: two shows, Michael Henderson, etc.) -->
+		<concert>
+			<!-- Michael McLaughlin and Richard Paske (details: two shows, Michael Henderson, etc.) -->
 			<date>March 19</date>
 			<place>Tyrone Guthrie Theater, Minneapolis, MN, USA</place>
 			<with>
@@ -2296,7 +2301,8 @@
 		</concert>
 	</group>
 	<group year="1972">
-		<concert> <!-- Guy Berger -->
+		<concert>
+			<!-- Guy Berger -->
 			<date>February 22-27 (?)</date>
 			<place>Slug's, New York, NY, USA</place>
 			<with>
@@ -2305,7 +2311,8 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-        <concert> <!-- Radio recording circulating -->
+        <concert>
+        	<!-- Radio recording circulating -->
 			<date>June 3</date>
 			<place>Székesfehérvár, Hungary</place>
             <event>Alba Regia Jazz Festival</event>
@@ -2355,7 +2362,24 @@
 			<place>Dramaten Theater, Stockholm, Sweden</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- par-mac@telus.net -->
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date incomplete="yes">September</date>
+			<place>Cafe Montmartre, Copenhagen, Denmark</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 28</date>
+			<place>Mercer Arts Center, New York, NY, USA</place>
+			<with solo="yes"/>
+			<notes>Kenneth K.: "1st solo concert in America! It was recorded by Columbia Records for possible release. But Jarrett was dropped from the label shortly after 'Expectations' came out in favor of Herbie Hancock, whose subsequent 'Headhunters' album went gold. A good move for the suits and for fans of Jarrett; he went off and signed with Impulse! and the rest is history (if you think Columbia was going to issue all those quartet records you're dreaming)."</notes>
+		</concert>
+		<concert>
+			<!-- par-mac@telus.net -->
 			<date incomplete="yes"/>
 			<place>Jubilee Auditorium, Edmonton, AB, Canada</place>
 			<with>
@@ -2463,7 +2487,8 @@
 			<place>Munich, Germany</place>
 			<with solo="yes"/>
 		</concert>
-        <concert> <!-- Matthias Bohlen -->
+        <concert>
+        	<!-- Matthias Bohlen -->
 			<date>March 30</date>
 			<place>Hotel Mohren, Willisau, Switzerland</place>
 			<with solo="yes"/>
@@ -2479,14 +2504,14 @@
 			<release>Solo Concerts: Bremen/Lausanne</release>
 			<with solo="yes"/>
 		</concert>
-		<!-- Olli Ylönen -->
 		<concert>
+			<!-- Olli Ylönen -->
 			<date>July 14</date>
 			<place>Karhulinna, Pori, Finland</place>
 			<with solo="yes"/>
 		</concert>
-		<!-- Olli Ylönen -->
 		<concert>
+			<!-- Olli Ylönen -->
 			<date>July 15</date>
 			<place>Kirjurinluoto, Pori, Finland</place>
 			<with solo="yes"/>
@@ -2713,7 +2738,7 @@
 			<with>
 				<name>Dennis Russell Davies</name>
 			</with>
-			<comments>Kenneth K.: "Jarrett was the featured soloist in Carla Bley's '3/4 for Orchestra' conducted by Dennis Russell Davies. (...) This may be his first encounter with Dennis Russell Davies with whom he would work over the next two decades. Bley's piece required a pianist well above her skill set; not sure exactly how Jarrett was approached but the concert took place on a Sunday afternoon, just two days before his engagement at the Vanguard. Jarrett would reprise this performance that December in Minneapolis, where he performed a series of concerts for quartet and serious compositions, including a piece from 'In the Light'."</comments>
+			<comments>Kenneth K.: "Jarrett was the featured soloist in Carla Bley's '3/4, for Piano and Orchestra' conducted by Dennis Russell Davies. (...) This may be his first encounter with Dennis Russell Davies with whom he would work over the next two decades. Bley's piece required a pianist well above her skill set; not sure exactly how Jarrett was approached but the concert took place on a Sunday afternoon, just two days before his engagement at the Vanguard. Jarrett would reprise this performance that December in Minneapolis, where he performed a series of concerts for quartet and serious compositions, including a piece from 'In the Light'."</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -2963,12 +2988,14 @@
 			<with solo="yes"/>
 			<comments>11:30 PM. Keith Jarrett, Herbie Hancock, and McCoy Tyner all played solo sets.</comments>
 		</concert>
-		<concert> <!-- Russ Browne -->
+		<concert>
+			<!-- Russ Browne -->
 			<date incomplete="yes">June (?)</date>
 			<place>Commodore Ballroom, Vancouver, BC, Canada</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- bolton@purdue.edu -->
+		<concert>
+			<!-- bolton@purdue.edu -->
 			<date incomplete="yes">June</date>
 			<place>Masonic Temple, Toronto, ON, Canada</place>
 			<with solo="yes"/>
@@ -2984,7 +3011,8 @@
 			<event>Umbria Jazz Festival</event>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Jazz Magazine -->
+		<concert>
+			<!-- Jazz Magazine -->
 			<date incomplete="yes">July</date>
 			<place>Palais des Congrès, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
@@ -2996,12 +3024,24 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>August 24</date>
+			<place>Cabrillo College, Aptos, CA, USA</place>
+			<event>Cabrillo Festival of Contemporary Music</event>
+			<with>
+				<name>Paul Motian</name>
+				<name>Unknown orchestra</name>
+			</with>
+			<comments>Kenneth K.: "'In The Cave, In the Light' with strings, piano and Paul Motian, percussion. '3/4, for Piano and Orchestra' by Carla Bley - Jarrett soloist."</comments>
+		</concert>
+		<concert>
 			<date incomplete="yes">August</date>
 			<place>Terni, Italy</place>
 			<event>Umbria Jazz Festival</event>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Richard A. Moses -->
+		<concert>
+			<!-- Richard A. Moses -->
 			<date>September 5 (?)</date>
 			<place>Soldiers And Sailors Memorial Hall, Pittsburgh, PA, USA</place>
 			<with>
@@ -3019,7 +3059,19 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-        <concert> <!-- stupidrule2001@yahoo.com -->
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>September 20 (?)</date>
+			<place>The Bijou, Philadelphia, PA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<notes>Kenneth K.: "For 3 or 4 nights." Exact date unknown (around September 20th).</notes>
+		</concert>
+        <concert>
+        	<!-- stupidrule2001@yahoo.com -->
 			<date>October 16</date>
 			<place>Lisner Auditorium, George Washington University, Washington, DC, USA</place>
 			<with solo="yes"/>
@@ -3092,7 +3144,8 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-        <concert> <!-- Simon Savary: je l'avais reçu comme Boston 31.10.74 originalement, mais avec 2 parties. La deuxième partie provenait finalement d'une autre source (May 3, 1979) -->
+        <concert>
+        	<!-- Simon Savary: je l'avais reçu comme Boston 31.10.74 originalement, mais avec 2 parties. La deuxième partie provenait finalement d'une autre source (May 3, 1979) -->
 			<date>October 31</date>
 			<place>Sanders Theater, Harvard University, Cambridge, MA, USA</place>
 			<event></event>
@@ -3110,7 +3163,8 @@
 			</with>
 			<comments>Kenneth K.: "Interestingly, my source only reports the trio playing. That could be a misprint or possibly Dewey didn't make the date because of conflicting schedules. It was not without precedent."</comments>
 		</concert>
-		<concert> <!-- Peter Elsdon / New York Times -->
+		<concert>
+			<!-- Peter Elsdon / New York Times -->
 			<date>November 26</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3119,7 +3173,8 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-		<concert> <!-- Peter Elsdon / New York Times -->
+		<concert>
+			<!-- Peter Elsdon / New York Times -->
 			<date>November 27</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3128,7 +3183,8 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-		<concert> <!-- Peter Elsdon / New York Times -->
+		<concert>
+			<!-- Peter Elsdon / New York Times -->
 			<date>November 28</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3137,7 +3193,8 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-		<concert> <!-- Peter Elsdon / New York Times -->
+		<concert>
+			<!-- Peter Elsdon / New York Times -->
 			<date>November 29</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3146,7 +3203,8 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-		<concert> <!-- Peter Elsdon / New York Times -->
+		<concert>
+			<!-- Peter Elsdon / New York Times -->
 			<date>November 30</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3155,7 +3213,8 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-		<concert> <!-- Peter Elsdon / New York Times -->
+		<concert>
+			<!-- Peter Elsdon / New York Times -->
 			<date>December 1</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3171,7 +3230,27 @@
 			<with solo="yes"/>
             <comments/>
 		</concert>
-		<concert> <!-- Richard Paske -->
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>December 20</date>
+			<place>Federal Court Building, St. Paul, MN, USA</place>
+			<with>
+				<name>St. Paul Chamber Orchestra</name>
+			</with>
+            <comments>Kenneth K.: "'An Open Confrontation with Keith Jarrett' - part of the St. Paul Chamber Orchestra 'Perspectives Series'."</comments>
+		</concert>
+
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>December 21</date>
+			<place>O'Shaughnessy Theatre, St Paul, MN, USA</place>
+			<with>
+				<name>Dennis Russell Davies</name>
+			</with>
+            <comments>Kenneth K.: "'In the Cave, In the Light'. '3/4, for Piano and Orchestra'.</comments>
+        </concert>
+		<concert>
+			<!-- Richard Paske -->
 			<date>December 22</date>
 			<place>Tyrone Guthrie Theater, Minneapolis, MN, USA</place>
 			<with>
@@ -3180,7 +3259,8 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-		<concert> <!-- johnsluggett@charter.net -->
+		<concert>
+			<!-- johnsluggett@charter.net -->
 			<date incomplete="yes">September-December (?)</date>
 			<place>Webster Grove, MO, USA</place>
 			<with>
@@ -3191,7 +3271,8 @@
 		</concert>
 	</group>
 	<group year="1975">
-		<concert> <!-- Stefan Diller -->
+		<concert>
+			<!-- Stefan Diller -->
 			<date>January 17</date>
 			<place>Kreis-Kulturraum, Kronach, Germany</place>
 			<with solo="yes"/>
@@ -3203,7 +3284,8 @@
 			<with solo="yes"/>
             <comments/>
 		</concert>
-		<concert> <!-- Sébastien Cicolella + Stephan Perthes -->
+		<concert>
+			<!-- Sébastien Cicolella + Stephan Perthes -->
 			<date>January 21</date>
 			<place>Audimax (Auditorium Maximum), Albert-Ludwigs-Universität Freiburg, Freiburg, Germany</place>
 			<with solo="yes"/>
@@ -3260,7 +3342,8 @@
 			<place>Théatre des Champs-Elysées, Paris, France</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Simon Savary for the correct date/hall -->
+		<concert>
+			<!-- Simon Savary for the correct date/hall -->
 			<date>February 13</date>
 			<place>Skinner Hall of Music, Vassar College, Poughkeepsie, NY, USA</place>
 			<with solo="yes"/>
@@ -3279,10 +3362,24 @@
             <comments/>
 		</concert>
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date incomplete="yes">March</date>
+			<place>Queen Elizabeth Playhouse, Vancouver, BC, Canada</place>
+			<with solo="yes"/>
+            <comments>Kenneth K.: "This was probably the weekend following his gig in LA."</comments>
+		</concert>
+		<concert>
 			<!-- Howard Courtney -->
 			<date>March 21</date>
 			<place>Convocation Hall, Toronto, ON, Canada</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>April 4</date>
+			<place>Flanagan Chapel, Lewis and Clark College, Portland, OR, USA</place>
+			<with solo="yes"/>
+            <comments/>
 		</concert>
 		<concert>
 			<!-- Peter Elsdon -->
@@ -3396,6 +3493,16 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 25 (?)</date>
+			<place>Amazingrace, Chicago, IL, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
 			<date>July 3</date>
 			<!-- Frederik Adlers + Wolfgang's Vault -->
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
@@ -3406,6 +3513,26 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Keith Jarrett played after Oregon and before Thelonius Monk.</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>September 27</date>
+			<place>Campus of Michigan St. University, East Lansing, MI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>September 30</date>
+			<place>Orpheum Theater, Madison (?), WI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
 		</concert>
 		<concert>
 			<!-- Peter Elsdon -->
@@ -3425,7 +3552,8 @@
 			</with>
 			<comments>"My notes show that the Keith Jarrett Quartet (Jarrett, Redman, Haden, Motian) played nonstop for one hour and twenty minutes, followed by one short encore. They didn't begin until 10:50 at night, because they were preceeded by two other groups -- Oregon (Towner, McCandless, Moore, and Wolcott) playing seven pieces over a 45-minute period, then the Gary Burton Quintet (Burton, Swallow, Moses, Metheny, and Goodrick) playing five pieces over a 40-minute period." (Chuck Hill)</comments>
 		</concert>
-		<concert> <!-- Don Quigley: scan du billet dans mail (https://mail.google.com/mail/#all/1267c7120dcbccfa) -->
+		<concert>
+			<!-- Don Quigley: scan du billet dans mail (https://mail.google.com/mail/#all/1267c7120dcbccfa) -->
 			<date>October 15</date>
 			<place>McCarter Theater, Princeton, NJ, USA</place>
 			<with>
@@ -3434,12 +3562,14 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-		<concert> <!-- Herbert Kohout -->
+		<concert>
+			<!-- Herbert Kohout -->
 			<date incomplete="yes">Autumn</date>
 			<place>Villingen-Schwenningen, Germany</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- stupidrule2001@yahoo.com -->
+		<concert>
+			<!-- stupidrule2001@yahoo.com -->
 			<date>December 7</date>
 			<place>Kennedy Center, Washington, DC, USA</place>
 			<with>
@@ -3449,7 +3579,8 @@
 			</with>
             <comments>"At the end, he complained about the management's time limit on his performance."</comments>
 		</concert>
-        <concert> <!-- stupidrule2001@yahoo.com -->
+        <concert>
+        	<!-- stupidrule2001@yahoo.com -->
 			<date>December 16 (?)</date>
 			<place>Kennedy Center, Washington, DC, USA</place>
 			<with solo="yes"/>
@@ -3457,6 +3588,16 @@
 		</concert>
 	</group>
 	<group year="1976">
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>January 14</date>
+			<place>Paramount Theatre, Oakland, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
 		<concert>
 			<!-- Jeffrey Utter <jlutter@yahoo.com> -->
 			<date>January 16</date>
@@ -3469,8 +3610,9 @@
 			<comments>From the UCSD archives: "Jazz pianist Keith Jarrett will perform in concert at the University of California, San Diego Friday, Jan. 16, at 8:30 p.m. in the UC San Diego Gym. (...) Tickets for the performance are $3 for UC San Diego students in advance and $4.50 for general admission. Tickets can be obtained at the UC San Diego Box Office on campus (452-4559) or through Ticketron agencies."</comments>
 		</concert>
 		<concert>
-			<date>February 14</date>
-			<place>Ann Arbor, MI, USA</place>
+			<!-- Kenneth Kubernik -->
+			<date>January 17</date>
+			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -3478,15 +3620,23 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra: no confirmation (wrong date?) -->
-			<date>February 17</date>
-			<place>Paris, France</place>
+			<date>February 14</date>
+			<place>Hill Auditorium, Ann Arbor, MI, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Wrong date?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>February 17</date>
+			<place>Performing Arts Center, Milwaukee, WI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
 		</concert>
         <concert>
 			<!-- Eric G. Postel (concert booked by him) -->
@@ -3497,6 +3647,29 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date incomplete="yes">February</date>
+			<place>Chicago, IL, USA</place>
+			<event>At The Top</event>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Kenneth K.: "A television broadcast of the Quartet from Chicago Public Television - a one-hour performance before a live audience in a studio in Chicago."</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date incomplete="yes">February (?)</date>
+			<place>New Orleans, LA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Kenneth K.: "Branford Marsalis talks about this show as a life changing experience."</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -3616,8 +3789,9 @@
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
-			</with> <!-- Comments by Peter Vaniterson -->
-            <comments>"They played 'The Survivors' Suite' and short parts from 'Eyes of the Heart'. It was recorded by Dutch radio and broadcast later on by Michiel de Ruyter."</comments>
+			</with>
+			<!-- Comments by Peter Vaniterson -->
+            <comments>Peter V.: "They played 'The Survivors' Suite' and short parts from 'Eyes of the Heart'. It was recorded by Dutch radio and broadcast later on by Michiel de Ruyter."</comments>
 		</concert>
 		<concert>
 			<!-- Sep Troelstra -->
@@ -3651,17 +3825,80 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-        <concert> <!-- OB: source = poster du concert -->
-			<date>June 15</date>
-			<place>Civic Auditorium, Portland, OR, USA</place>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 10</date>
+			<place>Paramount Theatre, Oakland, CA, USA</place>
 			<with>
-				<name instr="tenor and soprano saxophones">Jan Garbarek</name>
-				<name instr="bass">Charlie Haden</name>
-				<name instr="conductor">Paul Shure</name>
+				<name>Charlie Haden</name>
+				<name>Jan Garbarek</name>
+				<name>Paul Shure</name>
+				<name>26-piece string orchestra</name>
 			</with>
-            <comments></comments>
+			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
 		</concert>
-        <concert> <!-- Steve Lake-->
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 11</date>
+			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Jan Garbarek</name>
+				<name>Paul Shure</name>
+				<name>26-piece string orchestra</name>
+			</with>
+			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 13</date>
+			<place>Paramount Theatre, Seattle, WA, USA</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Jan Garbarek</name>
+				<name>Paul Shure</name>
+				<name>26-piece string orchestra</name>
+			</with>
+			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 14</date>
+			<place>Queen Elizabeth Theatre, Vancouver, BC, Canada</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Jan Garbarek</name>
+				<name>Paul Shure</name>
+				<name>26-piece string orchestra</name>
+			</with>
+			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 15</date>
+			<place>Paramount Theatre, Portland, OR, USA</place>
+			<with>
+				<name instr="bass">Charlie Haden</name>
+				<name instr="tenor and soprano saxophones">Jan Garbarek</name>
+				<name instr="conductor">Paul Shure</name>
+				<name instr="orchestra">26-piece string orchestra</name>
+			</with>
+			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting." Exact venue unknown (Paramount Theatre or Portland Civic Auditorium?).</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 16</date>
+			<place>Civic Theatre, San Diego, CA, USA</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Jan Garbarek</name>
+				<name>Paul Shure</name>
+				<name>26-piece string orchestra</name>
+			</with>
+			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
+		</concert>
+        <concert>
+        	<!-- Steve Lake-->
 			<date>June 26</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
 			<with>
@@ -3765,7 +4002,8 @@
 		</concert>
 	</group>
 	<group year="1977">
-		<concert> <!-- http://www.redrocksonline.com/pages/concerts/detail.asp?id=2072 -->
+		<concert>
+			<!-- http://www.redrocksonline.com/pages/concerts/detail.asp?id=2072 -->
 			<date>July 8</date>
 			<place>Red Rocks Amphitheatre, Morrison, CO, USA</place>
 			<with solo="yes"/>
@@ -3812,7 +4050,8 @@
 			<place>Stratford, ON, Canada</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Stefan Hochuli  -->
+		<concert>
+			<!-- Stefan Hochuli  -->
 			<date>October 12</date>
 			<place>Kongresshaus, Zürich, Switzerland</place>
 			<with>
@@ -3934,6 +4173,14 @@
 			<place>Tanglewood Music Shed, Lenox, MA, USA</place>
 			<with solo="yes"/>
 		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date incomplete="yes">August</date>
+			<place>Tunisia</place>
+			<event>Unknown music festival</event>
+			<with solo="yes"/>
+			<comments></comments>
+		</concert>
         <concert>
 			<date incomplete="yes">Summer</date>
 			<place>Berkeley, CA, USA</place>
@@ -3990,12 +4237,14 @@
 			<place>Pasadena Civic Auditorium, Pasadena, CA, USA</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Neil Allin Elphick -->
+		<concert>
+			<!-- Neil Allin Elphick -->
 			<date>November 17</date>
 			<place>Sydney Opera House, Sidney, Australia</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Neil Allin Elphick -->
+		<concert>
+			<!-- Neil Allin Elphick -->
 			<date>November 22</date>
 			<place>Sydney Opera House, Sidney, Australia</place>
 			<with solo="yes"/>
@@ -4148,7 +4397,8 @@
 			</with>
 			<comments>Tracks from two of the April 1979 concerts in Tokyo were included in <i>Personal Mountains</i></comments>
 		</concert>
-        <concert> <!-- Simon Savary: je l'avais reçu comme Part II [de October 31, 1974], mais aussi comme concert autonome avec cette date, d'où une certaine confusion sur l'authenticité de la date. -->
+        <concert>
+        	<!-- Simon Savary: je l'avais reçu comme Part II [de October 31, 1974], mais aussi comme concert autonome avec cette date, d'où une certaine confusion sur l'authenticité de la date. -->
 			<date>May 3 (?)</date>
 			<place>Boston, MA, USA</place>
 			<with solo="yes"/>
@@ -4243,6 +4493,12 @@
 			<place>Tanglewood Music Shed, Lenox, MA, USA</place>
 			<with solo="yes"/>
 		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 31</date>
+			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
+			<with solo="yes"/>
+		</concert>
 	</group>
 	<group year="1980">
 		<concert>
@@ -4260,31 +4516,39 @@
 			<place>Royal Festival Hall, London, UK</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Hans Månsson -->
+		<concert>
+			<!-- Hans Månsson -->
 			<date>April 15</date>
 			<place>Konserthuset, Stockholm, Sweden</place>
 			<with solo="yes"/>
 			<comments>Comments from Hans: "One of the memorable moments in the concert was the 'Everybody cough'-break in the midst of one of the tunes."</comments>
 		</concert>
-		<concert> <!-- Ulf Larsson -->
+		<concert>
+			<!-- Ulf Larsson -->
 			<date>April 19 (?)</date>
 			<place>Örebro konserthus, Örebro, Sweden</place>
 			<with solo="yes"/>
 		</concert>
-		<!-- David Gitin -->
 		<concert>
+			<!-- David Gitin -->
 			<date>May 22</date>
 			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
 			<with solo="yes"/>
 		</concert>
-		<!-- Simon Savary  -->
 		<concert>
+			<!-- Simon Savary  -->	
 			<date>September 7</date>
 			<place>Salle Louis-Fréchette, Grand Théâtre, Québec, QC, Canada</place>
 			<with solo="yes"/>
 		</concert>
-		<!-- jazzmanxxi -->
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 26</date>
+			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- jazzmanxxi -->
 			<date incomplete="yes">October (?)</date>
 			<place>Fine Arts Center, University Of Massachusetts, Amherst, MA, USA</place>
 			<with solo="yes"/>
@@ -4294,12 +4558,14 @@
 			<place>Place des Arts, Montréal, QC, Canada</place>
 			<with solo="yes"/>
 		</concert>
-        <concert> <!-- Simon Savary -->
+        <concert>
+        	<!-- Simon Savary -->
 			<date incomplete="yes"/>
 			<place>Koncertsalen i Tivoli, Copenhagen, Denmark</place>
 			<with solo="yes"/>
 		</concert>
-        <concert> <!-- Simon Savary -->
+        <concert>
+        	<!-- Simon Savary -->
 			<date incomplete="yes"/>
 			<place>Falkoner Teatret, Frederiksberg, Denmark</place>
 			<with solo="yes"/>
@@ -4369,7 +4635,9 @@
 			<place>Pavillon Baltard, Nogent-sur-Marne, France</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- André Voerman --> <!-- Review available in Word file in Gmail -->
+		<concert>
+			<!-- André Voerman -->
+			<!-- Review available in Word file in Gmail -->
 			<date>June 8</date>
 			<place>Palais des Beaux-Arts, Brussels, Belgium</place>
 			<with solo="yes"/>
@@ -4379,12 +4647,14 @@
 			<place>Palais des Sports Saint-Sauveur, Lille, France</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Miquel Romero -->
+		<concert>
+			<!-- Miquel Romero -->
 			<date>June 15</date>
 			<place>Palau de la Música Catalana, Barcelona, Spain</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Miguel Rovira -->
+		<concert>
+			<!-- Miguel Rovira -->
 			<date>June 17</date>
 			<place>Auditorium, Palma de Mallorca, Spain</place>
 			<with solo="yes"/>
@@ -4442,18 +4712,21 @@
 			<event>The Tomorrow Show</event>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Simon Savary -->
+		<concert>
+			<!-- Simon Savary -->
 			<date>December 11</date>
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with solo="yes"/>
 			<comments>Concert mentioned during "The Tomorrow Show" ("next Friday").</comments>
 		</concert>
-		<concert> <!-- Seth Melchert -->
+		<concert>
+			<!-- Seth Melchert -->
 			<date incomplete="yes">Autumn</date>
 			<place>Marin Civic Center, San Rafael, CA, USA</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- jazzinreds@yahoo.co.uk -->
+		<concert>
+			<!-- jazzinreds@yahoo.co.uk -->
 			<date incomplete="yes"/>
 			<place>National Concert Hall, Dublin, Ireland</place>
 			<with solo="yes"/>
@@ -4476,38 +4749,39 @@
 			<place>Sydney, Australia</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Neil Allin Elphick: March -->
+		<concert>
+			<!-- Neil Allin Elphick: March -->
 			<date incomplete="yes">March</date>
 			<place>Wellington, New Zealand</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Neil Allin Elphick: March -->
+		<concert>
+			<!-- Neil Allin Elphick: March -->
 			<date incomplete="yes">March</date>
 			<place>Auckland, New Zealand</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Neil Allin Elphick: March -->
+		<concert>
+			<!-- Neil Allin Elphick: March -->
 			<date incomplete="yes">March</date>
 			<place>Christchurch, New Zealand</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Seth Melchert -->
+		<concert>
+			<!-- Seth Melchert -->
 			<date incomplete="yes">April</date>
 			<place>War Memorial Opera House, San Francisco, CA, USA</place>
 			<with solo="yes"/>
 			<comments>Keith Jarrett read several poems from Rumi.</comments>
 		</concert>
 		<concert>
-			<date>May 23</date>
-			<place>Universal Studios, Los Angeles, CA, USA</place>
-			<with solo="yes"/>
-		</concert>
-		<concert> <!-- Seth Melchert -->
+			<!-- Seth Melchert -->
+			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">August</date>
-			<place>Aptos, CA, USA</place>
+			<place>Cabrillo College, Aptos, CA, USA</place>
 			<event>Cabrillo Festival of Contemporary Music</event>
 			<with solo="yes"/>
-			<comments>Keith Jarrett played the Stravinsky Piano Concerto. He also played piano for John Cage's "Dance/4 Orchestras" along with Dennis Russell Davies.</comments>
+			<comments>Seth M.: "Keith Jarrett played the Stravinsky Piano Concerto. He also played piano for John Cage's 'Dance/4 Orchestras' along with Dennis Russell Davies." Kenneth K.: "Peggy Glanville-Hicks 'Etruscan Concerto' KJ soloist."</comments>
 		</concert>
 		<concert>
 			<date>October 23</date>
@@ -4559,23 +4833,27 @@
 			<place>Festival Hall, Osaka, Japan</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Bob Carroll -->
+		<concert>
+			<!-- Bob Carroll -->
 			<date>November 2</date>
 			<place>Barbican Hall, London, UK</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Bob Carroll -->
+		<concert>
+			<!-- Bob Carroll -->
 			<date>November 4</date>
 			<place>National Concert Hall, Dublin, Ireland</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Bob Carroll + Mark Whidby (comments) + David Walker (anecdote) -->
+		<concert>
+			<!-- Bob Carroll + Mark Whidby (comments) + David Walker (anecdote) -->
 			<date>November 6</date>
 			<place>Free Trade Hall, Manchester, UK</place>
 			<with solo="yes"/>
 			<comments>The concert was interrupted because of someone taking photographs. Comments from David: "It was a cold rainy Manchester evening, a sparse audience, some jaw dropping solos, but the evening was sadly remembered mostly for an extremely insensitive photographer on the balcony (during a particlarly sensitive section of a solo) blasting off a sequence of images on a motordrive, and Keith just slamming his hands on the keyboard marching over to the man and saying, 'Do you realise what it takes for me to build up to preparing for this piece of work and then to perform it?' He then told him to get out of the theatre, which to his credit he did."</comments>
 		</concert>
-		<concert> <!-- Bob Carroll -->
+		<concert>
+			<!-- Bob Carroll -->
 			<date>November 7</date>
 			<place>Usher Hall, Edinburgh, UK</place>
 			<with solo="yes"/>
@@ -4585,12 +4863,14 @@
 			<place>Orchestra Hall, Minneapolis, MN, USA</place>
 			<with solo="yes"/>
 		</concert>
-        <concert> <!-- Simon Savary -->
+        <concert>
+        	<!-- Simon Savary -->
 			<date>December 11</date>
 			<place>Dorothy Chandler Pavillion, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Tom Keramidas -->
+		<concert>
+			<!-- Tom Keramidas -->
 			<date incomplete="yes"></date>
 			<place>Pick-Staiger Concert Hall, Northwestern University, Evanston, IL, USA</place>
 			<with solo="yes"/>
@@ -4605,12 +4885,20 @@
 			<with solo="yes"/>
             <comments>From Mike: "He played 'Somewhere Over The Rainbow' (maybe as a second encore). I remember during what was probably the first encore, where he did a bluesy vamp, the audience started clapping along and, after a while, he stopped playing, clapped along a bit and then said that 'What you are hearing out there is not the same thing as what I am hearing up here.' That got them quiet..."</comments>
 		</concert>
-		<concert> <!-- Jazz Magazine -->
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>May 23</date>
+			<place>Universal Amphitheatre, Los Angeles, CA, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Jazz Magazine -->
 			<date>July 4</date>
 			<place>Palais des Congrès, Paris, France</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Jazz Magazine -->
+		<concert>
+			<!-- Jazz Magazine -->
 			<date>July 8</date>
 			<place>Arènes, Nîmes, France</place>
 			<with solo="yes"/>
@@ -4620,7 +4908,8 @@
 			<place>Bologna, Italy</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Jazz Magazine -->
+		<concert>
+			<!-- Jazz Magazine -->
 			<date>July 12</date>
 			<place>Pinède Gould, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
@@ -4692,23 +4981,34 @@
 			<event></event>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- André Voerman --> <!-- cf Review in Word file in Gmail -->
+		<concert>
+			<!-- André Voerman -->
+			<!-- cf Review in Word file in Gmail -->
 			<date>October 23</date>
 			<place>Concertgebouw, Amsterdam, Netherlands</place>
 			<event></event>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Doug Nordfors -->
+		<concert>
+			<!-- Doug Nordfors -->
 			<date>December 3</date>
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>December 3 (?)</date>
+			<place>Louise M. Davies Symphony Hall, San Francisco, CA, USA</place>
+			<with solo="yes"/>
+			<comments>Kenneth K.: "Stravinsky Piano Concerto". Date conflict with New York concert above.</comments>
 		</concert>
 		<concert>
 			<date>December 7</date>
 			<place>Symphony Hall, Boston, MA, USA</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Seth Melchert -->
+		<concert>
+			<!-- Seth Melchert -->
 			<date incomplete="yes"></date>
 			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
 			<with solo="yes"/>
@@ -4778,18 +5078,66 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>August 24</date>
+			<place>Cabrillo College, Aptos, CA, USA</place>
+			<event>Cabrillo Festival of Contemporary Music</event>
+			<with>
+				<name>Unknown conductor</name>
+				<name>Unknown orchestra</name>
+			</with>
+			<comments>Kenneth K.: "Mozart Piano Concerto K488."</comments>
+		</concert>
+		<concert>
 			<date>October 8</date>
 			<place>Konserthuset, Stockholm, Sweden</place>
 			<with solo="yes"/>
 			<comments>The following works were played: Domenico Scarlatti: Sonata f-minor K 481, Domenico Scarlatti: Sonata D-major K534, Johann Sebastian Bach: French Suite No. 5 G-major BWV 816, Carl Philipp Emanuel Bach: Würtemberg-Sonata No. 1 a-minor, Ludwig van Beethoven: Sonata No. 8 c-minor op. 13 "Pathétique", and Dmitri Shostakovich: Prelude and Fugue e-minor op. 87:4 from 24 Preludes and Fugues op 87.</comments>
 		</concert>
-        <concert> <!-- Simon Savary: réf.: le frère d'un collègue d'un contact y a assisté en tant qu'étudiant. On essaie d'accéder aux archives pour avoir les concerts. J'ai seulement l'entrevue. -->
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 20</date>
+			<place>Louise M. Davies Symphony Hall, San Francisco, CA, USA</place>
+			<with solo="yes"/>
+			<comments>Kenneth K.: "Same program as Stockholm."</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 21</date>
+			<place>Dorothy Chandler Pavilion, Los Angeles, CA, USA</place>
+			<with solo="yes"/>
+			<comments>Kenneth K.: "Same program as Stockholm."</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 23 (?)</date>
+			<place>Orchestra Hall, Minneapolis, MN, USA</place>
+			<with solo="yes"/>
+			<comments>Kenneth K.: "Same program as Stockholm."</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 25 (?)</date>
+			<place>Symphony Hall, Boston, MA, USA</place>
+			<with solo="yes"/>
+			<comments>Kenneth K.: "Same program as Stockholm."</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 26 (?)</date>
+			<place>Kennedy Center, Washington, DC, USA</place>
+			<with solo="yes"/>
+			<comments>Kenneth K.: "Same program as Stockholm."</comments>
+		</concert>
+        <concert>
+        	<!-- Simon Savary: réf.: le frère d'un collègue d'un contact y a assisté en tant qu'étudiant. On essaie d'accéder aux archives pour avoir les concerts. J'ai seulement l'entrevue. -->
 			<date incomplete="yes">November</date>
 			<place>Eastman School of Music, Rochester, New York, NY, USA</place>
 			<with solo="yes"/>
             <comments>Solo concert, Q&amp;A interview with students, and Bartok recital.</comments>
 		</concert>
-		<concert> <!-- Nick Hoorweg -->
+		<concert>
+			<!-- Nick Hoorweg -->
 			<date>December 18</date>
 			<place>Massey Hall, Toronto, ON, Canada</place>
 			<with>
@@ -4797,7 +5145,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-		<concert> <!-- Anthony John Ollevou -->
+		<concert>
+			<!-- Anthony John Ollevou -->
 			<date incomplete="yes"/>
 			<place>Sidney, Australia</place>
 			<with/>
@@ -4946,7 +5295,8 @@
 			</with>
 			<comments/>
 		</concert>
-        <concert> <!-- Simon Savary -->
+        <concert>
+        	<!-- Simon Savary -->
 			<date>March 8-24 (?)</date>
 			<place>Toronto, Canada</place>
             <event>Bach 300 Festival</event>
@@ -4976,7 +5326,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-		<concert> <!-- Not listed in 1991 Japanese tour book -->
+		<concert>
+			<!-- Not listed in 1991 Japanese tour book -->
 			<date>July 4</date>
 			<place>Rocca Brancaleone, Ravenna, Italy</place>
 			<with>
@@ -5026,7 +5377,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-		<concert> <!-- Not listed in 1991 Japanese tour book -->
+		<concert>
+			<!-- Not listed in 1991 Japanese tour book -->
 			<date>July 18</date>
 			<place>San Sebastian, Spain</place>
 			<event>San Sebastian Jazz Festival</event>
@@ -5221,7 +5573,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-		<concert> <!-- Lello Gnesutta: Teatro Romano, not Arena! -->
+		<concert>
+			<!-- Lello Gnesutta: Teatro Romano, not Arena! -->
 			<date>July 1</date>
 			<place>Teatro Romano, Verona, Italy</place>
 			<with>
@@ -5279,7 +5632,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert> <!-- Aziz Susam: photo billet: https://mail.google.com/mail/#all/1267bc5b469b7ff4, "Spor ve Sergi Sarayi" means "Sports And Exhibition Palace" -->
+        <concert>
+        	<!-- Aziz Susam: photo billet: https://mail.google.com/mail/#all/1267bc5b469b7ff4, "Spor ve Sergi Sarayi" means "Sports And Exhibition Palace" -->
 			<date>July 16</date>
 			<place>Spor ve Sergi Sarayi, Istanbul, Turkey</place>
 			<event>Istanbul International Jazz Festival</event>
@@ -5288,7 +5642,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-		<concert> <!-- Gabriel Pérez -->
+		<concert>
+			<!-- Gabriel Pérez -->
 			<date>July 18</date>
 			<place>Vitoria-Gasteiz, Spain</place>
 			<event>Vitoria Jazz Festival</event>
@@ -5338,6 +5693,17 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>August 3</date>
+			<place>Cabrillo College, Aptos, CA, USA</place>
+			<event>Cabrillo Festival of Contemporary Music</event>
+			<with>
+				<name>Dennis Russell Davies</name>
+				<name>Unknown orchestra</name>
+			</with>
+			<comments>Kenneth K.: "Lou Harrison Piano Concerto/Dennis Russell Davies conducting."</comments>
 		</concert>
         <concert>
 			<date>August 27</date>
@@ -5541,7 +5907,8 @@
 			</with>
 			<comments>Only one tune was included on the album.</comments>
 		</concert>
-		<concert> <!-- Listed as October 13 in Japanese 1991 tour book -->
+		<concert>
+			<!-- Listed as October 13 in Japanese 1991 tour book -->
 			<date>October 12</date>
 			<place>Wortham Center, Houston, TX, USA</place>
 			<release>Changeless</release>
@@ -5617,7 +5984,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-		<concert> <!-- No such concert according to Japanese 1991 tour book -->
+		<concert>
+			<!-- No such concert according to Japanese 1991 tour book -->
 			<date incomplete="yes">October</date>
 			<place>New Orleans, LA, USA</place>
 			<with>
@@ -5634,7 +6002,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-		<concert> <!-- No such concert according to Japanese 1991 tour book -->
+		<concert>
+			<!-- No such concert according to Japanese 1991 tour book -->
 			<date>November 1</date>
 			<place>Ann Arbor, MI, USA</place>
 			<with>
@@ -5735,7 +6104,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-		<concert> <!-- Aziz Susam: photo billet: https://mail.google.com/mail/#all/1267bc6fd7cb9ccd, Atatürk Kültür Merkezi = Ataturk Cultural Center -->
+		<concert>
+			<!-- Aziz Susam: photo billet: https://mail.google.com/mail/#all/1267bc6fd7cb9ccd, Atatürk Kültür Merkezi = Ataturk Cultural Center -->
 			<date>June 16</date>
 			<place>Atatürk Kültür Merkezi, Istanbul, Turkey</place>
 			<event>Istanbul International Jazz Festival</event>
@@ -5747,7 +6117,8 @@
 			<with solo="yes"/>
 			<comments>Concert in memory of Italo Calvino.</comments>
 		</concert>
-        <concert> <!-- Simon Savary -->
+        <concert>
+        	<!-- Simon Savary -->
 			<date>September 14-18 (?)</date>
 			<place>St. Paul, MN, USA</place>
 			<with>
@@ -5762,7 +6133,8 @@
 			<release>Paris Concert</release>
 			<with solo="yes"/>
 		</concert>
-        <concert> <!-- Simon Savary -->
+        <concert>
+        	<!-- Simon Savary -->
 			<date>October 22</date>
 			<place>Brussels, Belgium</place>
 			<with solo="yes"/>
@@ -5825,7 +6197,8 @@
 			<place>Teatro Comunale, Florence, Italy</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Simon Savary -->
+		<concert>
+			<!-- Simon Savary -->
 			<date incomplete="yes">April/May</date>
 			<place>Chile</place>
             <with>
@@ -5880,7 +6253,8 @@
 			<with solo="yes"/>
 			<comments>Keith played mostly standards.</comments>
 		</concert>
-		<concert> <!-- Christian Kühnke -->
+		<concert>
+			<!-- Christian Kühnke -->
 			<date>July 27 or 28</date>
 			<place>Uelzen, Germany</place>
 			<event>Musikland Niedersachsen</event>
@@ -6259,6 +6633,16 @@
 			</with>
 		</concert>
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date incomplete="yes">June</date>
+			<place>Charleston, SC, USA</place>
+			<event>Piccolo Spoleto Festival</event>
+			<with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
 			<date>July 11</date>
 			<place>Royal Festival Hall, London, UK</place>
 			<with solo="yes"/>
@@ -6276,22 +6660,22 @@
 			<with solo="yes"/>
 			<comments>Keith played mostly standards.</comments>
 		</concert>
-		<!-- Klaus Lipinski -->
 		<concert>
+			<!-- Klaus Lipinski -->
 			<date>October 21</date>
 			<place>Beethovenhalle, Bonn, Germany</place>
 			<with/>
 			<comments>Keith played a Mozart concerto, KV 467. The orchestra, conducted by Dennis Russel-Davies, also played "Bridge of Light for Viola and Orchestra" and Stravinsky compositions (?).</comments>
 		</concert>
-		<!-- Klaus Lipinski -->
 		<concert>
+			<!-- Klaus Lipinski -->
 			<date>October 27 (?)</date>
 			<place>Cologne, Germany</place>
 			<with/>
 			<comments>Same program as on October 21.</comments>
 		</concert>
-		<!-- Klaus Lipinski -->
 		<concert>
+			<!-- Klaus Lipinski -->
 			<date incomplete="yes">October</date>
 			<place>Beethoven-Haus, Bonn, Germany</place>
 			<with/>
@@ -6371,12 +6755,14 @@
 			<release>Salle Pleyel Paris 1992 - Inédits</release>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Aurelio López -->
+		<concert>
+			<!-- Aurelio López -->
 			<date>November 21</date>
 			<place>Palacio de Bellas Artes, Mexico City, Mexico</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Aurelio López -->
+		<concert>
+			<!-- Aurelio López -->
 			<date>November 22</date>
 			<place>Sala Nezahualcóyotl, Mexico City, Mexico</place>
 			<with solo="yes"/>
@@ -6390,7 +6776,8 @@
 	</group>
 	<group year="1993">
 		<concert>
-			<date>February 20</date> <!-- Arno Jacobs -->
+			<!-- Arno Jacobs -->
+			<date>February 20</date>
 			<place>Concertgebouw, Amsterdam, Netherlands</place>
 			<with solo="yes"/>
 			<comments>"The concert started just before 21:00. He played one major piece. It was about 45 minutes of improvisation. After the break, he played another major piece. It was about 30 minutes of improvisation. He played two encores. The first was the standard 'Over the Rainbow'. The second was a few-minute blues." (Arno Jacobs)</comments>
@@ -6399,7 +6786,8 @@
 	3- Audience Noise (Mondharmonica Scene): 2:03 (He tries to play I. Wish I. Knew but it's being interrupted two times.There is something like an organ sound at the last second) -->
 		</concert>
 		<concert>
-			<date>February 23</date> <!-- Arnulf Müller -->
+			<!-- Arnulf Müller -->
+			<date>February 23</date>
 			<place>Stockholm, Sweden</place>
 			<with solo="yes"/>
 		</concert>
@@ -6471,7 +6859,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-		<concert> <!-- Aziz Susam: I got the information from the site of a daily Turkish newspaper called Milliyet.  http://gazetearsivi.milliyet.com.tr/  I can't send a direct link because you have to sign up to see the past archive of the newspaper. -->
+		<concert>
+			<!-- Aziz Susam: I got the information from the site of a daily Turkish newspaper called Milliyet. http://gazetearsivi.milliyet.com.tr/ I can't send a direct link because you have to sign up to see the past archive of the newspaper. -->
 			<date>October 31</date>
 			<place>Cemal Resit Rey Concert Hall, Istanbul, Turkey</place>
 			<with solo="yes"/>
@@ -6526,14 +6915,22 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-		<concert> <!-- Andy (awsphil@aol.com) -->
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 24</date>
+			<place>Louise M. Davies Symphony Hall, San Francisco, CA, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Andy (awsphil@aol.com) -->
 			<date incomplete="yes">July-August</date>
 			<place>Hult Center, Eugene, OR, USA</place>
 			<event>Oregon Bach Festival</event>
 			<with solo="yes"/>
 			<comments>"Arvo Pärt was the guest composer that year."</comments>
 		</concert>
-		<concert> <!-- Bernhard Maag - PDF about the concert sent by email -->
+		<concert>
+			<!-- Bernhard Maag - PDF about the concert sent by email -->
 			<date>November 24</date>
 			<place>Opernhaus, Zürich, Switzerland</place>
 			<with solo="yes"/>
@@ -6563,7 +6960,8 @@
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with solo="yes"/>
 		</concert>
-		<concert> <!-- Andy (awsphil@aol.com) -->
+		<concert>
+			<!-- Andy (awsphil@aol.com) -->
 			<date incomplete="yes">April-May</date>
 			<place>Symphony Center, Chicago, IL, USA</place>
 			<with solo="yes"/>
@@ -6789,7 +7187,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert> <!-- Aziz Susam: correct date + venue -->
+        <concert>
+        	<!-- Aziz Susam: correct date + venue -->
 			<date>July 15</date>
 			<place>Cemil Topuzlu Open Air Theater, Istanbul, Turkey</place>
 			<event>International Istanbul Jazz Festival</event>
@@ -8308,7 +8707,8 @@ not completely sure about the order of 3,4,5 and i think he played another song 
             <event></event>
 			<with solo="yes"/>
 		</concert>
-        <concert> <!-- Franck Bichot -->
+        <concert>
+        	<!-- Franck Bichot -->
 			<date>November 16</date>
 			<place>Paris, France</place>
             <event></event>
