@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 4, 2013">
+<concerts modified="May 6, 2013">
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -9164,5 +9164,14 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<time>7:30 PM</time>
 			<with solo="yes"/>
 		</concert>
+		<concert>
+            <date>May 6</date>
+            <place>Bunkamura, Tokyo, Japan</place>
+            <time>7 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
 	</group>
 </concerts>
