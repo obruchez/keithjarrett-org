@@ -12,11 +12,11 @@
      TODO: change XML comments into XML elements
      TODO: add first name and initial of last name in front of quotations (in comments)
 
-      Thanks to: Bart Bartók, Matthias Bohlen, Peter Eldson, Maurizio Garbolino, Kenneth Kubernik, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Stephan Perthes, Tóth Péter, Richard Purschwitz, Simon Savary, Pat Sigler, Christian Teichert (= Flambay)
+      Thanks to: Bart Bartók, Matthias Bohlen, Peter Eldson, Maurizio Garbolino, Bill Groeneveld, Kenneth Kubernik, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Stephan Perthes, Tóth Péter, Richard Purschwitz, Simon Savary, Pat Sigler, Christian Teichert (= Flambay)
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 6, 2013">
+<concerts modified="May 10, 2013">
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -3999,6 +3999,13 @@
 			<place>Hokkaido Kosei Nenkin Hall, Sapporo, Japan</place>
 			<release>Sun Bear Concerts</release>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Bill Groeneveld -->
+			<date incomplete="yes">December</date>
+			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
+			<with solo="yes"/>
+			<comments/>
 		</concert>
 	</group>
 	<group year="1977">
