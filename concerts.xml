@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 10, 2013">
+<concerts modified="June 6, 2013">
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -9174,6 +9174,42 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 		<concert>
             <date>May 6</date>
             <place>Bunkamura, Tokyo, Japan</place>
+            <time>7 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>May 9</date>
+            <place>Bunkamura, Tokyo, Japan</place>
+            <time>7 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>May 12</date>
+            <place>Festival Hall, Osaka, Japan</place>
+            <time>7 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>May 15</date>
+            <place>Bunkamura, Tokyo, Japan</place>
+            <time>7 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>May 19</date>
+            <place>Sejong Center, Seoul, South Korea</place>
             <time>7 PM</time>
             <with>
 				<name>Gary Peacock</name>
