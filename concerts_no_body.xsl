@@ -52,7 +52,7 @@
         </ul>
         </p>
 
-        <p>You can also download the discography by Maurizio Garbolino (May 4, 2013 version): <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-apr1.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-apr1.doc">Word</a>.</p>
+        <p>You can also download the discography by Maurizio Garbolino (July 13, 2013 version): <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-MAGGIO.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-MAGGIO.doc">Word</a>.</p>
 
         <p>Last update: <xsl:value-of select="@modified"/>.</p>
         <p>Number of entries: <xsl:value-of select="count(descendant::concert)"/>.</p>
