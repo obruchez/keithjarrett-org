@@ -47,12 +47,13 @@
             <li>High School Auditorium, Santa Barbara, CA, USA, late 1974 or early to mid-1975 (solo concert)</li> <!-- John Marshall -->
             <li>Royal Festival Hall, London, UK, around 1979 (solo concert) (same as the March 29, 1980 concert?)</li>
             <li>Providence Performing Arts Center, Providence, RI, USA, around 1980 (solo concert)</li>
+            <li>Orchestra Hall, Chicago, IL, USA, in 1982 or 1983</li> <!-- Richard Roehl: "Somebody shouted out something about Koln and he said "now people want my colon" and everybody laughed." -->
             <li>Hungary, in the middle of the 80s (maybe in 1985-86) (solo concert)</li>
             <li>Village Vanguard, New York, NY, USA, 1986-87 (with Gary Peacock and Jack DeJohnette; they played for a whole week)</li>
         </ul>
         </p>
 
-        <p>You can also download the discography by Maurizio Garbolino (October 3, 2013 version): <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-ottobre.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-ottobre.doc">Word</a>.</p>
+        <p>You can also download the discography by Maurizio Garbolino (November 22, 2013 version): <a href="http://www.keithjarrett.org/wp-content/uploads/Keith_Jarrett_Discography_2013-11-22.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/Keith_Jarrett_Discography_2013-11-22.doc">Word</a>.</p>
 
         <p>Last update: <xsl:value-of select="@modified"/>.</p>
         <p>Number of entries: <xsl:value-of select="count(descendant::concert)"/>.</p>

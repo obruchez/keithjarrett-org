@@ -12,11 +12,11 @@
      TODO: change XML comments into XML elements
      TODO: add first name and initial of last name in front of quotations (in comments)
 
-      Thanks to: Bart Bartók, Matthias Bohlen, Peter Eldson, Maurizio Garbolino, Bill Groeneveld, Kenneth Kubernik, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Stephan Perthes, Tóth Péter, Richard Purschwitz, Simon Savary, Pat Sigler, Christian Teichert (= Flambay)
+      Thanks to: Bart Bartók, Matthias Bohlen, Stewart Carolan, Peter Eldson, Maurizio Garbolino, Bill Groeneveld, Kenneth Kubernik, David Jordan, Jacques D. Levy, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, Christian Teichert (= Flambay), Robert Wood
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 6, 2013">
+<concerts modified="January 24, 2014">
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -1145,14 +1145,14 @@
 			<comments>Keith Jarrett played for about two weeks, although not every night. What's certain is that he played on November 12 and November 13. He probably played two 50-minute sets per night. One night, Aldo Romano couldn't make it. Charles Bellonzi, a French drummer, wanted to play with Keith Jarrett, but he refused.</comments>
 		</concert>
 		<concert>
-			<!-- Vincent Lespagnol -->
+			<!-- Vincent Lespagnol + Jacques D. Levy -->
 			<date>November 3</date>
 			<place>Le Caméléon, Paris, France</place>
 			<with>
 				<name>Dave Holland</name>
 				<name>Jack DeJohnnette</name>
 			</with>
-			<comments>This is the night when Miles Davis, his wife, Dave Holland, and Jack DeJohnette came to listen to Keith Jarrett after their concert at the Salle Pleyel. Keith Jarrett jammed with Dave Holland and Jack DeJohnette. He probably played a regular concert with Aldo Romano and Jean-François Jenny-Clark before (not confirmed).</comments>
+			<comments>This is the night when Miles Davis, his wife, Dave Holland, and Jack DeJohnette came to listen to Keith Jarrett after their concert at the Salle Pleyel. Keith Jarrett jammed with Dave Holland and Jack DeJohnette. He probably played a regular concert with Aldo Romano and Jean-François Jenny-Clark before (not confirmed). Jacques L.: "Le soir du 3 novembre 1969, Keith Jarrett a joué 2 sets au Caméléon et il était seul en tout cas au 2ème set, c'est certain. Et c'est entre les deux sets qu'il a parlé avec Miles Davis dans le couloir près du vestiaire. Il était adossé au mur et Miles lui parlait la main droite appuyée au mur au-dessus de son épaule. C'était sur un piano droit pas très neuf et j'ai tenu cette poignée pendant tout le concert... Je crois que je la tiens encore !"</comments>
 		</concert>
 		<concert>
 			<!-- Vincent Lespagnol -->
@@ -1466,7 +1466,7 @@
 			<place>Stony Brook University, Stony Brook, NY, USA</place>
 			<with>
 				<name instr="trumpet">Miles Davis</name>
-				<name instr="soprano saxophone">Steve Grossman</name>
+				<name instr="soprano saxophone">Gary Bartz (?)</name>
 				<name instr="electric piano">Chick Corea</name>
 				<name instr="bass, electric bass">Dave Holland</name>
 				<name instr="drums">Jack DeJohnette</name>
@@ -1479,7 +1479,7 @@
 			<release>Spanish Key</release>
 			<with>
 				<name>Miles Davis</name>
-				<name>Steve Grossman</name>
+				<name>Gary Bartz</name>
 				<name>Chick Corea</name>
 				<name>Dave Holland</name>
 				<name>Jack DeJohnette</name>
@@ -1495,7 +1495,7 @@
 			<release>The First Great Rock Festivals of the Seventies: Isle of Wight</release>
 			<with>
 				<name>Miles Davis</name>
-				<name>Steve Grossman</name>
+				<name>Gary Bartz</name>
 				<name>Chick Corea</name>
 				<name>Dave Holland</name>
 				<name>Jack DeJohnette</name>
@@ -3007,7 +3007,14 @@
 		</concert>
 		<concert>
 			<date>July 29</date>
-			<place>Perugia, Italy</place>
+			<place>Piazza della Fontana Maggiore, Perugia, Italy</place>
+			<event>Umbria Jazz Festival</event>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Arnulf Müller -->
+			<date>July 31</date>
+			<place>Villalago, Italy</place>
 			<event>Umbria Jazz Festival</event>
 			<with solo="yes"/>
 		</concert>
@@ -3278,11 +3285,11 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon -->
+			<!-- Peter Elsdon + Arnulf Müller (exact venue) -->
 			<date>January 20</date>
-			<place>Villingen, Germany</place>
+			<place>Theater am Ring, Villingen, Germany</place>
 			<with solo="yes"/>
-            <comments/>
+            <comments>Concert mentioned in <a href="http://www.suedkurier.de/nachrichten/kultur/themensk/8222-VS-swingt-8220-Organisator-Fritz-Ewald-blickt-zurueck;art410935,6292677">"VS swingt-Organisator Fritz Ewald blickt zurück"</a></comments>
 		</concert>
 		<concert>
 			<!-- Sébastien Cicolella + Stephan Perthes -->
@@ -3535,11 +3542,36 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon -->
+			<!-- Kenneth Kubernik -->
+			<date>October 2</date>
+			<place>Michigan State University, East Lansing, MI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 3</date>
+			<place>Michigan State University, East Lansing, MI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Workshop.</comments>
+		</concert>
+		<concert>
+			<!-- Peter Elsdon + David Jordan -->
 			<date>October 4</date>
 			<place>Iowa Memorial Union, University of Iowa, Iowa City, IA, USA</place>
-			<with solo="yes"/>
-            <comments>Solo or quartet concert?</comments>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>David J.: "He lectured the audience about applauding after solos, or actually asked them why they did it, was it a good solo or were they just acknowledging that they knew it was a solo? Coughing came up too. Group cough, college students coughing just to see how mad he would get, after a long tirade and a long silence (where he said he would continue when all the wise guys quit coughing). Dewey Redman stepped up to the mic and coughed. I recall material from Treasure Island or Yahwuh, but not sure."</comments>
 		</concert>
 		<concert>
 			<!-- jazzmanxxi + Chuck Hill -->
@@ -3550,7 +3582,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>"My notes show that the Keith Jarrett Quartet (Jarrett, Redman, Haden, Motian) played nonstop for one hour and twenty minutes, followed by one short encore. They didn't begin until 10:50 at night, because they were preceeded by two other groups -- Oregon (Towner, McCandless, Moore, and Wolcott) playing seven pieces over a 45-minute period, then the Gary Burton Quintet (Burton, Swallow, Moses, Metheny, and Goodrick) playing five pieces over a 40-minute period." (Chuck Hill)</comments>
+			<comments>Chuck H.: "My notes show that the Keith Jarrett Quartet (Jarrett, Redman, Haden, Motian) played nonstop for one hour and twenty minutes, followed by one short encore. They didn't begin until 10:50 at night, because they were preceeded by two other groups -- Oregon (Towner, McCandless, Moore, and Wolcott) playing seven pieces over a 45-minute period, then the Gary Burton Quintet (Burton, Swallow, Moses, Metheny, and Goodrick) playing five pieces over a 40-minute period."</comments>
 		</concert>
 		<concert>
 			<!-- Don Quigley: scan du billet dans mail (https://mail.google.com/mail/#all/1267c7120dcbccfa) -->
@@ -3670,6 +3702,17 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "Branford Marsalis talks about this show as a life changing experience."</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 8</date>
+			<place>Music Hall Center for the Performing Arts, Detroit, MI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments></comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -3923,17 +3966,6 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra: no confirmation (wrong date?) -->
-			<date>September 7</date>
-			<place>Paris, France</place>
-			<with>
-				<name>Dewey Redman</name>
-				<name>Charlie Haden</name>
-				<name>Paul Motian</name>
-			</with>
-			<comments>Wrong date?</comments>
-		</concert>
-		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>September 9</date>
 			<place>Arlington Theater, Santa Barbara, CA, USA</place>
@@ -3943,12 +3975,12 @@
 		<concert>
 			<date>September 18</date>
 			<place>Frankfurt, Germany</place>
+			<event>Jazzfestival Frankfurt</event>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
-			<comments>Wrong date?</comments>
 		</concert>
 		<concert>
 			<date>October 23</date>
@@ -4131,7 +4163,7 @@
 		</concert>
 		<concert>
 			<date>November 14</date>
-			<place>Minneapolis, MN, USA</place>
+			<place>Northrop Auditorium, Minneapolis, MN, USA</place>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
@@ -4266,6 +4298,13 @@
 			<date incomplete="yes"/>
 			<place>Theatre Royal, Dury Lane, London, UK</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Victor Pugatschew -->
+			<date incomplete="yes"/>
+			<place>Adelaide, Autralia</place>
+			<with solo="yes"/>
+			<comments>Victor P.: "He walked out - played half the concert. Intermission - walked back on - played the other half. Walked off - it was fantastic." Year is uncertain.</comments>
 		</concert>
 	</group>
 	<group year="1979">
@@ -5085,6 +5124,29 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<!-- Arnulf Müller --> 
+			<date>June 1</date>
+			<place>Funkhaus Halberg, Saarbrücken, Germany</place>
+			<event>Musik des 20. Jahrhunderts</event>
+			<with>
+				<name instr="violin">Joachim Schall</name>
+				<name instr="orchestra">Rundfunk Sinfonieorchester Saarbrücken</name>
+				<name instr="director">Dennis Russel Davis</name>
+			</with>
+			<comments>Pieces played: "Suite für Solo Violine, Solo Klavier und kleines Orchester" (Lou Harrison) and "Konzert für Klavier mit Bläseroktettbegleitung" (Colin McPhee). Joachim Schall played durting the Lou Harrison piece only. Incomplete information about the concert (excerpt from Google cache): "Bei zwei Konzerten erlebte das Festival einen bisher ungekannten Ansturm. Dirigent Dennis Russel Davis hatte nicht nur seine komponierenden Freunde Lou Harrison und William Bolcom eingebracht - als weitaus folgenreicher erwies sich seine Einladung an die Piano-Kultfigur Keith Jarrett. Als Jarrett im ersten Orchesterkonzert im Funkhaus Halberg in Werken von Lou Harrison und Colin McPhee mitspielte, mussten einige Fans das Ganze vom Flur aus verfolgen, denn die Kapazitäten des großen Sendesaals reichten nicht aus. Und auch der Ansturm aufs zweite Orchesterkonzert war groß: hier trat Jarrett als Solist in Samuel Barbers Klavierkonzert auf. Ob seine Fans allerdings in ...</comments>
+		</concert>
+		<concert>
+			<!-- Arnulf Müller --> 
+			<date>June 3</date>
+			<place>Congresshalle, Saarbrücken, Germany</place>
+			<event>Musik des 20. Jahrhunderts</event>
+			<with>
+				<name instr="orchestra">Rundfunk Sinfonieorchester Saarbrücken</name>
+				<name instr="director">Dennis Russel Davis</name>
+			</with>
+			<comments>Piece played: "Klavierkonzert Op. 38" (Samuel Barber).</comments>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>August 24</date>
 			<place>Cabrillo College, Aptos, CA, USA</place>
@@ -5130,11 +5192,11 @@
 			<comments>Kenneth K.: "Same program as Stockholm."</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
-			<date>October 26 (?)</date>
+			<!-- Kenneth Kubernik + Robert Wood (exact date) -->
+			<date>November 11</date>
 			<place>Kennedy Center, Washington, DC, USA</place>
 			<with solo="yes"/>
-			<comments>Kenneth K.: "Same program as Stockholm."</comments>
+			<comments>Kenneth K.: "Same program as Stockholm." Robert W.: "I was there, and bought a poster commemorating the show. I still have it, and the date is clearly Sunday, Nov. 11."</comments>
 		</concert>
         <concert>
         	<!-- Simon Savary: réf.: le frère d'un collègue d'un contact y a assisté en tant qu'étudiant. On essaie d'accéder aux archives pour avoir les concerts. J'ai seulement l'entrevue. -->
@@ -5445,8 +5507,9 @@
 			</with>
 		</concert>
 		<concert>
+			<!-- Pierre Pradat (exact venue) -->
 			<date>October 24</date>
-			<place>Théâtre de la Manufacture (?), Nancy, France</place>
+			<place>Chapiteau de la Pépinère, Nancy, France</place>
             <event>Nancy Jazz Pulsations</event>
 			<with>
 				<name>Gary Peacock</name>
@@ -6116,6 +6179,13 @@
 			<date>June 16</date>
 			<place>Atatürk Kültür Merkezi, Istanbul, Turkey</place>
 			<event>Istanbul International Jazz Festival</event>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Stewart Carolan -->
+			<date>June 20</date>
+			<place>Ancient Odeum, Patras, Greece</place>
+			<event>Patras International Festival</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -9211,6 +9281,129 @@ not completely sure about the order of 3,4,5 and i think he played another song 
             <date>May 19</date>
             <place>Sejong Center, Seoul, South Korea</place>
             <time>7 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+
+        <concert>
+            <date>July 1</date>
+            <place>Salle Pleyel, Paris, France</place>
+            <time>8 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>July 4</date>
+            <place>De Doelen, Rotterdam, Netherlands</place>
+            <event>North Sea Jazz</event>
+            <time>8 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>July 7</date>
+            <place>Arena Santa Giuliana, Perugia, Italy</place>
+            <event>Umbria Jazz</event>
+            <time>9 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>July 9</date>
+            <place>Philharmonie, Gasteig, Munich, Germany</place>
+            <time>8 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>July</date>
+            <place></place>
+            <time> PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>July 12</date>
+            <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
+            <event>Jazz à Juan</event>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+
+        <concert>
+            <date>July 16</date>
+            <place>Gran Teatro La Fenice, Venice, Italy</place>
+            <event>Venezia Jazz Festival</event>
+            <time>9 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>July 19</date>
+            <place>Grand Théâtre de Fourvière, Lyon, France</place>
+            <event>Les Nuits de Fourvière</event>
+            <time>9 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>July 21</date>
+            <place>Vittoriale degli Italiani, Gardone Riviera, Italy</place>
+            <time>9 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+		<concert>
+            <date>September 28</date>
+            <place>UCLA Royce Hall, Los Angeles, CA, USA</place>
+            <time>8 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>October 1</date>
+            <place>S. Mark Taper Foundation Auditorium, Benaroya Hall, Seattle, WA, USA</place>
+            <time>8 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>October 4</date>
+            <place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
+            <time>8 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>December 11</date>
+            <place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
+            <time>8 PM</time>
             <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
