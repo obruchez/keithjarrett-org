@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 24, 2014">
+<concerts modified="February 15, 2014">
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -9286,7 +9286,6 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
         </concert>
-
         <concert>
             <date>July 1</date>
             <place>Salle Pleyel, Paris, France</place>
@@ -9343,7 +9342,6 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
         </concert>
-
         <concert>
             <date>July 16</date>
             <place>Gran Teatro La Fenice, Venice, Italy</place>
@@ -9409,5 +9407,14 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
         </concert>
+	</group>
+
+	<group year="2014">
+    	<concert>
+			<date>February 5</date>
+			<place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
 	</group>
 </concerts>
