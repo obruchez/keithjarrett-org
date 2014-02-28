@@ -12,11 +12,29 @@
      TODO: change XML comments into XML elements
      TODO: add first name and initial of last name in front of quotations (in comments)
 
-      Thanks to: Bart Bartók, Matthias Bohlen, Stewart Carolan, Peter Eldson, Maurizio Garbolino, Bill Groeneveld, Kenneth Kubernik, David Jordan, Jacques D. Levy, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, Christian Teichert (= Flambay), Robert Wood
+      Thanks to: Bart Bartók, Matthias Bohlen, Stewart Carolan, Peter Eldson, Maurizio Garbolino, Bill Groeneveld, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Kenneth Kubernik, Jacques D. Levy, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Robert Wood
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 15, 2014">
+<concerts modified="February 28, 2014">
+	<group year="1952">
+		<concert>
+			<date>April 22</date>
+			<time>8:15 PM</time>
+			<place>Salem Evangelical and Reformed Church, Allentown, PA, USA</place>
+			<with solo="yes"/>
+			<comments>Other musicians: Donna Francella (soprano soloist), Norman Flores (tenor soloist), Albert Hofammann (accompanist), The Albright Marimba Players. A flyer announcing this concert is included in "Keith Jarrett: The Man And His Music".</comments>
+		</concert>
+	</group>
+	<group year="1953">
+		<concert>
+			<date>April 12</date>
+			<time>3:00 PM</time>
+			<place>Woman's Club Auditorium, Allentown, PA, USA</place>
+			<with solo="yes"/>
+			<comments>Keith Jarrett played compositions by Mozart, Bach, Brahms, Beethoven, etc., as well as personal compositions ("A Walk in the Zoo" and "Mountain Scene"). The complete programme is included in "Keith Jarrett: The Man And His Music".</comments>
+		</concert>
+	</group>
 	<group year="1965">
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -3893,16 +3911,16 @@
 			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
+			<!-- Kenneth Kubernik + John C. Strawn (exact location) -->
 			<date>June 13</date>
-			<place>Paramount Theatre, Seattle, WA, USA</place>
+			<place>Seattle Opera House, Seattle, WA, USA</place>
 			<with>
 				<name>Charlie Haden</name>
 				<name>Jan Garbarek</name>
 				<name>Paul Shure</name>
 				<name>26-piece string orchestra</name>
 			</with>
-			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
+			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting." Produced by Albatross Productions.</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -3917,16 +3935,16 @@
 			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
+			<!-- Kenneth Kubernik + John C. Strawn (exact location) -->
 			<date>June 15</date>
-			<place>Paramount Theatre, Portland, OR, USA</place>
+			<place>Portland Civic Centre Theater, Portland, OR, USA</place>
 			<with>
 				<name instr="bass">Charlie Haden</name>
 				<name instr="tenor and soprano saxophones">Jan Garbarek</name>
 				<name instr="conductor">Paul Shure</name>
 				<name instr="orchestra">26-piece string orchestra</name>
 			</with>
-			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting." Exact venue unknown (Paramount Theatre or Portland Civic Auditorium?).</comments>
+			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting." Produced by Albatross Productions. John C. S.: "Keith commented that it was the best the music had sounded and was pleased."</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -6184,9 +6202,11 @@
 		<concert>
 			<!-- Stewart Carolan -->
 			<date>June 20</date>
+			<time>9:30 PM</time>
 			<place>Ancient Odeum, Patras, Greece</place>
 			<event>Patras International Festival</event>
 			<with solo="yes"/>
+			<comments>Stewart C.: "The cost of the ticket was 1.500 drachmas. (...) I met Keith Jarrett at the soundcheck before the concert, which was very rare in itself as he never allowed any journalists to meet him before any of his concerts. (...) In 1983/4 I started to study the Goldberg Variations and I was intent on playing all 30 variations. (...) Imagine my absolute shock when I heard Keith playing the 28th Variation."</comments>
 		</concert>
 		<concert>
 			<date>June 23</date>
