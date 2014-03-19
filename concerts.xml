@@ -12,11 +12,11 @@
      TODO: change XML comments into XML elements
      TODO: add first name and initial of last name in front of quotations (in comments)
 
-      Thanks to: Bart Bartók, Matthias Bohlen, Stewart Carolan, Peter Eldson, Maurizio Garbolino, Bill Groeneveld, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Kenneth Kubernik, Jacques D. Levy, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Robert Wood
+      Thanks to: Bart Bartók, Matthias Bohlen, Stewart Carolan, Peter Eldson, Maurizio Garbolino, Bill Groeneveld, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Kenneth Kubernik, Jacques D. Levy, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Steven R. Muller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Robert Wood
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 28, 2014">
+<concerts modified="March 19, 2014">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -4089,11 +4089,11 @@
 			<comments>Kenneth K.: "So-called 'Staircase' tour". Bart B.: "That concert was great with one little tidbit, there was a young woman who approached the stage at the beginning and, while we couldn't hear anything, she must have said or been saying something to Jarrett as he stopped playing, got up and walked over to the edge of the apron and pointed to his right with a completely stretched out arm. The woman left promptly through an exit."</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
+			<!-- Kenneth Kubernik + Steven R. Muller (exact venue) -->
 			<date incomplete="yes">July</date>
-			<place>Unknown outdoor amphitheater, Washington, DC, USA</place>
+			<place>Carter Barron Amphitheatre, Washington, DC, USA</place>
 			<with solo="yes"/>
-			<comments>Kenneth K.: "So-called 'Staircase' tour"</comments>
+			<comments>Kenneth K.: "So-called 'Staircase' tour." Steven M.: "Leon Redbone (???) was one of the opening acts."</comments>
 		</concert>
 		<concert>
 			<date>August 26</date>
