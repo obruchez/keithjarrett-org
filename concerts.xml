@@ -12,11 +12,11 @@
      TODO: change XML comments into XML elements
      TODO: add first name and initial of last name in front of quotations (in comments)
 
-      Thanks to: Bart Bartók, Matthias Bohlen, Stewart Carolan, Peter Eldson, Maurizio Garbolino, Bill Groeneveld, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Kenneth Kubernik, Jacques D. Levy, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Steven R. Muller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Robert Wood
+      Thanks to: Bart Bartók, Matthias Bohlen, Stewart Carolan, Ron Cherian (= sombrero_sam), Peter Eldson, Ellwood Epps, Maurizio Garbolino, Bill Groeneveld, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Kenneth Kubernik, Jacques D. Levy, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Steven R. Muller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Robert Wood
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 19, 2014">
+<concerts modified="May 4, 2014">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1818,6 +1818,19 @@
 				<name>Airto Moreira</name>
 			</with>
 			<comments><i>Live 1970-1973</i> and <i>Lennie's on the Turnpike/Philharmonic Hall</i> are Miles Davis bootlegs.</comments>
+		</concert>
+		<concert>
+			<!-- Ellwood Epps -->
+			<date>March 18</date>
+			<place>Union Theater, Memorial Union, University of Wisconsin, Madison, WI, USA</place>
+			<with>
+				<name>Miles Davis</name>
+				<name>Gary Bartz</name>
+				<name>Michael Henderson</name>
+				<name>Jack DeJohnette</name>
+				<name>Airto Moreira</name>
+			</with>
+			<comments><a href="http://www.wisconsinhistory.org/whi/fullRecord.asp?id=53657">Poster for this concert</a>.</comments>
 		</concert>
 		<concert>
 			<!-- Michael McLaughlin and Richard Paske (details: two shows, Michael Henderson, etc.) -->
@@ -5930,19 +5943,19 @@
 		</concert>
 		<concert>
 			<date>April 11</date>
-			<place>Suntary Hall, Tokyo, Japan</place>
+			<place>Suntory Hall, Tokyo, Japan</place>
 			<release>Dark Intervals</release>
 			<with solo="yes"/>
 		</concert>
         <concert>
 			<date>April 12-13 (?)</date>
-			<place>Suntary Hall, Tokyo, Japan</place>
+			<place>Suntory Hall, Tokyo, Japan</place>
 			<with solo="yes"/>
-            <comments>The exact day is unknown. What is certain is that Keith Jarrett played three solo concerts at the Suntary Hall between April 11 and April 14.</comments>
+            <comments>The exact day is unknown. What is certain is that Keith Jarrett played three solo concerts at the Suntory Hall between April 11 and April 14.</comments>
 		</concert>
 		<concert>
 			<date>April 14</date>
-			<place>Suntary Hall, Tokyo, Japan</place>
+			<place>Suntory Hall, Tokyo, Japan</place>
 			<release>Solo Tribute</release>
 			<support>VHS/LaserDisc/DVD</support>
 			<with solo="yes"/>

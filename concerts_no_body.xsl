@@ -35,7 +35,7 @@
     </xsl:template>
 
     <xsl:template match="concerts">    
-        <p>The first draft of this list was created by <a href="http://profiles.yahoo.com/sombrero_sam" target="_new">sombrero_sam</a> from the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_new">Keith Jarrett Yahoo! Group</a>. Some of the information in this list also comes from messages posted in the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_new">Keith Jarrett Yahoo! Group</a>, from the <a href="http://www.plosin.com/milesahead/" target="_new">Miles Ahead Discography</a>, from various trading/bootleg lists, and from people who emailed me. If you have a correction or addition to this list, please send an email to <a href="mailto:concerts@keithjarrett.org">concerts@keithjarrett.org</a>.</p>
+        <p>The first draft of this list was created by <a href="http://profiles.yahoo.com/sombrero_sam" target="_new">sombrero_sam / Ron</a> from the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_new">Keith Jarrett Yahoo! Group</a>. Some of the information in this list also comes from messages posted in the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_new">Keith Jarrett Yahoo! Group</a>, from the <a href="http://www.plosin.com/milesahead/" target="_new">Miles Ahead Discography</a>, from various trading/bootleg lists, and from people who emailed me. If you have a correction or addition to this list, please send an email to <a href="mailto:concerts@keithjarrett.org">concerts@keithjarrett.org</a>.</p>
         
         <p>I'm specifically looking for more information about the following concerts:
         <ul>
