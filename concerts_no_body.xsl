@@ -50,6 +50,7 @@
             <li>Royal Festival Hall, London, UK, around 1979 (solo concert) (same as the March 29, 1980 concert?)</li>
             <li>Providence Performing Arts Center, Providence, RI, USA, around 1980 (solo concert)</li>
             <li>Orchestra Hall, Chicago, IL, USA, in 1982 or 1983 (solo concert)</li> <!-- Richard Roehl: "Somebody shouted out something about Koln and he said "now people want my colon" and everybody laughed." -->
+            <li>Orpheum Theatre or Queen Elizabeth Theatre, Vancouver, BC, Canada, on July 30, 1983 or October 17, 1984 (solo concert)</li> <!-- Norman Baldwin, see email for anecdote -->
             <li>Hungary, in the middle of the 80s (maybe in 1985-86) (solo concert)</li>
             <li>Village Vanguard, New York, NY, USA, 1986-87 (with Gary Peacock and Jack DeJohnette; they played for a whole week)</li>
         </ul>
