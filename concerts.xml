@@ -12,11 +12,11 @@
      TODO: change XML comments into XML elements
      TODO: add first name and initial of last name in front of quotations (in comments)
 
-      Thanks to: Bart Bartók, Matthias Bohlen, Stewart Carolan, Ron Cherian (= sombrero_sam), Peter Eldson, Ellwood Epps, Maurizio Garbolino, Bill Groeneveld, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Kenneth Kubernik, Jacques D. Levy, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Steven R. Muller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Robert Wood
+      Thanks to: Bart Bartók, Matthias Bohlen, Stewart Carolan, Ron Cherian (= sombrero_sam), James Dizdar, Peter Eldson, Ellwood Epps, Maurizio Garbolino, Bill Groeneveld, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Steven R. Muller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Robert Wood
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 16, 2014">
+<concerts modified="June 29, 2014">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -4635,6 +4635,12 @@
 			<place>Place des Arts, Montréal, QC, Canada</place>
 			<with solo="yes"/>
 		</concert>
+		<concert>
+			<!-- James Dizdar -->
+			<date incomplete="yes">December</date>
+			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
+			<with solo="yes"/>
+		</concert>
         <concert>
         	<!-- Simon Savary -->
 			<date incomplete="yes"/>
@@ -4954,6 +4960,13 @@
 		</concert> 
 	</group>
 	<group year="1983">
+       <concert>
+            <!-- Mike Lewis -->
+			<date>April 11</date>
+			<place>Roy Thomson Hall, Toronto, ON, Canada</place>
+			<with solo="yes"/>
+            <comments>Two sets with one encore ("Over The Rainbow"). Mike L.: "I remember it as a tense show with a number of walk-outs after the first half."</comments>
+		</concert>
         <concert>
             <!-- mfallon@windstream.net -->
             <!-- source: poster sold on eBay, year unknown, but confirmed by Mike -->
@@ -6285,6 +6298,13 @@
             <event>5th Tokyo Music Joy</event>
 			<with solo="yes"/>
 		</concert>
+		<concert>
+			<!-- Mike Lewis -->
+			<date>February 25</date>
+			<place>Jane Mallett Theatre, Toronto, ON, Canada</place>
+			<with solo="yes"/>
+			<comments>Mike L.: "Goldberg Variations on harpsichord, small theatre, lovely show."</comments>
+		</concert>
         <concert>
             <!-- Peter Tóth, PDF sent by email -->
             <date>March 20</date>
@@ -7315,6 +7335,16 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+		</concert>
+		<concert>
+			<!-- Mike Lewis -->
+			<date>August 20</date>
+			<place>Artpark, Lewiston, NY, USA</place>
+			<with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+			<comments>Mike L.: "During the first set, he complained about a bum key on the piano and kept tapping it - Gary and Jack joined in on a blue improv, then he ended the set early so that the piano would get fixed. A friend of mine presented the show and managed to find a tuner to fix the piano. Second set was great and Jarrett seemed happy. My friend handed him the cheque after the show and all Jarrett said was, "Next time, make sure the piano is tuned"."</comments>
 		</concert>
 		<concert>
 			<date>October 21</date>
