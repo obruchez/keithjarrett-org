@@ -9500,5 +9500,17 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<time>7 PM</time>
 			<with solo="yes"/>
 		</concert>
+		<concert>
+			<date>June 25</date>
+			<place>Roy Thomson Hall, Toronto, ON, Canada</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>June 28</date>
+			<place>Maison symphonique, Montréal, QC, Canada</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
 	</group>
 </concerts>
