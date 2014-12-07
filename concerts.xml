@@ -12,11 +12,11 @@
      TODO: change XML comments into XML elements
      TODO: add first name and initial of last name in front of quotations (in comments)
 
-      Thanks to: Bart Bartók, Matthias Bohlen, Stewart Carolan, Ron Cherian (= sombrero_sam), James Dizdar, Peter Eldson, Ellwood Epps, Maurizio Garbolino, Bill Groeneveld, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Steven R. Muller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Robert Wood
+      Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian (= sombrero_sam), James Dizdar, Peter Eldson, Ellwood Epps, Maurizio Garbolino, Bill Groeneveld, George Hobbs, Preston Keido Houser, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Steven R. Muller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Robert Wood
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 29, 2014">
+<concerts modified="December 7, 2014">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -2407,7 +2407,7 @@
 			<date>October 28</date>
 			<place>Mercer Arts Center, New York, NY, USA</place>
 			<with solo="yes"/>
-			<notes>Kenneth K.: "1st solo concert in America! It was recorded by Columbia Records for possible release. But Jarrett was dropped from the label shortly after 'Expectations' came out in favor of Herbie Hancock, whose subsequent 'Headhunters' album went gold. A good move for the suits and for fans of Jarrett; he went off and signed with Impulse! and the rest is history (if you think Columbia was going to issue all those quartet records you're dreaming)."</notes>
+			<comments>Kenneth K.: "1st solo concert in America! It was recorded by Columbia Records for possible release. But Jarrett was dropped from the label shortly after 'Expectations' came out in favor of Herbie Hancock, whose subsequent 'Headhunters' album went gold. A good move for the suits and for fans of Jarrett; he went off and signed with Impulse! and the rest is history (if you think Columbia was going to issue all those quartet records you're dreaming)."</comments>
 		</concert>
 		<concert>
 			<!-- par-mac@telus.net -->
@@ -2491,6 +2491,19 @@
 			</with>
 		</concert>
 		<concert>
+			<!-- -Exact date and venue from Arnulf Müller -->
+			<date>March 16</date>
+			<place>Teatro Donizetti, Bergamo, Italy</place>
+			<with solo="yes"/>
+			<comments>Concert mentioned in <a href="http://www.ilsussidiario.net/News/Musica-e-concerti/2010/7/8/KEITH-JARRETT-In-concerto-il-16-luglio-a-Bergamo-Con-Gary-Peacock-e-Jack-DeJohnette-keith-jarrett/98412/">"KEITH JARRETT/ In concerto il 16 luglio a Bergamo. Con Gary Peacock e Jack DeJohnette"</a></comments>
+		</concert>
+		<concert>
+			<!-- -Exact date from Arnulf Müller -->
+			<date>March 19</date>
+			<place>Bern, Switzerland</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
 			<date>March 20</date>
 			<place>Salle de Spectacles, Epalinges, Switzerland</place>
 			<release>Solo Concerts: Bremen/Lausanne</release>
@@ -2568,6 +2581,30 @@
 			<comments>7-minute piece recorded for the Austrian television. Produced in October 1973 and broadcast in 1974. More information here: <a href="http://www.spiegel.de/spiegel/print/d-41871573.html">Piano-Jazz: Musik für 14 Hände</a></comments>
 		</concert>
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 21</date>
+			<place>Carnegie Hall, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Alice Coltrane).</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>October 26</date>
+			<place>Detroit, MI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Pharoah Sanders).</comments>
+		</concert>
+		<concert>
 			<date>November 3</date>
 			<place>Philharmonie, Berlin, Germany</place>
 			<event>Berliner Jazztage</event>
@@ -2587,6 +2624,66 @@
 				<name>Paul Motian</name>
 				<name>Guilherme Franco</name>
 			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>November 8</date>
+			<place>Bowdoin College, Brunswick, ME, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Marion Brown).</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>November 9</date>
+			<place>Symphony Hall, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Sam Rivers).</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>November 10</date>
+			<place>Yale University, New Haven, CT, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Sam Rivers).</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>November 11</date>
+			<place>Amherst College, Amherst, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Sam Rivers).</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>November 16</date>
+			<place>Kennedy Center, Washington, DC, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Sam Rivers).</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -2653,16 +2750,6 @@
 				<name>Paul Motian</name>
 				<name>Guilherme Franco (?)</name>
 			</with>
-		</concert>
-		<concert>
-			<date incomplete="yes"/>
-			<place>Bergamo, Italy</place>
-			<with solo="yes"/>
-		</concert>
-		<concert>
-			<date incomplete="yes"/>
-			<place>Bern, Switzerland</place>
-			<with solo="yes"/>
 		</concert>
 		<concert>
 			<date incomplete="yes"/>
@@ -2767,7 +2854,7 @@
 			<date>March 17</date>
 			<place>Alice Tully Hall, Lincoln Center, New York, NY, USA</place>
 			<with>
-				<name>Dennis Russell Davies</name>
+				<name instr="director">Dennis Russel Davies</name>
 			</with>
 			<comments>Kenneth K.: "Jarrett was the featured soloist in Carla Bley's '3/4, for Piano and Orchestra' conducted by Dennis Russell Davies. (...) This may be his first encounter with Dennis Russell Davies with whom he would work over the next two decades. Bley's piece required a pianist well above her skill set; not sure exactly how Jarrett was approached but the concert took place on a Sunday afternoon, just two days before his engagement at the Vanguard. Jarrett would reprise this performance that December in Minneapolis, where he performed a series of concerts for quartet and serious compositions, including a piece from 'In the Light'."</comments>
 		</concert>
@@ -3106,7 +3193,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<notes>Kenneth K.: "For 3 or 4 nights." Exact date unknown (around September 20th).</notes>
+			<comments>Kenneth K.: "For 3 or 4 nights." Exact date unknown (around September 20th).</comments>
 		</concert>
         <concert>
         	<!-- stupidrule2001@yahoo.com -->
@@ -3283,7 +3370,7 @@
 			<date>December 21</date>
 			<place>O'Shaughnessy Theatre, St Paul, MN, USA</place>
 			<with>
-				<name>Dennis Russell Davies</name>
+				<name instr="director">Dennis Russel Davies</name>
 			</with>
             <comments>Kenneth K.: "'In the Cave, In the Light'. '3/4, for Piano and Orchestra'.</comments>
         </concert>
@@ -3997,6 +4084,17 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<!-- -Arnulf Müller -->
+			<date>August 7</date>
+			<place>Jefferson (?), NH, USA</place>
+			<event>White Mountain Festival</event>
+			<with>
+				<name instr="director">Dennis Russel Davies</name>
+				<name instr="orchestra">Unknown orchestra</name>
+			</with>
+			<comments>Concert mentioned in <a href="http://news.google.com/newspapers?nid=2209&amp;dat=19760713&amp;id=6XtjAAAAIBAJ&amp;sjid=0XkNAAAAIBAJ&amp;pg=5327,2006229">"White Mountains Festival Expected to Lure Thousands"</a></comments>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>September 9</date>
 			<place>Arlington Theater, Santa Barbara, CA, USA</place>
@@ -4252,11 +4350,12 @@
 			<comments></comments>
 		</concert>
         <concert>
+        	<!-- Unknown source + Preston Keido Houser -->
 			<date incomplete="yes">Summer</date>
 			<place>Berkeley, CA, USA</place>
 			<event></event>
 			<with solo="yes"/>
-            <comments>The city (Berkeley) is not completely certain, but the concert did take place in the San Francisco Bay Area.</comments>
+            <comments>The city (Berkeley) is not completely certain, but the concert did take place in the San Francisco Bay Area. Preston H.: "I attended a solo concert in the summer of 1978 in Berkeley, CA. or it could have been May, 1980, at Zellerbach Hall. I'm not sure. It was a long time ago and I don't have any program information but I seem to recall that Jarrett was added on Sunday night immediately after the Berkeley Jazz Festival (although not officially part of the festival itself; 5/22/80 was a Thursday). I remember the crowd was pretty rowdy but it was the best Jarrett solo concert I ever heard, something like a mystical experience in unholy circumstances."</comments> 
 		</concert>
         <concert>
           	<!-- Kenneth Kubernik -->
@@ -4310,13 +4409,13 @@
 		<concert>
 			<!-- Neil Allin Elphick -->
 			<date>November 17</date>
-			<place>Sydney Opera House, Sidney, Australia</place>
+			<place>Sydney Opera House, Sydney, Australia</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
 			<!-- Neil Allin Elphick -->
 			<date>November 22</date>
-			<place>Sydney Opera House, Sidney, Australia</place>
+			<place>Sydney Opera House, Sydney, Australia</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -4331,11 +4430,11 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Victor Pugatschew -->
+			<!-- Victor Pugatschew + Robert Bright -->
 			<date incomplete="yes"/>
 			<place>Adelaide, Autralia</place>
 			<with solo="yes"/>
-			<comments>Victor P.: "He walked out - played half the concert. Intermission - walked back on - played the other half. Walked off - it was fantastic." Year is uncertain.</comments>
+			<comments>Victor P.: "He walked out - played half the concert. Intermission - walked back on - played the other half. Walked off - it was fantastic." (year is uncertain) Robert B.: "The concert was in a small venue in the Adelaide Festival Complex that would have held an audience of only 200 or so, nothing but perfect silence - no coughing or photos! (...) He spent most of the time playing in a crouched position off the stool, vocalizing and gesticulating toward the piano with his torso. He played one very long amazing improvisation, then approached the microphone, his fingers drumming its stem, and said "I'll be back later... to play some more of whatever that was"."" (this might be another concert than Victor, maybe in the mid-70s)</comments>
 		</concert>
 	</group>
 	<group year="1979">
@@ -5175,9 +5274,9 @@
 			<with>
 				<name instr="violin">Joachim Schall</name>
 				<name instr="orchestra">Rundfunk Sinfonieorchester Saarbrücken</name>
-				<name instr="director">Dennis Russel Davis</name>
+				<name instr="director">Dennis Russel Davies</name>
 			</with>
-			<comments>Pieces played: "Suite für Solo Violine, Solo Klavier und kleines Orchester" (Lou Harrison) and "Konzert für Klavier mit Bläseroktettbegleitung" (Colin McPhee). Joachim Schall played durting the Lou Harrison piece only. Incomplete information about the concert (excerpt from Google cache): "Bei zwei Konzerten erlebte das Festival einen bisher ungekannten Ansturm. Dirigent Dennis Russel Davis hatte nicht nur seine komponierenden Freunde Lou Harrison und William Bolcom eingebracht - als weitaus folgenreicher erwies sich seine Einladung an die Piano-Kultfigur Keith Jarrett. Als Jarrett im ersten Orchesterkonzert im Funkhaus Halberg in Werken von Lou Harrison und Colin McPhee mitspielte, mussten einige Fans das Ganze vom Flur aus verfolgen, denn die Kapazitäten des großen Sendesaals reichten nicht aus. Und auch der Ansturm aufs zweite Orchesterkonzert war groß: hier trat Jarrett als Solist in Samuel Barbers Klavierkonzert auf. Ob seine Fans allerdings in ...</comments>
+			<comments>Pieces played: "Suite für Solo Violine, Solo Klavier und kleines Orchester" (Lou Harrison) and "Konzert für Klavier mit Bläseroktettbegleitung" (Colin McPhee). Joachim Schall played durting the Lou Harrison piece only. Incomplete information about the concert (excerpt from Google cache): "Bei zwei Konzerten erlebte das Festival einen bisher ungekannten Ansturm. Dirigent Dennis Russel Davies hatte nicht nur seine komponierenden Freunde Lou Harrison und William Bolcom eingebracht - als weitaus folgenreicher erwies sich seine Einladung an die Piano-Kultfigur Keith Jarrett. Als Jarrett im ersten Orchesterkonzert im Funkhaus Halberg in Werken von Lou Harrison und Colin McPhee mitspielte, mussten einige Fans das Ganze vom Flur aus verfolgen, denn die Kapazitäten des großen Sendesaals reichten nicht aus. Und auch der Ansturm aufs zweite Orchesterkonzert war groß: hier trat Jarrett als Solist in Samuel Barbers Klavierkonzert auf. Ob seine Fans allerdings in ...</comments>
 		</concert>
 		<concert>
 			<!-- Arnulf Müller --> 
@@ -5186,7 +5285,7 @@
 			<event>Musik des 20. Jahrhunderts</event>
 			<with>
 				<name instr="orchestra">Rundfunk Sinfonieorchester Saarbrücken</name>
-				<name instr="director">Dennis Russel Davis</name>
+				<name instr="director">Dennis Russel Davies</name>
 			</with>
 			<comments>Piece played: "Klavierkonzert Op. 38" (Samuel Barber).</comments>
 		</concert>
@@ -5814,8 +5913,8 @@
 			<place>Cabrillo College, Aptos, CA, USA</place>
 			<event>Cabrillo Festival of Contemporary Music</event>
 			<with>
-				<name>Dennis Russell Davies</name>
-				<name>Unknown orchestra</name>
+				<name instr="director">Dennis Russel Davies</name>
+				<name instr="orchestra">Unknown orchestra</name>
 			</with>
 			<comments>Kenneth K.: "Lou Harrison Piano Concerto/Dennis Russell Davies conducting."</comments>
 		</concert>
@@ -5949,10 +6048,11 @@
 			<comments>Concert review: <a href="http://www.nytimes.com/1987/03/30/arts/music-keith-jarrett.html">Music: Keith Jarrett</a></comments>
 		</concert>
 		<concert>
-			<!-- Diane Marcus -->
+			<!-- Diane Marcus + Preston Keido Houser-->
 			<date>April 5</date>
-			<place>Davies Symphony Hall, San Francisco, CA, USA</place>
+			<place>Louise M. Davies Symphony Hall, San Francisco, CA, USA</place>
 			<with solo="yes"/>
+			<comments>Preston H.: "The concert was titled "Serious Drinking and Inner Vigilance: a Program of Solo Piano Improvisations for Hard Listening." It was the first time I heard several short improvisations as opposed to two long, uninterrupted sets. The program includes a short essay by Jarrett, really a rambling monologue, but wonderful nonetheless."</comments>
 		</concert>
 		<concert>
 			<date>April 11</date>
@@ -6555,7 +6655,7 @@
 			<date>October 28</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
 			<with>
-                <name instr="conductor">Dennis Russell</name>
+                <name instr="director">Dennis Russel Davies</name>
 				<name instr="orchestra">American Composer's Orchestra</name>
 			</with>
 			<comments>This concert was cancelled.</comments>
@@ -6795,7 +6895,7 @@
 			<date>October 21</date>
 			<place>Beethovenhalle, Bonn, Germany</place>
 			<with/>
-			<comments>Keith played a Mozart concerto, KV 467. The orchestra, conducted by Dennis Russel-Davies, also played "Bridge of Light for Viola and Orchestra" and Stravinsky compositions (?).</comments>
+			<comments>Keith played a Mozart concerto, KV 467. The orchestra, conducted by Dennis Russel Davies, also played "Bridge of Light for Viola and Orchestra" and Stravinsky compositions (?).</comments>
 		</concert>
 		<concert>
 			<!-- Klaus Lipinski -->
@@ -9512,5 +9612,41 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<time>8 PM</time>
 			<with solo="yes"/>
 		</concert>
+		<concert>
+			<date>July 4</date>
+			<place>Salle Playel, Paris, France</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>July 8</date>
+			<place>La Fenice, Venice, Italy</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>July 11</date>
+			<place>Auditorium Parco della Musica, Rome, Italy</place>
+			<time>7 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+            <date>October 19</date>
+            <place>Symphony Center, Chicago, IL, USA</place>
+            <time>8 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
+        <concert>
+            <date>November 30</date>
+            <place>New Jersey Performing Arts Center, Newark, NJ, USA</place>
+            <time>8 PM</time>
+            <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+        </concert>
 	</group>
 </concerts>

@@ -53,11 +53,11 @@
             <li>Orpheum Theatre or Queen Elizabeth Theatre, Vancouver, BC, Canada, on July 30, 1983 or October 17, 1984 (solo concert)</li> <!-- Norman Baldwin, see email for anecdote -->
             <li>Hungary, in the middle of the 80s (maybe in 1985-86) (solo concert)</li>
             <li>Village Vanguard, New York, NY, USA, 1986-87 (with Gary Peacock and Jack DeJohnette; they played for a whole week)</li>
-            <li>Glenn Gould Studio, Toronto Theatre, Toronto, ON, Canada, maybe around 1997-98 (solo, Goldberg Variations, might have been cancelled)</li>
+            <li>Glenn Gould Studio, Toronto Theatre, Toronto, ON, Canada, maybe around 1997-98 (solo, Goldberg Variations, cancelled, would have taken place "a little while before the 'comeback' trio concert in '98 at the NJPAC")</li> <!-- Ellwood Epps -->
         </ul>
         </p>
 
-        <p>You can also download the discography by Maurizio Garbolino (March 1, 2014 version): <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-february-2014.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-february-2014.doc">Word</a>.</p>
+        <p>You can also download the discography by Maurizio Garbolino (November 27, 2014 version): <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-november-2014.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-november-2014.doc">Word</a>.</p>
 
         <p>Last update: <xsl:value-of select="@modified"/>.</p>
         <p>Number of entries: <xsl:value-of select="count(descendant::concert)"/>.</p>
