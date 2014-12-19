@@ -3479,6 +3479,18 @@
 			<place>Evergreen College, Olympia, WA, USA</place>
 			<with solo="yes"/>
 		</concert>
+
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 4-9 (?)</date>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+
 		<concert>
 			<!-- Peter Elsdon -->
 			<date>March 13</date>
@@ -3499,6 +3511,18 @@
 			<place>Convocation Hall, Toronto, ON, Canada</place>
 			<with solo="yes"/>
 		</concert>
+
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 25-30 (?)</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>April 4</date>
@@ -3627,6 +3651,18 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
+
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 26-30 (?)</date>
+			<place>Amazing Grace, Evanston, IL, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+
 		<concert>
 			<date>July 3</date>
 			<!-- Frederik Adlers + Wolfgang's Vault -->
@@ -3712,6 +3748,18 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
+
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>November 29</date>
+			<place>Massey Hall, Toronto, ON, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+
 		<concert>
 			<!-- Herbert Kohout -->
 			<date incomplete="yes">Autumn</date>
@@ -3769,6 +3817,18 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
+
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>January 18</date>
+			<place>Royce Hall, Los Angeles, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+
 		<concert>
 			<date>February 14</date>
 			<place>Hill Auditorium, Ann Arbor, MI, USA</place>
@@ -3881,6 +3941,18 @@
 			<place>Eastman School, Rochester, NY, USA</place>
 			<with solo="yes"/>
 		</concert>
+
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>April 15</date>
+			<place>New Orleans, LA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+
 		<concert>
 			<date incomplete="yes">April</date>
 			<place>Unicorn Club, New York, NY, USA</place>
@@ -3986,6 +4058,19 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
+
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>May 25-30 (?)</date>
+			<place>Minneapolis, MN, USA</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Jan Garbarek</name>
+				<name>Paul Shure</name>
+				<name>Orchestra</name>
+			</with>
+		</concert>
+
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>June 10</date>
