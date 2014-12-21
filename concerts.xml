@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 7, 2014">
+<concerts modified="December 21, 2014">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -3479,18 +3479,72 @@
 			<place>Evergreen College, Olympia, WA, USA</place>
 			<with solo="yes"/>
 		</concert>
-
 		<concert>
 			<!-- Kenneth Kubernik -->
-			<date>March 4-9 (?)</date>
+			<date>March 4</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<comments>Two shows a night?</comments>
 		</concert>
-
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 5</date>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Two shows a night?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 6</date>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Two shows a night?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 7</date>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Two shows a night?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 8</date>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Two shows a night?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 9</date>
+			<place>In Concert Club, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Two shows a night?</comments>
+		</concert>
 		<concert>
 			<!-- Peter Elsdon -->
 			<date>March 13</date>
@@ -3511,18 +3565,72 @@
 			<place>Convocation Hall, Toronto, ON, Canada</place>
 			<with solo="yes"/>
 		</concert>
-
 		<concert>
 			<!-- Kenneth Kubernik -->
-			<date>March 25-30 (?)</date>
+			<date>March 25</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<comments>2-3 shows a night?</comments>
 		</concert>
-
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 26</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>2-3 shows a night?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 27</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>2-3 shows a night?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 28</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>2-3 shows a night?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 29</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>2-3 shows a night?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>March 30</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>2-3 shows a night?</comments>
+		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>April 4</date>
@@ -3643,26 +3751,59 @@
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
-			<date>June 25 (?)</date>
-			<place>Amazingrace, Chicago, IL, USA</place>
-			<with>
-				<name>Dewey Redman</name>
-				<name>Charlie Haden</name>
-				<name>Paul Motian</name>
-			</with>
-		</concert>
-
-		<concert>
-			<!-- Kenneth Kubernik -->
-			<date>June 26-30 (?)</date>
+			<date>June 26</date>
 			<place>Amazing Grace, Evanston, IL, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<comments>Two shows a night?</comments>
 		</concert>
-
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 27</date>
+			<place>Amazing Grace, Evanston, IL, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Two shows a night?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 28</date>
+			<place>Amazing Grace, Evanston, IL, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Two shows a night?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 29</date>
+			<place>Amazing Grace, Evanston, IL, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Two shows a night?</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>June 30</date>
+			<place>Amazing Grace, Evanston, IL, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Two shows a night?</comments>
+		</concert>
 		<concert>
 			<date>July 3</date>
 			<!-- Frederik Adlers + Wolfgang's Vault -->
@@ -3748,7 +3889,6 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>November 29</date>
@@ -3759,7 +3899,6 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-
 		<concert>
 			<!-- Herbert Kohout -->
 			<date incomplete="yes">Autumn</date>
@@ -3809,17 +3948,6 @@
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
-			<date>January 17</date>
-			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
-			<with>
-				<name>Dewey Redman</name>
-				<name>Charlie Haden</name>
-				<name>Paul Motian</name>
-			</with>
-		</concert>
-
-		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 18</date>
 			<place>Royce Hall, Los Angeles, CA, USA</place>
 			<with>
@@ -3828,7 +3956,6 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-
 		<concert>
 			<date>February 14</date>
 			<place>Hill Auditorium, Ann Arbor, MI, USA</place>
@@ -3941,7 +4068,6 @@
 			<place>Eastman School, Rochester, NY, USA</place>
 			<with solo="yes"/>
 		</concert>
-
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>April 15</date>
@@ -3952,7 +4078,6 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-
 		<concert>
 			<date incomplete="yes">April</date>
 			<place>Unicorn Club, New York, NY, USA</place>
@@ -4058,19 +4183,18 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>May 25-30 (?)</date>
 			<place>Minneapolis, MN, USA</place>
 			<with>
-				<name>Charlie Haden</name>
+				<name>Charlie Haden (?)</name>
 				<name>Jan Garbarek</name>
-				<name>Paul Shure</name>
+				<name>Paul Shure (?)</name>
 				<name>Orchestra</name>
 			</with>
+			<comments>One or several concerts.</comments>
 		</concert>
-
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>June 10</date>
