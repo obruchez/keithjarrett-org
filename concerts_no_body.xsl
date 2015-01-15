@@ -57,7 +57,7 @@
         </ul>
         </p>
 
-        <p>You can also download the discography by Maurizio Garbolino (November 27, 2014 version): <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-november-2014.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-november-2014.doc">Word</a>.</p>
+        <p>You can also download the discography by Maurizio Garbolino (December 2014 version): <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-Dicembre-2014.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-Dicembre-2014.doc">Word</a>.</p>
 
         <p>Last update: <xsl:value-of select="@modified"/>.</p>
         <p>Number of entries: <xsl:value-of select="count(descendant::concert)"/>.</p>
