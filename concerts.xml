@@ -12,11 +12,11 @@
      TODO: change XML comments into XML elements
      TODO: add first name and initial of last name in front of quotations (in comments)
 
-      Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian (= sombrero_sam), James Dizdar, Peter Eldson, Ellwood Epps, Maurizio Garbolino, Bill Groeneveld, George Hobbs, Preston Keido Houser, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Arnulf Müller, Steven R. Muller, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Robert Wood
+      Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian (= sombrero_sam), Philippe Cortens, James Dizdar, Peter Eldson, Ellwood Epps, James A. Ewart, Maurizio Garbolino, Bill Groeneveld, George Hobbs, Preston Keido Houser, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Keith N. Moore, Arnulf Müller, Steven R. Muller, Michele Munro, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Robert Wood
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 21, 2014">
+<concerts modified="August 25, 2015">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1132,6 +1132,15 @@
 			<comments>Ventrello sometimes spelt "Rentrello" or "Frantello".</comments>
 		</concert>
 		<concert>
+			<!-- Philippe Cortens -->
+			<date>October 14</date>
+			<place>Hnita-Jazz Club, Heist-op-den-Berg, Belgium</place>
+			<with>
+				<name>August "Gus" Nemeth (?)</name>
+				<name>Bob Ventrello (?)</name>
+			</with>
+		</concert>
+		<concert>
 			<!-- YouTube: http://www.youtube.com/watch?v=XVMFgCp69Ps -->
 			<!-- cf http://scriptorium.bcu-lausanne.ch/ -->
 			<date>October 15, 16, or 17</date>
@@ -1896,6 +1905,18 @@
 			<comments>Kenneth K.: "Shares bill with Nina Simone"</comments>
 		</concert>
 		<concert>
+			<!-- Keith N. Moore -->
+			<date>April 30</date>
+			<place>Queen Elizabeth Theatre, Vancouver, BC, Canada</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>Early May</date>
 			<place>Shelly’s Manne-Hole, Los Angeles, CA, USA</place>
@@ -1993,6 +2014,84 @@
 				<name instr="percussions">Airto Moreira</name>
 			</with>
 			<comments>Kenneth K.: "With Soft Machine and Richard Pryor"</comments>
+		</concert>
+		<concert>
+			<date>October 17</date>
+			<place>Kongress-Saal, Deutsches Museum, Munich, Germany</place>
+			<with>
+				<name>Miles Davis</name>
+				<name>Gary Bartz</name>
+				<name>Michael Henderson</name>
+				<name>Ndugu Leon Chancler</name>
+				<name>Charles Don Alias</name>
+				<name>James Mtume Foreman</name>
+			</with>
+			<comments>First concert.</comments>
+		</concert>
+		<concert>
+			<date>October 17</date>
+			<place>Kongress-Saal, Deutsches Museum, Munich, Germany</place>
+			<with>
+				<name>Miles Davis</name>
+				<name>Gary Bartz</name>
+				<name>Michael Henderson</name>
+				<name>Ndugu Leon Chancler</name>
+				<name>Charles Don Alias</name>
+				<name>James Mtume Foreman</name>
+			</with>
+			<comments>Second concert.</comments>
+		</concert>
+		<concert>
+			<date>October 18</date>
+			<place>Jahrhunderthalle Hoechst, Frankfurt, Germany</place>
+			<with>
+				<name>Miles Davis</name>
+				<name>Gary Bartz</name>
+				<name>Michael Henderson</name>
+				<name>Ndugu Leon Chancler</name>
+				<name>Charles Don Alias</name>
+				<name>James Mtume Foreman</name>
+			</with>
+			<comments>First concert.</comments>
+		</concert>
+		<concert>
+			<date>October 18</date>
+			<place>Jahrhunderthalle Hoechst, Frankfurt, Germany</place>
+			<with>
+				<name>Miles Davis</name>
+				<name>Gary Bartz</name>
+				<name>Michael Henderson</name>
+				<name>Ndugu Leon Chancler</name>
+				<name>Charles Don Alias</name>
+				<name>James Mtume Foreman</name>
+			</with>
+			<comments>Second concert.</comments>
+		</concert>
+		<concert>
+			<date>October 19 (?)</date>
+			<place>Beethoven-Saal, Stuttgart, Germany</place>
+			<with>
+				<name>Miles Davis</name>
+				<name>Gary Bartz</name>
+				<name>Michael Henderson</name>
+				<name>Ndugu Leon Chancler</name>
+				<name>Charles Don Alias</name>
+				<name>James Mtume Foreman</name>
+			</with>
+			<comments>First concert.</comments>
+		</concert>
+		<concert>
+			<date>October 19 (?)</date>
+			<place>Beethoven-Saal, Stuttgart, Germany</place>
+			<with>
+				<name>Miles Davis</name>
+				<name>Gary Bartz</name>
+				<name>Michael Henderson</name>
+				<name>Ndugu Leon Chancler</name>
+				<name>Charles Don Alias</name>
+				<name>James Mtume Foreman</name>
+			</with>
+			<comments>Second concert.</comments>
 		</concert>
 		<concert>
 			<date>October 21</date>
@@ -2102,7 +2201,7 @@
 		</concert>
 		<concert>
 			<date>November 3</date>
-			<place>Belgrade, Yugoslavia</place>
+			<place>Dom Sindikata, Belgrade, Yugoslavia</place>
 			<release>Another Bitches Brew</release>
 			<with>
 				<name>Miles Davis</name>
@@ -2210,10 +2309,36 @@
 				<name>Charles Don Alias</name>
 				<name>James Mtume Foreman</name>
 			</with>
+			<comments>First concert.</comments>
+		</concert>
+		<concert>
+			<date>November 13</date>
+			<place>Royal Festival Hall, London, UK</place>
+			<with>
+				<name>Miles Davis</name>
+				<name>Gary Bartz</name>
+				<name>Michael Henderson</name>
+				<name>Ndugu Leon Chancler</name>
+				<name>Charles Don Alias</name>
+				<name>James Mtume Foreman</name>
+			</with>
+			<comments>Second concert.</comments>
 		</concert>
 		<concert>
 			<date>November 14</date>
 			<place>Teatro della Fenice, Venice, Italy</place>
+			<with>
+				<name>Miles Davis</name>
+				<name>Gary Bartz</name>
+				<name>Michael Henderson</name>
+				<name>Ndugu Leon Chancler</name>
+				<name>Charles Don Alias</name>
+				<name>James Mtume Foreman</name>
+			</with>
+		</concert>
+		<concert>
+			<date>November 15</date>
+			<place>Palazzo dello Sport, Bologna, Italy</place>
 			<with>
 				<name>Miles Davis</name>
 				<name>Gary Bartz</name>
@@ -2603,6 +2728,19 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Pharoah Sanders).</comments>
+		</concert>
+		<concert>
+			<!-- Michele Munro -->
+			<date incomplete="yes">October</date>
+			<place>Michigan State University, East Lansing, MI, USA</place>
+			<time>11 PM</time>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>Concert organized by Showcase Jazz. Michele M.: "The Steinway concert grand was sent to Grand Rapids, before it arrived late in East Lansing. The show started at 11p.m.! Fans were sitting in the hallway for 3 hours, and they waited. There was no way to get the word out then. What a night!"</comments>
 		</concert>
 		<concert>
 			<date>November 3</date>
@@ -3194,6 +3332,15 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "For 3 or 4 nights." Exact date unknown (around September 20th).</comments>
+		</concert>
+		<concert>
+			<!-- James A. Ewart -->
+			<date incomplete="yes">September</date>
+			<place>Eisenhower Auditorium, Penn State University Park, State College, PA, USA</place>
+			<with>
+				<name>Charlie Haden</name>
+			</with>
+			<comments>James E.: "I think that just Keith Jarrett and Charlie Haden were on stage for that concert. I recall Keith Jarrett repeatedly "wowing down" the crowd with his arms so that their applause didn't drown out Charlie Haden's upright bass solos. Eventually, the crowd of mostly students got the message and held their applause till the end of later pieces."</comments>
 		</concert>
         <concert>
         	<!-- stupidrule2001@yahoo.com -->
@@ -4184,6 +4331,17 @@
 			</with>
 		</concert>
 		<concert>
+			<!-- Hans-Dieter Klinger (ticket scans available in August 20, 2015 email) -->
+			<date>May 17</date>
+			<time>8 PM</time>
+			<place>Theater in der Brienner Straße, Munich, Germany</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>May 25-30 (?)</date>
 			<place>Minneapolis, MN, USA</place>
@@ -4489,6 +4647,17 @@
 			<date>October 23</date>
 			<place>Theatre Royal, Drury Lane, London, UK</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Hans-Dieter Klinger (ticket scans available in August 20, 2015 email) -->
+			<date>October 25</date>
+			<time>8 PM</time>
+			<place>Kongress-Saal im Deutschen Museum, Munich, Germany</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
 		</concert>
 		<concert>
 			<date>November 11</date>
@@ -9857,5 +10026,25 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
         </concert>
+	</group>
+
+	<group year="2015">
+    	<concert>
+			<date>March 3</date>
+			<place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>May 18</date>
+			<place>Teatro di San Carlo, Naples, Italy</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>May 22</date>
+			<place>KKL, Lucerne, Switzerland</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
 	</group>
 </concerts>
