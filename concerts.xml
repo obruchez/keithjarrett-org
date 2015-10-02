@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="August 25, 2015">
+<concerts modified="September 28, 2015">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1073,6 +1073,56 @@
 			<comments></comments>
 		</concert>
 		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>April 15</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Kenneth K.: "Alternating sets with the Herbie Hancock Sextet"</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>April 16</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Kenneth K.: "Alternating sets with the Herbie Hancock Sextet"</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>April 17</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Kenneth K.: "Alternating sets with the Herbie Hancock Sextet"</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>April 18</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Kenneth K.: "Alternating sets with the Herbie Hancock Sextet"</comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>April 19</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Kenneth K.: "Alternating sets with the Herbie Hancock Sextet"</comments>
+		</concert>
+		<concert>
 			<date>April 23</date>
 			<place>New York, NY, USA</place>
 			<release>My Back Pages/Lay Lady Lay</release>
@@ -1527,6 +1577,19 @@
 				<name>Dave Holland</name>
 				<name>Jack DeJohnette</name>
 				<name>Airto Moreira</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik -->
+			<date>September 14</date>
+			<place>Boston Tea Party, Boston, MA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+				<name instr="percussions">Jim Riley (?)</name>
 			</with>
 		</concert>
 		<concert>
