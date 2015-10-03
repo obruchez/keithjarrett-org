@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="September 28, 2015">
+<concerts modified="October 3, 2015">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -4351,6 +4351,7 @@
 		<concert>
 			<!-- Sep Troelstra -->
 			<date>May 10</date>
+			<time>8:15 PM</time>
 			<place>Tivoli Hall, Utrecht, Netherlands</place>
 			<event></event>
 			<with>
