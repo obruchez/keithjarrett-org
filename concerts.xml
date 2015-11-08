@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 8, 2015">
+<concerts modified="November 7, 2015">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -2611,6 +2611,96 @@
 	</group>
 	<group year="1973">
 		<concert>
+			<!-- Simon Savary -->
+			<date>February 16</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>February 17</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>February 18</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>February 19</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>February 20</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>February 21</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>February 2</date>
+			<place>Strata Concert Gallery, Detroit, MI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>February 3</date>
+			<place>Strata Concert Gallery, Detroit, MI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>February 4</date>
+			<place>Strata Concert Gallery, Detroit, MI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>February 20</date>
 			<place>Village Vanguard, New York, NY, USA</place>
@@ -2724,6 +2814,48 @@
 			<date>March 30</date>
 			<place>Hotel Mohren, Willisau, Switzerland</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>June 12</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with solo="yes"/>
+			<comments>Solo or quartet?</comments>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>June 13</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with solo="yes"/>
+			<comments>Solo or quartet?</comments>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>June 14</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with solo="yes"/>
+			<comments>Solo or quartet?</comments>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>June 15</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with solo="yes"/>
+			<comments>Solo or quartet?</comments>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>June 16</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with solo="yes"/>
+			<comments>Solo or quartet?</comments>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>June 17</date>
+			<place>Village Vanguard, New York, NY, USA</place>
+			<with solo="yes"/>
+			<comments>Solo or quartet?</comments>
 		</concert>
 		<concert>
 			<date>June 30</date>
@@ -3049,6 +3181,17 @@
 			<date>January 15</date>
 			<place>Kosei Nenkin Hall, Tokyo, Japan</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>February 23</date>
+			<place>Hill Auditorium, Ann Arbor, MI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments></comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -3386,15 +3529,48 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
-			<date>September 20 (?)</date>
+			<!-- Kenneth Kubernik + Simon Savary -->
+			<date>September 25</date>
 			<place>The Bijou, Philadelphia, PA, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Kenneth K.: "For 3 or 4 nights." Exact date unknown (around September 20th).</comments>
+			<comments></comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik + Simon Savary -->
+			<date>September 26</date>
+			<place>The Bijou, Philadelphia, PA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments></comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik + Simon Savary -->
+			<date>September 27</date>
+			<place>The Bijou, Philadelphia, PA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments></comments>
+		</concert>
+		<concert>
+			<!-- Kenneth Kubernik + Simon Savary -->
+			<date>September 28</date>
+			<place>The Bijou, Philadelphia, PA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments></comments>
 		</concert>
 		<concert>
 			<!-- James A. Ewart -->
@@ -4061,7 +4237,7 @@
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>October 2</date>
-			<place>Michigan State University, East Lansing, MI, USA</place>
+			<place>McDonel Kiva, Michigan State University, East Lansing, MI, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -4071,7 +4247,7 @@
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>October 3</date>
-			<place>Michigan State University, East Lansing, MI, USA</place>
+			<place>McDonel Kiva, Michigan State University, East Lansing, MI, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -4556,7 +4732,7 @@
 		</concert>
 		<concert>
 			<date>October 23</date>
-			<place>Ann Arbor, MI, USA</place>
+			<place>Hill Auditorium, Ann Arbor, MI, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -4651,9 +4827,15 @@
 		</concert>
 		<concert>
 			<date>August 26</date>
-			<place>Shelburne, VT, USA</place>
+			<place>Shelburne Farms, Shelburne, VT, USA</place>
 			<release>Vermont Solo</release>
 			<support>VHS/LaserDisc</support>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>August 27</date>
+			<place>Shelburne Farms, Shelburne, VT, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -4745,6 +4927,16 @@
 			</with>
 		</concert>
 		<concert>
+			<!-- Simon Savary -->
+			<date>November 13</date>
+			<place>Academy of Music, Philadelphia, PA, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+		</concert>
+		<concert>
 			<date>November 14</date>
 			<place>Northrop Auditorium, Minneapolis, MN, USA</place>
 			<with>
@@ -4755,7 +4947,27 @@
 		</concert>
 		<concert>
 			<date>November 15</date>
-			<place>Berkeley, CA, USA</place>
+			<place>Berkeley Community Theatre, Berkeley, CA, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>November 17</date>
+			<place>Jones Hall, Houston, TX, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>November 19</date>
+			<place>Warner Theatre, Washington, DC, USA</place>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
@@ -4892,6 +5104,13 @@
 		</concert>
 	</group>
 	<group year="1979">
+		<concert>
+			<!-- Simon Savary -->
+			<date>March  5</date>
+			<place>Boston Music Hall, Boston, MA, USA</place>
+			<event></event>
+			<with solo="yes"/>
+		</concert>
 		<concert>
 			<!-- tlambie@charter.net -->
 			<date>March 28 (?)</date>
@@ -5209,6 +5428,12 @@
 	</group>
 	<group year="1981">
 		<concert>
+			<!-- Simon Savary -->
+			<date>March 11</date>
+			<place>McCarter Theatre, Princeton, NJ, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>March 21</date>
 			<place>Boston Opera House, Boston, MA, USA</place>
@@ -5301,14 +5526,20 @@
 			<place>Coliseu dos Recreios, Lisboa, Portugal</place>
 			<with solo="yes"/>
 		</concert>
-		<!-- Mark Matthew Freeman -->
 		<concert>
+			<!-- Simon Savary-->
+			<date>September 6</date>
+			<place>Marin Veterans Auditorium, San Rafael, CA, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Mark Matthew Freeman -->
 			<date>September 9</date>
 			<place>Civic Auditorium, Portland, OR, USA</place>
 			<with solo="yes"/>
 		</concert>
-		<!-- oscarq47 -->
 		<concert>
+			<!-- oscarq47 -->
 			<date>October 23</date>
 			<place>Fox Theatre, San Diego, CA, USA</place>
 			<with solo="yes"/>
@@ -5369,8 +5600,14 @@
 		</concert>
 	</group>
 	<group year="1982">
-		<!-- Simon Savary  -->
 		<concert>
+			<!-- Simon Savary  -->
+			<date>January 11</date>
+			<place>Salle Wilfrid-Pelletier, Montréal, QC, Canada</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Simon Savary  -->
 			<date>January 14</date>
 			<place>Salle Louis-Fréchette, Grand Théâtre de Québec, QC, Canada</place>
 			<with solo="yes"/>
@@ -5378,6 +5615,12 @@
 		<concert>
 			<date>March 6</date>
 			<place>Melbourne, Australia</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>March 11</date>
+			<place>Dallas Brooks Hall, Melbourne, Australia</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -5527,6 +5770,18 @@
 			<place>Heinz Hall, Pittsburg, PA, USA</place>
 			<with solo="yes"/>
             <comments>From Mike: "He played 'Somewhere Over The Rainbow' (maybe as a second encore). I remember during what was probably the first encore, where he did a bluesy vamp, the audience started clapping along and, after a while, he stopped playing, clapped along a bit and then said that 'What you are hearing out there is not the same thing as what I am hearing up here.' That got them quiet..."</comments>
+		</concert>
+		<concert>
+            <!-- Simon Savary -->
+			<date>April 14</date>
+			<place>Boston Symphony Hall, Boston, MA, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+            <!-- Simon Savary -->
+			<date>April 19</date>
+			<place>Théâtre St. Denis, Montréal, QC, Canada</place>
+			<with solo="yes"/>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -6647,6 +6902,15 @@
         <concert>
 			<date>October 29</date>
 			<place>Eastman Theater, Rochester, NY, USA</place>
+			<with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Simon Savary -->
+			<date>October 31</date>
+			<place>Hill Auditorium, Ann Arbor, MI, USA</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
