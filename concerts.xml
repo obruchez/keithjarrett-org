@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 7, 2015">
+<concerts modified="December 18, 2015">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -10383,6 +10383,30 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 		<concert>
 			<date>May 22</date>
 			<place>KKL, Lucerne, Switzerland</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>November 13</date>
+			<place>Henry Le Boeuf Hall, Palais des Beaux-Arts, Brussels, Belgium</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>November 17</date>
+			<place>National Concert Hall, Dublin, Ireland</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>November 20</date>
+			<place>Royal Festival Hall, London, UK</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>November 23</date>
+			<place>Opera di Firenze, Florence, Italy</place>
 			<time>8 PM</time>
 			<with solo="yes"/>
 		</concert>
