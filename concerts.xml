@@ -12,11 +12,11 @@
      TODO: change XML comments into XML elements
      TODO: add first name and initial of last name in front of quotations (in comments)
 
-      Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian (= sombrero_sam), Philippe Cortens, James Dizdar, Peter Eldson, Ellwood Epps, James A. Ewart, Maurizio Garbolino, Bill Groeneveld, George Hobbs, Preston Keido Houser, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Keith N. Moore, David Rae Morris, Arnulf Müller, Steven R. Muller, Michele Munro, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Sep Troelstra, Robert Wood
+      Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian (= sombrero_sam), Philippe Cortens, Ed Deal, James Dizdar, Peter Eldson, Ellwood Epps, James A. Ewart, Maurizio Garbolino, Brock Griffin, Bill Groeneveld, George Hobbs, Preston Keido Houser, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Keith N. Moore, David Rae Morris, Arnulf Müller, Steven R. Muller, Michele Munro, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Sep Troelstra, Robert Wood
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 18, 2015">
+<concerts modified="January 18, 2016">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -4044,6 +4044,12 @@
             <comments/>
 		</concert>
 		<concert>
+			<!-- Ed Deal -->
+			<date>February or April (?)</date>
+			<place>Moore Theater, Seattle, WA, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
 			<date>May 27</date>
 			<place>Kanko Kaikan Hall, Kanazawa, Japan</place>
 			<with>
@@ -4348,6 +4354,16 @@
 			<!-- Kenneth Kubernik -->
 			<date>January 18</date>
 			<place>Royce Hall, Los Angeles, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- Ed Deal -->
+			<date>January 20</date>
+			<place>Moore Theater, Seattle, WA, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -5629,21 +5645,21 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Neil Allin Elphick: March -->
-			<date incomplete="yes">March</date>
-			<place>Wellington, New Zealand</place>
+			<!-- Neil Allin Elphick: March + Arnulf Müller (exact day) -->
+			<date>March 15</date>
+			<place>Town Hall, Auckland, New Zealand</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Neil Allin Elphick: March -->
-			<date incomplete="yes">March</date>
-			<place>Auckland, New Zealand</place>
+			<!-- Neil Allin Elphick: March + Arnulf Müller (exact day) -->
+			<date>March 17</date>
+			<place>Town Hall, Christchurch, New Zealand</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Neil Allin Elphick: March -->
-			<date incomplete="yes">March</date>
-			<place>Christchurch, New Zealand</place>
+			<!-- Neil Allin Elphick: March + Arnulf Müller (exact day) -->
+			<date>March 18</date>
+			<place>Town Hall, Wellington, New Zealand</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -5740,6 +5756,13 @@
 		<concert>
 			<date>December 6</date>
 			<place>Orchestra Hall, Minneapolis, MN, USA</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Brock Griffin  -->
+			<!-- Concert poster in email + on Flickr -->
+			<date>December 8</date>
+			<place>Macky Auditorium, Boulder, CO, USA</place>
 			<with solo="yes"/>
 		</concert>
         <concert>
