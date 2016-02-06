@@ -12,7 +12,7 @@
      TODO: change XML comments into XML elements
      TODO: add first name and initial of last name in front of quotations (in comments)
 
-      Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian (= sombrero_sam), Philippe Cortens, Mark Crutchfield, Ed Deal, James Dizdar, Peter Eldson, Ellwood Epps, James A. Ewart, Maurizio Garbolino, Brock Griffin, Bill Groeneveld, George Hobbs, Preston Keido Houser, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Keith N. Moore, David Rae Morris, Arnulf Müller, Steven R. Muller, Michele Munro, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Sep Troelstra, Robert Wood
+      Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian (= sombrero_sam), Philippe Cortens, Mark Crutchfield, Ed Deal, James Dizdar, Peter Eldson, Ellwood Epps, James A. Ewart, Maurizio Garbolino, Brock Griffin, Bill Groeneveld, George Hobbs, Preston Keido Houser, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Keith N. Moore, David Rae Morris, Arnulf Müller, Steven R. Muller, Michele Munro, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Sep Troelstra, David Weininger, Robert Wood
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
@@ -1291,6 +1291,15 @@
 				<name>Charlie Haden (?)</name>
 				<name>Paul Motian (?)</name>
 			</with>
+		</concert>
+		<concert>
+			<date incomplete="yes">Autumn</date>
+			<place>Oslo, Norway</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Filmed by <a href="https://tv.nrk.no/program/FTEM00006669/jazz-med-keith-jarrett-trio">NRK</a>.</comments>
 		</concert>
 	</group>
 	<group year="1970">
