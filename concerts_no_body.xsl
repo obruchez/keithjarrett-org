@@ -47,10 +47,8 @@
             <li>Music Hall, Boston, MA, USA, on February 12 (the month/day are certain), maybe in 1971-1972</li>
             <li>Syracuse University, Syracuse, NY, USA, late October/early November of either 1971 or 1972 (unannounced solo concert, opening for Gato Barbieri)</li>
             <li>High School Auditorium, Santa Barbara, CA, USA, late 1974 or early to mid-1975 (solo concert)</li> <!-- John Marshall -->
-            <li>Lisner Auditorium, George Washington University (?), Washington, DC, June 1976 (mentioned by Elton John in several interviews)</li> <!-- Mark Crutchfield -->
             <li>Royal Festival Hall, London, UK, around 1979 (solo concert) (same as the March 29, 1980 concert?)</li>
             <li>Providence Performing Arts Center, Providence, RI, USA, around 1980 (solo concert)</li>
-            <li>Orchestra Hall, Chicago, IL, USA, in 1982 or 1983 (solo concert)</li> <!-- Richard Roehl: "Somebody shouted out something about Koln and he said "now people want my colon" and everybody laughed." -->
             <li>Orpheum Theatre or Queen Elizabeth Theatre, Vancouver, BC, Canada, on July 30, 1983 or October 17, 1984 (solo concert)</li> <!-- Norman Baldwin, see email for anecdote -->
             <li>Hungary, in the middle of the 80s (maybe in 1985-86) (solo concert)</li>
             <li>Village Vanguard, New York, NY, USA, 1986-87 (with Gary Peacock and Jack DeJohnette; they played for a whole week)</li>

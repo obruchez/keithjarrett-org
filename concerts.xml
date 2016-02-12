@@ -4715,6 +4715,14 @@
             <comments>Performance of the music from "Arbour Zena" with string orchestra conducted by Dennis Russell Davies. With Keith, Jan Garbarek and Charlie Haden as soloists.</comments>
 		</concert>
 		<concert>
+        	<!-- Mark Crutchfield-->
+			<date incomplete="yes">June</date>
+			<place>Lisner Auditorium, George Washington University (?), Washington, DC, USA</place>
+			<with>
+			</with>
+            <comments>Mentioned by Elton John in several interviews.</comments>
+		</concert>
+		<concert>
 			<!-- Sep Troelstra -->
 			<date>July 21</date>
 			<place>Palais des Congrès, Antibes Juan-Les-Pins, France</place>
@@ -5943,6 +5951,13 @@
 			<date incomplete="yes"></date>
 			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<!-- Richard Roehl + Mark "in Santa Monica" -->
+			<date incomplete="yes"></date>
+			<place>Orchestra Hall, Chicago, IL, USA</place>
+			<with solo="yes"/>
+			<comments>Richard R.: "Somebody shouted out something about Koln and he said "now people want my colon" and everybody laughed." Mark: "There was an incident with a watch alarm that went off during a quiet piece. He stormed off the stage and after what seemed like over a minute or two, came back to warm applause. As he reached the piano someone yelled out "We love you!", to which he replied "I don't want your love.""</comments>
 		</concert>
 	</group>
 	<group year="1984">
