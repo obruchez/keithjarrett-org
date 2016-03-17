@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 17, 2016">
+<concerts modified="March 17, 2016">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -2586,9 +2586,10 @@
 			<comments>Keith played organ.</comments>
 		</concert>
 		<concert>
-			<date>September 17</date>
+			<date>September 19</date>
 			<place>Dramaten Theater, Stockholm, Sweden</place>
 			<with solo="yes"/>
+			<comments>Also circulating as a September 17, 1972 concert.</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
