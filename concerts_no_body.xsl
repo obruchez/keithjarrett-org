@@ -58,6 +58,8 @@
 
         <p>You can also download the discography by Maurizio Garbolino (December 2014 version): <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-Dicembre-2014.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/Discographie_Jarrett-Dicembre-2014.doc">Word</a>.</p>
 
+        <p>Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian, Philippe Cortens, Mark Crutchfield, Ed Deal, Anders Diehl, James Dizdar, Peter Eldson, Ellwood Epps, Damian Evans, James A. Ewart, Maurizio Garbolino, Brock Griffin, Bill Groeneveld, Johan Hauknes, George Hobbs, Preston Keido Houser, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Keith N. Moore, David Rae Morris, Arnulf Müller, Steven R. Muller, Michele Munro, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert, Sep Troelstra, David Weininger, Robert Wood, and many others. If you want (or don't want) your name to be listed here, please let me know.</p>
+
         <p>Last update: <xsl:value-of select="@modified"/>.</p>
         <p>Number of entries: <xsl:value-of select="count(descendant::concert)"/>.</p>
 

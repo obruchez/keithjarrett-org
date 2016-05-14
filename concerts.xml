@@ -12,11 +12,11 @@
      TODO: change XML comments into XML elements
      TODO: add first name and initial of last name in front of quotations (in comments)
 
-      Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian (= sombrero_sam), Philippe Cortens, Mark Crutchfield, Ed Deal, James Dizdar, Peter Eldson, Ellwood Epps, James A. Ewart, Maurizio Garbolino, Brock Griffin, Bill Groeneveld, George Hobbs, Preston Keido Houser, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Keith N. Moore, David Rae Morris, Arnulf Müller, Steven R. Muller, Michele Munro, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert (= Flambay), Sep Troelstra, David Weininger, Robert Wood
+     Thanks (included in HTML intro): Ron Cherian = sombrero_sam, Christian Teichert = Flambay
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 17, 2016">
+<concerts modified="May 14, 2016">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1153,6 +1153,50 @@
 			<comments></comments>
 		</concert>
 		<concert>
+			<date>August 19</date>
+			<time>8 PM</time>
+			<place>The Fox Inn, Ashbourne, Co. Meath, Ireland</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Bob Ventrello</name>
+			</with>
+			<comments>Concerts mentioned in The Irish Times (<a href="http://www.irishtimes.com/newspaper/archive/1969/0820/Pg010.html#Ar01007">August 20, 1969 issue</a>).</comments>
+			<privatecomments>Mentioned by Damian Evans (May 10, 2016 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>August 20</date>
+			<time>8 PM</time>
+			<place>The Fox Inn, Ashbourne, Co. Meath, Ireland</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Bob Ventrello</name>
+			</with>
+			<comments>Concerts mentioned in The Irish Times (<a href="http://www.irishtimes.com/newspaper/archive/1969/0820/Pg010.html#Ar01007">August 20, 1969 issue</a>).</comments>
+			<privatecomments>Mentioned by Damian Evans (May 10, 2016 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>August 21</date>
+			<time>8 PM</time>
+			<place>The Fox Inn, Ashbourne, Co. Meath, Ireland</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Bob Ventrello</name>
+			</with>
+			<comments>Concerts mentioned in The Irish Times (<a href="http://www.irishtimes.com/newspaper/archive/1969/0820/Pg010.html#Ar01007">August 20, 1969 issue</a>).</comments>
+			<privatecomments>Mentioned by Damian Evans (May 10, 2016 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>August 22</date>
+			<time>8 PM</time>
+			<place>The Fox Inn, Ashbourne, Co. Meath, Ireland</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Bob Ventrello</name>
+			</with>
+			<comments>Concerts mentioned in The Irish Times (<a href="http://www.irishtimes.com/newspaper/archive/1969/0820/Pg010.html#Ar01007">August 20, 1969 issue</a>).</comments>
+			<privatecomments>Mentioned by Damian Evans (May 10, 2016 email).</privatecomments>
+		</concert>
+		<concert>
 			<!-- Jan Lohmann -->
 			<date>August 24 (?)</date>
 			<place>Bilzen, Belgium</place>
@@ -1277,6 +1321,16 @@
 			<comments></comments>
 		</concert>
 		<concert>
+			<date>December 2</date>
+			<place>Club 7, Restaurant Kongen, Oslo, Norway</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Filmed by <a href="https://tv.nrk.no/program/FTEM00006669/jazz-med-keith-jarrett-trio">NRK</a>. Johan H.: "It was recorded by NRK at the venue Club 7, which at the time was located at Restaurant Kongen [lit. The King] in the harbor of Oslo. The opening and closing scene is taken from the Kongen building along the access quay, northwards towards the beach in the Frognerkilen [Ref for date: TE Førland: Club 7 (Pax, Oslo 1998) p 73]"</comments>
+			<privatecomments>Information from Johan Hauknes (May 3, 2016 email).</privatecomments>
+		</concert>
+		<concert>
 			<date>December 9</date>
 			<place>Stockholm, Sweden</place>
 			<with>
@@ -1291,15 +1345,6 @@
 				<name>Charlie Haden (?)</name>
 				<name>Paul Motian (?)</name>
 			</with>
-		</concert>
-		<concert>
-			<date incomplete="yes">Autumn</date>
-			<place>Oslo, Norway</place>
-			<with>
-				<name>August "Gus" Nemeth</name>
-				<name>Paul Motian</name>
-			</with>
-			<comments>Filmed by <a href="https://tv.nrk.no/program/FTEM00006669/jazz-med-keith-jarrett-trio">NRK</a>.</comments>
 		</concert>
 	</group>
 	<group year="1970">
@@ -2622,7 +2667,7 @@
 	<group year="1973">
 		<concert>
 			<!-- Simon Savary -->
-			<date>February 16</date>
+			<date>January 16</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
@@ -2632,7 +2677,7 @@
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
-			<date>February 17</date>
+			<date>January 17</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
@@ -2642,7 +2687,7 @@
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
-			<date>February 18</date>
+			<date>January 18</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
@@ -2652,7 +2697,7 @@
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
-			<date>February 19</date>
+			<date>January 19</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
@@ -2662,7 +2707,7 @@
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
-			<date>February 20</date>
+			<date>January 20</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
@@ -2672,7 +2717,7 @@
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
-			<date>February 21</date>
+			<date>January 21</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
@@ -2857,8 +2902,13 @@
 			<!-- Simon Savary -->
 			<date>June 16</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<with solo="yes"/>
-			<comments>Solo or quartet?</comments>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco</name>
+			</with>
+			<privatecomments>Information about the lineup from Ken Kubernik (February 24, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
@@ -3307,13 +3357,15 @@
 			</with>
 		</concert>
 		<concert>
-			<date>May 6</date>
-			<place>Oslo, Norway</place>
+			<date>April 24-25 (?)</date>
+			<place>Arne Bendiksen Studios, Oslo, Norway</place>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
+			<comments>Videos available from NRK: <a href="https://tv.nrk.no/serie/jazz/fbua07004474/06-05-1974">part 1</a> (original broadcast date: May 6, 1974) and <a href="https://tv.nrk.no/serie/jazz/fbua07005174/13-05-1974">part 2</a> (original broadcast date: May 13, 1974).</comments>
+			<privatecomments>More information from Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -3831,14 +3883,16 @@
 			<date>January 25</date>
 			<place>Kantonsschule, Baden, Switzerland</place>
 			<with solo="yes"/>
-			<comments>More information about this concert in <a href="http://www.zwitschermaschine.li/rubjarrett.html">"The Baden Concert"</a></comments>
+			<comments>More information about this concert in <a href="https://web.archive.org/web/20120309113854/http://www.zwitschermaschine.li/rubjarrett.html">"The Baden Concert"</a> (<a href="http://retro.seals.ch/cntmng?pid=ban-001:2006:81::254">PDF version</a>)</comments>
+			<privatecomments>Link to PDF given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Matthias Bohlen -->
 			<date>January 29</date>
 			<place>Graz, Austria</place>
 			<with solo="yes"/>
-			<comments>Concert mentioned in <a href="http://www.zwitschermaschine.li/rubjarrett.html">"The Baden Concert"</a></comments>
+			<comments>Concert mentioned in <a href="https://web.archive.org/web/20120309113854/http://www.zwitschermaschine.li/rubjarrett.html">"The Baden Concert"</a> (<a href="http://retro.seals.ch/cntmng?pid=ban-001:2006:81::254">PDF version</a>)</comments>
+			<privatecomments>Link to PDF given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Peter Elsdon -->
@@ -4303,6 +4357,18 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+		</concert>
+		<concert>
+			<!-- Maurizio -->
+			<date>November 7</date>
+			<place>Stefaniensaal, Graz, Austria</place>
+			<with>
+				<name instr="tenor and soprano saxophones">Jan Garbarek</name>
+				<name instr="bass">Charlie Haden</name>
+				<name instr="conductor">Alois J. Hochstrasser</name>
+				<name instr="orchestra">Capella Classica</name>
+			</with>
+			<comments>Programme: "Compositions for soloists and strings".</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -4814,13 +4880,6 @@
 			<place>Hokkaido Kosei Nenkin Hall, Sapporo, Japan</place>
 			<release>Sun Bear Concerts</release>
 			<with solo="yes"/>
-		</concert>
-		<concert>
-			<!-- Bill Groeneveld -->
-			<date incomplete="yes">December</date>
-			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
-			<with solo="yes"/>
-			<comments>Late December 1976 or early January 1977.</comments>
 		</concert>
 	</group>
 	<group year="1977">
@@ -6819,10 +6878,10 @@
 			<with solo="yes"/>
 		</concert>
         <concert>
-			<date>April 12-13 (?)</date>
+        	<!-- Anders Diehl: went to the April 12 concert. Old comments (now removed): "The exact day is unknown. What is certain is that Keith Jarrett played three solo concerts at the Suntory Hall between April 11 and April 14." -->
+			<date>April 12</date>
 			<place>Suntory Hall, Tokyo, Japan</place>
 			<with solo="yes"/>
-            <comments>The exact day is unknown. What is certain is that Keith Jarrett played three solo concerts at the Suntory Hall between April 11 and April 14.</comments>
 		</concert>
 		<concert>
 			<date>April 14</date>
@@ -7103,9 +7162,10 @@
 		</concert>
 		<concert>
 			<date>June 23</date>
-			<place>Palermo, Italy</place>
+			<place>Teatro di Verdura, Palermo, Italy</place>
 			<with solo="yes"/>
-			<comments>Concert in memory of Italo Calvino.</comments>
+			<comments>Concert in memory of Italo Calvino. Article about the concert: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/2014/03/30/keith-jarrett-fuga-dal-verdura-dopo-un.html">"Keith Jarrett, fuga dal Verdura dopo un fischio"</a>.</comments>
+			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
         <concert>
         	<!-- Simon Savary -->
@@ -8217,21 +8277,36 @@
 			<date>October 21</date>
 			<place>Napoli, Italy</place>
 			<with solo="yes"/>
+			<comments>Article about the Italian tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
+			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>October 23</date>
 			<place>Teatro Communale, Modena, Italy</place>
 			<with solo="yes"/>
+			<comments>Article about the Italian tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
+			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>October 25</date>
+			<place>Teatro Comunale, Ferrara, Italy</place>
+			<with solo="yes"/>
+			<comments>Article mentioning this concert: <a href="http://www.nicolamorali.com/articoli/consigli-dascolto-2/keith-jarrett/">"Keith Jarrett, la ricerca dell'estasi"</a>. Article about the Italian tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
+			<privatecomments>Concert mentioned by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>October 28</date>
 			<place>Turin, Italy</place>
 			<with solo="yes"/>
+			<comments>Article about the Italian tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
+			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>October 30</date>
 			<place>Teatro Carlo Felice, Genoa, Italy</place>
 			<with solo="yes"/>
+			<comments>Article about the Italian tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
+			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 	</group>
 	<group year="1997">
@@ -10466,6 +10541,18 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<date>February 9</date>
 			<place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
 			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>April 29</date>
+			<place>Walt Disney Concert Hall, Los Angeles, CA, USA</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>May 2</date>
+			<place>Davies Symphony Hall, San Francisco, CA, USA</place>
+			<time>7:30 PM</time>
 			<with solo="yes"/>
 		</concert>
 	</group>
