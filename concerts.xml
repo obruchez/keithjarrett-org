@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 14, 2016">
+<concerts modified="May 23, 2016">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1153,6 +1153,17 @@
 			<comments></comments>
 		</concert>
 		<concert>
+			<date>August 18</date>
+			<time>8 PM</time>
+			<place>The Fox Inn, Ashbourne, Co. Meath, Ireland</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Bob Ventrello</name>
+			</with>
+			<comments>Concerts mentioned in The Irish Times (<a href="http://www.irishtimes.com/newspaper/archive/1969/0820/Pg010.html#Ar01007">August 20, 1969 issue</a>).</comments>
+			<privatecomments>Mentioned by Damian Evans (May 17, 2016 email).</privatecomments>
+		</concert>
+		<concert>
 			<date>August 19</date>
 			<time>8 PM</time>
 			<place>The Fox Inn, Ashbourne, Co. Meath, Ireland</place>
@@ -1223,7 +1234,7 @@
 				<name>August "Gus" Nemeth</name>
 				<name>Bob Ventrello</name>
 			</with>
-			<comments>Ventrello sometimes spelt "Rentrello" or "Frantello".</comments>
+			<comments>Ventrello sometimes spelt "Rentrello" or "Frantello". A concert was played on September 15, 1969 at least, as confirmed by a photographer present that day (<a href="http://petere-art.weebly.com/">petere-art.weebly.com</a>).</comments>
 		</concert>
 		<concert>
 			<!-- Philippe Cortens -->
@@ -1318,7 +1329,7 @@
 				<name>August "Gus" Nemeth</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments></comments>
+			<comments>Same concert as the December 2, 1969 concert or not?</comments>
 		</concert>
 		<concert>
 			<date>December 2</date>
@@ -2874,29 +2885,49 @@
 			<!-- Simon Savary -->
 			<date>June 12</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<with solo="yes"/>
-			<comments>Solo or quartet?</comments>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco</name>
+			</with>
+			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
 			<date>June 13</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<with solo="yes"/>
-			<comments>Solo or quartet?</comments>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco</name>
+			</with>
+			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
 			<date>June 14</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<with solo="yes"/>
-			<comments>Solo or quartet?</comments>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco</name>
+			</with>
+			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
 			<date>June 15</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<with solo="yes"/>
-			<comments>Solo or quartet?</comments>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco</name>
+			</with>
+			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
@@ -2914,8 +2945,13 @@
 			<!-- Simon Savary -->
 			<date>June 17</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<with solo="yes"/>
-			<comments>Solo or quartet?</comments>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco</name>
+			</with>
+			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>June 30</date>
