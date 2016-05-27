@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 23, 2016">
+<concerts modified="May 27, 2016">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -4047,9 +4047,11 @@
 		<concert>
 			<!-- Peter Elsdon -->
 			<date>March 13</date>
+			<time>8:30 PM</time>
 			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
-            <comments/>
+            <comments>Opening (?) for Gato Barbieri.</comments>
+            <privatecomments>Time and Gato Barbieri concert from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -4466,12 +4468,14 @@
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>January 18</date>
+			<time>8 PM</time>
 			<place>Royce Hall, Los Angeles, CA, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Time from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Ed Deal -->
@@ -4749,6 +4753,7 @@
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>June 11</date>
+			<time>8:30 PM</time>
 			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
 			<with>
 				<name>Charlie Haden</name>
@@ -4757,6 +4762,7 @@
 				<name>26-piece string orchestra</name>
 			</with>
 			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
+			<privatecomments>Time from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik + John C. Strawn (exact location) -->
