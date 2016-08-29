@@ -56,7 +56,7 @@
         </ul>
         </p>
 
-        <p>You can also download the discography by Maurizio Garbolino (June 2016 version): <a href="http://www.keithjarrett.org/wp-content/uploads/aaaaDiscographie_Jarrett-giugno-2016.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/aaaaDiscographie_Jarrett-giugno-2016.doc">Word</a>.</p>
+        <p>You can also download the discography by Maurizio Garbolino (August 2016 version): <a href="http://www.keithjarrett.org/wp-content/uploads/aaaaDiscographie_Jarrett-agosto.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/aaaaDiscographie_Jarrett-agosto.doc">Word</a>.</p>
 
         <p>Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian, Philippe Cortens, Mark Crutchfield, Ed Deal, Anders Diehl, James Dizdar, Peter Eldson, Ellwood Epps, Damian Evans, James A. Ewart, Maurizio Garbolino, Brock Griffin, Bill Groeneveld, Johan Hauknes, George Hobbs, Preston Keido Houser, Robert Iannapollo, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Keith N. Moore, David Rae Morris, Arnulf Müller, Steven R. Muller, Michele Munro, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert, Sep Troelstra, David Weininger, Robert Wood, and many others. If you want (or don't want) your name to be listed here, please let me know.</p>
 

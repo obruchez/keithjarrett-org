@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 27, 2016">
+<concerts modified="August 29, 2016">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -10595,6 +10595,36 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<date>May 2</date>
 			<place>Davies Symphony Hall, San Francisco, CA, USA</place>
 			<time>7:30 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>July 3</date>
+			<place>Béla Bartók National Concert Hall, Palace of Arts, Budapest, Hungary</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>July 6</date>
+			<place>L'Auditorium de Bordeaux, Bordeaux, France</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>July 9</date>
+			<place>Musikverein, Vienna, Austria</place>
+			<time>7:45 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>July 12</date>
+			<place>Parco Della Musica, Rome, Italy</place>
+			<time>7 PM</time>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>July 16</date>
+			<place>Philharmonie, Gasteig, Munich, Germany</place>
+			<time>7 PM</time>
 			<with solo="yes"/>
 		</concert>
 	</group>
