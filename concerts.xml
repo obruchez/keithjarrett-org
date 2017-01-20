@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="August 29, 2016">
+<concerts modified="January 20, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -7364,6 +7364,13 @@
 			<place>Paris, France</place>
 			<event>Paris Jazz Festival</event>
 			<with/>
+		</concert>
+		<concert>
+			<date>September 12</date>
+			<place>New York, NY, USA</place>
+			<with>
+				<name instr="percussion">Gabriel Jarrett</name>
+			</with>
 		</concert>
 		<concert>
 			<date>October 1</date>
