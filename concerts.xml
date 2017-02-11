@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 20, 2017">
+<concerts modified="February 11, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -182,6 +182,15 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Kenneth K.: "Miles was also on the bill".</comments>
+		</concert>
+		<concert>
+			<date>October 26</date>
+			<place>Gürzenich, Cologne, Germany</place>
+			<with>
+				<name>Charles Lloyd</name>
+				<name>Cecil McBee</name>
+				<name>Jack DeJohnette</name>
+			</with>
 		</concert>
 		<concert>
 			<date>October 29</date>
