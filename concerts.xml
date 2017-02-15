@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 11, 2017">
+<concerts modified="February 15, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -5492,6 +5492,13 @@
 			<date>October 31</date>
 			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
+		</concert>
+        <concert>
+			<!-- Volker R. Jacobs -->
+			<date incomplete="yes"/>
+			<place>Providence Performing Arts Center, Providence, RI, USA</place>
+			<with solo="yes"/>
+			<comments>Providence Performing Arts Center was called Ocean Performing Arts Center before 1982. Volker: "Some years ago I bought a used Cologne Concert record in Boston. Sticking on the back I found two used concert tickets for a KJ concert: Don Law presents Keith Jarrett in the ...N State Performing Arts Center in Providence, RI, on a Saturday at 8 pm on day ...3 in 1979. Since the front part of the concert tickets are ripped off the month and potentially the first digit of the day is missing. According to the calender from 1979 for Sat 3 it must have been either February, March or November 1979. If the da date was Sat the 13th it was January or October and If the day was Sat the 23rd it must have been June. The ticket price was US$ 9.75."</comments>
 		</concert>
 	</group>
 	<group year="1980">
