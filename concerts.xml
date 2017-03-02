@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 17, 2017">
+<concerts modified="March 2, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -76,7 +76,7 @@
 		</concert>
 		<concert>
 			<date>April 29</date>
-			<place>Stockholm, Sweden</place>
+			<place>Gyllene Cirkeln, Stockholm, Sweden</place>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Cecil McBee</name>
