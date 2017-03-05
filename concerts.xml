@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 2, 2017">
+<concerts modified="March 5, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -7950,11 +7950,21 @@
 			</with>
 			<comments>Mozart compositions were played.</comments>
 		</concert>
-		<!-- Samarshe@aol.com -->
 		<concert>
+			<!-- Samarshe@aol.com -->
 			<date>June 19</date>
 			<place>Ravinia Festival, Highland Park, IL, USA</place>
 			<event>Jazz In June</event>
+			<with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+			<!-- oscarq47@outlook.com -->
+			<date>June 24</date>
+			<place>Carnegie Hall, New York, NY, USA</place>
+			<event>JVC Jazz Festival</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
