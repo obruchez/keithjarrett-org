@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 5, 2017">
+<concerts modified="March 31, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -3967,8 +3967,9 @@
 			<!-- Simon Savary for the correct date/hall -->
 			<date>February 13</date>
 			<place>Skinner Hall of Music, Vassar College, Poughkeepsie, NY, USA</place>
+			<release>Solo Performance New York '75</release>
 			<with solo="yes"/>
-            <comments>The correct date is February 13, not February 14, according to <a href="http://historian.vassar.edu/chronology/1975.html">vassar.edu</a>.</comments>
+            <comments>The correct date is February 13, not February 14, according to <a href="http://historian.vassar.edu/chronology/1975.html">vassar.edu</a>. <i>Solo Performance New York '75</i> is a bootleg.</comments>
 		</concert>
 		<concert>
 			<date>February 20</date>
