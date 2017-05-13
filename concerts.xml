@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 31, 2017">
+<concerts modified="May 13, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -818,6 +818,18 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+		</concert>
+		<concert>
+			<!-- Craig Freas -->
+			<date>April 6</date>
+			<time>8:30 PM</time>
+			<place>Schwab Auditorium, University Park, PA, USA</place>
+			<with>
+				<name>Charles Lloyd</name>
+				<name>Ron McClure</name>
+				<name>Jack DeJohnette</name>
+			</with>
+			<comments>Concert organized by the Penn State Jazz Club. Tickets were $1.50 for members.</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -8319,6 +8331,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<comments>Article about the concert, also mentioning the October 1996 mini-tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
 		</concert>
         <concert>
         	<!-- Aziz Susam: correct date + venue -->
@@ -8353,35 +8366,31 @@
 			<date>October 21</date>
 			<place>Napoli, Italy</place>
 			<with solo="yes"/>
-			<comments>Article about the Italian tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
 			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>October 23</date>
 			<place>Teatro Communale, Modena, Italy</place>
 			<with solo="yes"/>
-			<comments>Article about the Italian tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
 			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>October 25</date>
 			<place>Teatro Comunale, Ferrara, Italy</place>
 			<with solo="yes"/>
-			<comments>Article mentioning this concert: <a href="http://www.nicolamorali.com/articoli/consigli-dascolto-2/keith-jarrett/">"Keith Jarrett, la ricerca dell'estasi"</a>. Article about the Italian tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
+			<comments>Article mentioning this concert: <a href="http://www.nicolamorali.com/articoli/consigli-dascolto-2/keith-jarrett/">"Keith Jarrett, la ricerca dell'estasi"</a>.</comments>
 			<privatecomments>Concert mentioned by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>October 28</date>
 			<place>Turin, Italy</place>
 			<with solo="yes"/>
-			<comments>Article about the Italian tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
 			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>October 30</date>
 			<place>Teatro Carlo Felice, Genoa, Italy</place>
 			<with solo="yes"/>
-			<comments>Article about the Italian tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
 			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 	</group>

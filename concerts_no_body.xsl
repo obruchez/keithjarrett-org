@@ -39,7 +39,7 @@
         
         <p>I'm specifically looking for more information about the following concerts:
         <ul>
-            <li>Penn State Jazz Club, University Park, PA, USA, 1966-67 (with Charles Lloyd)</li>
+            <li>Schwab Auditorium, University Park, PA, USA, 1966-67 (with Charles Lloyd, organized by Penn State Jazz Club)</li> <!-- Craig Freas -->
             <li>Crystal Ballroom, Portland, OR, USA, 1968-69 (solo concert)</li> <!-- Pat Sigler -->
             <li>Boston's Jazz Workshop, Boston, MA, USA, 1970-71 (with Miles Davis)</li> <!-- -Kenneth Kubernik -->
             <li>The Fox Inn, Ashbourne, Co. Meath, Ireland, maybe in 1971 (with Barre Phillips, bass, and Stu Martin, drums; they played for a whole week)</li>
@@ -57,7 +57,7 @@
 
         <p>You can also download the discography by Maurizio Garbolino (August 2016 version): <a href="http://www.keithjarrett.org/wp-content/uploads/aaaaDiscographie_Jarrett-agosto.pdf">PDF</a> or <a href="http://www.keithjarrett.org/wp-content/uploads/aaaaDiscographie_Jarrett-agosto.doc">Word</a>.</p>
 
-        <p>Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian, Philippe Cortens, Mark Crutchfield, Ed Deal, Anders Diehl, James Dizdar, Peter Eldson, Ellwood Epps, Damian Evans, James A. Ewart, Maurizio Garbolino, Brock Griffin, Bill Groeneveld, Johan Hauknes, George Hobbs, Preston Keido Houser, Robert Iannapollo, Volker R. Jacobs, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Keith N. Moore, David Rae Morris, Arnulf Müller, Steven R. Muller, Michele Munro, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Oscar Quinones, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert, Sep Troelstra, David Weininger, Robert Wood, and many others. If you want (or don't want) your name to be listed here, please let me know.</p>
+        <p>Thanks to: Bart Bartók, Matthias Bohlen, Robert Bright, Stewart Carolan, Ron Cherian, Philippe Cortens, Mark Crutchfield, Ed Deal, Anders Diehl, James Dizdar, Peter Eldson, Ellwood Epps, Damian Evans, James A. Ewart, Craig Freas, Maurizio Garbolino, Brock Griffin, Bill Groeneveld, Johan Hauknes, George Hobbs, Preston Keido Houser, Robert Iannapollo, Volker R. Jacobs, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Jacques D. Levy, Mike Lewis, Jan Lohmann, John Marshall, Jerry Margolin, Mark McQuain, Keith N. Moore, David Rae Morris, Arnulf Müller, Steven R. Muller, Michele Munro, Stephan Perthes, Tóth Péter, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Oscar Quinones, Richard Roehl, Simon Savary, Pat Sigler, John C. Strawn, Christian Teichert, Sep Troelstra, David Weininger, Robert Wood, and many others. If you want (or don't want) your name to be listed here, please let me know.</p>
 
         <p>Last update: <xsl:value-of select="@modified"/>.</p>
         <p>Number of entries: <xsl:value-of select="count(descendant::concert)"/>.</p>
