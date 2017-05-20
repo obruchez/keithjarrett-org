@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 13, 2017">
+<concerts modified="May 20, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -5723,20 +5723,17 @@
 			<with solo="yes"/>
 			<comments>Kenneth K.: "He encored with "Never Never Land" from 'Peter Pan'"</comments>
 		</concert>
-		<!-- Susan Sauber
-
-		I paid $11 plus the
-		85 cent ticketing  surchage.  I remember a beautiful
-		set, although at one point he was annoyed by the
-		coughing in the audience, he stopped playing,
-		"conducted" the audience in coughing, then asked
-		rather sarcastically if he could resume his playing in
-		silence.
-		-->
+		<concert>
+			<date>November 23</date>
+			<place>Auditorium Theatre, Roosevelt University, Chicago, IL, USA</place>
+			<with solo="yes"/>
+			<privatecomments>According to email sent by Brian Ziegler on May 19, 2017.</privatecomments>
+		</concert>
 		<concert>
 			<date>November 25</date>
 			<place>Royal Oak Music Theatre, Royal Oak, MI, USA</place>
 			<with solo="yes"/>
+			<privatecomments>According to email sent by Susan Sauber on April 2, 2008: "I paid $11 plus the 85 cent ticketing  surchage.  I remember a beautiful set, although at one point he was annoyed by the coughing in the audience, he stopped playing, "conducted" the audience in coughing, then asked rather sarcastically if he could resume his playing in silence."</privatecomments>
 		</concert>
 		<concert>
 			<date>December 9</date>
