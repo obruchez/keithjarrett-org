@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 20, 2017">
+<concerts modified="September 14, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1247,6 +1247,15 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+		</concert>
+		<concert>
+			<date>September 4</date>
+			<place>The Student "Kroa", Dovrehallen, Oslo, Norway</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Bob Ventrello</name>
+			</with>
+			<privatecomments>Information from Johan Hauknes (June 30, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>September 15-16 (?)</date>
