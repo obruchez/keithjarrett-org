@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="September 30, 2017">
+<concerts modified="October 6, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1267,6 +1267,15 @@
 			<privatecomments>Information from Johan Hauknes (June 30, 2016 email).</privatecomments>
 		</concert>
 		<concert>
+			<date>September 7</date>
+			<place>The Sogn Jazz Club, Sogn Student Accomodation Halls (Sogn Studentby), Oslo , Norway</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Bob Ventrello</name>
+			</with>
+			<privatecomments>Information from Johan Hauknes (June 30, 2016 email).</privatecomments>
+		</concert>
+		<concert>
 			<date>September 15-16 (?)</date>
 			<place>Tagsgaegget, Århus, Denmark</place>
 			<with>
@@ -1294,16 +1303,6 @@
 				<name>Bob Ventrello</name>
 			</with>
 			<comments>Concert broadcast on television by the Radiotelevisione svizzera di lingua italiana (RTSI). Ventrello sometimes spelt "Rentrello" or "Frantello".</comments>
-		</concert>
-		<concert>
-			<!-- Kenneth Kubernik -->
-			<date incomplete="yes">October</date>
-			<place>Student City Jazz Club, Sogn, Norway</place>
-			<with>
-				<name>August "Gus" Nemeth</name>
-				<name>Bob Ventrello</name>
-			</with>
-			<comments>Kenneth K.: "Outside Oslo". Ventrello sometimes spelt "Rentrello" or "Frantello".</comments>
 		</concert>
 		<concert>
 			<!-- Vincent Lespagnol -->
