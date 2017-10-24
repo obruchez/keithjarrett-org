@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 6, 2017">
+<concerts modified="October 24, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1269,6 +1269,15 @@
 		<concert>
 			<date>September 7</date>
 			<place>The Sogn Jazz Club, Sogn Student Accomodation Halls (Sogn Studentby), Oslo , Norway</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Bob Ventrello</name>
+			</with>
+			<privatecomments>Information from Johan Hauknes (June 30, 2016 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>September 8</date>
+			<place>Club 7, Restaurant Kongen, Oslo, Norway</place>
 			<with>
 				<name>August "Gus" Nemeth</name>
 				<name>Bob Ventrello</name>
