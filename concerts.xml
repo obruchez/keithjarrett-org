@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 24, 2017">
+<concerts modified="November 2, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1292,6 +1292,16 @@
 				<name>Bob Ventrello</name>
 			</with>
 			<comments>Ventrello sometimes spelt "Rentrello" or "Frantello". A concert was played on September 15, 1969 at least, as confirmed by a photographer present that day (<a href="http://petere-art.weebly.com/">petere-art.weebly.com</a>).</comments>
+		</concert>
+		<concert>
+			<date incomplete="yes">September (?)</date>
+			<place>NRK Studio 19, Oslo, Norway</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Bob Ventrello</name>
+			</with>
+			<comments>Broadcast on October 15, 1969 by NRK Radio.</comments>
+			<privatecomments>Information from Johan Hauknes (June 30, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Philippe Cortens -->
