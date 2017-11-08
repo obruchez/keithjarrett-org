@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 2, 2017">
+<concerts modified="November 8, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1360,6 +1360,15 @@
 				<name>August "Gus" Nemeth</name>
 				<name>Paul Motian</name>
 			</with>
+		</concert>
+		<concert>
+			<date>November 24</date>
+			<place>Place Pigalle, Stavanger, Norway</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>Information from Johan Hauknes (June 30, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>November 29</date>
