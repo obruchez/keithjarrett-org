@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 15, 2017">
+<concerts modified="November 24, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1378,6 +1378,16 @@
 				<name>Paul Motian</name>
 			</with>
 			<privatecomments>Information from Johan Hauknes (June 30, 2016 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>November 26</date>
+			<place>Wobble Inn, Handelens Hus, Narvik, Norway</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>Information from Johan Hauknes (June 30, 2016 email).</privatecomments>
+			<comments>Johan H.: "The concert was organised by Narvik Jazz Club"</comments>
 		</concert>
 		<concert>
 			<date>November 29</date>
