@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 30, 2017">
+<concerts modified="December 7, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1411,9 +1411,11 @@
 			<date>November 29</date>
 			<place>Gothenburg, Sweden</place>
 			<with>
-				<name>Charlie Haden (?)</name>
-				<name>Paul Motian (?)</name>
+				<name>August "Gus" Nemeth</name>
+				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Information about musicians from Johan Hauknes (June 30, 2016 email).</privatecomments>
+			<comments>It's quite a long road from Tromsø to Gothenburg (almost 24 hours). Is the date correct?</comments>
 		</concert>
 		<concert>
 			<date incomplete="yes">November (?)</date>
