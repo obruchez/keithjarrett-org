@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 7, 2017">
+<concerts modified="December 14, 2017">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1396,6 +1396,7 @@
 				<name>August "Gus" Nemeth</name>
 				<name>Paul Motian</name>
 			</with>
+			<comments>Johan H.: "Øystein Norvoll (jazz guitarist) - then 16 years old - describes the concert: "We were a bunch of 30-40 frightened souls. Included some of us 15-16 years olds. Jarrett's technique made a deep impression with us - especially when he played Dylan's 'Lay Lady Lay'". In [<a href="https://books.google.com/books?id=ut7EZwEACAAJ"><i>Nordlands trompet</i></a>], it also says - uncredited - that "the cinema ticket controller probably also made an impression when he threw Keith Jarrett out after the concert, before he could get refreshed". [Bjørn Stendahl] describes the event, referring to the local newspaper Harstad Tidende [Harstad Times] having a front page headline of "how Keith Jarrett was thrown out of Harstad Cinema of a controller - snuffing derogatorily - who couldn't wait for the band to finish preparing [after the concert]". He also says that "Elef Nesheim wrote a positive review in Harstad Tidende, placed in the newpaper as modestly as music reviews usually are"."</comments>
 			<privatecomments>Information from Johan Hauknes (June 30, 2016 email).</privatecomments>
 		</concert>
 		<concert>
@@ -4371,7 +4372,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Two shows a night?</comments>
+			<comments>Two shows a night.</comments>
+			<privatecomments>Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -4382,7 +4384,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Two shows a night?</comments>
+			<comments>Two shows a night.</comments>
+			<privatecomments>Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -4393,7 +4396,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Two shows a night?</comments>
+			<comments>Two shows a night.</comments>
+			<privatecomments>Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -4404,7 +4408,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Two shows a night?</comments>
+			<comments>Two shows a night.</comments>
+			<privatecomments>Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -4415,7 +4420,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Two shows a night?</comments>
+			<comments>Two shows a night.</comments>
+			<privatecomments>Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
 		</concert>
 		<concert>
 			<date>July 3</date>
