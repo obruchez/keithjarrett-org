@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 22, 2017">
+<concerts modified="January 3, 2018">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -716,6 +716,17 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+		</concert>
+		<concert>
+			<date>October 6</date>
+			<place>Crystal Ballroom, Portland, OR, USA</place>
+			<with>
+				<name>Charles Lloyd</name>
+				<name>Ron McClure</name>
+				<name>Jack DeJohnette</name>
+			</with>
+			<comments>This concert is mentioned <a href="http://rockprosopography101.blogspot.ch/2010/04/crystal-ballroom-1332-w-burnside_08.html">here</a>.</comments>
+			<privatecomments>Link sent by Andrea Thorsen Turman? Could it be the same as the 1968-69 solo concert at the Crystal Ballroom mentioned by Pat Sigler? Could it be that Keith played a long solo during this concert?</privatecomments>
 		</concert>
 		<concert>
 			<date>October 22</date>
