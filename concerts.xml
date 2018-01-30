@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 3, 2018">
+<concerts modified="January 30, 2018">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -3006,10 +3006,11 @@
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
-				<name>Charlie Haden</name>
+				<name>Ron McClure</name>
 				<name>Paul Motian</name>
 				<name>Guilherme Franco</name>
 			</with>
+			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
 			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
@@ -3018,10 +3019,11 @@
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
-				<name>Charlie Haden</name>
+				<name>Ron McClure</name>
 				<name>Paul Motian</name>
 				<name>Guilherme Franco</name>
 			</with>
+			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
 			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
@@ -3030,10 +3032,11 @@
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
-				<name>Charlie Haden</name>
+				<name>Ron McClure</name>
 				<name>Paul Motian</name>
 				<name>Guilherme Franco</name>
 			</with>
+			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
 			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
@@ -3042,10 +3045,11 @@
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
-				<name>Charlie Haden</name>
+				<name>Ron McClure</name>
 				<name>Paul Motian</name>
 				<name>Guilherme Franco</name>
 			</with>
+			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
 			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
@@ -3054,11 +3058,12 @@
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
-				<name>Charlie Haden</name>
+				<name>Ron McClure</name>
 				<name>Paul Motian</name>
 				<name>Guilherme Franco</name>
 			</with>
-			<privatecomments>Information about the lineup from Ken Kubernik (February 24, 2016 email).</privatecomments>
+			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
+			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
@@ -3066,10 +3071,11 @@
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
-				<name>Charlie Haden</name>
+				<name>Ron McClure</name>
 				<name>Paul Motian</name>
 				<name>Guilherme Franco</name>
 			</with>
+			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
 			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
