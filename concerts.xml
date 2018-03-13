@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 30, 2018">
+<concerts modified="March 13, 2018">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -2713,6 +2713,12 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+		</concert>
+		<concert>
+			<date>June 2</date>
+			<place>Heidelberg, Germany</place>
+			<with solo="yes"/>
+			<comments>June 2 or June 3 according to Peter Elsdon. Possibly Keith Jarrett's first solo concert in the traditional sense.</comments>
 		</concert>
         <concert>
         	<!-- Radio recording circulating -->
