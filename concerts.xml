@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 13, 2018">
+<concerts modified="April 7, 2018">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -2714,12 +2714,6 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-		<concert>
-			<date>June 2</date>
-			<place>Heidelberg, Germany</place>
-			<with solo="yes"/>
-			<comments>June 2 or June 3 according to Peter Elsdon. Possibly Keith Jarrett's first solo concert in the traditional sense.</comments>
-		</concert>
         <concert>
         	<!-- Radio recording circulating -->
 			<date>June 3</date>
@@ -2729,6 +2723,13 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+		</concert>
+		<concert>
+			<date>June 4</date>
+			<place>Stadthalle, Heidelberg, Germany</place>
+			<with solo="yes"/>
+			<comments>June 2 or June 3 according to Peter Elsdon. Possibly Keith Jarrett's first solo concert in the traditional sense.</comments>
+			<privatecomments>June 4 according to Rolf Rauschenbach.</privatecomments>
 		</concert>
 		<concert>
 			<date>June 9</date>
@@ -3090,6 +3091,12 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<date>July 6</date>
+			<place>Lincoln Center, New York, NY, USA</place>
+			<with solo="yes"/>
+			<comments>Rolf R.: "Reported by Francis Marmande, in his review on Bordeaux 2016, unclear if solo or group".</comments>
+		</concert>
+		<concert>
 			<date>July 12</date>
 			<place>Kleiner Sendesaal, Bremen, Germany</place>
 			<release>Solo Concerts: Bremen/Lausanne</release>
@@ -3099,18 +3106,28 @@
 			<!-- Olli Ylönen -->
 			<date>July 14</date>
 			<place>Karhulinna, Pori, Finland</place>
+			<event>Pori Jazz Festival</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
 			<!-- Olli Ylönen -->
 			<date>July 15</date>
 			<place>Kirjurinluoto, Pori, Finland</place>
+			<event>Pori Jazz Festival</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
 			<date>July 16</date>
-			<place>Pescara, Italy</place>
+			<place>Parco de Naiadi, Pescara, Italy</place>
+			<event>Festival Internazionale del Jazz Pescara</event>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>July 17</date>
+			<place>Teatro Civico, La Spezia, Italy</place>
+			<event>Festival Internazionale del Jazz della Spezia</event>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Arnulf Müller -->
@@ -3318,7 +3335,7 @@
 		</concert>
 		<concert>
 			<date incomplete="yes"/>
-			<place>Montmartre, Copenhagen, Denmark</place>
+			<place>Jazzhus Montmartre, Copenhagen, Denmark</place>
 			<with solo="yes"/>
 		</concert>
 	</group>
@@ -3666,11 +3683,24 @@
 			</with>
 			<comments/>
 		</concert>
+		<concert>
+			<date>June 11</date>
+			<place>Commodore Ballroom, Vancouver, BC, Canada</place>
+			<with solo="yes"/>
+			<comments>Rolf R.: "Sunship Ensemble opened".</comments>
+			<privatecomments>Concert reported by Russ Browne (without the precise date, which was given by Rolf Rauschenbach).</privatecomments>
+		</concert>
 		<concert>  <!-- Jasiek Poznanski -->
 			<date>June 12</date>
 			<place>Convocation Hall, Edmonton, AB, Canada</place>
 			<with solo="yes"/>
 			<comments>Concert presented by the Edmonton Jazz Society. "Tickets were $3.50 each ($2.50 to members of the Edmonton Jazz Society)."</comments>
+		</concert>
+		<concert>
+			<date>June 14</date>
+			<place>Masonic Temple, Toronto, ON, Canada</place>
+			<with solo="yes"/>
+			<privatecomments>Concert reported by bolton@purdue.edu (without the precise date, which was given by Rolf Rauschenbach).</privatecomments>
 		</concert>
         <concert>  <!-- Steve Lake + Wolfgang's Vault -->
 			<date>June 30</date>
@@ -3680,20 +3710,16 @@
 			<comments>11:30 PM. Keith Jarrett, Herbie Hancock, and McCoy Tyner all played solo sets.</comments>
 		</concert>
 		<concert>
-			<!-- Russ Browne -->
-			<date incomplete="yes">June (?)</date>
-			<place>Commodore Ballroom, Vancouver, BC, Canada</place>
+			<date>July 13</date>
+			<place>Teatro Civico, La Spezia, Italy</place>
+			<event>Festival Internazionale del Jazz della Spezia</event>
 			<with solo="yes"/>
-		</concert>
-		<concert>
-			<!-- bolton@purdue.edu -->
-			<date incomplete="yes">June</date>
-			<place>Masonic Temple, Toronto, ON, Canada</place>
-			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
 		</concert>
 		<concert>
 			<date>July 15</date>
-			<place>Pescara, Italy</place>
+			<place>Parco de Naiadi, Pescara, Italy</place>
+			<event>Festival Internazionale del Jazz Pescara</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -3705,7 +3731,7 @@
 		<concert>
 			<!-- Arnulf Müller -->
 			<date>July 31</date>
-			<place>Villalago, Italy</place>
+			<place>Villalago, Terni, Italy</place>
 			<event>Umbria Jazz Festival</event>
 			<with solo="yes"/>
 		</concert>
@@ -3719,7 +3745,8 @@
 		</concert>
 		<concert>
 			<date>August 1</date>
-			<place>Macerata, Italy</place>
+			<place>Sferisterio di Macerata, Macerata, Italy</place>
+			<event>Macerata Jazz</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -4076,7 +4103,7 @@
 		<concert>
 			<!-- Peter Elsdon -->
 			<date>February 3</date>
-			<place>Munich, Germany</place>
+			<place>Herkulessaal (?), Munich, Germany</place>
 			<with solo="yes"/>
             <comments/>
 		</concert>
@@ -4095,7 +4122,7 @@
 		</concert>
 		<concert>
 			<date>February 20</date>
-			<place>Evergreen College, Olympia, WA, USA</place>
+			<place>Library Building, Evergreen State College, Olympia, WA, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -4274,7 +4301,7 @@
 		<concert>
 			<!-- Peter Elsdon -->
 			<date>April 20</date>
-			<place>Given Auditorium, Waterville, Colby College, ME, USA</place>
+			<place>Given Auditorium, Bixler Art and Music Center, Colby College, Waterville, ME, USA</place>
 			<with solo="yes"/>
             <comments/>
 		</concert>
@@ -10327,12 +10354,12 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 		</concert>
 		<concert>
 			<date>May 6</date>
-			<place>Bunkamura Orchard Hall, Tokyo, Japan</place>
+			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
 			<date>May 11</date>
-			<place>Bunkamura Orchard Hall, Tokyo, Japan</place>
+			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -10429,7 +10456,6 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			</with>
         </concert>
     </group>
-
     <group year="2013">
     	<concert>
 			<date>February 21</date>
@@ -10610,7 +10636,6 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			</with>
         </concert>
 	</group>
-
 	<group year="2014">
     	<concert>
 			<date>February 5</date>
@@ -10620,7 +10645,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 		</concert>
 		<concert>
 			<date>April 30</date>
-			<place>Bunkamura, Tokyo, Japan</place>
+			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -10630,7 +10655,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 		</concert>
 		<concert>
 			<date>May 6</date>
-			<place>Bunkamura, Tokyo, Japan</place>
+			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -10766,7 +10791,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 		</concert>
 		<concert>
 			<date>July 9</date>
-			<place>Musikverein, Vienna, Austria</place>
+			<place>Goldener Saal, Musikverein, Vienna, Austria</place>
 			<time>7:45 PM</time>
 			<with solo="yes"/>
 		</concert>
