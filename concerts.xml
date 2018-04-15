@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 7, 2018">
+<concerts modified="April 15, 2018">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -5010,10 +5010,15 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<date>July 24</date>
+			<place>Théâtre de Verdure, La Grande-Motte, France</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
 			<!-- -Arnulf Müller -->
 			<date>August 7</date>
 			<place>Jefferson (?), NH, USA</place>
-			<event>White Mountain Festival</event>
+			<event>White Mountains Festival</event>
 			<with>
 				<name instr="director">Dennis Russel Davies</name>
 				<name instr="orchestra">Unknown orchestra</name>
@@ -5119,11 +5124,11 @@
 			<comments>Kenneth K.: "So-called 'Staircase' tour". Bart B.: "That concert was great with one little tidbit, there was a young woman who approached the stage at the beginning and, while we couldn't hear anything, she must have said or been saying something to Jarrett as he stopped playing, got up and walked over to the edge of the apron and pointed to his right with a completely stretched out arm. The woman left promptly through an exit."</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik + Steven R. Muller (exact venue) -->
-			<date incomplete="yes">July</date>
+			<date>July 14</date>
 			<place>Carter Barron Amphitheatre, Washington, DC, USA</place>
 			<with solo="yes"/>
 			<comments>Kenneth K.: "So-called 'Staircase' tour." Steven M.: "Leon Redbone (???) was one of the opening acts."</comments>
+			<privatecomments>Kenneth Kubernik. Steven R. Muller (exact venue). Rolf Rauschenbach (exact date).</privatecomments>
 		</concert>
 		<concert>
 			<date>August 26</date>
@@ -5288,6 +5293,18 @@
 	</group>
 	<group year="1978">
 		<concert>
+			<date>March 12</date>
+			<place>War Memorial Opera House, San Francisco, CA, USA</place>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
+			<date>March 13</date>
+			<place>War Memorial Opera House, San Francisco, CA, USA</place>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>March 15 (?)</date>
 			<place>Arlington Theater, Santa Barbara, CA, USA</place>
@@ -5308,12 +5325,17 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
-			<date incomplete="yes">August</date>
-			<place>Tunisia</place>
-			<event>Unknown music festival</event>
+			<date>August 11</date>
+			<place>Shelburne Farms, Shelburne, VT, USA</place>
 			<with solo="yes"/>
-			<comments></comments>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
+			<date incomplete="yes">August</date>
+			<place>Tabarka, Tunisia</place>
+			<event>Tabarka Jazz Festival</event>
+			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik. Rolf Rauschenbach (exact city).</privatecomments>
 		</concert>
         <concert>
         	<!-- Unknown source + Preston Keido Houser -->
@@ -5379,6 +5401,13 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<date>November 19</date>
+			<place>Adelaide Festival Centre, Adelaide, Autralia</place>
+			<with solo="yes"/>
+			<comments>Victor P.: "He walked out - played half the concert. Intermission - walked back on - played the other half. Walked off - it was fantastic." (year is uncertain) Robert B.: "The concert was in a small venue in the Adelaide Festival Complex that would have held an audience of only 200 or so, nothing but perfect silence - no coughing or photos! (...) He spent most of the time playing in a crouched position off the stool, vocalizing and gesticulating toward the piano with his torso. He played one very long amazing improvisation, then approached the microphone, his fingers drumming its stem, and said "I'll be back later... to play some more of whatever that was"."" (this might be another concert than Victor, maybe in the mid-70s)</comments>
+			<privatecomments>Victor Pugatschew. Robert Bright. Rolf Rauschenbach (exact date and venue).</privatecomments>
+		</concert>
+		<concert>
 			<!-- Neil Allin Elphick -->
 			<date>November 22</date>
 			<place>Sydney Opera House, Sydney, Australia</place>
@@ -5395,28 +5424,21 @@
 			<place>Theatre Royal, Dury Lane, London, UK</place>
 			<with solo="yes"/>
 		</concert>
-		<concert>
-			<!-- Victor Pugatschew + Robert Bright -->
-			<date incomplete="yes"/>
-			<place>Adelaide, Autralia</place>
-			<with solo="yes"/>
-			<comments>Victor P.: "He walked out - played half the concert. Intermission - walked back on - played the other half. Walked off - it was fantastic." (year is uncertain) Robert B.: "The concert was in a small venue in the Adelaide Festival Complex that would have held an audience of only 200 or so, nothing but perfect silence - no coughing or photos! (...) He spent most of the time playing in a crouched position off the stool, vocalizing and gesticulating toward the piano with his torso. He played one very long amazing improvisation, then approached the microphone, his fingers drumming its stem, and said "I'll be back later... to play some more of whatever that was"."" (this might be another concert than Victor, maybe in the mid-70s)</comments>
-		</concert>
 	</group>
 	<group year="1979">
 		<concert>
-			<!-- Simon Savary -->
 			<date>March  5</date>
 			<place>Boston Music Hall, Boston, MA, USA</place>
-			<event></event>
 			<with solo="yes"/>
+			<comments>Rolf R.: date could be incorrect.</comments>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- tlambie@charter.net -->
 			<date>March 28 (?)</date>
 			<place>War Memorial Opera House, San Francisco, CA, USA</place>
-			<event></event>
 			<with solo="yes"/>
+			<comments>Rolf R.: "Most probably did not happen, no mention in Stanford Daily."</comments>
+			<privatecomments>tlambie@charter.net</privatecomments>
 		</concert>
 		<concert>
 			<date>April 2</date>
@@ -5626,6 +5648,19 @@
 			<comments>Exact recording date(s) of "Nude Ants" unknown (one night? several nights?).</comments>
 		</concert>
 		<concert>
+			<date>June 17</date>
+			<place>London, UK</place>
+			<event>The South Bank Show</event>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
+			<date>June 21</date>
+			<place>Washington, DC, USA</place>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
 			<date>June 29</date>
 			<place>Paris, France</place>
 			<with solo="yes"/>
@@ -5635,6 +5670,12 @@
 			<place>Pinède Gould, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>August 29</date>
+			<place>Salle Wilfrid-Pelletier, Montréal, QC, Canada</place>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
 		</concert>
 		<concert>
 			<!-- jazzmanxxi -->
@@ -5748,6 +5789,13 @@
 			<comments>Mark M.: “He had a piano, harpsichord and at least one other keyboard onstage and he went back and forth amongst these instruments during the same song. Also, I recall the beginning of the concert was delayed because someone coughed and he glared out into the dark concert hall, waited several minutes and asked rhetorically if he could proceed – no one dared say anything. He then played wonderfully.” Kenneth K.: "It was a 'birthday celebration' for J.S. Bach, with Jarrett improvising on the clavichord, harpsichord, and piano. Much of the piano performance revolved around a long rumination on the tune 'Happy Birthday.' This is the only time he's ever performed live on a clavichord, and it took the audience a awhile to comprehend the sight and sound of this peculiar instrument. A review of the concert described the audience reaction as ecstatic."</comments>
 		</concert>
 		<concert>
+			<date>April 11</date>
+			<place>War Memorial Auditorium, San Francisco, CA, USA</place>
+			<with solo="yes"/>
+			<comments>"Never Never Land" was played as an encore.</comments>
+			<privatecomments>David Gitin. Rolf Rauschenbach (exact date).</privatecomments>
+		</concert>
+		<concert>
 			<date>April 17</date>
 			<place>Festival Hall, Osaka, Japan</place>
 			<with solo="yes"/>
@@ -5777,13 +5825,6 @@
 			<release>Concerts</release>
 			<support>LP/CD</support>
 			<with solo="yes"/>
-		</concert>
-		<concert>
-			<!-- David Gitin -->
-			<date incomplete="yes">May (?)</date>
-			<place>War Memorial Auditorium, San Francisco, CA, USA</place>
-			<with solo="yes"/>
-			<comments>"Never Never Land" was played as an encore.</comments>
 		</concert>
 		<concert>
 			<!-- 24 Heures du 28 mai 1981 -->
@@ -5854,16 +5895,16 @@
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">October</date>
-			<place>Arlington Theater, Santa Barbara, CA, USA</place>
+			<place>Pasadena Civic Auditorium, Pasadena, CA, USA</place>
 			<with solo="yes"/>
-			<comments>Kenneth K.: "The night before he played (solo) at the Pasadena Civic Auditorium (...) late in the month"</comments>
+			<comments>Kenneth K.: "He encored with "Never Never Land" from 'Peter Pan'"</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">October</date>
-			<place>Pasadena Civic Auditorium, Pasadena, CA, USA</place>
+			<place>Arlington Theater, Santa Barbara, CA, USA</place>
 			<with solo="yes"/>
-			<comments>Kenneth K.: "He encored with "Never Never Land" from 'Peter Pan'"</comments>
+			<comments>Kenneth K.: "The night before he played (solo) at the Pasadena Civic Auditorium (...) late in the month"</comments>
 		</concert>
 		<concert>
 			<date>November 23</date>
@@ -5951,6 +5992,12 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<date>March 21</date>
+			<place>Town Hall, Auckland, New Zealand</place>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
 			<!-- Seth Melchert -->
 			<date incomplete="yes">April</date>
 			<place>War Memorial Opera House, San Francisco, CA, USA</place>
@@ -5965,11 +6012,6 @@
 			<event>Cabrillo Festival of Contemporary Music</event>
 			<with solo="yes"/>
 			<comments>Seth M.: "Keith Jarrett played the Stravinsky Piano Concerto. He also played piano for John Cage's 'Dance/4 Orchestras' along with Dennis Russell Davies." Kenneth K.: "Peggy Glanville-Hicks 'Etruscan Concerto' KJ soloist."</comments>
-		</concert>
-		<concert>
-			<date>October 23</date>
-			<place>Staatsoper, Hamburg, Germany</place>
-			<with solo="yes"/>
 		</concert>
 		<concert>
 			<date>September 8</date>
@@ -6014,6 +6056,11 @@
 		<concert>
 			<date>September 24</date>
 			<place>Festival Hall, Osaka, Japan</place>
+			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>October 23</date>
+			<place>Staatsoper, Hamburg, Germany</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -6387,7 +6434,7 @@
 		<concert>
 			<!-- Anthony John Ollevou -->
 			<date incomplete="yes"/>
-			<place>Sidney, Australia</place>
+			<place>Sydney, Australia</place>
 			<with/>
 		</concert>
 	</group>
