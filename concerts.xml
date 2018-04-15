@@ -3118,7 +3118,7 @@
 		</concert>
 		<concert>
 			<date>July 16</date>
-			<place>Parco de Naiadi, Pescara, Italy</place>
+			<place>Parco le Naiadi, Pescara, Italy</place>
 			<event>Festival Internazionale del Jazz Pescara</event>
 			<with solo="yes"/>
 		</concert>
@@ -3687,7 +3687,7 @@
 			<date>June 11</date>
 			<place>Commodore Ballroom, Vancouver, BC, Canada</place>
 			<with solo="yes"/>
-			<comments>Rolf R.: "Sunship Ensemble opened".</comments>
+			<comments>Rolf R.: "Sunship Ensemble opened". <a href="http://www.blueminor-records.com/sunship.htm">"Sunship played concerts at the Western Front and at the opening of the Granville Mall in Vancouver, plus opening for pianist Keith Jarrett, at the Commodore Ballroom on June 11, 1974."</a></comments>
 			<privatecomments>Concert reported by Russ Browne (without the precise date, which was given by Rolf Rauschenbach).</privatecomments>
 		</concert>
 		<concert>  <!-- Jasiek Poznanski -->
@@ -3700,14 +3700,27 @@
 			<date>June 14</date>
 			<place>Masonic Temple, Toronto, ON, Canada</place>
 			<with solo="yes"/>
+			<comment>Article: <a href="https://ubir.buffalo.edu/xmlui/bitstream/handle/10477/3336/LIB-MUS022_05-1974-07.pdf?sequence=1">Buffalo Jazz Report</a>.</comment>
 			<privatecomments>Concert reported by bolton@purdue.edu (without the precise date, which was given by Rolf Rauschenbach).</privatecomments>
 		</concert>
-        <concert>  <!-- Steve Lake + Wolfgang's Vault -->
+        <concert>
 			<date>June 30</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
             <event>Newport Jazz Festival</event>
 			<with solo="yes"/>
 			<comments>11:30 PM. Keith Jarrett, Herbie Hancock, and McCoy Tyner all played solo sets.</comments>
+			<privatecomments>Steve Lake. Wolfgang's Vault.</privatecomments>
+		</concert>
+		<concert>
+			<date>July 2</date>
+			<place>Lincoln Center, Avery Fisher Hall, New York City, NY, USA</place>
+			<event>Newport Jazz Festival</event>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Marc M.: "On the same bill, Gary Burton Quartet with Ralph Towner and Chamber Orchestra (in a press article published in 1976, it's mentioned Gary Burton premiered his quintet with Pat Metheny at the festival in 1974, so it could be Gary Burton Quintet and perhaps Ralph Towner wasn't there)." Articles: <a href="https://www.nytimes.com/1974/04/03/archives/jazz-festival-opens-june-28-with-more-compact-schedule.html">New York Times</a>, <a href="https://www.nytimes.com/1974/06/26/archives/a-listing-of-some-of-the-festivals-highlights.html">New York Times</a>.</comments>
 		</concert>
 		<concert>
 			<date>July 13</date>
@@ -3718,9 +3731,10 @@
 		</concert>
 		<concert>
 			<date>July 15</date>
-			<place>Parco de Naiadi, Pescara, Italy</place>
+			<place>Parco le Naiadi, Pescara, Italy</place>
 			<event>Festival Internazionale del Jazz Pescara</event>
 			<with solo="yes"/>
+			<comments><a href="http://www.pescarajazz.com/index/timeline/1974">Pescara Jazz Festival 74</a>.</comments>
 		</concert>
 		<concert>
 			<date>July 29</date>
