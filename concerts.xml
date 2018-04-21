@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 15, 2018">
+<concerts modified="April 21, 2018">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -6156,6 +6156,12 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<date>May 22</date>
+			<place>Memorial Auditorium, Stanford University, San Francisco, CA, USA</place>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>May 23</date>
 			<place>Universal Amphitheatre, Los Angeles, CA, USA</place>
@@ -6184,6 +6190,12 @@
 			<place>Pinède Gould, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>July 16</date>
+			<place>Piazza del Campidoglio, Rome, Italy</place>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -6244,6 +6256,12 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+		</concert>
+		<concert>
+			<date>October 12</date>
+			<place>Schauspielhaus, Zurich, Switzerland</place>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
 		</concert>
 		<concert>
 			<date>October 16</date>
@@ -7163,6 +7181,24 @@
 			<comments>Keith Jarrett's 100<sup>th</sup> performance in Japan.</comments>
 		</concert>
 		<concert>
+			<date>May 24</date>
+			<place>Theatro Municipal de Rio de Janeiro, Rio de Janeiro, Brazil</place>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 28</date>
+			<place>Palácio das Convenções do Anhembi, São Paulo, Brazil</place>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 31</date>
+			<place>Theatro Municipal de Rio de Janeiro, Rio de Janeiro, Brazil</place>
+			<with solo="yes"/>
+			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
 			<!-- brian.lindsay3@rogers.com -->
 			<!-- at 9 p.m. -->
 			<date>June 26</date>
@@ -7457,12 +7493,14 @@
         <concert>
         	<!-- Simon Savary -->
 			<date>October 22</date>
-			<place>Brussels, Belgium</place>
+			<place>Palais des Beaux-Arts, Brussels, Belgium</place>
+			<event>Belga Jazz Festival</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
 			<date>October 24</date>
-			<place>Madrid, Spain</place>
+			<place>Auditorio Nacional de Música, Madrid, Spain</place>
+			<event>Festival de Jazz de Madrid</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -7568,14 +7606,7 @@
 			</with>
 		</concert>
 		<concert>
-			<date incomplete="yes">July</date>
-			<place>Place Des Arts, Montréal, QC, Canada</place>
-            <event>Festival International de Jazz de Montréal</event>
-			<with solo="yes"/>
-			<comments>Keith played mostly standards. The year for this concert is maybe incorrect. It might actually be the July 4, 1990 concert.</comments>
-		</concert>
-		<concert>
-			<date incomplete="yes">July</date>
+			<date>July 22</date>
 			<place>Pinède Gould, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
 			<with solo="yes"/>
@@ -7587,6 +7618,13 @@
 			<place>Uelzen, Germany</place>
 			<event>Musikland Niedersachsen</event>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date incomplete="yes">July</date>
+			<place>Place Des Arts, Montréal, QC, Canada</place>
+            <event>Festival International de Jazz de Montréal</event>
+			<with solo="yes"/>
+			<comments>Keith played mostly standards. The year for this concert is maybe incorrect. It might actually be the July 4, 1990 concert.</comments>
 		</concert>
 		<concert>
 			<date incomplete="yes">Summer</date>
