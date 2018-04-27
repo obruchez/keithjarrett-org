@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 21, 2018">
+<concerts modified="April 27, 2018">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -4507,14 +4507,15 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>September 30</date>
-			<place>Orpheum Theater, Madison (?), WI, USA</place>
+			<place>Orpheum Theater, Madison, WI, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<comments>Marc M.: Gary Burton Quintet, Eberhard Weber, and Ralph Towner played before Keith Jarrett.</comments>
+			<privatecomments>Kenneth Kubernik. City confirmed by Marc Movan.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -4604,6 +4605,16 @@
 			<privatecomments>From Marc Morvan's list.</privatecomments>
 		</concert>
 		<concert>
+			<date>November 28</date>
+			<place>Opera, National Arts Centre, Ottawa, ON, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>From Marc Morvan's list.</privatecomments>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>November 29</date>
 			<place>Massey Hall, Toronto, ON, Canada</place>
@@ -4612,6 +4623,17 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+		</concert>
+		<concert>
+			<date>November 30</date>
+			<place>Salle Claude-Champagne, Université de Montréal, Montréal, QC, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Listed as a November 25 concert <a href="http://www.lapresse.ca/arts/musique/entrevues/201507/17/01-4886315-john-roney-reinvente-le-koln-concert-de-jarrett.php">here</a>.</comments>
+			<privatecomments>From Marc Morvan's list.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Herbert Kohout -->
@@ -4921,17 +4943,39 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-		<concert>
-			<!-- Kenneth Kubernik -->
-			<date>May 25-30 (?)</date>
-			<place>Minneapolis, MN, USA</place>
+		<concert>s
+			<date>May 26</date>
+			<place>Walker Auditorium, Walker Art Center, Minneapolis, MN, USA</place>
 			<with>
-				<name>Charlie Haden (?)</name>
-				<name>Jan Garbarek</name>
-				<name>Paul Shure (?)</name>
-				<name>Orchestra</name>
+				<name>Saint Paul Chamber Orchestra</name>
+				<name>Dennis Russell Davies</name>
 			</with>
-			<comments>One or several concerts.</comments>
+			<privatecomments>From Marc Movan's list.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 28</date>
+			<place>Atrium, Butler Square, Minneapolis, MN, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Saint Paul Chamber Orchestra</name>
+			</with>
+			<privatecomments>From Marc Movan's list.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 29</date>
+			<place>State Theater, Minneapolis, MN, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Charlie Haden</name>
+				<name>Saint Paul Chamber Orchestra</name>
+			</with>
+			<privatecomments>From Marc Movan's list.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 30</date>
+			<place>Guthrie Theater, Minneapolis, MN, USA</place>
+			<with solo="yes"/>
+			<privatecomments>From Marc Movan's list.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -5022,8 +5066,7 @@
         	<!-- Mark Crutchfield-->
 			<date incomplete="yes">June</date>
 			<place>Lisner Auditorium, George Washington University (?), Washington, DC, USA</place>
-			<with>
-			</with>
+			<with solo="yes"/>
             <comments>Mentioned by Elton John in several interviews.</comments>
 		</concert>
 		<concert>
@@ -5046,15 +5089,15 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- -Arnulf Müller -->
 			<date>August 7</date>
-			<place>Jefferson (?), NH, USA</place>
+			<place>Waumbek Village, Jeffersons, NH, USA</place>
 			<event>White Mountains Festival</event>
 			<with>
 				<name instr="director">Dennis Russel Davies</name>
 				<name instr="orchestra">Unknown orchestra</name>
 			</with>
 			<comments>Concert mentioned in <a href="http://news.google.com/newspapers?nid=2209&amp;dat=19760713&amp;id=6XtjAAAAIBAJ&amp;sjid=0XkNAAAAIBAJ&amp;pg=5327,2006229">"White Mountains Festival Expected to Lure Thousands"</a></comments>
+			<privatecomments>Arnulf Müller. Location confirmed by Marc Movan.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -5072,6 +5115,14 @@
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
+		</concert>
+		<concert>
+			<date>October 20</date>
+			<place>Lincoln Center, Avery Fisher Hall, New York, NY, USA</place>
+			<event>ECM Festival of Music</event>
+			<with solo="yes"/>
+			<comments>New York Times: <a href="https://www.nytimes.com/1976/10/22/archives/jazz-whats-in-a-label.html">Jazz: What's in a Label?</a></comments>
+			<privatecomments>From Marc Morvan's list.</privatecomments>
 		</concert>
 		<concert>
 			<date>October 23</date>
@@ -5687,9 +5738,16 @@
 		</concert>
 		<concert>
 			<date>June 21</date>
-			<place>Washington, DC, USA</place>
+			<place>Wolf Trap Farm Park, Vienna, VA, USA</place>
 			<with solo="yes"/>
-			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+			<comments><a href="https://www.newspapers.com/newspage/224112304/">The Baltimore Sun</a></comments>
+			<privatecomments>From Rolf Rauschenbach's list. Exact location from Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
+			<date>June 24</date>
+			<place>Forum, Ontario Place, Toronto, ON, Canada</place>
+			<with solo="yes"/>
+			<privatecomments>From Marc Morvan's list.</privatecomments>
 		</concert>
 		<concert>
 			<date>June 29</date>
@@ -5704,15 +5762,16 @@
 		</concert>
 		<concert>
 			<date>August 29</date>
-			<place>Salle Wilfrid-Pelletier, Montréal, QC, Canada</place>
+			<place>Salle Wilfrid-Pelletier, Place des Arts, Montréal, QC, Canada</place>
 			<with solo="yes"/>
 			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
 		</concert>
 		<concert>
-			<!-- jazzmanxxi -->
-			<date incomplete="yes">September (?)</date>
+			<date>September 1</date>
 			<place>Tanglewood Music Shed, Lenox, MA, USA</place>
 			<with solo="yes"/>
+			<comments><a href="https://www.newspapers.com/newspage/241195636/">Hartford Courant</a></comments>
+			<privatecomments>jazzmanxxi. Exact date from Marc Morvan.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
