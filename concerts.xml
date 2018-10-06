@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="July 24, 2018">
+<concerts modified="October 6, 2018">
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -1037,16 +1037,15 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Malcolm Suttles -->
-			<!-- Pat Sigler -->
 			<date incomplete="yes"/>
 			<place>Reed College, Portland, OR, USA</place>
 			<with>
 				<name>Charles Lloyd</name>
-				<name>Ron McClure (?)</name>
+				<name>Ron McClure</name>
 				<name>Jack DeJohnette (?)</name>
 			</with>
-			<comments>Probably in 1968, but might also have been in 1967.</comments>
+			<comments>Year unknown (1967 or 1968 - or even 1969, but with Paul Motian in that case).</comments>
+			<privatecomments>Concert mentioned by Malcolm Suttles and Pat Sigler. Initial comments: "Probably in 1968, but might also have been in 1967." January 1969 according to Dan Schilling, but with Jack DeJohnette (which is unlikely).</privatecomments>
 		</concert>
 	</group>
 	<group year="1969">
@@ -1071,7 +1070,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
-		</concert>	
+		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>February 8</date>
@@ -2637,6 +2636,103 @@
 			<comments><i>Lennie's on the Turnpike/Philharmonic Hall</i> and <i>Live at Philharmonic Hall</i> are Miles Davis bootlegs.</comments>
 		</concert>
 		<concert>
+			<date>November 29</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack De Johnette</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+			<comments><a href="https://www.newspapers.com/newspage/435357685/">The Boston Globe</a>. The band played without Miles Davis that night.</comments>
+			<privatecomments>According to Marc Morvan's email (August 18, 2018).</privatecomments>
+		</concert>
+		<concert>
+			<date>November 30</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack De Johnette</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+			<comments><a href="https://www.newspapers.com/newspage/435357685/">The Boston Globe</a>.</comments>
+			<privatecomments>According to Marc Morvan's email (August 18, 2018).</privatecomments>
+		</concert>
+		<concert>
+			<date>December 1</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack De Johnette</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+			<comments><a href="https://www.newspapers.com/newspage/435357685/">The Boston Globe</a>.</comments>
+			<privatecomments>According to Marc Morvan's email (August 18, 2018).</privatecomments>
+		</concert>
+		<concert>
+			<date>December 2</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack De Johnette</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+			<comments><a href="https://www.newspapers.com/newspage/435357685/">The Boston Globe</a>.</comments>
+			<privatecomments>According to Marc Morvan's email (August 18, 2018).</privatecomments>
+		</concert>
+		<concert>
+			<date>December 3</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack De Johnette</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+			<comments><a href="https://www.newspapers.com/newspage/435357685/">The Boston Globe</a>.</comments>
+			<privatecomments>According to Marc Morvan's email (August 18, 2018).</privatecomments>
+		</concert>
+		<concert>
+			<date>December 4</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack De Johnette</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+			<comments><a href="https://www.newspapers.com/newspage/435357685/">The Boston Globe</a>.</comments>
+			<privatecomments>According to Marc Morvan's email (August 18, 2018).</privatecomments>
+		</concert>
+		<concert>
+			<date>December 5</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack De Johnette</name>
+				<name instr="percussions">Charles Don Alias</name>
+				<name instr="percussions">James Mtume Foreman</name>
+			</with>
+			<comments><a href="https://www.newspapers.com/newspage/435357685/">The Boston Globe</a>.</comments>
+			<privatecomments>According to Marc Morvan's email (August 18, 2018).</privatecomments>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>December 15</date>
 			<place>Gaslight Club, New York, NY, USA</place>
@@ -3427,15 +3523,28 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
-			<date>February 23</date>
-			<place>Hill Auditorium, Ann Arbor, MI, USA</place>
+			<date>February 22</date>
+			<place>Allen Theatre, Cleveland, OH, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
+				<name>Guilherme Franco</name>
 			</with>
-			<comments></comments>
+			<comments><a href="https://www.collectors.com/entertainment-item/gato-barbereri-esther-phillips-keith-jarrett-poster-clevela/2930245704786162393">Poster</a>.</comments>
+			<privatecomments>Accorsding to Marc Morvan's email.'</privatecomments>
+		</concert>
+		<concert>
+			<date>February 23</date>
+			<place>Hill Auditorium, University of Michigan, Ann Arbor, MI, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco</name>
+			</with>
+			<comments><a href="https://www.collectors.com/entertainment-item/1974-concert-poster-gato-barbieri-esther-phillips-keith-jar/-5027701036323963480">Poster</a>. <a href="https://theconcertdatabase.com/sites/theconcertdatabase.com/files/1974-02-23r1.jpg">Article</a>.</comments>
+			<privatecomments>Simon Savary. Confirmed by Marc Morvan (Guilherme Franco's presence in the band).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -3720,7 +3829,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Marc M.: "On the same bill, Gary Burton Quartet with Ralph Towner and Chamber Orchestra (in a press article published in 1976, it's mentioned Gary Burton premiered his quintet with Pat Metheny at the festival in 1974, so it could be Gary Burton Quintet and perhaps Ralph Towner wasn't there)." Articles: <a href="https://www.nytimes.com/1974/04/03/archives/jazz-festival-opens-june-28-with-more-compact-schedule.html">New York Times</a>, <a href="https://www.nytimes.com/1974/06/26/archives/a-listing-of-some-of-the-festivals-highlights.html">New York Times</a>.</comments>
+			<comments>Marc M.: the Gary Burton Quartet with Ralph Towner and Chamber Orchestra were on the same bill as the Keith Jarrett Quartet; according to an article in the New York Daily News published the day after the concert, "[t]he Keith Jarrett 4 and Gary Burton 4 along with guitarist Ralph Towner were on the Newport Jazz Festival bill [...] his backup musicians - Mick Goodrick, on guitar, Ted Seibs, on drums, and Steve Swallow, on bass - are all first-rate as well." Other articles: <a href="https://www.nytimes.com/1974/04/03/archives/jazz-festival-opens-june-28-with-more-compact-schedule.html">New York Times</a>, <a href="https://www.nytimes.com/1974/06/26/archives/a-listing-of-some-of-the-festivals-highlights.html">New York Times</a>.</comments>
 		</concert>
 		<concert>
 			<date>July 13</date>
@@ -3776,13 +3885,64 @@
 			<comments>Kenneth K.: "'In The Cave, In the Light' with strings, piano and Paul Motian, percussion. '3/4, for Piano and Orchestra' by Carla Bley - Jarrett soloist."</comments>
 		</concert>
 		<concert>
-			<date>September 18</date>
-			<place>Boston, MA, USA</place>
+			<date>September 17</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>According to Marc Morvan's email.</privatecomments>
+		</concert>
+		<concert>
+			<date>September 18</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>Exact venue given by Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
+			<date>September 19</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>According to Marc Morvan's email.</privatecomments>
+		</concert>
+		<concert>
+			<date>September 20</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>According to Marc Morvan's email.</privatecomments>
+		</concert>
+		<concert>
+			<date>September 21</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>According to Marc Morvan's email.</privatecomments>
+		</concert>
+		<concert>
+			<date>September 22</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>According to Marc Morvan's email.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik + Simon Savary -->
@@ -4497,7 +4657,18 @@
 			<comments>Keith Jarrett played after Oregon and before Thelonius Monk.</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
+			<date>September 13</date>
+			<time>8 PM</time>
+			<place>The Mosque, Richmond, VA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>The Mosque is now the Altria Theater. The Gary Burton Quintet with Eberhard Weber played before Keith Jarrett. Announced in the <a href="https://digital.library.vcu.edu/digital/collection/com/id/1825/rec/6">Commonwealth Times</a>. <a href="https://digital.library.vcu.edu/digital/collection/com/id/1847/rec/7">Review</a>.</comments>
+			<privatecomments>According to Marc Movan's email.</privatecomments>
+		</concert>
+		<concert>
 			<date>September 27</date>
 			<place>Campus of Michigan St. University, East Lansing, MI, USA</place>
 			<with>
@@ -4505,6 +4676,18 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Kenneth Kubernik.</privatecomments>
+		</concert>
+		<concert>
+			<date>September 28</date>
+			<place>Great Hall, Krannert Center for the Performing Arts, Urbana, IL, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Marc M.: date found in The Decatur Herald.</comments>
+			<privatecomments>According to Marc Movan's email.</privatecomments>
 		</concert>
 		<concert>
 			<date>September 30</date>
@@ -5509,11 +5692,10 @@
 	</group>
 	<group year="1979">
 		<concert>
-			<date>March  5</date>
+			<date>March 5</date>
 			<place>Boston Music Hall, Boston, MA, USA</place>
 			<with solo="yes"/>
-			<comments>Rolf R.: date could be incorrect.</comments>
-			<privatecomments>Simon Savary</privatecomments>
+			<privatecomments>Simon Savary ("je l'avais reçu comme Part II [de October 31, 1974], mais aussi comme concert autonome avec cette date [3 mai], d'où une certaine confusion sur l'authenticité de la date"). Date could be incorrect according to Rolf Rauschenbach, but is correct according to Marc Morvan (May 3 concert does not exist, confusion between 3/5 and 5/3).</privatecomments>
 		</concert>
 		<concert>
 			<date>March 28 (?)</date>
@@ -5650,12 +5832,38 @@
 			</with>
 			<comments>Tracks from two of the April 1979 concerts in Tokyo were included in <i>Personal Mountains</i></comments>
 		</concert>
-        <concert>
-        	<!-- Simon Savary: je l'avais reçu comme Part II [de October 31, 1974], mais aussi comme concert autonome avec cette date, d'où une certaine confusion sur l'authenticité de la date. -->
-			<date>May 3 (?)</date>
-			<place>Boston, MA, USA</place>
-			<with solo="yes"/>
-            <comments/>
+		<concert>
+			<date>May 4</date>
+			<place>Great American Music Hall, San Francisco, CA, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<comments></comments>
+			<privatecomments>According to Marc Morvan's email.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 5</date>
+			<place>Great American Music Hall, San Francisco, CA, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<comments></comments>
+			<privatecomments>According to Marc Morvan's email.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 6</date>
+			<place>Great American Music Hall, San Francisco, CA, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<comments></comments>
+			<privatecomments>According to Marc Morvan's email.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -5996,17 +6204,25 @@
 			<with solo="yes"/>
 			<comments>Kenneth K.: "The night before he played (solo) at the Pasadena Civic Auditorium (...) late in the month"</comments>
 		</concert>
-		<concert>
+        <concert>
 			<date>November 23</date>
-			<place>Auditorium Theatre, Roosevelt University, Chicago, IL, USA</place>
+			<place>Pick-Staiger Concert Hall, Northwestern University, Evanston, IL, USA</place>
 			<with solo="yes"/>
-			<privatecomments>According to email sent by Brian Ziegler on May 19, 2017.</privatecomments>
-		</concert>
+			<comments>Date is correct according to ticket scan.</comments>
+			<privatecomments>Concert first mentioned by Tom Keramidas ("I interviewed Keith Jarrett, then attended his concert sometime in the spring of 1982. The venue was Pick-Staiger Concert Hall, on the campus of Northwestern University, Evanston IL, USA. Evanston is a suburb of Chicago. It was a solo concert."). Exact date given by Bruce Dinsmor (ticket scan).</privatecomments>
+		</concert> 
 		<concert>
 			<date>November 25</date>
 			<place>Royal Oak Music Theatre, Royal Oak, MI, USA</place>
 			<with solo="yes"/>
 			<privatecomments>According to email sent by Susan Sauber on April 2, 2008: "I paid $11 plus the 85 cent ticketing  surchage.  I remember a beautiful set, although at one point he was annoyed by the coughing in the audience, he stopped playing, "conducted" the audience in coughing, then asked rather sarcastically if he could resume his playing in silence."</privatecomments>
+		</concert>
+		<concert>
+			<date incomplete="yes">November</date>
+			<place>Auditorium Theatre, Roosevelt University, Chicago, IL, USA</place>
+			<with solo="yes"/>
+			<comments>Date originally thought to be November 23, but I received a scan of a ticket stub for the Pick-Staiger Concert Hall concert on November 23. Brian Z.: "Not sure how to respond to the ticket stub. Maybe I had wrong date, but seems unlikely he would have played consecutive concerts in venues so physically close to each other."</comments>
+			<privatecomments>According to email sent by Brian Ziegler on May 19, 2017.</privatecomments>
 		</concert>
 		<concert>
 			<date>December 9</date>
@@ -6196,12 +6412,6 @@
 			<place>Dorothy Chandler Pavillion, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
 		</concert>
-		<concert>
-			<!-- Tom Keramidas -->
-			<date incomplete="yes"></date>
-			<place>Pick-Staiger Concert Hall, Northwestern University, Evanston, IL, USA</place>
-			<with solo="yes"/>
-		</concert> 
 	</group>
 	<group year="1983">
        <concert>
