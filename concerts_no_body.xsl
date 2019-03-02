@@ -44,7 +44,6 @@
             <li>Boston's Jazz Workshop, Boston, MA, USA, 1970-71 (with Miles Davis)</li> <!-- -Kenneth Kubernik -->
             <li>The Fox Inn, Ashbourne, Co. Meath, Ireland, maybe in 1971 (with Barre Phillips, bass, and Stu Martin, drums; they played for a whole week)</li>
             <li>University of Portland, Portland, OR, USA, around 1972 (probably 1970-71?) (1-hour workshop with Miles Davis, a drummer, and a saxophonist)</li> <!-- Craig Kerr -->
-            <li>Music Hall, Boston, MA, USA, on February 12 (the month/day are certain), maybe in 1971-1972</li>
             <li>Syracuse University, Syracuse, NY, USA, late October/early November of either 1971 or 1972 (unannounced solo concert, opening for Gato Barbieri)</li>
             <li>High School Auditorium, Santa Barbara, CA, USA, late 1974 or early to mid-1975 (solo concert)</li> <!-- John Marshall -->
             <li>Royal Festival Hall, London, UK, around 1979 (solo concert) (same as the March 29, 1980 concert?)</li>

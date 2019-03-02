@@ -16,7 +16,17 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 6, 2018">
+<concerts modified="March 2, 2019">
+	<group year="1951">
+		<concert>
+			<date incomplete="yes"/>
+			<event>A musical hour by pupils of Matilda G. Young</event>
+			<time>8:00 PM</time>
+			<place>Moravian Church, Coopersburg, PA, USA</place>
+			<with solo="yes"/>
+			<comments>The exact year is actually unknown. Keith Jarrett "was 5 or 6 at the time." More details are available in <a href="https://web.archive.org/web/20190302165821/https://www.tapatalk.com/groups/prorecordingworkshop/a-story-about-my-mom-keith-jarrett-t19411012.html">this post</a> (pictures of the programme, etc.). Keith played four pieces alone: Nocturn (Rovenger), Intermezzo (Handel), Für Elise (Beethoven), and Allegretto (Beethoven); one piece as a trio: When Robins Sing (Rowe); one piece as a duet: Minuet in G (Beethoven).</comments>
+		</concert>
+	</group>
 	<group year="1952">
 		<concert>
 			<date>April 22</date>
@@ -3547,16 +3557,87 @@
 			<privatecomments>Simon Savary. Confirmed by Marc Morvan (Guilherme Franco's presence in the band).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
+			<date>March 5</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>According to the <a href="https://www.newspapers.com/search/#lnd=1&amp;query=%22keith+jarrett+quartet%22+%22boston%22&amp;dr_year=1974-1974&amp;s_place=United+States+of+America">Boston Globe</a>.</comments>
+			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
+			<date>March 6</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>According to the <a href="https://www.newspapers.com/search/#lnd=1&amp;query=%22keith+jarrett+quartet%22+%22boston%22&amp;dr_year=1974-1974&amp;s_place=United+States+of+America">Boston Globe</a>.</comments>
+			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
+			<date>March 7</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>According to the <a href="https://www.newspapers.com/search/#lnd=1&amp;query=%22keith+jarrett+quartet%22+%22boston%22&amp;dr_year=1974-1974&amp;s_place=United+States+of+America">Boston Globe</a>.</comments>
+			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
+			<date>March 8</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>According to the <a href="https://www.newspapers.com/search/#lnd=1&amp;query=%22keith+jarrett+quartet%22+%22boston%22&amp;dr_year=1974-1974&amp;s_place=United+States+of+America">Boston Globe</a>.</comments>
+			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
+			<date>March 9</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>According to the <a href="https://www.newspapers.com/search/#lnd=1&amp;query=%22keith+jarrett+quartet%22+%22boston%22&amp;dr_year=1974-1974&amp;s_place=United+States+of+America">Boston Globe</a>.</comments>
+			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
+			<date>March 10</date>
+			<place>Jazz Workshop, Boston, MA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco (?)</name>
+			</with>
+			<comments>According to the <a href="https://www.newspapers.com/search/#lnd=1&amp;query=%22keith+jarrett+quartet%22+%22boston%22&amp;dr_year=1974-1974&amp;s_place=United+States+of+America">Boston Globe</a>.</comments>
+			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
 			<date>March 17</date>
 			<place>Alice Tully Hall, Lincoln Center, New York, NY, USA</place>
 			<with>
 				<name instr="director">Dennis Russel Davies</name>
 			</with>
 			<comments>Kenneth K.: "Jarrett was the featured soloist in Carla Bley's '3/4, for Piano and Orchestra' conducted by Dennis Russell Davies. (...) This may be his first encounter with Dennis Russell Davies with whom he would work over the next two decades. Bley's piece required a pianist well above her skill set; not sure exactly how Jarrett was approached but the concert took place on a Sunday afternoon, just two days before his engagement at the Vanguard. Jarrett would reprise this performance that December in Minneapolis, where he performed a series of concerts for quartet and serious compositions, including a piece from 'In the Light'."</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 19</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3566,9 +3647,9 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 20</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3578,9 +3659,9 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 21</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3590,9 +3671,9 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 22</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3602,9 +3683,9 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 23</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3614,9 +3695,9 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 24</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3626,6 +3707,7 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<date>April 14</date>
@@ -3661,7 +3743,6 @@
 			<privatecomments>More information from Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 28</date>
 			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
 			<with>
@@ -3670,9 +3751,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments/>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 29</date>
 			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
 			<with>
@@ -3681,9 +3762,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments/>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 30</date>
 			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
 			<with>
@@ -3692,9 +3773,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments/>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 31</date>
 			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
 			<with>
@@ -3703,9 +3784,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments/>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 1</date>
 			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
 			<with>
@@ -3714,9 +3795,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments/>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 2</date>
 			<place>The Lighthouse Café, Hermosa Beach, CA, USA</place>
 			<with>
@@ -3725,9 +3806,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments/>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 4</date>
 			<place>Keystone Korner, San Francisco, CA, USA</place>
 			<with>
@@ -3736,9 +3817,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "It was at this engagement where the 'legendary' baby bottle incident took place"</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 5</date>
 			<place>Keystone Korner, San Francisco, CA, USA</place>
 			<with>
@@ -3747,9 +3828,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments/>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 6</date>
 			<place>Keystone Korner, San Francisco, CA, USA</place>
 			<with>
@@ -3758,9 +3839,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments/>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 7</date>
 			<place>Keystone Korner, San Francisco, CA, USA</place>
 			<with>
@@ -3769,9 +3850,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments/>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 8</date>
 			<place>Keystone Korner, San Francisco, CA, USA</place>
 			<with>
@@ -3780,9 +3861,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments/>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 9</date>
 			<place>Keystone Korner, San Francisco, CA, USA</place>
 			<with>
@@ -3791,6 +3872,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments/>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<date>June 11</date>
@@ -3874,7 +3956,6 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>August 24</date>
 			<place>Cabrillo College, Aptos, CA, USA</place>
 			<event>Cabrillo Festival of Contemporary Music</event>
@@ -3883,6 +3964,7 @@
 				<name>Unknown orchestra</name>
 			</with>
 			<comments>Kenneth K.: "'In The Cave, In the Light' with strings, piano and Paul Motian, percussion. '3/4, for Piano and Orchestra' by Carla Bley - Jarrett soloist."</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<date>September 17</date>
@@ -4022,7 +4104,6 @@
             <comments/>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 22</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4030,9 +4111,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 23</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4040,9 +4121,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 24</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4050,9 +4131,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 25</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4060,9 +4141,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 26</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4070,9 +4151,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 27</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4080,6 +4161,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
         <concert>
         	<!-- Simon Savary: je l'avais reçu comme Boston 31.10.74 originalement, mais avec 2 parties. La deuxième partie provenait finalement d'une autre source (May 3, 1979) -->
@@ -4090,7 +4172,17 @@
 			<comments>Kenneth K.: "Gary Burton opening"</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
+			<date>November 2</date>
+			<place>Gymnasium, Runnals Union, Colby College, Waterville, ME, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>According to the <a href="http://digital.olivesoftware.com/Olive/APA/ColbyCollege/default.aspx#panel=home">Colby Echo</a>. The Gary Burton Quintet also played that night.</comments>
+			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
 			<date incomplete="yes">November</date>
 			<place>Trey's Lounge, Philadelphia, PA, USA</place>
 			<with>
@@ -4099,6 +4191,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "Interestingly, my source only reports the trio playing. That could be a misprint or possibly Dewey didn't make the date because of conflicting schedules. It was not without precedent."</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Peter Elsdon / New York Times -->
@@ -4168,23 +4261,22 @@
             <comments/>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>December 20</date>
 			<place>Federal Court Building, St. Paul, MN, USA</place>
 			<with>
 				<name>St. Paul Chamber Orchestra</name>
 			</with>
             <comments>Kenneth K.: "'An Open Confrontation with Keith Jarrett' - part of the St. Paul Chamber Orchestra 'Perspectives Series'."</comments>
+            <privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
-
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>December 21</date>
 			<place>O'Shaughnessy Theatre, St Paul, MN, USA</place>
 			<with>
 				<name instr="director">Dennis Russel Davies</name>
 			</with>
             <comments>Kenneth K.: "'In the Cave, In the Light'. '3/4, for Piano and Orchestra'.</comments>
+            <privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
         </concert>
 		<concert>
 			<!-- Richard Paske -->
@@ -4307,7 +4399,6 @@
 			<comments>David R. M.: "He played both solo and with a band, presumably with Redman, Haden and Motian. As I recall, there were two sets. (...) As best I can remember, there were two separate sets and in the middle of at least one, the rest of the band slowly left the stage one by one leaving Mr. Jarrett to perform solo. After a time--perhaps 20 or 30 minutes--they returned to stage, once again one [by one] and resumed playing together."</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 4</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4316,9 +4407,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Two shows a night?</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 5</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4327,9 +4418,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Two shows a night?</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 6</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4338,9 +4429,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Two shows a night?</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 7</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4349,9 +4440,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Two shows a night?</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 8</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4360,9 +4451,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Two shows a night?</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 9</date>
 			<place>In Concert Club, Montréal, QC, Canada</place>
 			<with>
@@ -4371,6 +4462,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Two shows a night?</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Peter Elsdon -->
@@ -4382,11 +4474,11 @@
             <privatecomments>Time and Gato Barbieri concert from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">March</date>
 			<place>Queen Elizabeth Playhouse, Vancouver, BC, Canada</place>
 			<with solo="yes"/>
             <comments>Kenneth K.: "This was probably the weekend following his gig in LA."</comments>
+            <privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Howard Courtney -->
@@ -4395,7 +4487,6 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 25</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4404,9 +4495,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>2-3 shows a night?</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 26</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4415,9 +4506,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>2-3 shows a night?</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 27</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4426,9 +4517,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>2-3 shows a night?</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 28</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4437,9 +4528,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>2-3 shows a night?</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 29</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4448,6 +4539,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>2-3 shows a night?</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -5997,6 +6089,12 @@
 	</group>
 	<group year="1980">
 		<concert>
+			<date>February 12</date>
+			<place>Music Hall, Boston, MA, USA</place>
+			<with solo="yes"/>
+			<privatecomments>Exact date (year) by Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
 			<date>March 22</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
 			<release>The Celestial Hawk</release>
@@ -6477,6 +6575,13 @@
 			<date>July 8</date>
 			<place>Arènes, Nîmes, France</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>July 10</date>
+			<place>Piazza Duomo, Trento, Italy</place>
+			<with solo="yes"/>
+			<comments>Mentioned <a href="https://www.pressreader.com/italy/corriere-della-sera-la-lettura/20190106/282565904276418">here</a> and <a href="https://www.facebook.com/photo.php?fbid=10211664389712602&amp;set=a.10211664381312392&amp;type=3&amp;theater">here</a>.</comments>
+			<privatecomments>Links sent by Arnulf Müller.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Jazz Magazine -->
@@ -7678,6 +7783,28 @@
 		</concert>
 	</group>
 	<group year="1988">
+		<concert>
+			<date>January 15</date>
+			<time>8:00 PM</time>
+			<place>Symphony Hall, Boston, MA, USA</place>
+			<with>
+				<name instr="conductor">Christopher Hogwood</name>
+				<name instr="orchestra">Haendel &amp; Haydn Society Orchestra</name>
+			</with>
+			<comments>According to <a href="https://www.csmonitor.com/1988/0119/ljarr.html">this article</a>. Program: "Symphony No. 4 (Haydn), Piano Concerto in C, K. 467 (Mozart), A Solo Piano Improvisation (Jarrett), Classical Symphony (Prolofiev)".</comments>
+			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
+			<date>January 17</date>
+			<time>3:00 PM</time>
+			<place>Symphony Hall, Boston, MA, USA</place>
+			<with>
+				<name instr="conductor">Christopher Hogwood</name>
+				<name instr="orchestra">Haendel &amp; Haydn Society Orchestra</name>
+			</with>
+			<comments>According to <a href="https://www.csmonitor.com/1988/0119/ljarr.html">this article</a>. Program: "Symphony No. 4 (Haydn), Piano Concerto in C, K. 467 (Mozart), A Solo Piano Improvisation (Jarrett), Classical Symphony (Prolofiev)".</comments>
+			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
+		</concert>
         <concert>
 			<date>April 7</date>
 			<place>Kanagawa Kenmin Hall, Yokohama, Japan</place>
