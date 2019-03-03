@@ -4679,7 +4679,7 @@
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>June 26</date>
-			<place>Amazing Grace, Evanston, IL, USA</place>
+			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -4691,7 +4691,7 @@
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>June 27</date>
-			<place>Amazing Grace, Evanston, IL, USA</place>
+			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -4703,7 +4703,7 @@
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>June 28</date>
-			<place>Amazing Grace, Evanston, IL, USA</place>
+			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -4715,7 +4715,7 @@
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>June 29</date>
-			<place>Amazing Grace, Evanston, IL, USA</place>
+			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -4727,7 +4727,7 @@
 		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>June 30</date>
-			<place>Amazing Grace, Evanston, IL, USA</place>
+			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -4915,6 +4915,27 @@
 			<date incomplete="yes">Autumn</date>
 			<place>Villingen-Schwenningen, Germany</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>December 3</date>
+			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
+			<with solo="yes"/>
+            <comments>Bruce D. (about one the three nights at Amazingrace Coffeehouse in December 1975): "Keith left the stage at one point because the heating system kept turning on and off, it was cold in Chicago. The unit seemed to be right above his head and he wasn't happy with the noise."</comments>
+            <privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
+		</concert>
+		<concert>
+			<date>December 4</date>
+			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
+			<with solo="yes"/>
+            <comments>See December 3, 1975 comments.</comments>
+            <privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
+		</concert>
+		<concert>
+			<date>December 5</date>
+			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
+			<with solo="yes"/>
+            <comments>See December 3, 1975 comments.</comments>
+            <privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
 		</concert>
 		<concert>
 			<!-- stupidrule2001@yahoo.com -->
@@ -6079,6 +6100,12 @@
 			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
 		</concert>
+		<concert>
+			<date>November 4</date>
+			<place>Auditorium Theatre, Roosevelt University, Chicago, IL, USA</place>
+			<with solo="yes"/>
+			<privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
+		</concert>
         <concert>
 			<!-- Volker R. Jacobs -->
 			<date incomplete="yes"/>
@@ -6491,6 +6518,12 @@
 			<date>November 7</date>
 			<place>Usher Hall, Edinburgh, UK</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>December 4</date>
+			<place>Orchestra Hall, Chicago, IL, USA</place>
+			<with solo="yes"/>
+			<privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
 		</concert>
 		<concert>
 			<date>December 6</date>
