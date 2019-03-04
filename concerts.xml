@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 3, 2019">
+<concerts modified="March 4, 2019">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -2811,14 +2811,15 @@
 	</group>
 	<group year="1972">
 		<concert>
-			<!-- Guy Berger -->
-			<date>February 22-27 (?)</date>
+			<date>February 22-27</date>
 			<place>Slug's, New York, NY, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<comments>The advertisement is shown in the <i>I Called Him Morgan</i> documentary (at 1:03:48). Leonhard S.: "Three days before the Jarrett trio gig Lee Morgan was shot at Slug's, so you can imagine that this event overshadowed the gig."</comments>
+			<privatecomments>Originally mentioned by Guy Berger. Date confirmed by. Leonhard Schilde.</privatecomments>
 		</concert>
         <concert>
         	<!-- Radio recording circulating -->
