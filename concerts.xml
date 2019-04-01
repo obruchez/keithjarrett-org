@@ -16,12 +16,12 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 4, 2019">
+<concerts modified="April 1, 2019">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
 			<event>A musical hour by pupils of Matilda G. Young</event>
-			<time>8:00 PM</time>
+			<time>8 PM</time>
 			<place>Moravian Church, Coopersburg, PA, USA</place>
 			<with solo="yes"/>
 			<comments>The exact year is actually unknown. Steve M.: "[Keith Jarrett] was 5 or 6 at the time. [...] He was so little his feet couldn't reach the pedals - so before he played someone would attach extensions to them. And after they'd get removed." More details are available in <a href="https://web.archive.org/web/20190302165821/https://www.tapatalk.com/groups/prorecordingworkshop/a-story-about-my-mom-keith-jarrett-t19411012.html">this post</a> (pictures of the programme, etc.). Keith played four pieces alone: Nocturn (Rovenger), Intermezzo (Handel), Für Elise (Beethoven), and Allegretto (Beethoven); one piece as a trio: When Robins Sing (Rowe); one piece as a duet: Minuet in G (Beethoven).</comments>
@@ -39,7 +39,7 @@
 	<group year="1953">
 		<concert>
 			<date>April 12</date>
-			<time>3:00 PM</time>
+			<time>3 PM</time>
 			<place>Woman's Club Auditorium, Allentown, PA, USA</place>
 			<with solo="yes"/>
 			<comments>Keith Jarrett played compositions by Mozart, Bach, Brahms, Beethoven, etc., as well as personal compositions ("A Walk in the Zoo" and "Mountain Scene"). The complete programme is included in "Keith Jarrett: The Man And His Music".</comments>
@@ -1473,7 +1473,7 @@
 			<date>December 9</date>
 			<place>Stockholm, Sweden</place>
 			<with>
-				<name>Charlie Haden (?)</name>
+				<name>August "Gus" Nemeth (?)</name>
 				<name>Paul Motian (?)</name>
 			</with>
 		</concert>
@@ -1481,9 +1481,39 @@
 			<date>December 13</date>
 			<place>Helsingborg, Sweden</place>
 			<with>
-				<name>Charlie Haden (?)</name>
+				<name>August "Gus" Nemeth (?)</name>
 				<name>Paul Motian (?)</name>
 			</with>
+		</concert>
+		<concert>
+			<date>December 17</date>
+			<time>9 PM</time>
+			<place>Alma II, Leuven, Belgium</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>Date given by Matthias Bohlen (flyer).</privatecomments>
+		</concert>
+		<concert>
+			<date>December 18</date>
+			<time>8 PM</time>
+			<place>Auditoire Paul-Emile Janson, Université Libre de Bruxelles (ULB), Brussels, Belgium</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>Date given by Matthias Bohlen (flyer).</privatecomments>
+		</concert>
+		<concert>
+			<date>December 19</date>
+			<time>8:30 PM</time>
+			<place>Samson, Antwerpen, Belgium</place>
+			<with>
+				<name>August "Gus" Nemeth</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>Date given by Matthias Bohlen (flyer).</privatecomments>
 		</concert>
 	</group>
 	<group year="1970">
@@ -7819,7 +7849,7 @@
 	<group year="1988">
 		<concert>
 			<date>January 15</date>
-			<time>8:00 PM</time>
+			<time>8 PM</time>
 			<place>Symphony Hall, Boston, MA, USA</place>
 			<with>
 				<name instr="conductor">Christopher Hogwood</name>
@@ -7830,7 +7860,7 @@
 		</concert>
 		<concert>
 			<date>January 17</date>
-			<time>3:00 PM</time>
+			<time>3 PM</time>
 			<place>Symphony Hall, Boston, MA, USA</place>
 			<with>
 				<name instr="conductor">Christopher Hogwood</name>
@@ -8505,8 +8535,15 @@
 			<!-- Klaus Lipinski -->
 			<date>October 21</date>
 			<place>Beethovenhalle, Bonn, Germany</place>
-			<with/>
+			<with solo="yes"/>
 			<comments>Keith played a Mozart concerto, KV 467. The orchestra, conducted by Dennis Russel Davies, also played "Bridge of Light for Viola and Orchestra" and Stravinsky compositions (?).</comments>
+		</concert>
+		<concert>
+			<date>October 26</date>
+			<place>Beethoven-Halle, Bonn, Germany</place>
+			<with/>
+			<comments>Keith played 24 Preludes and Fugues, Op. 87 by Dmitri Shostakovich, in the context of <i>Tage der alten Musik</i> (<i>Days of Old Music</i>).</comments>
+			<privatecomments>Klaus Lipinski. Exact date given by Matthias Bohlen and Arnulf Müller.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Klaus Lipinski -->
@@ -8514,13 +8551,6 @@
 			<place>Cologne, Germany</place>
 			<with/>
 			<comments>Same program as on October 21.</comments>
-		</concert>
-		<concert>
-			<!-- Klaus Lipinski -->
-			<date incomplete="yes">October</date>
-			<place>Beethoven-Haus, Bonn, Germany</place>
-			<with/>
-			<comments>Keith played a Shostakovich recital.</comments>
 		</concert>
 		<concert>
 			<!-- marton.ati@t-online.hu -->
