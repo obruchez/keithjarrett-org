@@ -8535,13 +8535,16 @@
 			<!-- Klaus Lipinski -->
 			<date>October 21</date>
 			<place>Beethovenhalle, Bonn, Germany</place>
-			<with solo="yes"/>
+			<with>
+				<name instr="director">Dennis Russel Davies</name>
+				<name instr="orchestra">Unknown orchestra</name>
+			</with>
 			<comments>Keith played a Mozart concerto, KV 467. The orchestra, conducted by Dennis Russel Davies, also played "Bridge of Light for Viola and Orchestra" and Stravinsky compositions (?).</comments>
 		</concert>
 		<concert>
 			<date>October 26</date>
 			<place>Beethoven-Halle, Bonn, Germany</place>
-			<with/>
+			<with solo="yes"/>
 			<comments>Keith played 24 Preludes and Fugues, Op. 87 by Dmitri Shostakovich, in the context of <i>Tage der alten Musik</i> (<i>Days of Old Music</i>).</comments>
 			<privatecomments>Klaus Lipinski. Exact date given by Matthias Bohlen and Arnulf Müller.</privatecomments>
 		</concert>
