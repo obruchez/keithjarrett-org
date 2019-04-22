@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 8, 2019">
+<concerts modified="April 22, 2019">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -7625,6 +7625,13 @@
 		</concert>
 	</group>
 	<group year="1987">
+		<concert>
+			<date>March 7</date>
+			<place>Troy Savings Bank Music Hall , New York, NY, USA</place>
+			<with solo="yes"/>
+			<release>J.S. Bach: The Well-Tempered Clavier, Book I</release>
+			<comments>Keith Jarrett played BWV 846-869 (The Well-Tempered Clavier, Book I) and possibly other pieces.</comments>
+		</concert>
 		<concert>
 			<!-- Arnulf Müller -->
 			<date>March 27</date>
