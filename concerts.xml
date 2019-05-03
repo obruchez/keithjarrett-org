@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 22, 2019">
+<concerts modified="May 3, 2019">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -83,6 +83,16 @@
 				<name instr="tenor saxophone">Frank Mitchell</name>
 				<name instr="bass">Reggie Johnson</name>
 			</with>
+		</concert>
+		<concert>
+			<date>April 28</date>
+			<place>Kulttuuritalo, Helsinki, Sweden</place>
+			<with>
+				<name>Charles Lloyd</name>
+				<name>Cecil McBee</name>
+				<name>Jack DeJohnette</name>
+			</with>
+			<privatecomments>Information received from Johan Hauknes.</privatecomments>
 		</concert>
 		<concert>
 			<date>April 29</date>
