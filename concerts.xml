@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 3, 2019">
+<concerts modified="June 7, 2019">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -10591,7 +10591,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
         </concert>
         <concert>
             <date>July 16</date>
-            <place>Palazzo del Te, Mantua, Italy</place>
+            <place>Palazzo Te, Mantua, Italy</place>
             <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
