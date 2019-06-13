@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 7, 2019">
+<concerts modified="June 13, 2019">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -2946,6 +2946,13 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>The year is uncertain. This concert might have taken place in 1972 or 1973.</comments>
+		</concert>
+		<concert>
+			<date incomplete="yes"/>
+			<place>Crouse College Auditorium, Syracuse University, Syracuse, NY, USA</place>
+			<with solo="yes"/>
+			<comments>The year is uncertain. Bill V.: "I saw Keith play solo at Syracuse University at the Crouse College Auditorium. I’m thinking it was a Saturday night in 1971, maybe 1972. He was the only artist on the bill. He did not open for Gato Barbieri or anyone else when I saw him. I do remember the PA was picking up the local university radio station which irritated Keith to the point he asked the audience if they wanted to listen to the radio or him play the piano. He played most of the concert without any sound reinforcement. My friend and I did visit Keith backstage after the concert."</comments>
+			<privatecomments>Mentioned by Bill Vosteen.</privatecomments>
 		</concert>
 	</group>
 	<group year="1973">
