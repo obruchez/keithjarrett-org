@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 14, 2019">
+<concerts modified="October 13, 2019">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -4797,6 +4797,17 @@
 			<comments>Keith Jarrett played after Oregon and before Thelonius Monk.</comments>
 		</concert>
 		<concert>
+			<date>August 15</date>
+			<place>Cabrillo College Theater, Aptos, CA, USA</place>
+			<event>Cabrillo Music Festival</event>
+			<with>
+				<name>Unknown orchestra</name>
+				<name>Dennis Russell Davies</name>
+			</with>
+			<comments>The following piece at least was played: "In The Cave, In The Light", for strings, percussion, and piano.</comments>
+			<privatecomments>Marc Movan's email (September 29, 2019).</privatecomments>
+		</concert>
+		<concert>
 			<date>September 13</date>
 			<time>8 PM</time>
 			<place>The Mosque, Richmond, VA, USA</place>
@@ -4807,6 +4818,61 @@
 			</with>
 			<comments>The Mosque is now the Altria Theater. The Gary Burton Quintet with Eberhard Weber played before Keith Jarrett. Announced in the <a href="https://digital.library.vcu.edu/digital/collection/com/id/1825/rec/6">Commonwealth Times</a>. <a href="https://digital.library.vcu.edu/digital/collection/com/id/1847/rec/7">Review</a>.</comments>
 			<privatecomments>According to Marc Movan's email.</privatecomments>
+		</concert>
+		<concert>
+			<date>September 16</date>
+			<place>Great Southeast Music Hall, Atlanta, GA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Mentioned on <a href="http://jerrygarciasbrokendownpalaces.blogspot.com/2011/12/great-southeast-music-hall-broadview.html">Jerry's Brokendown Palaces</a>.</comments>
+			<privatecomments>Marc Movan's email (September 29, 2019).</privatecomments>
+		</concert>
+		<concert>
+			<date>September 17</date>
+			<place>Great Southeast Music Hall, Atlanta, GA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Mentioned on <a href="http://jerrygarciasbrokendownpalaces.blogspot.com/2011/12/great-southeast-music-hall-broadview.html">Jerry's Brokendown Palaces</a>.</comments>
+			<privatecomments>Marc Movan's email (September 29, 2019).</privatecomments>
+		</concert>
+		<concert>
+			<date>September 18</date>
+			<place>Great Southeast Music Hall, Atlanta, GA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Mentioned on <a href="http://jerrygarciasbrokendownpalaces.blogspot.com/2011/12/great-southeast-music-hall-broadview.html">Jerry's Brokendown Palaces</a>.</comments>
+			<privatecomments>Marc Movan's email (September 29, 2019).</privatecomments>
+		</concert>
+		<concert>
+			<date>September 19</date>
+			<place>Great Southeast Music Hall, Atlanta, GA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Mentioned on <a href="http://jerrygarciasbrokendownpalaces.blogspot.com/2011/12/great-southeast-music-hall-broadview.html">Jerry's Brokendown Palaces</a>.</comments>
+			<privatecomments>Marc Movan's email (September 29, 2019).</privatecomments>
+		</concert>
+		<concert>
+			<date>September 20</date>
+			<place>Great Southeast Music Hall, Atlanta, GA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Mentioned on <a href="http://jerrygarciasbrokendownpalaces.blogspot.com/2011/12/great-southeast-music-hall-broadview.html">Jerry's Brokendown Palaces</a>.</comments>
+			<privatecomments>Marc Movan's email (September 29, 2019).</privatecomments>
 		</concert>
 		<concert>
 			<date>September 27</date>
@@ -6254,11 +6320,11 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 21</date>
 			<place>Boston Opera House, Boston, MA, USA</place>
 			<with solo="yes"/>
-			<comments>Mark M.: “He had a piano, harpsichord and at least one other keyboard onstage and he went back and forth amongst these instruments during the same song. Also, I recall the beginning of the concert was delayed because someone coughed and he glared out into the dark concert hall, waited several minutes and asked rhetorically if he could proceed – no one dared say anything. He then played wonderfully.” Kenneth K.: "It was a 'birthday celebration' for J.S. Bach, with Jarrett improvising on the clavichord, harpsichord, and piano. Much of the piano performance revolved around a long rumination on the tune 'Happy Birthday.' This is the only time he's ever performed live on a clavichord, and it took the audience a awhile to comprehend the sight and sound of this peculiar instrument. A review of the concert described the audience reaction as ecstatic."</comments>
+			<comments>Mark M.: “He had a piano, harpsichord and at least one other keyboard onstage and he went back and forth amongst these instruments during the same song. Also, I recall the beginning of the concert was delayed because someone coughed and he glared out into the dark concert hall, waited several minutes and asked rhetorically if he could proceed – no one dared say anything. He then played wonderfully.” Kenneth K.: "It was a 'birthday celebration' for J.S. Bach, with Jarrett improvising on the clavichord, harpsichord, and piano. Much of the piano performance revolved around a long rumination on the tune 'Happy Birthday.' This is the only time he's ever performed live on a clavichord, and it took the audience a awhile to comprehend the sight and sound of this peculiar instrument. A review of the concert described the audience reaction as ecstatic." The concert is mentioned on <a href="https://www.stereophile.com/content/dancing-edge-keith-jarrett-music-art">Stereophile</a>.</comments>
+			<privatecomments>Most information about this concert comes from Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<date>April 11</date>
@@ -6630,6 +6696,31 @@
 			<privatecomments>From Marc Morvan.</privatecomments>
 		</concert>
 		<concert>
+			<date>May 13</date>
+			<place>Portland Civic Auditorium, Portland, OR, USA</place>
+			<with solo="yes"/>
+            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>May 15</date>
+			<place>Seattle Opera House, Seattle, WA, USA</place>
+			<with solo="yes"/>
+            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>May 17</date>
+			<place>Royal Theatre, Victoria, BC, Canada</place>
+			<with solo="yes"/>
+            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>May 18</date>
+			<place>Orpheum Theatre, Vancouver, BC, Canada</place>
+			<with solo="yes"/>
+			<comments>This concert was cancelled ("lack of ticket sales").</comments>
+            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+		</concert>
+		<concert>
 			<date>May 22</date>
 			<place>Memorial Auditorium, Stanford University, San Francisco, CA, USA</place>
 			<with solo="yes"/>
@@ -6759,17 +6850,29 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<date>November 19</date>
+			<place>Louise M. Davies Symphony Hall, San Francisco, CA, USA</place>
+			<with solo="yes"/>
+			<comments>Kenneth K.: "Stravinsky Piano Concerto".</comments>
+			<privatecomments>Concert first mentioned by Kenneth Kubernik. Correct date by Marc Morvan (September 29, 2019 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>November 21</date>
+			<place>Hancher Auditorium, University of Iowa, Iowa City, IA, USA</place>
+			<with solo="yes"/>
+            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>November 23</date>
+			<place>Uihlein Hall, Performing Arts Center, Milwaukee, WI, USA</place>
+			<with solo="yes"/>
+            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+		</concert>
+		<concert>
 			<!-- Doug Nordfors -->
 			<date>December 3</date>
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with solo="yes"/>
-		</concert>
-		<concert>
-			<!-- Kenneth Kubernik -->
-			<date>December 3 (?)</date>
-			<place>Louise M. Davies Symphony Hall, San Francisco, CA, USA</place>
-			<with solo="yes"/>
-			<comments>Kenneth K.: "Stravinsky Piano Concerto". Date conflict with New York concert above.</comments>
 		</concert>
 		<concert>
 			<date>December 7</date>
@@ -6782,6 +6885,12 @@
 			<with solo="yes"/>
 			<comments>Richard R.: "Somebody shouted out something about Koln and he said "now people want my colon" and everybody laughed." Mark: "There was an incident with a watch alarm that went off during a quiet piece. He stormed off the stage and after what seemed like over a minute or two, came back to warm applause. As he reached the piano someone yelled out "We love you!", to which he replied "I don't want your love."" Concert mentioned in <a href="https://www.newspapers.com/newspage/72809120/">The Pantagraph</a>.</comments>
 			<privatecomments>Mentioned by Richard Roehl and Mark "in Santa Monica". Exact date from Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
+			<date>December 11</date>
+			<place>Severance Hall, Cleveland, OH, USA</place>
+			<with solo="yes"/>
+            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Seth Melchert -->
