@@ -3958,8 +3958,9 @@
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
+				<name>Guilherme Franco</name>
 			</with>
-			<comments>Marc M.: the Gary Burton Quartet with Ralph Towner and Chamber Orchestra were on the same bill as the Keith Jarrett Quartet; according to an article in the New York Daily News published the day after the concert, "[t]he Keith Jarrett 4 and Gary Burton 4 along with guitarist Ralph Towner were on the Newport Jazz Festival bill [...] his backup musicians - Mick Goodrick, on guitar, Ted Seibs, on drums, and Steve Swallow, on bass - are all first-rate as well." Other articles: <a href="https://www.nytimes.com/1974/04/03/archives/jazz-festival-opens-june-28-with-more-compact-schedule.html">New York Times</a>, <a href="https://www.nytimes.com/1974/06/26/archives/a-listing-of-some-of-the-festivals-highlights.html">New York Times</a>.</comments>
+			<comments>Marc M.: the Gary Burton Quartet with Ralph Towner and Chamber Orchestra were on the same bill as the Keith Jarrett Quartet; according to an article in the New York Daily News published the day after the concert, "[t]he Keith Jarrett 4 and Gary Burton 4 along with guitarist Ralph Towner were on the Newport Jazz Festival bill [...] his backup musicians - Mick Goodrick, on guitar, Ted Seibs, on drums, and Steve Swallow, on bass - are all first-rate as well." Other articles: <a href="https://www.nytimes.com/1974/04/03/archives/jazz-festival-opens-june-28-with-more-compact-schedule.html">New York Times</a>, <a href="https://www.nytimes.com/1974/06/26/archives/a-listing-of-some-of-the-festivals-highlights.html">New York Times</a>. Presence of Guilherme Franco confirmed by <a href="https://www.nytimes.com/1974/07/04/archives/jarrett-five-improvises-in-wellpaced-program.html">a New York Times article</a>.</comments>
 		</concert>
 		<concert>
 			<date>July 13</date>
@@ -5887,23 +5888,42 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Neil Allin Elphick -->
+			<date>November 11</date>
+			<place>School of Music, Canberra, Australia</place>
+			<with solo="yes"/>
+			<privatecomments>According to Terry Saundry's email (1978 tour flyer).</privatecomments>
+		</concert>
+		<concert>
+			<date>November 13</date>
+			<place>Concert Hall, Perth, Australia</place>
+			<with solo="yes"/>
+			<privatecomments>According to Terry Saundry's email (1978 tour flyer).</privatecomments>
+		</concert>
+		<concert>
+			<date>November 15</date>
+			<place>Dallas Brooks Hall, Melbourne, Australia</place>
+			<with solo="yes"/>
+			<privatecomments>According to Terry Saundry's email (1978 tour flyer).</privatecomments>
+		</concert>
+		<concert>
 			<date>November 17</date>
 			<place>Sydney Opera House, Sydney, Australia</place>
 			<with solo="yes"/>
+			<privatecomments>According to Terry Saundry's email (1978 tour flyer). First mentioned by Neil Allin Elphick.</privatecomments>
 		</concert>
 		<concert>
 			<date>November 19</date>
 			<place>Adelaide Festival Centre, Adelaide, Autralia</place>
 			<with solo="yes"/>
-			<comments>Victor P.: "He walked out - played half the concert. Intermission - walked back on - played the other half. Walked off - it was fantastic." (year is uncertain) Robert B.: "The concert was in a small venue in the Adelaide Festival Complex that would have held an audience of only 200 or so, nothing but perfect silence - no coughing or photos! (...) He spent most of the time playing in a crouched position off the stool, vocalizing and gesticulating toward the piano with his torso. He played one very long amazing improvisation, then approached the microphone, his fingers drumming its stem, and said "I'll be back later... to play some more of whatever that was"."" (this might be another concert than Victor, maybe in the mid-70s)</comments>
+			<comments>Victor P.: "He walked out - played half the concert. Intermission - walked back on - played the other half. Walked off - it was fantastic." (year is uncertain) Robert B.: "The concert was in a small venue in the Adelaide Festival Complex that would have held an audience of only 200 or so, nothing but perfect silence - no coughing or photos! (...) He spent most of the time playing in a crouched position off the stool, vocalizing and gesticulating toward the piano with his torso. He played one very long amazing improvisation, then approached the microphone, his fingers drumming its stem, and said "I'll be back later... to play some more of whatever that was"." (this might be another concert than Victor, maybe in the mid-70s)</comments>
 			<privatecomments>Victor Pugatschew. Robert Bright. Rolf Rauschenbach (exact date and venue).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Neil Allin Elphick -->
 			<date>November 22</date>
 			<place>Sydney Opera House, Sydney, Australia</place>
 			<with solo="yes"/>
+			<comments>Not listed on 1978 Australian tour flyer.</comments>
+			<privatecomments>Mentioned by Neil Allin Elphick. Not included in 1978 tour flyer sent by Terry Saundry.</privatecomments>
 		</concert>
 		<concert>
 			<date>December 12</date>
