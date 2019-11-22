@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 13, 2019">
+<concerts modified="November 22, 2019">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -3960,7 +3960,19 @@
 				<name>Paul Motian</name>
 				<name>Guilherme Franco</name>
 			</with>
-			<comments>Marc M.: the Gary Burton Quartet with Ralph Towner and Chamber Orchestra were on the same bill as the Keith Jarrett Quartet; according to an article in the New York Daily News published the day after the concert, "[t]he Keith Jarrett 4 and Gary Burton 4 along with guitarist Ralph Towner were on the Newport Jazz Festival bill [...] his backup musicians - Mick Goodrick, on guitar, Ted Seibs, on drums, and Steve Swallow, on bass - are all first-rate as well." Other articles: <a href="https://www.nytimes.com/1974/04/03/archives/jazz-festival-opens-june-28-with-more-compact-schedule.html">New York Times</a>, <a href="https://www.nytimes.com/1974/06/26/archives/a-listing-of-some-of-the-festivals-highlights.html">New York Times</a>. Presence of Guilherme Franco confirmed by <a href="https://www.nytimes.com/1974/07/04/archives/jarrett-five-improvises-in-wellpaced-program.html">a New York Times article</a>.</comments>
+			<comments>Marc M.: the Gary Burton Quartet with Ralph Towner and Chamber Orchestra were on the same bill as the Keith Jarrett Quartet; according to an article in the New York Daily News published the day after the concert, "[t]he Keith Jarrett 4 and Gary Burton 4 along with guitarist Ralph Towner were on the Newport Jazz Festival bill [...] his backup musicians - Mick Goodrick, on guitar, Ted Seibs, on drums, and Steve Swallow, on bass - are all first-rate as well." Other articles: <a href="https://www.nytimes.com/1974/04/03/archives/jazz-festival-opens-june-28-with-more-compact-schedule.html">New York Times</a>, <a href="https://www.nytimes.com/1974/06/26/archives/a-listing-of-some-of-the-festivals-highlights.html">New York Times</a>. The presence of Guilherme Franco is confirmed by <a href="https://www.nytimes.com/1974/07/04/archives/jarrett-five-improvises-in-wellpaced-program.html">a New York Times article</a>. <a href="https://news.google.com/newspapers?id=xuJLAAAAIBAJ&amp;sjid=74sDAAAAIBAJ&amp;hl=fr&amp;pg=3179%2C616219">Another article</a> mentions Danny Johnson, but I'm not sure it makes sense in 1974.</comments>
+		</concert>
+		<concert>
+			<date>July 2</date>
+			<place>Lincoln Center, Avery Fisher Hall, New York City, NY, USA</place>
+			<event>Newport Jazz Festival</event>
+			<with>
+				<name instr="drums">Paul Motian</name>
+				<name instr="director">Arnold Eidus</name>
+				<name instr="orchestra">Chamber Orchestra</name>
+			</with>
+			<comments>Concert mentioned by <a href="https://news.google.com/newspapers?id=xuJLAAAAIBAJ&amp;sjid=74sDAAAAIBAJ&amp;hl=fr&amp;pg=3179%2C616219">The Village Voice</a> and <a href="https://www.nytimes.com/1974/07/04/archives/jarrett-five-improvises-in-wellpaced-program.html">The New York Times</a>.</comments>
+			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
 		</concert>
 		<concert>
 			<date>July 13</date>
