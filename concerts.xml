@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 22, 2019">
+<concerts modified="February 13, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -4423,11 +4423,11 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon -->
 			<date>February 3</date>
-			<place>Herkulessaal (?), Munich, Germany</place>
+			<place>Großer Saal, Amerikahaus, Munich, Germany</place>
 			<with solo="yes"/>
             <comments/>
+            <privatecomments>First added thanks to Peter Elsdon. Venue confirmed by Gerd Rudel.</privatecomments>
 		</concert>
 		<concert>
 			<date>February 5</date>
