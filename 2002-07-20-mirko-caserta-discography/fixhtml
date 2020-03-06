@@ -1,0 +1,7 @@
+#!/usr/bin/perl -pi.old
+
+s/<HEAD>/<HEAD><link rel="stylesheet" href="disc.css" type="text\/css">/;
+s/<BODY>/<BODY BGCOLOR="#ffffff" TEXT="#000000" LINK="#000000"\nVLINK="#000000" ALINK="#000000"><TABLE BORDER=0 WIDTH=500><TR><TD>/;
+s/\<IMG /\<IMG BORDER=0 /;
+s/<\/BODY>/<\/TD><\/TR><\/TABLE><\/BODY>/;
+

@@ -1,0 +1,3495 @@
+<!doctype linuxdoc system>
+
+<article>
+
+<!-- Title information -->
+
+<title>Keith Jarrett Discography
+<author><htmlurl url="http://www.mcaserta.com/" name="Mirko
+Caserta">, 
+<tt><htmlurl url="mailto:mirko@mcaserta.com" name="mirko@mcaserta.com"></tt>
+<date>July 20, 2002
+
+<abstract> I cannot say what I think is right about music; I only know the
+``rightness'' of it. I know it when I hear it. There is a release, a flowing
+out, a fullness to it that is not the same as richness or musicality. I can
+talk about it in this way because I do not feel that I ``created'' this
+music as much as I allowed it to ``emerge''. It is this emergence that is
+inexplicable and incapable of being made solid, and I feel (or felt) as
+though not only do you never step in the same river twice, but you are never
+the same when stepping in the river. The river has always been there,
+despite our polluting it. This is a miracle, and in this day and age we need
+it. At least I do. -- Keith Jarrett, from <it>Spirits</it>' cover </abstract>
+
+<!-- Table of contents -->
+<toc>
+
+<!-- Begin the document -->
+
+<sect>Introduction
+
+<sect1>How it all started
+
+<p>
+
+<quote><it> Gordon's first law: if a research isn't worth the pain, why
+should you do it well?</it></quote>
+
+I have been looking for an updated and reliable catalogue listing all of
+Jarrett's works for a long while. I came up to find several sources but none
+of them was so complete as I mean it should be. This is why I put together
+all the info I had in order to get to an acceptable list.
+
+I started adding one, two or even more albums a day in a unique web page
+and within a couple of months the job was almost done. Then I sent a copy of
+it to Lynn D. Newton; he helped me greatly checking the whole document and
+mostly rewriting it, providing better style, grammar and look.
+
+Since this document was published on the web, many persons wrote to me to
+point out errors, suggest new listings and, more generally, to give any kind of
+positive feedback. That's why I think the actual document has reached a high
+grade of reliability, consistence and completeness. However, please do not
+consider the discography to be perfect. <footnote>see the section
+<it/Disclaimer/</footnote>
+
+<sect1>Availability
+
+<p>
+I thought about having different formats for the discography
+and incidentally I came across the Linux Doc standard. It requires
+writing the source with a simple text editor following a SGML
+template. So I have written a brief perl script to convert the
+original HTML source to the standard Linux Doc SGML format. Starting
+from the SGML source, several other formats can be generated
+automatically, namely: HTML, PostScript, PDF, ASCII text and some less
+used standard (such as RTF). Actually I only provide support for HTML,
+PDF and ASCII text so please don't ask for anything else than these
+ones. The PDF version looks much like a real book (I mean a printed
+book, not one of those funny jazz score collections with tons of
+wrong chord changes, keys and whatever) so I recommend this one if you
+wish to have a printed copy of this document. The download page for
+all of these versions is <tt><htmlurl
+url="http://mcaserta.com/jarrett.php"
+name="http://mcaserta.com/jarrett.php"></tt>
+
+<sect1>Other resources
+
+<p>
+The ECM web site is at <tt><htmlurl url="http://www.ecmrecords.com/"
+name="http://www.ecmrecords.com/"></tt>
+
+Eric Jarrett (Keith's brother) has started a web site which states
+itself as being an official resource. The web site has a very active
+forum where Eric kindly answers any reasonable question about his
+brother. The address is <tt><htmlurl
+url="http://www.keithjarrett.net/"
+name="http://www.keithjarrett.net/"></tt>
+
+There's a club on Yahoo! about Keith Jarrett with lots of activity. If
+you're a real Jarrett fan, I'll definitely want to subscribe to this
+group. The address is <tt><htmlurl
+url="http://clubs.yahoo.com/clubs/keithjarrett"
+name="http://clubs.yahoo.com/clubs/keithjarrett"></tt>
+
+Also have a look at Olivier Bruchez's Jarrett site at <tt><htmlurl
+url="http://www.keithjarrett.org"
+name="http://www.keithjarrett.org"></tt>
+
+The Keith Jarrett page at the <it>Jazz Web</it> is at <tt><htmlurl
+url="http://www.nwu.edu/jazz/artists/jarrett.keith/"
+name="http://www.nwu.edu/jazz/artists/jarrett.keith/"></tt> There is a
+link to Lynn D. Newton's <it>Keith Jarrett, a sketch of his life and
+work</it>. I strongly recommend reading it. Lynn keeps a FAQ as well
+on his site.
+
+I also recommend reading these books:
+<itemize>
+	<item><it>"Keith Jarrett, The Man And His Music"</it>, by Ian
+                  Carr, Grafton Books, London 1991.
+	<item><it>"Inner Views. Conversations with  Kunihiko Yamashita."</it>
+		  Published by Masamichi Asaishi / Rising Inc.
+</itemize>
+
+
+<sect1>Acknowledgements
+
+<p>
+I would like to thank:
+
+<it>Lynn D. Newton</it> for reviewing (well, maybe I'd better say rewriting)
+the original HTML source and for his many helpful criticisms and
+suggestions. Lynn, I hope not much of your work has been lost during the
+transition from HTML to SGML. If so, I apologize.
+
+<it>Nicola Severino</it> for having let me discover Jarrett's work and for
+being one of the persons I really enjoy playing with.
+
+<it>Hartmut Kuipers</it>, <it>Martin Molenaar</it>, <it>Arvi Nikkarev</it>,
+<it>Robin Janicki</it> and <it>Thomas E. Smith</it> for their contributions
+to this work.
+
+<it>Joe Germuska</it> for having hosted the original HTML discography into
+the <url url="http://www.nwu.edu/jazz/" name="Jazz Web"> at the Northwestern
+University for a long time.
+
+<it>Linus Torvalds</it>, the <it>Linux community</it> and the <it>LDP (Linux
+Documentation Project)</it> for having provided me with such a powerful
+tool and operating system for developing this document, for free.
+
+<it>The "Net"</it>, without which this document wouldn't have come to life.
+
+<it>Manfred Eicher</it> for his work.
+
+<it>Keith Jarrett</it> for the wonderful music. 
+
+
+<sect1>Copyleft Notice
+
+<p>
+
+This notice's aim is to keep the Keith Jarrett Discography (KJD from now on)
+being freely distributable. Of course I can't claim a copyright over a
+listing of albums but it is my intention to make this document the most
+accurate as possible, so this copyright notice basically says you can copy
+and distribuite the KJD but you are not allowed to modify it unless you
+contact me for approval. You are warmly encouraged instead to collaborate
+with me in order to improve this document. 
+
+All source code (namely the sgml file used to obtain all versions of
+the discography and basically all files found in the kjd.tar.gz file)
+in the KJD is placed under the terms of the GNU General Public License,
+available from <tt><htmlurl url="http://www.gnu.org/"
+name="http://www.gnu.org/"></tt>
+
+You should have found a copy of the GNU GPL within kjd.tar.gz if you
+downloaded it. You'd probably like to know that such license is often
+referred to as the <it/copyleft/ license.
+
+
+<sect1>Disclaimer
+
+<p>
+
+I'm writing the following because people often write to me in order to
+contact Mr. Jarrett. So far I've received requests for bookings and
+invitations to try Steinway pianos. That's funny but I want to make
+clear to anyone out there that I have no contact with Mr. Jarrett or
+his agent (if he has one). I have never met him. In other words, if it
+isn't clear yet, <bf/I have nothing to do with him/. The only reasonable
+way to contact Mr. Jarrett is by way of ECM records. More info about
+this can be found in Lynn D. Newton's FAQ on his pages.
+
+After all I'm not a collector. I just owe a very few of the items listed
+here. If you need a person who can give you an opinion about any of
+Jarrett's works, that person is not me.
+
+I am aware of errors in the original discographies I used to
+obtain this one. I wish to thank the people who write to me so that
+many of the errors can get fixed but some of the bugs may still be
+laying around.
+
+I have often thought about including pictures for covers of the albums
+listed here but there might be copyright issues I don't want to get
+involved with. After all, it's not hard to find the covers for most of the
+albums on the WWW: have a look at the listing on <tt><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/discography.html/ArtistID=JARRETT*KEITH/from=sr-8224315-1"
+name="CdNow.com"></tt>.
+
+Please also keep in mind that this document was written while under a
+strong Jarrett influence. Today I'm more focusing on the bebop scene
+and basically all music made in jazz between the early fourties and
+the end of the sixties. Yes, I always hear Jarrett's records with
+the spirit of a jazz/classical piano student but I'm more focusing on
+the roots of jazz now.
+
+
+<sect1>How to contribute
+
+<p>
+
+To let this document become the most updated and reliable source
+about Jarrett's works, please send comments, updates,
+questions or any kind of positive/negative feedback at <tt><htmlurl
+url="mailto:kjd@mcaserta.com" name="kjd@mcaserta.com"></tt>
+
+
+<sect1>Documentation Conventions
+
+<p>
+
+Due to the great productivity of Mister Jarrett I had to split up his
+discography into decades. I hope this results in best readability and ease
+of consultation when you are accessing this resource via the world wide web.
+Please note that the sort order is given by the date of publication of each
+album, not by the recording date.
+
+Most of the albums are catalogued this way:
+
+<itemize>
+	<item>Title of the album, <it>(Author)</it>
+	<item><bf>Year of publication.</bf>
+		  General notes about the album (Has it been recorded live or in
+		  studio? Where exactly? And when?). Album code.
+		  Awards this album was given, if any.
+	<item><bf>Featuring:</bf> Player One <it>(instrument played)</it>,
+		  Player Two <it>(instrument played)</it>, ... , Player n 
+		  <it>(instrument played)</it>.
+	<item><bf>Tracks:</bf> Track One, Track Two, ... , Track n.
+</itemize>
+
+Some album is not shown this way but it shouldn't be too hard to guess the
+right format for it.
+
+
+<sect>The years ranging from 1960 to 1970
+
+<sect1>Swinging Big Sound, <it>(Don Jacoby and the College All-Stars)</it>
+
+<p>
+<bf>1962.</bf> Chicago, Decca DL-4241.
+
+<bf>Featuring:</bf> 
+  Don Jacoby <it>(trumpet)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Don Gililland <it>(electric guitar)</it>,
+  Toby Guynn <it>(bass)</it>,
+  John Van Ohlen <it>(drums)</it>,
+  wind section.
+
+<bf>Tracks:</bf> 
+  Dizzy Atmosphere,
+  Young Man With the Blues,
+  Sing,
+  It's Good For You,
+  Just For a Thrill,
+  Anema e Core (How Wonderful to Know),
+  Mais Oui,
+  Sleepy Serenade,
+  Jey Out of Town,
+  Jacob Jones,
+  Let Me Love You,
+  Teach Me Tonight,
+  Groovin' High,
+  The End Of a Love Affair,
+  Lover Man (Oh Where Can You Be?),
+  You Don't Know What Love Is,
+  Back to the Beat.
+
+
+<sect1>Buttercorn Lady, <it>(Art Blakey and the New Jazz Messengers)</it>
+
+<p>
+<bf>1966.</bf> Live; The Lighthouse, Hermosa Beach, CA;
+January 1 and 9, 1966; Jack Tracy (producer).
+Limelight/Mercury LS-86034; CD 32JD-28.
+
+<bf>Featuring:</bf>
+  Chuck Mangione <it>(trumpet)</it>,
+  Frank Mitchell <it>(tenor sax)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Reggie Johnson <it>(bass)</it>,
+  Art Blakey <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Buttercorn Lady,
+  Recuerdo,
+  The Theme,
+  Between Races,
+  My Romance (from Jumbo),
+  Secret Love.
+
+
+<sect1>Dream Weaver, <it>(Charles Lloyd Quartet)</it>
+
+<p>
+<bf>1966.</bf>
+Atlantic Recording Studios, 
+NYC, March 29-30, September 18, October 29, 1966.
+George Avakian (producer).
+Atlantic SD-1459.
+
+<bf>Featuring:</bf>
+  Charles Lloyd <it>(tenor sax, flute)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Cecil McBee <it>(bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Autumn Sequence,
+  Autumn Prelude,
+  Autumn Leaves,
+  Autumn Echo,
+  Dream Weaver,
+  Meditation,
+  Dervish Dance,
+  Bird Flight,
+  Loveship,
+  Sombrero Sam.
+
+
+<sect1>The Flowering of the Original Charles Lloyd Quartet Recorded 
+in Concert, <it>(Charles Lloyd Quartet)</it>
+
+<p>
+<bf>1966.</bf> 
+Live; Antibes Jazz Festival, July 23-24, 1966 (1); 
+Aulaen Hall, Oslo, October 29, 1966 (2). 
+Atlantic SD-1586; (Europe) 2400165.
+
+
+<bf>Featuring:</bf>
+  Charles Lloyd <it>(tenor sax, flute)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Cecil McBee <it>(bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Speak Low (2),
+  Love-In / Island Blues (2),
+  Wilpan's,
+  Gypsy '66 (2),
+  Goin' to Memphis/Island blues (1).
+
+
+<sect1>Charles Lloyd in Europe, <it>(Charles Lloyd Quartet)</it>
+
+<p>
+<bf>1966.</bf> 
+Live; Aulaen Hall, Oslo, October 29, 1966. 
+Atlantic SD-1500; (Europe) 588108.
+
+
+<bf>Featuring:</bf>
+  Charles Lloyd <it>(tenor and soprano sax, flute)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Cecil McBee <it>(bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Tagore,
+  Karma,
+  Little Anahid's Day,
+  Manhattan Carousel,
+  European Fantasy,
+  Hej-Da! (Hey Daw).
+
+
+<sect1>Forest Flower: Charles Lloyd at Monterey, <it>(Charles Lloyd)</it>
+
+<p>
+<bf>1967.</bf> 
+Atlantic Recording Studio, NYC, September 8, 1966 (1); 
+Monterey Jazz Festival, September 18, 1966 (2); 
+Wally Heider (sound engineer); 
+George Avakian (producer). 
+Atlantic SD-1473(*).
+
+<bf>Featuring:</bf>
+  Charles Lloyd <it>(tenor and soprano sax, flute)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Cecil McBee <it>(bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Forest Flower: Sunrise (2),
+  Forest Flower: Sunset (2),
+  Sorcery (Keith Jarrett) (1),
+  Song of Her (Cecil McBee) (1),
+  East of the Sun (Brooks Bowman) (2).
+
+(*)<footnote>Reissued on CD as Charles Lloyd, <it>Forest Flower - 
+Soundtrack</it>, 1994, Rhino 8122-71746-2.</footnote>
+
+<sect1>Love-In, <it>(Charles Lloyd Quartet)</it>
+
+<p>
+<bf>1967.</bf> 
+Live; Fillmore Auditorium, San Francisco, January 27, 1967; 
+George Avakian (producer). 
+Atlantic SD-1481; (Europe) 587077.
+
+<bf>Featuring:</bf>
+  Charles Lloyd <it>(tenor sax, flute)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Ron McClure <it>(bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Tribal Dance,
+  Temple Bells,
+  Is It Really the Same? (Keith Jarrett),
+  Here There and Everywhere (John Lennon, Paul McCartney),
+  Love-In,
+  Sunday Morning (Keith Jarrett),
+  Memphis Dues Again / Island Blues.
+
+
+<sect1>Charles Lloyd in the Soviet Union, <it>(Charles Lloyd)</it>
+
+<p>
+<bf>1967.</bf> 
+Live; Kalevi Sport Hall, Tallinn, Estonia, May 14, 1967; 
+George Avakian (producer). 
+Atlantic SD-1571; (Europe) 2400108.
+
+<bf>Featuring:</bf>
+  Charle Lloyd <it>(tenor sax, flute)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Ron McClure <it>(bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Days and Nights Waiting,
+  Sweet Georgia Bright,
+  Love Song to a Baby,
+  Tribal Dance.
+
+
+<sect1>Journey Within, <it>(Charles Lloyd Quartet)</it>
+
+<p>
+<bf>1967.</bf> 
+Live; Fillmore Auditorium, San Francisco, January 27, 1967; 
+George Avakian (producer). 
+Atlantic SD-1493; (Europe) 587101.
+
+<bf>Featuring:</bf>
+  Charles Lloyd <it>(tenor sax, flute)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Ron McClure <it>(bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Journey Within,
+  Love No. 3 (Keith Jarrett)<footnote>Piano solo.</footnote>,
+  Memphis Green,
+  Lonesome Child (Song / Dance)<footnote>Keith Jarrett on soprano sax, too.</footnote>.
+
+
+<sect1>4th International Jazz Festival - Praha '67, 
+<it>(Charles Lloyd Quartet)</it>
+
+<p>
+<bf>1967.</bf> 
+Live; Praha, October 22, 1967. Supraphon SUA 15987.
+
+<bf>Featuring:</bf>
+  Charles Lloyd <it>(tenor Sax, flute)</it>,
+  Keith Jarrett <it>(soprano sax)</it>,
+  Ron McClure <it>(bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Island Blues.
+
+
+<sect1>Europa Jazz, <it>(Charles Lloyd Quartet)</it>
+
+<p>
+<bf>1967.</bf> Live; EJ 1016.
+
+<bf>Featuring:</bf>
+  Charles Lloyd <it>(tenor sax, flute)</it>,
+  Keith Jarrett <it>(soprano sax)</it>,
+  Ron McClure <it>(bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Twin Pearls.
+
+
+<sect1>Life Between the Exit Signs, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=787859/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1968.</bf> 
+Atlantic Recording Studios, NYC, May 4, 1967; 
+George Avakian (producer). 
+Vortex 2006.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Charlie Haden <it>(bass)</it>,
+  Paul Motian <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Lisbon Stomp (*),
+  Love No. 1 (*),
+  Love No. 2,
+  Everything I Love (*),
+  Margot,
+  Long Time Gone (But Not Withdrawn),
+  Life Between the Exit Signs,
+  Church Dreams.
+
+(*)<footnote>Reissued on: Keith Jarrett - 
+<it>Foundations: the Keith Jarrett Anthology (1966-1971)</it>.</footnote>
+
+
+<sect1>Restoration Ruin, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=793041/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1968.</bf> 
+Atlantic Recording Studios, NYC, March 12, 1968; 
+George Avakian (producer). 
+Vortex 2008.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(voice, guitar, harmonica, soprano sax,
+	piano, electric organ, flute, bass, drums, tambourine,
+	percussion)</it>.
+
+<bf>Tracks:</bf>
+  Restoration Ruin (*),
+  All Right,
+  For You and Me (*),
+  Have a Real Time,
+  Sioux City Sue New (*),
+  You're Fortunate,
+  Fire and Rain,
+  Wonders (*),
+  Where Are You Going?
+
+(*)<footnote>With string quartet. Recorded with overdubbing.</footnote>
+
+
+<sect1>Somewhere Before, <it>(Keith Jarrett Trio)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=321779/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1968.</bf> 
+Shelly's Manne-Hole, Hollywood, October 30-31, 1968; 
+George Avakian (producer). 
+Vortex / Atlantic 2012; 
+Reissued (Japan): PF.-7529A; CD 30XD-1038.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, soprano sax, flute)</it>,
+  Charlie Haden <it>(bass)</it>,
+  Paul Motian <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  My Back Pages (Bob Dylan),
+  Pretty Ballad (*),
+  Moving Soon (*),
+  Somewhere Before (*),
+  New Rag,
+  A Moment for Tears (*),
+  Pout's Over (And the Day's Not Through),
+  Dedicated to You,
+  Old Rag.
+
+(*)<footnote>Reissued on: Keith Jarrett - 
+<it>Foundations: the Keith Jarrett Anthology (1966-1971)</it>.</footnote>
+
+
+<sect1>Soundtrack, <it>(Charles Lloyd)</it>
+
+<p>
+<bf>1968.</bf> 
+Live; Town Hall, NYC, November 15, 1968; 
+George Avakian (producer). 
+Atlantic SD-1519 (*).
+
+<bf>Featuring:</bf>
+  Charles Lloyd <it>(tenor sax, flute)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Ron McClure <it>(bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Sombrero Sam,
+  Voice in the Night,
+  Pre-Dawn,
+  Forest Flower '69.
+
+<p>
+(*) Reissued on CD as Charles Lloyd, <it>Forest Flower - 
+Soundtrack</it>, 1994, Rhino 8122-71746-2.
+
+
+<sect>The years ranging from 1970 to 1980
+
+<sect1>Miles Davis at the Fillmore, <it>(Miles Davis)</it>
+
+<p>
+<bf>1970.</bf> Live; Fillmore, NYC, June 17 and 20, 1970;
+Teo Macero (producer).
+Columbia G-30038 C; (Europe) CBS 66257.
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Steve Grossman <it>(soprano sax)</it>,
+  Keith Jarrett <it>(electric organ)</it>,
+  Chick Corea <it>(electric piano)</it>,
+  Dave Holland <it>(electric bass)</it>,
+  Jack DeJohnette <it>(drums)</it>,
+  Airto Moreira <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Wednesday Miles (June 17),
+  Thursday Miles (June 18),
+  Friday Miles (June 10),
+  Saturday Miles (June 20).
+
+
+<sect1>The First Great Rock Festivals of the Seventies: Isle of Wight, Atlanta Pop Festival, <it>(Miles Davis)</it>
+
+<p>
+<bf>1970.</bf> Live; Isle of Wight, August 29, 1970.
+CBS G3X-30805.
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Gary Bartz <it>(soprano sax)</it>,
+  Keith Jarrett <it>(electric organ)</it>,
+  Chick Corea <it>(electric piano)</it>,
+  Dave Holland <it>(electric bass)</it>,
+  Jack DeJohnette <it>(drums)</it>,
+  Airto Moreira <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Call It Anything.
+
+
+<sect1>Directions, <it>(Miles Davis)</it>
+
+<p>
+<bf>1970.</bf> NYC, May 21, 1970.
+CBS KC-36472.
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  John Mclaughlin <it>(electric guitar)</it>,
+  Keith Jarrett <it>(electric piano)</it>,
+  Airto Moreira <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Konda.
+
+
+<sect1>Gary Burton and Keith Jarrett
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=157939/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1971.</bf> A&amp;R Recording Studios, NYC, July 23, 1970;
+Dave Sanders (sound engineer);
+Joel Dorn (producer).
+Atlantic SD-1577; CD 7567-81374-2.
+All songs composed by Keith Jarrett except <it>Como en Vietnam</it>, by Steve
+Swallow.
+
+<bf>Featuring:</bf>
+  Gary Burton <it>(vibes)</it>,
+  Keith Jarrett <it>(piano, electric piano, soprano sax)</it>,
+  Sam Brown <it>(guitar)</it>,
+  Steve Swallow <it>(bass)</it>,
+  Bill Goodwin <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Grow Your Own,
+  Moon Child / In Your Quiet Place,
+  Como en Vietnam,
+  Fortune Smiles,
+  The Raven Speaks.
+
+
+<sect1>Marion Williams
+
+<p>
+<bf>1971.</bf> NYC, February 25, 1971.
+Atlantic SD-8289.
+
+<bf>Featuring:</bf>
+  Marion Williams <it>(accoustic bass)</it>,
+  Paul Griffin <it>(electric organ)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Gerry Jemmott <it>(accousic bass)</it>,
+  Bernard Purdie <it>(drums)</it>,
+  John Murtaugh <it>(director)</it>.
+
+<bf>Tracks:</bf>
+  Heaven Help Us All,
+  Turn! Turn! Turn! To Everything There Is a Season,
+  Make Peace With Yourself,
+  My Sweet Lord,
+  This Generation Shall Not Pass.
+
+
+<sect1>Donald Leace
+
+<p>
+<bf>1971.</bf> NYC, April 13, 1971.
+Atlantic SD-7221.
+
+<bf>Featuring:</bf>
+  Donald Leace <it>(guitar, voice)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Richie Resnicoff <it>(electric guitar)</it>,
+  Bill Salter <it>(bass)</it>,
+  Grady Tate <it>(drums)</it>.
+
+
+<bf>Tracks:</bf>
+  Midnight Cowboy (1),
+  Words (1),
+  Oh Alabama (2),
+  Sad Lisa (2),
+  Today Won't Come Again (3),
+  Andrea (3),
+  Come To My Bedside, My Darling (3).
+
+(1) <footnote>Strings and winds overdubbed, arranged by Eumir Deodato.</footnote>
+(2) <footnote>Strings and winds overdubbed, arranged by Eumir Deodato. David Spinozza (guitar) and Ray Lucas (drums) substitute Resnicoff and Tate.</footnote>
+(3) <footnote>Donald Leace (guitar, voice), Keith Jarrett (piano), David Spinozza (guitar), Bill Salter (accoustic bass), Bill LaVorgna (drums), strings and winds overdubbed arranged by Eumir Deodato.</footnote>
+
+
+<sect1>Ruta and Daitya, <it>(Keith Jarrett and Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206290/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1971.</bf> Sunset Studios, Los Angeles, May 1971.
+ECM 1021; LP 230 1021/CD 513 776-2.
+Grand Prix - 1974, Swing Journal (Japan).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, electric piano, electric organ, flute)</it>,
+  Jack DeJohnette <it>(drums, percussion)</it>.
+
+<bf>Tracks:</bf>
+  Overture - Communion,
+  Ruta and Daitya,
+  All We Got,
+  Sounds of Peru (Submergence; Awakening; Algeria),
+  - You Know, You Know - ,
+  Pastel Morning.
+
+
+<sect1>The Mourning Of a Star, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=631544/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1971.</bf>
+Atlantic Recording Studios, NYC, July 8, 9 and 16, 1971 (1),
+August 23, 1971 (2);
+George Avakian (producer).
+Atlantic SD-1596; (Europe) K 40309.
+
+<bf>Featuring (1):</bf>
+  Keith Jarrett <it>(piano, soprano sax, tenor flute, steel drums, conga)</it>,
+  Charlie Haden <it>(accoustic bass, steel drums)</it>,
+  Paul Motian <it>(drums, steel drums, conga)</it>.
+
+<bf>Featuring (2):</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums)</it>.
+
+<bf>Tracks (1):</bf>
+  Follow the Crooked Path (Though It Be Longer),
+  Interlude No. 3,
+  Standing Outside,
+  Everything That Lives Laments,
+  Trust,
+  All I Want (*),
+  Traces of You,
+  The Mourning of a Star,
+  Sympathy.
+
+<bf>Tracks (2):</bf>
+  Interlude No. 1,
+  Interlude No. 2.
+
+(*) <footnote><it>All I Want</it> is a composition by Joni Mitchell.</footnote>
+
+
+<sect1>Birth, <it>(Keith Jarrett)</it>
+
+<p>
+<bf>1972.</bf>
+Atlantic Recording Studios, NYC, July 15-16, 1971;
+George Avakian (producer).
+Atlantic SD-1612.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, voice, soprano sax, steel drum)</it>,
+  Dewey Redman <it>(tenor sax)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Birth (1),
+  Mortgage On My Soul (Wah-Wah),
+  Spirit (1),
+  Markings (2),
+  Forget Your Memories (And They'll Remember You),
+  Remorse.
+
+
+(1) <footnote>Reissued on: Keith Jarrett - (Foundations: the Keith Jarrett Anthology (1966-1971)).</footnote>
+(2) <footnote>Keith Jarrett (piano), Dewey Redman (clarinet).</footnote>
+
+
+<sect1>El Juicio (The Judgement), <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=787859/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1972.</bf>
+Atlantic Recording Studios, NYC, July 8-9, 15-16 1971;
+George Avakian (producer)
+Atlantic SD-1673; (Europe) K 50154.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, soprano sax, flute)</it>,
+  Dewey Redman <it>(tenor sax)</it>,
+  Charlie Haden <it>(acoustic bass)</it>,
+  Paul Motian <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Gipsy Moth,
+  Toll Road,
+  Pre-Judgement Atmosphere,
+  El Juicio,
+  Piece for Ornette (long version) (*),
+  Piece for Ornette (short version) (*),
+  Pardon My Rags (piano solo) (*).
+
+
+(*) <footnote>Reissued on: Keith Jarrett - (Foundations: the Keith Jarrett Anthology (1966-1971)).</footnote>
+
+
+<sect1>Facing You, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1158655/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1972.</bf>
+Arne Bendiksen Studio, Oslo, November 10, 1971;
+Jan Erik Kongshaug (sound engineer).
+ECM 1017; LP 230 1017/CD 827 132-2.
+Grand Prix du Festival Montreaux - 1973.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  In Front,
+  Ritooria,
+  Lalene,
+  - My Child, My Child - ,
+  Landscape for Future Earth,
+  Starbright,
+  Vapallia,
+  Semblence.
+
+
+<sect1>ECM Special
+
+<p>
+<bf>1972.</bf>
+Arne Bendisken Studio, Oslo, November 10, 1971;
+Jan Erik Kongshaug (sound engineer).
+ECM; Trio PA-9601.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  Counterphonymic (Keith Jarrett).
+
+
+<sect1>Miles Davis in Sweden 1971, <it>(Miles Davis)</it>
+
+<p>
+<bf>1972.</bf> Uppsala University, July 11, 1971. MD-1.
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Gary Bartz <it>(soprano sax)</it>,
+  Keith Jarrett <it>(electric piano)</it>,
+  Michael Henderson <it>(electric bass)</it>,
+  Leon Chancler <it>(drums)</it>,
+  Don Alias <it>(congas)</it>,
+  James "Mtume" Foreman <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Wednesday Miles,
+  Black Beauty Part I - Sivad
+  What I Say - Selim - Funky Tonk - The End.
+
+
+<sect1>Miles Davis Volume 3, <it>(Miles Davis)</it>
+
+<p>
+<bf>1972.</bf>
+NYC, November 26, 1971, session 123.
+
+<bf>Tracks:</bf>
+  Directions,
+  Sivad,
+  What I Say,
+  Sanctuary,
+  Miles Runs the Voodoo Down,
+  Yesternow.
+
+
+<sect1>Prelude to ..., <it>(Barbara and Ernie)</it>
+
+<p>
+<bf>1972.</bf>
+Atlantic Recording Studios, NYC, August 16, 1970.
+Cotillon SD-9044.
+
+<bf>Featuring:</bf>
+  Barbara Massey <it>(voice, piano, electric piano, autoharp)</it>,
+  Ernie Calabria <it>(voice, guitar, arranger)</it>,
+  Sam Brown <it>(electric guitar)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Richard Tee <it>(electric organ)</it>,
+  Bill Salter <it>(acoustic bass)</it>,
+  Grady Tate <it>(drums)</it>,
+  Ralph McDonald <it>(percussion, conga)</it>,
+  Myrna Summers and The Inter Denominational Singers <it>(choir)</it>,
+  Eumir Deodato <it>(director)</it>.
+
+<bf>Tracks:</bf>
+  Satisfied.
+
+
+<sect1>Free, <it>(Airto)</it>
+
+<p>
+<bf>1972.</bf>
+Van Gelder Studios, Englewood, NJ, March 23 and May 4, 1972;
+Creed Taylor (producer).
+CTI-6020; CD CBS 40927 (1988).
+
+<bf>Featuring:</bf>
+  Hubert Laws <it>(flute)</it>,
+  Joe Farrell <it>(flute, soprano sax)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Jay Berliner <it>(electric guitar)</it>,
+  Ron Carter <it>(accoustic bass)</it>,
+  Airto Moreira <it>(percussion)</it>,
+  Strings and wind section.
+
+<bf>Tracks:</bf>
+  Flora's Song,
+  Lucky Southern (1),
+  So Tender (1) (2).
+
+
+(1) <footnote>Jay Berliner is substituted by George Benson.</footnote>
+(2) <footnote>Only on CD as "bonus track".</footnote>
+
+
+<sect1>Expectations, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1046150/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1972.</bf>
+NYC, September - October 1971;
+Tim Geelan and James Green (sound engineers);
+George Avakian (producer);
+CBS KG-31580 (2LP); CD CBS 467902.
+Grand Prix du Disque - 1972, Charles Cros Academy.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, electric organ, soprano sax, tambourine, percussion, arranger)</it>,
+  Dewey Redman (1) <it>(tenor sax, percussion)</it>,
+  Sam Brown (2) <it>(electric guitar)</it>,
+  Charlie Haden <it>(accousic bass)</it>,
+  Paul Motian <it>(drums)</it>,
+  Airto Moreira (3) <it>(drums, percussion)</it>,
+  strings (4) and brasses (5) added.
+
+<bf>Tracks:</bf>
+  Vision (piano solo + (4)),
+  Common Mama (1) (3) (5),
+  The Magician in You (2) (3),
+  Roussillon (1),
+  Expectations (4),
+  Take Me Back (2) (3),
+  The Circular Letter (for J-K) - (1) (2) (3),
+  Nomads (2) (3) (5),
+  Sundance (1) (2) (3),
+  Bring Back The Time When (If) - (1) (2) (3),
+  There Is a Road (God's River) - (4) (without drums).
+
+
+<sect1>NDR Jazz Workshop
+
+<p>
+<bf>1972.</bf> Hamburg, 1972. Norddeutscher Rundfunk.
+All songs composed by Keith Jarrett.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, flute)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Rainbow,
+  Piece for Ornette,
+  Take Me Back,
+  Life Dance.
+
+
+<sect1>Sky Dive, <it>(Freddie Hubbard)</it>
+
+<p>
+<bf>1972.</bf> NYC, October 1972. CTI-6081; CTI (Europe) CTL 111.
+
+<bf>Featuring:</bf>
+  Freddie Hubbard <it>(trumpet)</it>,
+  Marvin Stamm, Alan Rubin <it>(trumpet, flugelhorn)</it>,
+  Garnett Brown, Wayne Andre <it>(trombone)</it>,
+  Paul Faulise <it>(bass trombone)</it>,
+  Tony Price <it>(tuba)</it>,
+  Hubert Laws <it>(flutes)</it>,
+  Phil Bodner <it>(flutes, bass clarinet)</it>,
+  George Marge <it>(flutes, bass clarinet)</it>,
+  Wally Kane <it>(bass clarinet, piccolo)</it>,
+  Romeo Penque <it>(flutes, clarinet, oboe, horn)</it>,
+  Keith Jarrett <it>(piano, electric piano)</it>,
+  George Benson <it>(electric guitar)</it>,
+  Ron Carter <it>(accoustic bass)</it>,
+  Billy Cobham <it>(drums)</it>,
+  Airto Moreira, Ray Barreto <it>(percussion)</it>,
+  Don Sebesky <it>(arranger, director)</it>.
+
+<bf>Tracks:</bf>
+  Pove,
+  In a Mist,
+  The Godfather,
+  Sky Dive.
+
+
+<sect1>Conception Vessel, <it>(Paul Motian)</it>
+
+<p>
+<bf>1972.</bf> NYC, November 25-26, 1972. ECM 1028; LP 230 1028/CD 519 279-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, flute)</it>,
+  Paul Motian <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Conception Vessel,
+  American Indian,
+  Song of Sitting Bull.
+
+
+<sect1>Live-Evil, <it>(Miles Davis)</it>
+
+<p>
+<bf>1972.</bf>
+Live; NYC, June 3, 1970 (1);
+The Cellar Door, Washington, December 18, 1970 (2);
+Teo Macero (producer).
+CBS G-30956 (2LP); CD 50DP-707/8.
+
+<bf>Featuring (1):</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Steve Grossman <it>(soprano sax)</it>,
+  Keith Jarrett, Herbie Hancock, Chick Corea <it>(electric piano)</it>,
+  Dave Holland <it>(accoustic bass)</it>,
+  John McLaughlin <it>(electric guitar - solo in Little Church)</it>,
+  Jack DeJohnette <it>(drums)</it>,
+  Airto Moreira <it>(percussion)</it>,
+  Hermeto Pascoal <it>(voice, electric piano - solo in Little Church)</it>.
+
+<bf>Featuring (2):</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Gary Bartz <it>(contralto and soprano sax)</it>,
+  Keith Jarrett <it>(electric piano)</it>,
+  John McLaughlin <it>(electric guitar)</it>,
+  Michael Henderson <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>,
+  Airto Moreira <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Nem Um Talvez (1),
+  Selim (1),
+  Little Church (1),
+  Sivad (2) (*),
+  What I Say (2),
+  Funky Tonk (2),
+  Inamorata and Narration by Conrad Roberts (2).
+
+(*) <footnote>Partially reissued on: Miles Davis, <it>Miles Davis - The CBS Years 1955-1985</it>, 1988, CBS 463246-2.</footnote>
+
+
+<sect1>Fort Yawuh, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=794248/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1973.</bf>
+Live; Village Vanguard, NYC, February 24, 1973. Impulse AS-9240.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, soprano sax, tambourine)</it>,
+  Dewey Redman <it>(tenor sax, musette, maracas)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums, percussion)</it>,
+  Danny Johnson <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  (If the) Misfits (Wear It),
+  Fort Yawuh,
+  De Drums,
+  Still Life Still Life.
+
+
+<sect1>Impulse Artists On Tour
+
+<p>
+<bf>1973.</bf>
+Live; Village Vanguard, NYC, February 24, 1973. Impulse AS-9264.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(soprano sax)</it>,
+  Dewey Redman <it>(tenor sax)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums)</it>,
+  Danny Johnson <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Roads Traveled Roads Veiled.
+
+
+<sect1>Solo Concerts, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1158657/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1973.</bf>
+Live;
+(1): Radio Bremen, Kleiner Sendesaal, Losanna, July 12, 1973; Rolf
+Rockstroh (sound engineer).
+(2): Radio Suisse Romande, Studio Lausanne, Salle de Spectacles
+D'Epalinges, March 20, 1973; Pierre Grandjean, Alain Kobel (sound
+engineer).
+Manfred Eicher and Keith Jarrett (producers);
+ECM 1035-37; 3-LP 264 1035/2-CD 827 747-2.
+Best Jazz Performance (category: solo) - 1974, Grammy Nomination (USA);
+Album of the year (Pop) - 1974, Time Magazine (USA);
+Record of the Year (International Critics' Poll) - 1974, Down Beat (USA);
+Record of the Year - 1974, Stereo Review (USA);
+Record of the Year (World) - 1974/75, Jazz Forum (Poland);
+Grand Prix (gold) - 1974/75, Swing Journal (Germany);
+Grosser Deutscher Schallplattenpreis (cathegory: solo / international) -
+1974/75, Deutsche Phono-Akademie (Germany);
+Record of the Year - 1975, The New York Times;
+Album of the Year - 1975, Time Magazine;
+Kuenstler des Jahres - 1975, Deutsche Phono-Akademie (Germany).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  Part I (1),
+  Part IIa (1),
+  Part IIb (1),
+  Part Ia (2),
+  Part Ib (2),
+  Part IIa (2),
+  Part IIb (2).
+
+
+<sect1>In the Light, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206308/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1974.</bf>
+February 1973; Kurt Rapp, Martin Wieland, M. Scheuermann (sound engineers);
+Manfred Eicher and Keith Jarrett (producers).
+ECM 1033/4; 2-LP 264 1033/2-CD 835 011-2.
+
+<itemize>  
+  <item><it>Metamorphosis</it>, Willi Freivogel <it>(flute)</it>, and Stuttgart
+      Suedfunk Symphony Orchestra string section, Mladen Gutesha
+      <it>(director)</it>
+  <item><it>Fughata for Harpsichord</it>, Keith Jarrett <it>(harpsichord)</it>
+  <item><it>Brass Quintet</it>, The American Brass Quintet
+  <item><it>A Pagan Hymn</it>, Keith Jarrett <it>(piano)</it>
+  <item><it>String Quartet</it>, The Fritz Sonnleitner Quartet <it>(Frizt
+      Sonnleitner, Gunther Klein, Siegfried Meinecke, Fritz Kiskalt)</it>
+  <item><it>Short Piece for Guitar and Strings</it>, Ralph Towner <it>(guitar)</it>,
+      and Stuttgart Suedfunk Symphony Orchestra string section, Keith
+      Jarrett <it>(director)</it>
+  <item><it>Crystal Moment</it> for four celli and two trombones
+  <item><it> In the Cave, In the Light</it>, Keith Jarrett <it>(piano, gong,
+      percussion)</it> and Stuttgart Suedfunk Symphony Orchestra string
+      section, Keith Jarrett <it>(director)</it>
+</itemize>
+
+
+<sect1>Treasure Island, <it>(Keith Jarrett)</it>
+
+<p>
+<bf>1974.</bf>
+Atlantic Recording Studios, NYC, February 27-28, 1974.
+Impulse AS 9274; CD 32XD-604.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, soprano sax, osi drums)</it>,
+  Dewey Redman <it>(tenor sax, tambourine)</it>,
+  Sam Brown (1) <it>(electric guitar)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums, percussion)</it>,
+  Guilhermo Franco - Danny Johnson <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  The Rich (And the Poor),
+  Blue Streak,
+  Fullsuvollivus (Fools Of All Of Us),
+  Treasure Island (1),
+  Introduction and Yaqui Indian Folk Song,
+  Le Mistral,
+  Angles (Without Edges),
+  Sister Fortune (1).
+
+
+<sect1>Lee Konitz and Chet Baker Keith Jarrett Quintet
+
+<p>
+<bf>1974.</bf> Live; NYC, April 14, 1974. Jazz Connoisseur JC-113.
+
+<bf>Featuring:</bf>
+  Lee Konitz <it>(sax)</it>,
+  Chet Baker <it>(trumpet, voice)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Beaver Harris <it>(drums)</it>.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano solo)</it> (1).
+
+
+<bf>Tracks:</bf>
+  Donna Lee,
+  Lover Man,
+  There Will Never Be Another You,
+  Like Someone in Love,
+  Country (Keith Jarrett) (1),
+  My Song (Keith Jarrett) (1).
+
+
+<sect1>NDR Jazz Workshop '74
+
+<p>
+<bf>1974.</bf> Hamburg, April 18, 1974. Norddeutscher Rundfunk
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Jan Garbarek <it>(soprano sax)</it>,
+  Palle Danielsson <it>(accoustic bass)</it>,
+  Jon Christensen <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  The Windup.
+
+
+<sect1>Belonging, <it>(Jan Garbarek, Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184240/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1974.</bf>
+Arne Bendiksen Studio, Oslo, April 24-25, 1974;
+Jan Erik Kongshaug (sound engineer).
+ECM 1050; LP 230 1050/CD 829 115-2.
+Deutscher Schallplattenpreis - 1975, Deutsche Phono-Akademie (Germany).
+
+<bf>Featuring:</bf>
+  Jan Garbarek <it>(soprano and tenor sax)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Palle Danielsson <it>(accoustic bass)</it>,
+  Jon Christensen <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Spiral Dance,
+  Blossom,
+  Long As You Know You're Living Yours,
+  Belonging,
+  The Windup,
+  Solstice.
+
+
+<sect1>Get Up With It, <it>(Miles Davis)</it>
+
+<p>
+<bf>1974.</bf> NYC, May 19, 1970; Teo Macero (producer). CBS KG-33236.
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Steve Grossman <it>(soprano sax)</it>,
+  John McLaughlin <it>(electric guitar)</it>,
+  Keith Jarrett, Herbie Hancock <it>(electric piano)</it>,
+  Michael Henderson <it>(electric bass)</it>,
+  Billy Cobham <it>(drums)</it>,
+  Airto Moreira <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Honky Tonk (*).
+
+
+(*) <footnote>Reissued on: <it>Miles Davis - The CBS Years 1955-1985</it>, 1988, CBS 463246-2.</footnote>
+
+
+<sect1>Luminessence - Music for string orchestra and saxophone, <it>(Jan Garbarek, Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206310/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1975.</bf>
+Tonstudio Bauer, Ludwigsburg, Germany, April 29-30, 1974;
+Martin Wieland, Kurt Rapp (sound engineer).
+ECM 1049; LP230 1049/CD 839 307-2.
+
+<bf>Featuring:</bf>
+  Jan Garbarek <it>(soprano and tenor sax)</it>,
+  Stuttgart's Suedfunk Symphony Orchestra string section - Mladen Gutesha <it>(director)</it>,
+  Keith Jarrett <it>(composer)</it>.
+
+<bf>Tracks:</bf>
+  Numinor,
+  Windsong,
+  Luminessence.
+
+
+<sect1>Death and the Flower, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=402507/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1975.</bf>
+Atlantic Recording Studios, NYC, October 9-10, 1974;
+Tony May (sound engineer);
+Ed Michel (producer).
+Impulse AS-9301; CD 32XD-603 (*).
+Album of the year (Reader's Poll) - 1975, Swing Journal (Germany).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, soprano sax, flute, osi drums, percussion)</it>,
+  Dewey Redman <it>(tenor sax, percussion)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums, percussion)</it>,
+  Guilhermo Franco <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Death and the Flower,
+  Prayer,
+  Great Bird.
+
+(*) <footnote>Contains a poem by Keith Jarrett (<it>Death and the Flower</it>, December 5, 1975).</footnote>
+
+
+<sect1>Backhand, <it>(Keith Jarrett)</it>
+
+<p>
+<bf>1975.</bf>
+Atlantic Recording Studios, NYC, October 9-10, 1974;
+Tony May (sound engineer);
+Ed Michel (producer).
+Impulse AS-9305.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, flute, drums)</it>,
+  Dewey Redman <it>(tenor sax, musette, maracas)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums, percussion)</it>,
+  Guilhermo Franco <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Inflight,
+  Kumm,
+  Vapallia,
+  Backhand.
+
+
+<sect1>The K&ouml;ln Concert, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=816195/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1975.</bf>
+Live; Opera, K&ouml;ln, January 24, 1975;
+Martin Wieland (sound engineer).
+ECM 1064/5; 2-LP 264 1064/CD 810 067-2.
+Album of the decade (Reader's Poll) - 1980, Stereo (Germany).
+Deutscher Schallplattenpreis - 1976, Deutsche Phono-Akademie (Germany).
+Album of the Year - 1975, Time Magazine.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  Part I,
+  Part IIa,
+  Part IIb,
+  Part IIc.
+
+
+<sect1>Gnu High, <it>(Kenny Wheeler)</it>
+
+<p>
+<bf>1976.</bf>
+Atlantic Recording Studios, NYC, June 1975;
+Tony May (sound engineer).
+ECM 1069; LP 230 1069/CD 825 591-2.
+All compositions by Kenny Wheeler.
+
+<bf>Featuring:</bf>
+  Kenny Wheeler <it>(flugelhorn)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Dave Holland <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Heyoke,
+  Smatter,
+  Gnu Suite.
+
+
+<sect1>Mysteries, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=402549/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1976.</bf>
+Recorded at Generation Sound, NYC, December 1975;
+Tony May (sound engineer).
+Esmond Edwards (producer).
+Impulse AS-9315; CD 32XD-606.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, Pakistani flute, percussion)</it>,
+  Dewey Redman <it>(tenor sax, musette, tambourine, maracas)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums, percussion)</it>,
+  Guilhermo Franco <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Rotation,
+  Everything That Lives Laments,
+  Flame,
+  Mysteries.
+
+
+<sect1>Bop-Be, <it>(Keith Jarrett)</it>
+
+<p>
+<bf>1976.</bf>
+Recorded at Generation Sound, NYC, October 1976;
+Tony May (sound engineer);
+Esmond Edwards (producer).
+ABC Impulse IA-9334.
+Reissued on "Keith Jarrett - <it>Silence</it>", 1992, except for <it>Pyramids Moving</it>.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, percussion)</it>,
+  Dewey Redman <it>(tenor sax, musette)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums, percussion)</it>.
+
+<bf>Tracks:</bf>
+  Mushi-Mushi (Dewey Redman),
+  Silence (Charlie Haden),
+  Bo-Be (Keith Jarrett),
+  Pyramids Moving,
+  Gotta Get Some Sleep (Dewey Redman),
+  Blackberry Winter (Alec Wilder),
+  Pocket Full of Cherry (Charlie Haden).
+
+
+<sect1>Shades, <it>(Keith Jarrett)</it>
+
+<p>
+<bf>1976.</bf>
+Recorded at Generation Sound, NYC, December 1975;
+Tony May (sound engineer);
+Esmond Edwards (producer).
+Impulse ASD-9322; (Europe) IMPL 8039.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, percussion)</it>,
+  Dewey Redman <it>(tenor sax, maracas, tambourine)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums, percussion)</it>.
+
+<bf>Tracks:</bf>
+  Shades of Jazz,
+  Southern Smiles,
+  Rose Petals,
+  Diatribe.
+
+
+<sect1>Byablue, <it>(Keith Jarrett)</it>
+
+<p>
+<bf>1976.</bf>
+Recorded at Generation Sound, NYC, October 1976;
+Tony May (sound engineer);
+Esmond Edwards (producer).
+Impulse AS-9331; CD 32XD-605.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, soprano sax, percussion)</it>,
+  Dewey Redman <it>(tenor sax, musette)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums, percussion)</it>.
+
+<bf>Tracks:</bf>
+  Byablue (Paul Motian),
+  Konya,
+  Rainbow (Margot Jarrett) (1),
+  Trieste (Paul Motian),
+  Fantasm (Paul Motian) (2),
+  Yahllah,
+  Byablue (3).
+
+(1) <footnote>Dewey Redman doesn't play here.</footnote>
+(2) <footnote>Paul Motian doesn't play here.</footnote>
+(3) <footnote>Piano solo.</footnote>
+
+
+<sect1>Arbour Zena, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206304/from=sr-8224315-1" 
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1976.</bf>
+Tonstudio Bauer, Ludwigsburg, October 1975;
+Martin Wieland (sound engineer).
+ECM 1070; LP 230 1070/CD 825 592-2.
+
+<bf>Featuring:</bf>
+  Jan Garbarek <it>(tenor sax, soprano sax)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Stuttgart Suedfunk Symphony Orchestra string section - Mladen Gutesha <it>(director)</it>.
+
+<bf>Tracks:</bf>
+  Runes,
+  Solara March,
+  Mirrors.
+
+
+<sect1>Closeness, <it>(Charlie Haden)</it>
+
+<p>
+<bf>1976.</bf>
+Atlantic Recording Studios, NYC, March 18, 1976.
+A&amp;M Horizon 11; CD D32Y-3826.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Charlie Haden <it>(accoustic bass)</it>.
+
+<bf>Tracks:</bf>
+  Ellen David.
+
+
+<sect1>The Survivors' Suite, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184237/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1977.</bf>
+Tonstudio Bauer, Ludwigsburg, April 1976;
+Martin Wieland (sound engineer).
+ECM 1085; LP 230 1085/CD827 131-2.
+Album of the Year - 1977, Melody Maker Magazine.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, soprano sax, bass flute, celesta, osi-drums)</it>,
+  Dewey Redman <it>(tenor sax, percussion)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums, percussion)</it>.
+
+<bf>Tracks:</bf>
+  The Survivors' Suite: Beginning,
+  The Survivors' Suite: Conclusion.
+
+
+<sect1>Staircase, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184238/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1977.</bf> Davout Studio, Paris, May 1976.
+ECM 1090/92; 2-LP 264 1090/2-CD827 337-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  Staircase (Part I-III),
+  Hourglass Part I, II),
+  Sundial (Part I-III),
+  Sand (Part I-III).
+
+
+<sect1>Eyes of the Heart, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184236/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1977.</bf>
+Live; Theater am Korntmarkt, Bregenz, Austria, May 1976;
+Martin Wieland (sound engineer);
+ECM 1150; LP 264 1150/CD 825 476-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, soprano sax, osi-drums, tambourine)</it>,
+  Dewey Redman <it>(tenor sax, tambourine, maracas)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums, percussion)</it>.
+
+<bf>Tracks:</bf>
+  Eyes of the Heart (Part I),
+  Eyes of the Heart (Part II),
+  Encore (A-B-C).
+
+
+<sect1>Hymns and Spheres, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184239/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1977.</bf>
+Ottobeuren Abbey, Germany, September 1976;
+Martin Wieland (sound engineer);
+ECM 1086/7; 2-LP 264 1086/CD 827 463-2 (1).
+Record of the Year - 1986, Hi-Fi Vision (Germany) (3).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(organ)</it> (2).
+
+<bf>Tracks:</bf>
+  Hymns of Remembrance,
+  Spheres (Movements 1-9),
+  Hymns of Release.
+
+(1) <footnote>The CD <it>Spheres</it> (ECM 1302) contains only <it>Spheres</it> movements 1, 4, 7 and 9.</footnote>
+(2) <footnote>The "Trinity Organ" is one of the two made by Karl Joseph Riepp.</footnote>
+(3) <footnote>Given when the CD has been reissued.</footnote>
+
+
+<sect1>Sun Bear Concerts, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1251479/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1977.</bf> Live; Japan, November 1976.
+ECM 1100; 10-LP 264 1100/6-CD 843 028-2.
+Album of the Year (Reader's Poll) - 1980, Jazz Forum (Poland).
+Grosser Deutscher Schallplattenpreis - 1979, Deutsche Phono-Akademie (Germany).
+Silverdisc Award - 1978, Swing Journal (Germany).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  Kyoto (November 5, 1976): 
+      Part IA,
+      Part IB,
+      Part IIA,
+      Part IIB -
+  Osaka (November 8, 1976):
+      Part IA,
+      Part IB,
+      Part IIA,
+      Part IIB -
+  Nagoya (November 12, 1976):
+      Part IA,
+      Part IB,
+      Part IIA,
+      Part IIB -
+  Tokyo (November 14, 1976):
+      Part IA,
+      Part IB,
+      Part IIA,
+      Part IIB -
+  Sapporo (November 18, 1976):
+      Part IA,
+      Part IB,
+      Part IIA,
+      Part IIB -
+  Encores:
+      Sapporo,
+      Tokyo,
+      Nagoya.
+
+
+<sect1>Tales of Another, <it>(Gary Peacock)</it>
+
+<p>
+<bf>1977.</bf>
+Atlantic Recording Studios, NYC, February 1977;
+Tony May (sound engineer);
+ECM 1101; LP 230 1101/CD 827 418-2.
+All compositions by Gary Peacock.
+
+<bf>Featuring:</bf>
+  Gary Peacock <it>(accoustic bass)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Vignette,
+  Tone Field,
+  Major Major,
+  Trilogy I-III.
+
+
+<sect1>Ritual, <it>(Keith Jarrett, Dennis Russell Davies)</it>
+
+<p>
+<bf>1977.</bf>
+Tonstudio Bauer, Ludwigsburg, June 1976;
+Martin Wieland (sound engineer).
+ECM 1112. Compositions by Keith Jarrett.
+
+<bf>Featuring:</bf>
+  Dennis Russell Davies <it>(piano)</it>.
+
+<bf>Track:</bf>
+  Ritual.
+
+
+<sect1>My Song, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=816197/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1978.</bf>
+Talent Studios, Oslo, October 31 and November 1, 1977;
+Jan Erik Kongshaug (sound engineer).
+ECM 1115; LP 230 1115/CD 821 406-2.
+Record of the year - 1979, Jazz Forum (Poland).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, percussion)</it>,
+  Jan Garbarek <it>(tenor sax, soprano sax)</it>,
+  Palle Danielsson <it>(accoustic bass)</it>,
+  Jon Christensen <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Questar,
+  My Song,
+  Tabarka,
+  Country,
+  Mandala,
+  The Journey Home.
+
+
+<sect1>Without Rhyme or Reason, <it>(Scott Jarrett)</it>
+
+<p>
+<bf>1979.</bf>
+A&amp;R Studios, NYC, 1979.
+GRP 5007.
+
+<bf>Featuring (1):</bf>
+  Scott Jarrett <it>(electric piano, voice)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Eddie Gomez <it>(accoustic bass)</it>.
+
+<bf>Featuring (2):</bf>
+  Scott Jarrett <it>(voice)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  Dave Grusin <it>(electric piano, percussion)</it>,
+  Eddie Gomez <it>(electric bass)</it>.
+
+<bf>Tracks:</bf>
+  Never My Fault (1),
+  Pictures (2).
+
+
+<sect>The years ranging from 1980 to 1990
+
+<sect1>Nude Ants: Live at the Village Vanguard, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184241/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1980.</bf>
+Live; Village Vanguard, NYC, May 1979;
+Tom McKenney (sound engineer).
+ECM 1171/2; CD J58J-20176/7.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, percussion)</it>,
+  Jan Garbarek <it>(tenor sax, soprano sax)</it>,
+  Palle Danielsson <it>(accoustic bass)</it>,
+  Jon Christensen <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Chant of the Soul,
+  Innocence,
+  Processional,
+  Oasis,
+  New Dance,
+  Sunshine Song.
+
+
+<sect1>Sacred Hymns, <it>(G. I. Gurdjieff)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206306/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1980.</bf>
+Tonstudio Bauer, Ludwigsburg, March 1980;
+Martin Wieland (sound engineer);
+ECM 1174; LP 230 1174/CD 829 122-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  Reading of Sacred Books,
+  Prayer and Despair,
+  Religious Ceremony,
+  Hymn,
+  Orthodox Hymn from Asia Minor,
+  Hymn for Good Friday,
+  Hymn,
+  Hymn for Easter Thursday,
+  Hymn to the Endless Creator,
+  Hymn for a Great Temple,
+  The Story of the Resurrection of Christ,
+  Holy Affirming - Holy Denying - Holy Reconciling,
+  Easter Night Procession,
+  Easter Hymn,
+  Meditation.
+
+
+<sect1>The Celestial Hawk, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206307/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1980.</bf>
+Carnegie Hall, NYC, March 22, 1980;
+Stan Tankel (sound engineer);
+Keith Jarrett and Manfred Eicher (producers).
+ECM 1175; LP 230 1175/CD 829 370-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, composer)</it>,
+  Syracuse Symphony, Christopher Keene <it>(director)</it>.
+
+<bf>Tracks:</bf>
+  The Celestial Hawk,
+  First Movement,
+  Second Movement,
+  Third Movement.
+
+
+<sect1>Invocations / The Moth and the Flame, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206303/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1981.</bf>
+Tonstudio Bauer, Ludwigsburg, November 1979 (1);
+Ottobeuren Abbey, November 1980 (2);
+Martin Wieland (sound engineer).
+ECM 1201/2; 2-LP 264 1201/2-CD 825 473-2 (*).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(organ, soprano sax, piano)</it>.
+
+Invocations (1) -
+<bf>Tracks:</bf>
+  First (Solo Voice),
+  Second (Mirage, Realities),
+  Third (Power, Resolve),
+  Fourth (Shock, Scatter),
+  Fifth (Recognition),
+  Sixth (Celebration),
+  Seventh (Solo Voice).
+
+(2) -
+<bf>Tracks:</bf>
+  The Moth and the Flame (Part I-V).
+
+(*) <footnote>With a poem of Robert Bly: <it>When things are heard</it>.</footnote>
+
+
+<sect1>Concerts, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1158656/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1981.</bf>
+Live; Festspielhaus, Bregenz, Austria, May 28, 1981 (1);
+Herkulessaal, Munich, June 2, 1981 (2);
+Martin Wieland (sound engineer).
+ECM 1227/29; 3-LP 264 1227.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks (1):</bf>
+  Part I,
+  Part II,
+  Untitled,
+  Heartland.
+
+<bf>Tracks (2):</bf>
+  Part I,
+  Part II,
+  Part III,
+  Part IV,
+  Part III,
+  Part IV,
+  Mon Coeur est Rouge,
+  Heartland.
+
+
+<sect1>Standards, Volume 1, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1172733/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1983.</bf>
+Power Station, NYC, January 1983;
+Jan Erik Kongshaug (sound engineer).
+ECM 1225; LP 811 969/CD 811 966-2.
+Silverdisc Award - 1983, Swing Journal (Germany).
+Record of the Year - 1983, Audio Magazine (Germany).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  The Meaning of the Blues,
+  All the Things You Are,
+  It Never Entered My Mind,
+  The Masquerade Is Over,
+  God Bless the Child.
+
+
+<sect1>Changes, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1172734/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1983.</bf>
+Power Station, NYC, January 1983;
+Jan Erik Kongshaug (sound engineer).
+ECM 1276; LP 817 436-2/CD 817 436-2.
+All songs composed by Keith Jarrett.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Flying - Part 1,
+  Flying - Part 2,
+  Prism.
+
+
+<sect1>Standards, Volume 2, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1172736/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1983.</bf>
+Power Station, NYC, January 1983;
+Jan Erik Kongshaug (sound engineer).
+ECM 1289; LP 825 015-1/CD 825 015-2.
+Silverdisc Award - 1983, Swing Journal (Germany).
+Record of the Year (Critic's Poll) - 1983, Jazz life magazine (Germany).
+Record of the Year - 1983, Hi-fi Vision (Germany).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  So Tender (Keith Jarrett),
+  Moon and Sand,
+  In Love In Vain,
+  Never Let Me Go,
+  If I Should Lose You,
+  I Fall In Love Too Easily.
+
+
+<sect1>Tabula Rasa, <it>(Arvo Part)</it>
+
+<p>
+<bf>1984.</bf>
+Basilea, October 1983.
+ECM 1275; LP 817 764-1/CD 817 764-2.
+
+<bf>Featuring:</bf>
+  Gidon Kremer <it>(violin)</it>,
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Track:</bf>
+  Fratres.
+
+
+<sect1>Spheres, <it>(Keith Jarrett)</it>
+
+<p>
+<bf>1985.</bf>
+Ottobeuren, W.Germany 1976<footnote>Recorded on the Carl 
+Joseph Riepp Baroque Organ at Ottobeuren, W.Germany</footnote>.
+ECM 1302; CD 827 463-2 (AAD).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(Organ)</it>.
+
+<bf>Tracks:</bf>
+  Spheres (1st, 4th, 7th, 9th Movement).
+
+  
+<sect1>Works, <it>(Keith Jarrett)</it>
+
+<p>
+<bf>1985.</bf>
+ECM LP 825 425-1/CD 825 425-2.
+
+<bf>Tracks:</bf>
+  Country (from <it>My Song</it> - 1978),
+  Ritooria (from <it>Facing You</it> - 1972),
+  The Journey Home (from <it>My Song</it> - 1978),
+  Staircase  - Part II (from <it>Staircase</it> - 1977),
+  String Quartet - 2nd movement (from <it>In the Light</it> - 1974),
+  Invocations - Recognition (from <it>Invocations / The Moth and the Flame</it> - 1981),
+  Nagoya - Part IIB -Encore- (from <it>Sun Bear Concerts</it> - 1977).
+
+
+<sect1>Spirits, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184242/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1986.</bf>
+Cavelight Studio, NJ, July 1985;
+Keith Jarrett and Manfred Eicher (producers).
+ECM 1333/4; 2-LP 829 467-1/2-CD 829 467-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(Pakistani flute, tablas, flutes, shakers, voice, soprano sax, piano, guitar, glockenspiel, tambourine, double bell)</it>.
+
+<bf>Tracks:</bf>
+  Spirits Volume 1: Spirits 1-12,
+  Spirits Volume 2: Spirits 13-26.
+
+
+<sect1>Standards Live, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1032210/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1986.</bf>
+Live; The Palais des Congres Studios de la Grande Armee, Paris, July
+2nd 1985.
+ECM 1317; LP 827 827-1/CD 827 827-2.
+Best Jazz Performance (Group) - 1987, Grammy Nomination (USA).
+Grand Prix - 1987, Swing Journal (Germany).
+Album of the Year - 1987, Jazz Life Magazine (Germany).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Stella By Starlight,
+  The Wrong Blues,
+  Falling In Love With Love,
+  Too Young to Go Steady,
+  The Way You Look Tonight,
+  The Old Country.
+
+
+<sect1>Book of Ways, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184243/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1986.</bf>
+Tonstudio Bauer, Ludwigsburg, July 1986;
+Martin Wieland (sound engineer).
+ECM 1344/5; 2-LP 831 396-1/2-CD 831 396-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(clavichord)</it>.
+
+<bf>Volume 1; Tracks:</bf>
+  The Book of Ways - The Feeling of Strings 1-10.
+
+<bf>Volume 2; Tracks:</bf>
+  The Book of Ways - The Feeling of Strings 11-19
+
+
+<sect1>Still Live, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1213874/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1988.</bf>
+Live; Munich, July 13, 1986;
+Martin Wieland (sound engineer).
+ECM 1360/1; 2-LP 835 008-1/2-CD 835 008-2.
+Best Jazz Performance (Group) - 1987, Grammy Nomination (USA).
+Bronzedisc Award - 1987, Swing Journal (Germany).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  My Funny Valentine,
+  Autumn Leaves,
+  When I Fall in Love,
+  The Song Is You,
+  Come Rain or Come Shine,
+  Late Lament,
+  You and the Night and the Music / Extension,
+  Intro / Some Day My Prince Will Come,
+  Billie's Bounce (*),
+  I Remember Clifford.
+
+(*) <footnote>Bonus track on CD only.</footnote>
+
+
+<sect1>Das Wohltemperierte Klavier, Buch I, <it>(Johann Sebastian Bach)</it>
+
+<p>
+<bf>1988.</bf>
+Cavelight Studio, NJ, February 1987;
+Martin Wieland (sound engineer).
+ECM NEW SERIES 1362/3; 2-LP 835 246-1/2-CD 835 246-2.
+Best Classical Instrumental Soloist - 1988, Grammy Nomination (USA).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  Pr&auml;ludien und Fugen I-XII (BWV 846-857),
+  Pr&auml;ludien und Fugen XII-XXIV (BWV 858-869).
+
+
+<sect1>Piano Concerto / Suite for Violin, Piano and Small Orchestra, <it>(Lou Harrison)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=330829/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1988.</bf>
+Live, Kanihoken Hall, Tokyo, January 30, 1986 (1);
+RCA Studio A, NYC, May 21-22, 1988 (2).
+New World Records NW 366-2.
+
+<bf>Featuring (1):</bf>
+  Keith Jarrett <it>(piano)</it>,
+  New Japan Philarmonic, Naoto Otomo <it>(director)</it>.
+
+<bf>Tracks (1):</bf>
+  I. Allegro,
+  II. Stampede,
+  III. Largo,
+  IV. Allegro moderato.
+
+<bf>Featuring (2):</bf>
+  Lucy Stoltzmann <it>(violin)</it>,
+  Keith Jarrett <it>(piano)</it>,
+  orchestra directed by Robert Hughes.
+
+<bf>Tracks (2):</bf>
+  Overture,
+  Elegy,
+  First Gamelan,
+  Aria,
+  Second Gamelan,
+  Chorale.
+
+
+<sect1>Dark Intervals, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184244/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1988.</bf>
+Live; Suntory Hall, Tokyo, April 11, 1987;
+ECM 1379; LP 837 342-1/CD 837 342-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  Opening,
+  Hymn,
+  Americana,
+  Entrance,
+  Parallels,
+  Fire Dance,
+  Ritual Prayer,
+  Recitative.
+
+
+<sect1>Personal Mountains, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184245/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1989.</bf>
+Live; Tokyo, April 1979.
+ECM 1382; LP 837 361-1/CD 837 361-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Jan Garbarek <it>(soprano sax, tenor sax)</it>,
+  Palle Danielsson <it>(accoustic bass)</it>,
+  Jon Christensen <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Personal Mountains,
+  Prism,
+  Oasis,
+  Innocence,
+  Late Night Willie (*).
+
+(*) <footnote>Bonus track on CD only.</footnote>
+
+
+<sect1>Goldberg Variations, <it>(Johann Sebastian Bach)</it>
+
+<p>
+<bf>1989.</bf>
+Yatsugatake Kohgen Ongakudoh, Japan, January 10-12, 1989;
+Peter Laenger (sound engineer).
+ECM NEW SERIES 1395; LP 839 622-1/CD 839 622-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(harpsichord)</it> (*).
+
+Johann Sebastian Bach, Goldberg Variationen (BWV 998);
+<bf>Tracks:</bf>
+  Aria,
+  Variations 1-30,
+  Aria.
+
+(*) <footnote>Instrument made by Tatsuo Takahashi.</footnote>
+
+
+<sect1>Changeless, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184246/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1989.</bf>
+Live; Denver, October 14, 1987 (1);
+Dallas, October 11, 1987 (2);
+Lexington, October 9, 1987 (3);
+Houston, October 12, 1987 (4);
+Tom McKenney (sound engineer).
+ECM 1392; LP 839 618-1/CD 839 618-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Dancing (1),
+  Endless (2),
+  Lifeline (3),
+  Ecstasy (4).
+
+
+<sect>The years ranging from 1990 to 2000+
+
+<sect1>Lousadzak for Piano and Orchestra, <it>(Alan Hovhaness)</it>
+
+<p>
+<bf>1990.</bf>
+Recorded 1989. MusicMasters Records, Musicmaster 66204.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  American Composer's Orchestra, Dennis Russell Davies <it>(director)</it>.
+
+
+<sect1>Tribute, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1172743/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1990.</bf>
+Live; K&ouml;ln Philarmonic, October 15, 1989.
+ECM 1420/21; 2-LP 847 135-1/2-CD 847 135-2.
+Prix du President de la Republique (Album of the Year) - 1990, Charles Cros
+Academy (France).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Lover Man: Lee Konitz,
+  I Hear a Rhapsody: Jim Hall,
+  Little Girl Blue: Nancy Wilson,
+  Solar: Bill Evans,
+  Sun Prayer: Keith Jarrett,
+  Just In Time: Charlie Parker,
+  Smoke Gets In Your Eyes: Coleman Hawkins,
+  All of You: Miles Davis,
+  Ballad of the Sad Young Man: Anita O'Day,
+  All the Things You Are: Sonny Rollins,
+  It's Easy to Remember: John Coltrane,
+  U Dance (Keith Jarrett).
+
+
+<sect1>Paris Concert, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1158658/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1990.</bf>
+Live; Salle Pleyel, Paris, October 17, 1988;
+Peter Laenger, Andreas Neubronner (sound engineer).
+ECM 1401; LP 839 173-1/CD 839 173-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  October 17, 1988 <it>(Keith Jarrett)</it>,
+  The Wind <it>(Russ Freeman, Jerry Gladstone)</it>,
+  Blues <it>(Keith Jarrett)</it>.
+
+
+<sect1>Keith Jarrett at his best, <it>(Keith Jarrett)</it>
+
+<p>
+<bf>1990.</bf>
+JCI (Warner special products), 1990;
+CD JCD-3652, Barcode number 05109-13652-26;
+"Giants of Jazz" series.
+<footnote>
+Address of JCI is: 21550 Oxnard Street, Suite 920, Woodland Hills, CA 91367.
+</footnote>
+
+<bf>Tracks:</bf>
+  Birth,
+  Life Between The Exit Signs,
+  Trust,
+  Somewhere Before,
+  Gypsy Moth.
+
+
+<sect1>Two Miles Live, <it>(Miles Davis)</it>
+
+<p>
+<bf>1990.</bf>
+Live; Concerthaus Wien, November 5 1971;
+Discurios Dis 201 LP.
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Gary Bartz <it>(soprano sax)</it>,
+  Keith Jarrett <it>(electric piano)</it>,
+  Michael Henderson <it>(electric bass)</it>,
+  Leon Chancler <it>(drums)</it>,
+  Don Alias <it>(congas)</it>,
+  James "Mtume" Foreman <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Directions,
+  Sivad,
+  What I say,
+  Sanctuary,
+  Miles run the Voodoo down,
+  Selim,
+  Yesterday,
+  Funky Tonk.
+
+
+<sect1>The Cure, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1172745/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1991.</bf>
+Live; Town Hall, NYC, April 21 1990;
+Jan Erik Kongshaug (sound engineer).
+ECM 1440; CD 849 650-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Bemsha Swing,
+  Old Folks,
+  Woody'n You,
+  Blame It On My Youth,
+  Golden Earrings,
+  Body and Soul,
+  The Cure (Keith Jarrett),
+  Things Ain't What They Used to Be.
+
+
+<sect1>Das Wohltemperierte Klavier, Buch II, <it>(Johann Sebastian Bach)</it>
+
+<p>
+<bf>1991.</bf>
+Cavelight Studio, NJ, May 1990;
+Peter Laenger (sound engineer).
+ECM NEW SERIES 1433/34; 2-CD 847 936-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(harpsichord)</it> (*).
+
+<bf>Tracks:</bf>
+  Pr&auml;ludien und Fugen I-XII <it>(BWV 870-881)</it>,
+  Pr&auml;ludien und Fugen XIII-XXIV <it>(BWV 882-893)</it>.
+
+(*) <footnote>Instrument made by Tatsuo Takahashi.</footnote>
+
+
+<sect1>Etruscan Concerto, <it>(Peggy Glanville-Hicks)</it>
+
+<p>
+<bf>1991.</bf> MusicMaster Records, Musicmaster 67089.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Brooklyn Philarmonic, Dennis Russell Davies <it>(director)</it>.
+
+
+<sect1>Sonatas for Recorder and Continuo, <it>(George Fredrick H&auml;ndel)</it>
+
+<p>
+<bf>1991.</bf>
+Cavelight Studio, NJ, 1990;
+Peter Laenger (sound engineer);
+Manfred Eicher (producer).
+RCA Victor 60441-2.
+
+<bf>Featuring:</bf>
+  Michala Petri <it>(flutes)</it>,
+  Keith Jarrett <it>(harpsichord)</it>.
+
+<bf>Tracks:</bf>
+  Sonata in G Major <it>(HWV 363)</it>,
+  Sonata in A Minor <it>(HVW 362)</it>,
+  Sonata in C Major <it>(HWV 365)</it>,
+  Sonata in F Major <it>(HWV 369)</it>,
+  Sonata in Bb Major <it>(HWV 377)</it>,
+  Sonata in D Minor <it>(HWV 378)</it>.
+
+
+<sect1>Flutes Sonata, <it>(Johann Sebastian Bach)</it>
+
+<p>
+<bf>1992.</bf>
+Cavelight Studio, NJ, February 28-29 and March 1, 1992;
+Peter Laenger (sound engineer);
+Keith Jarrett and Peter Laenger (producers).
+RCA Victor 61274-2.
+
+<bf>Featuring:</bf>
+  Michala Petri <it>(flutes)</it>,
+  Keith Jarrett <it>(harpsichord)</it> (*).
+
+<bf>Tracks:</bf>
+  Sonata in Bb Minor <it>(BWV 1030)</it>,
+  Sonata in G Major <it>(BWV 1031)</it>,
+  Sonata in A Major <it>(BWV 1032)</it>,
+  Sonata in C Major <it>(BWV 1033)</it>,
+  Sonata in G Minor <it>(BWV 1034)</it>,
+  Sonata in F Major <it>(BWV 1035)</it>.
+
+(*) <footnote>Instrument made by Carl Fudge.</footnote>
+
+
+<sect1>Silence, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=402487/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1992.</bf>
+Atlantic Recording Studios, NYC, September 9, 1977;
+Tony May (sound engineer);
+Esmond Edwards (producer);
+Michael Cuscuna (reissue producer).
+Impulse/GRP GRD-117 (CD).
+<footnote>
+Reissue of Byablue and Bop-Be.
+</footnote>
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano, soprano sax, percussion)</it>,
+  Dewey Redman <it>(tenor sax, musette)</it>,
+  Charlie Haden <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums, percussion)</it>.
+
+<bf>Tracks:</bf>
+  Byablue,
+  Rainbow,
+  Trieste,
+  Fantasm,
+  Mushi Mushi,
+  Silence,
+  Bop-Be,
+  Gotta Get Some Sleep,
+  Blackberry Winter,
+  Pocket Full of Cherry,
+  Byablue.
+
+
+<sect1>24 Preludes and Fugues, Opus 87, <it>(Dmitri Shostakovich)</it>
+
+<p>
+<bf>1992.</bf>
+Salle de Musique, La Chaux de Fonds, July 1991;
+Peter Laenger (sound engineer).
+ECM NEW SERIES 1469/70; 2-CD 437 189-2.
+Best classical instrumental soloist - 1992, Grammy Nomination (USA).
+Best classical CD of the Year - 1992, CD Review (USA).
+Best of Year List - 1992, John Rockwell, New York Times.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  Preludes and Fugues, Opus 87, 1-12;
+  Preludes and Fugues, Opus 87, 13-24.
+
+
+<sect1>Bye Bye Blackbird, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1032192/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1993.</bf>
+Live; Power Station, NYC, October 12, 1991;
+Jay Newland (sound engineer).
+ECM 1467; CD 513 074-2.
+Album of the Year (Reader's Poll) - 1993, Swing Journal (Germany).
+Silverdisc Award - 1993, Swing Journal (Germany).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Bye Bye Blackbird,
+  You Won't Forget Me,
+  Butch and Butch,
+  Summer Night,
+  For Miles (Keith Jarrett, Gary Peacock, Jack DeJohnette),
+  Straight No Chaser,
+  I Thought About You,
+  Blackbird, Bye Bye (Keith Jarrett, Gary Peacock, Jack DeJohnette).
+
+
+<sect1>Vienna Concert, <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1158651/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1993.</bf>
+Vienna State Opera, Vienna, July 13, 1991;
+Peter Laenger (sound engineer);
+Manfred Eicher and Keith Jarrett (producers).
+ECM 1481; CD 513 437-2.
+<footnote>
+Includes a poem by Robert Bly.
+</footnote>
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  Vienna, Part I;
+  Vienna, Part II.
+
+
+<sect1>The French Suites, <it>(Johann Sebastian Bach)</it>
+
+<p>
+<bf>1993.</bf>
+Cavelight Studio, NJ, September 1991;
+Peter Laenger (sound engineer).
+ECM NEW SERIES 1513/14; CD 437 955-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(harpsichord)</it>.
+
+<bf>Tracks:</bf>
+  Suite No. 1 in D Minor <it>(BWV 812)</it>,
+  Suite No. 2 in C Minor <it>(BWV 813)</it>,
+  Suite No. 3 in B Minor <it>(BWV 814)</it>,
+  Suite No. 4 in Eb Minor <it>(BWV 815)</it>,
+  Suite No. 5 in G Major <it>(BWV 816)</it>,
+  Suite No. 6 in E Major <it>(BWV 817)</it>.
+
+
+<sect1>Live 1970 / 1973, <it>(Miles Davis)</it>
+
+<p>
+<bf>1993.</bf>
+MD CD 1-4 (Italy).
+
+Volume 1: Lennies on The Turnpike (Boston), 1971.
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Gary Bartz <it>(saxophones)</it>,
+  Keith Jarrett <it>(electric piano, electric organ)</it>,
+  Mike Henderson <it>(electric bass)</it>,
+  Jack DeJohnette <it>(drums)</it>,
+  Airto Moreira <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Funky Tonk,
+  Directions,
+  What I Say,
+  Honky Tonk.
+
+Volume 2: Fillmore West, San Francisco, October 17, 1970.
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Gary Bartz <it>(saxophones)</it>,
+  Keith Jarrett <it>(electric piano, electric organ)</it>,
+  Mike Henderson <it>(electric bass)</it>,
+  Jack DeJohnette <it>(drums)</it>,
+  Jumma Santos <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Directions,
+  Honky Tonk,
+  Unidentified Track,
+  Sanctuary,
+  Yesternow,
+  Bitches Brew,
+  Inamorata / The Theme.
+
+Volume 3: Neue Stadthalle, Dietikon (Switzerland), October 22, 1971.
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Gary Bartz <it>(saxophones)</it>,
+  Keith Jarrett <it>(electric piano, electric organ)</it>,
+  Mike Henderson <it>(electric bass)</it>,
+  Leon Chancler <it>(drums)</it>,
+  Don Alias <it>(congas)</it>,
+  James "Mtume" Foreman <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Directions,
+  Honky Tonk / Sivad,
+  What I Say,
+  Sanctuary,
+  Funky Tonk,
+  Yesternow.
+
+
+<sect1>Foundations: the Keith Jarrett Anthology (1966-1971), <it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=332149/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1994.</bf>
+Joel Dorn (producer).
+Rhino R2-71593.
+<footnote>
+(1) From a recording session for the never published album <it>Love
+Animal</it> by Bob Moses (Vanguard Apostolic Studios, NYC, 1968); Bob Moses
+and David Becker (producers). Keith Jarrett (piano), Steve Swallow
+(accoustic bass), Bob Moses (drums), Jim Pepper (tenor sax).
+
+(2) Art Blakey and The New Jazz Messangers, <it>Buttercorn Lady</it>.
+
+(3) Charles Lloyd, <it>Forest Flower</it>.
+
+(4) The Charles Lloyd Quartet, <it>Journey Within</it>.
+
+(5) Airto, <it>Free</it>.
+
+(6)(7) <it>Gary Burton and Keith Jarrett</it>.
+
+(8)(9)(10) Keith Jarrett, <it>Life Between the Exit Signs</it>.
+
+(11)(12)(13)(14) Keith Jarrett Trio, <it>Somewhere Before</it>.
+
+(15)(16) Keith Jarrett, <it>Birth</it>.
+
+(17)(18)(19)(20) Keith Jarrett, <it>The Mourning of a Star</it>.
+
+(21)(22)(23) Keith Jarrett, <it>El Juicio</it>.
+</footnote>
+
+<bf>Tracks:</bf>
+  Smoke Gets In Your Eyes (1),
+  My Romance <it>(from Jumbo)</it> (2),
+  Sorcery <it>(Charles Lloyd)</it> (3),
+  Love No. 3 <it>(Keith Jarrett)</it> (4),
+  So Tender <it>(Keith Jarrett)</it> (5),
+  Grow Your Own <it>(Keith Jarrett)</it> (6),
+  Moonlight / In Your Quiet Place (7),
+  Lisbon Stomp (8),
+  Love No. 1 (9),
+  Everything I Love (10),
+  Moving Soon (11),
+  Somewhere Before (12),
+  A Moment for Tears (13),
+  Pretty Ballad (14),
+  Birth (15),
+  Spirit (16),
+  Interlude No. 3 (17),
+  Standing Outside (18),
+  The Mourning of a Star (19),
+  Sympathy (20),
+  Piece for Ornette <it>(long version)</it> (21),
+  Piece for Ornette <it>(short version)</it> (22),
+  Pardon My Rags (23).
+
+
+<sect1>At the Deer Head Inn, <it>(Keith Jarrett, Gary Peacock, Paul Motian)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1172728/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1994.</bf>
+Live; The Deer Head Inn, Allentown, PA, September 16, 1992;
+Kent Heckman (sound engineer);
+Bill Goodwin (producer).
+ECM 1531; CD 517 720-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Paul Motian <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Solar,
+  Basin Street Blues,
+  Chandra,
+  You Don't Know What Love Is,
+  You and the Night and the Music,
+  Bye Bye Blackbird,
+  It's Easy to Remember.
+
+
+<sect1>Bridge of Light, <it>(Keith Jarrett)</it>
+
+<p>
+<bf>1994.</bf>
+State University of NYC, Purchase, March 1993;
+Peter Laenger (sound engineer);
+Keith Jarrett and Manfred Eicher (producers).
+ECM NEW SERIES 1450; CD 445 350-2.
+
+<bf>Featuring:</bf>
+  The Fairfield Orchestra, Thomas Crawford <it>(director)</it>.
+
+<bf>Tracks:</bf>
+  <it>Elegy for Violin and String Orchestra</it> (1984), Michelle
+      Makarski (violin);
+  <it>Adagio for Oboe and String Orchestra</it> (1984), Marcia
+      Butler (oboe);
+  <it>Sonata for Violin and Piano</it> (1984), Keith Jarrett (piano)
+      and Michelle Makarski (violin):
+    Celebration,
+    Song,
+    Dance,
+    Birth,
+    Dance;
+  <it>Bridge of Light for Viola and Orchestra</it> (1990), Patricia
+      McCarthy (viola).
+
+
+<sect1>What I Say? Volume 1, <it>(Miles Davis (featuring Keith Jarrett))</it>
+
+<p>
+<bf>1994.</bf>
+Live; Wiener Konzerthaus, November 5, 1971.
+JMY 1015-2.
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Gary Bartz <it>(saxophones)</it>,
+  Keith Jarrett <it>(electric piano, electric organ)</it>,
+  Mike Henderson <it>(electric bass)</it>,
+  Leon Chancler <it>(drums)</it>,
+  Don Alias <it>(congas)</it>,
+  James "Mtume" Foreman <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Directions / Honky Tonk / What I Say / Sanctuary / It's About
+      That Time.
+
+
+<sect1>What I Say? Volume 2, <it>(Miles Davis (featuring Keith Jarrett))</it>
+
+<p>
+<bf>1994.</bf>
+Live; Fillmore West, San Francisco, October 17, 1970.
+JMY 1016-2.
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Gary Bartz <it>(saxophones)</it>,
+  Keith Jarrett <it>(electric piano, electric organ)</it>,
+  Mike Henderson <it>(electric bass)</it>,
+  Leon Chancler <it>(drums)</it>,
+  Don Alias <it>(congas)</it>,
+  James "Mtume" Foreman <it>(percussion)</it>.
+
+<bf>Tracks:</bf>
+  Yesternow, Part 3 / Funky Tonk / The "Sanctuary" Theme.
+
+
+<sect1>3 Sonaten fuer Viola da Gamba und Cembalo, <it>(J.S. Bach)</it>
+
+<p>
+<bf>1994.</bf>
+Recorded September 1991, Cavelight Studio, New Jersey;
+Peter Laenger (sound engineer);
+Manfred Eicher (producer).
+ECM NEW SERIES 1501; CD 445 230-2.
+
+<bf>Featuring:</bf>
+  Kim Kashkashian <it>(viola)</it>,
+  Keith Jarrett <it>(cembalo)</it>.
+
+<bf>Tracks:</bf>
+  Sonate G major <it>(BWV 1027)</it>,
+  Sonate D major <it>(BWV 1028)</it>,
+  Sonate G minor <it>(BWV 1029)</it>.
+
+
+<sect1>Standards in Norway, <it>(Keith Jarrett Trio)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1032193/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1995.</bf>
+Live; Konserthus, Oslo, October 7, 1989;
+Jan Erik Kongshaug (sound engineer);
+Manfred Eicher (producer).
+ECM 1542; CD 521 717-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  All Of You,
+  Little Girl Blue,
+  Just In Time,
+  Old Folks,
+  Love Is a Many-Splendored Thing,
+  Dedicated to You,
+  I Hear a Rhapsody,
+  How About You?
+
+
+<sect1>Keith Jarrett At the Blue Note - The Complete Recordings, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1251476/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1995.</bf>
+Live; Blue Note, NYC, June 3-5, 1994;
+Jan Erik Kongshaug (sound engineer);
+Manfred Eicher (producer).
+ECM 1575-80 78118-21575-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(double-bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+
+  Friday June 3rd, 1994 1st Set:
+      In Your Own Sweet Way,
+      How Long Has This Been Going On,
+      While We're Young,
+      Partners,
+      No Lonely Nights,
+      Now's the Time,
+      Lament;
+
+  Friday June 3rd, 1994 2nd Set:
+      I'm Old Fashioned,
+      Everything Happens to Me,
+      If I Were a Bell,
+      In the Wee Small Hours of the Morning,
+      Oleo,
+      Alone Together,
+      Skylark,
+      Things Ain't What They Used to Be;
+
+  Saturday June 4th, 1994 1st Set:
+      Autumn Leaves,
+      Days of Wine and Roses,
+      Bop-Be,
+      You Don't Know What Love Is,
+      Muezzin,
+      When I Fall in Love;
+
+  Saturday June 4th, 1994 2nd Set:
+      How Deep Is the Ocean,
+      Close Your Eyes,
+      Imagination,
+      I'll Close My Eyes,
+      I Fall in Love Too Easily,
+      The Fire Within,
+      Things Ain't What They Used to Be;
+
+  Sunday June 5th, 1994 1st Set:
+      On Green Dolphin Street,
+      My Romance,
+      Don't Ever Leave Me,
+      You'd Be So Nice to Come Home To,
+      La Valse Bleue,
+      No Lonely Nights,
+      Straight, No Chaser;
+
+  Sunday June 5th, 1994 2nd Set:
+      Time After Time,
+      For Heaven's Sake,
+      Partners,
+      Desert Sun,
+      How About You?
+
+
+<sect1>H&auml;ndel Suites for Keyboard, <it>(George Fredrick H&auml;ndel)</it>
+
+<p>
+<bf>1995.</bf>
+Recorded September 1993,
+State University of New York, Purchase,
+Tonmeister: Peter Laenger,
+Produced by Manfred Eicher;
+ECM NEW SERIES 1530 445 298-2.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  Suite HWV 452 (G Minor / g-moll / sol mineur),
+  Suite HWV 447 (D Minor / d-moll / r&eacute; mineur),
+  Suites II / No.7 HWV 440 (B-flat Major / B-Dur / Beacute;mol majeur),
+  Suites I / No.8 HWV 433 (F Minor / f-moll / fa mineur),
+  Suites I / No.2 HWV 427 (F Major / F-Dur / fa majeur),
+  Suites I / No.4 HWV 429 (E Minor / e-moll / mi mineur),
+  Suites I / No.1 HWV 426 (A Major / A-Dur / la majeur).
+
+
+<sect1>Another Bitches Brew, <it>(Miles Davis)</it>
+
+<p>
+<bf>1995.</bf>
+Live; November 3, 1971, Beograd;
+2-CD-set, Jazz Door (JD 1284/85).
+
+<bf>Featuring:</bf>
+  Miles Davis <it>(trumpet)</it>,
+  Gary Bartz <it>(soprano and alto saxophones)</it>,
+  Keith Jarrett <it>(electric piano, organ)</it>,
+  Michael Henderson <it>(Fender bass)</it>,
+  Leon Chancler <it>(drums)</it>,
+  James Mtume Foreman <it>(percussion)</it>,
+  Charles Don Alias <it>(congas)</it>.
+
+<bf>Tracks:</bf>
+  Directions <it>(Joe Zawinul)</it>,
+  Honky Tonk <it>(Miles Davis)</it>,
+  What I Say <it>(Miles Davis)</it>,
+  Sanctuary <it>(Wayne Shorter, Miles Davis)</it>,
+  It's About That Time - Inamorata <it>(Miles Davis)</it>,
+  Yesternow - Part 1 <it>(Miles Davis)</it>.
+
+
+<sect1>Piano Concertos K.467, 488, 595, Masonic Funeral Music K.477, Symphony in G Minor K.550, <it>(W. A. Mozart)</it>
+
+<p>
+<bf>1996.</bf>
+Recorded November 1994 and January 1995
+at Mozart-Saal / Liederhalle, Stuttgart.
+Peter Laenger (tonmeister).
+Manfred Eicher (producer).
+ECM New Series 1565/66 449 670-2.
+
+<bf>Featuring:</bf>
+Keith Jarrett <it>(piano)</it>,
+Stuttgarter Kammerorchester,
+Dennis Russell Davies <it>(conductor)</it>.
+
+<bf>Tracks:</bf>
+Concerto for Piano and Orchestra No.23 in A Major K.488,
+Concerto for Piano and Orchestra No.27 in B-flat Major K.595,
+Masonic Funeral Music K.477,
+Concerto for Piano and Orchestra No.21 in C Major K.467,
+Symphony No.40 in G Minor K.550.
+
+
+<sect1>La Scala, <it>(Keith Jarrett)</it>
+
+<p>
+<bf>1997.</bf>
+Recorded February 13, 1995 and January 1995
+at Teatro alla Scala, Milano.
+Manfred Eicher (producer).
+ECM 1640 537 268-2.
+
+<bf>Featuring:</bf>
+Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+La Scala - Part I, La Scala - Part II, Over the rainbow.
+
+
+<sect1>W.A.Mozart Piano Concertos, 
+<it>(Keith Jarrett)</it>
+
+<p>
+<bf>1998 (?).</bf> 
+ECM 1624 (2 CD).
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Stuttgarter Kammerorchester,
+  Dennis Russell Davies, <it>(conductor)</it>.
+
+<bf>Tracks:</bf>
+  Piano Concerto in D Minor K 466,
+  Piano Concerto in G Major K 453,
+  Piano Concerto in E flat Major K 271 (Jeunehomme),
+  Adagio and Fugue in C Minor K 546.
+
+
+<sect1>Tokyo '96, 
+<it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1032204/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1998.</bf> 
+Recorded live March 30, 1996 at Orchad Hall, Tokyo. ECM 1666.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  It Could Happen To You,
+  Never Let Me Go,
+  Billie's Bounce,
+  Summer Night,
+  I'll Remember April,
+  Mona Lisa,
+  Autumn Leaves,
+  Last Night When We Were Young ­ Caribbean Sky,
+  John's Abbey,
+  My Funny Valentine ­ Song.
+
+
+<sect1>The Melody At Night, With You, 
+<it>(Keith Jarrett)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=805873/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>1999 (?).</bf> 
+ECM 1675.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>.
+
+<bf>Tracks:</bf>
+  I Loves You Porgy,
+  I Got It Band And That Ain't Good,
+  Don't Ever Leave Me,
+  Someone To Watch Over Me,
+  My Wild Irish Rose,
+  Blame It On My Youth,
+  Meditation,
+  Something To Remember You By,
+  Be My Love,
+  Shenandoah,
+  I'm Through With Love.
+
+
+<sect1>Whisper Not, 
+<it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1262554/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>2000 (?).</bf> 
+Release date is October 2000. ECM 1724.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  Bouncin' with Bud,
+  Whisper Not,
+  Groovin' High,
+  Chelsea Bridge,
+  Wrap Your Troubles In Dreams,
+  Round Midnight,
+  Sandu,
+  What Is This Thing Called Love,
+  Conception,
+  Prelude To A Kiss,
+  Hallucinations,
+  All My Tomorrows,
+  Poinciana,
+  When I Fall In Love.
+
+
+<sect1>Inside Out, 
+<it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1425476/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+<bf>October 2001 (?).</bf> 
+ECM 1780.
+
+<bf>Featuring:</bf>
+  Keith Jarrett <it>(piano)</it>,
+  Gary Peacock <it>(accoustic bass)</it>,
+  Jack DeJohnette <it>(drums)</it>.
+
+<bf>Tracks:</bf>
+  From The Body,
+  Inside Out,
+  341 Free Fade,
+  Riot, 
+  When I Fall In Love.
+
+
+<sect>Records whose date of publication is unknown
+
+<sect1>Keith Jarrett, <it>(Atlantic 60 151)</it>
+
+<p>
+A 3-LP box with the records <it>Life Between The Exit Signs</it>, 
+<it>Restoration Ruin</it> and <it>Somewhere before</it>.
+
+
+<sect1>The best of Keith Jarrett, <it>(ABC-Impulse 200 172)</it>
+
+<p>
+Blackberry Winter (from <it>Bop-Be</it>), 
+Introduction/Yaqui Indian Folk Song (from <it>Treasure Island</it>),
+Roads Travelled, Roads Veiled (from <it>Impulse Artists On Tour</it>),
+Fantasm (from <it>Byablue</it>),
+Byablue (from <it>Byablue</it>),
+Treasure Island (from <it>Trasure Island</it>),
+De Drums (from <it>Fort Yawuh</it>),
+Silence (from <it>Bop-Be</it>).
+
+
+<sect1>Lee Konitz meets Keith Jarrett, Chet Baker &amp; Bill Evans, Live in Europe, <it>(Jazz View COD 031)</it>
+
+<p>
+The tracks and the musicians are the same as in <it>Lee Konitz and Chet
+Baker Keith Jarrett Quintet</it>. The piece with Bill Evans is <it>How deep
+is the ocean</it>.
+
+
+<sect1>Charles Lloyd Quartet featuring Keith Jarrett: "Forest Flower", <it>(J-Bop 050, J-Bop means 'Jazz - Birdie's of paradise')</it>
+
+<p>
+(1)(2)(3)(4)(5)(6) Recorded in Oslo May 7, 1966.
+(7) Recorded in Prague October 22, 1967.
+(8)(9)(10)(11) Recorded in Montreaux, 1967.
+All Tunes, except 6, composed by Charles Lloyd.
+
+  <bf>Featuring:</bf>
+      Charles Lloyd <it>(tenor sax, flute)</it>,
+      Keith Jarrett <it>(piano, soprano sax)</it>,
+      Ron McClure <it>(bass)</it>,
+      Jack DeJohnette <it>(drums)</it>.
+
+  <bf>Tracks:</bf>
+      Love Song Baby (1),
+      Love Ship (2),
+      Forest Flower (3),
+      Manhattan Tripper (4),
+      Little Anahid's Day (5),
+      Piano Solo <it>(Keith Jarrett)</it> (6),
+      Island Blues (7),
+      Days And Nights Waiting (8),
+      Lady Gabor (9),
+      Love Ship (10),
+      Forest Flower (11).
+
+
+<sect1>I Giganti Del Jazz: Keith Jarrett, Charles Lloyd, Dollar Brand, Micheal White, <it>(Armando Curcio Editore GJ-19)</it>
+
+<p>
+1967 "Twin Pearls" <it>(Charles Lloyd Quartet)</it>:
+          Charles Lloyd <it>(tenor sax, flute)</it>,
+          Keith Jarrett <it>(soprano sax)</it>,
+          Ron McClure <it>(bass)</it>,
+          Jack DeJohnette <it>(drums)</it>.
+          
+1961 "Ubu Suku":
+          Dollar Brand <it>(piano)</it>,
+          Johnny Gertze <it>(bass)</it>,
+          Makaia Ntshoko <it>(drums)</it>.
+          
+1971 "Ballad For Mother" <it>(Micheal White Quartet)</it>:
+          Micheal White <it>(violin)</it>,
+          Ed Kelly <it>(piano)</it>,
+          Cecil McBee <it>(bass)</it>,
+          Kenneth Nash <it>(percussions)</it>.
+          
+1961 "Autumn Leaves/Time Remembered" <it>(Bill Evans Trio)</it>:
+          Bill Evans <it>(piano)</it>,
+          Scott Lafaro <it>(bass)</it>,
+          Paul Motian <it>(drums)</it>.
+          
+
+<sect1>Chick Corea/Herbie Hancock/Keith Jarrett/McCoy Tyner, <it>(Atlantic SD 1696, 1976)</it>
+
+<p>
+<#if output=html><bf><htmlurl
+url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=321754/from=sr-8224315-1"
+name="Buy this album on CdNow.com"></bf></#if>
+
+Margot/Love No. 1 (from <it>Life Between The Exit Signs</it>):
+          Keith Jarrett <it>(piano)</it>,
+          Charlie Haden <it>(bass)</it>,
+          Paul Motian <it>(drums)</it>.
+          
+Tones For Joan's Bones:
+          Chick Corea <it>(piano)</it>,
+          Steve Swallow <it>(bass)</it>,
+          Joe Chambers <it>(drums)</it>.
+          
+This Is New
+          Chick Corea <it>(piano)</it>,
+          Steve Swallow <it>(bass)</it>,
+          Joe Chambers <it>(drums)</it>,
+          Joe Farrell <it>(tenor sax)</it>,
+          Woody Shaw <it>(trumpet)</it>.
+          
+Lazy Bird/In Your Own Sweet Way:
+          McCoy Tyner <it>(piano)</it>,
+          Steve Davis <it>(bass)</it>,
+          Elvin Jones <it>(drums)</it>.
+          
+Einbahnstrasse/Doom:
+          Herbie Hancock <it>(piano)</it>,
+          Ron Carter <it>(bass)</it>,
+          Billy Cobham <it>(drums)</it>.
+          
+
+<sect1>I Grandi Del Jazz: Keith Jarrett, <it>(Fabbri Editori GdJ 81)</it>
+
+<p>
+<bf>Tracks:</bf>
+Vision/Expectations/The Magician In You/Take Me Back/Nomads/There Is A Road
+(from <it>Expectations</it>).
+
+
+<sect1>Great Moments With Keith Jarrett, <it>(MCA Impulse 2-4125, 2-LP-Set)</it>
+
+<p>
+Fort Yawuh (from <it>Fort Yawuh</it>),
+Konya (from <it>Byablue</it>),
+Great Bird (from <it>Death And The Flower</it>),
+Everything That Lives Laments (from <it>Mysteries</it>),
+Le Mistral (from <it>Treasure Island</it>),
+Angles (Without Edges) (from <it>Treasure Island</it>),
+(If The) Misfits (Wear It) (from <it>Fort Yawuh</it>),
+Prayer (from <it>Death And The Flower</it>),
+Pyramids Moving (from <it>Bop-Be</it>),
+Still Life, Still Life (from <it>Fort Yawuh</it>),
+Mysteries (from <it>Mysteries</it>).
+
+
+<sect1>Miles Davis: "Berlin &amp; Beyond", <it>(Lunch For Your Ears records LFYE 006/7)</it>
+
+<p>
+recorded Philharmonie, Berlin - November 6, 1971
+
+<bf>Tracks:</bf>
+Cd1: Berlin 1971 Medley Part Oon (76:28)
+Cd2: Berlin 1971 Medley Part Two (5:54)
+
+The rest of the material is from Bologna 1973 and has no Jarrett
+on it.
+
+
+<sect1>Miles Davis: "Voodoo Down", <it>(Moon records MCD063-2)</it>
+
+<p>
+Jarrett plays on track 6, entitled <it>Hush!</it> (8:06) which actually
+is <it>Funky Tonk</it> from Torino, November 16, 1971.
+
+
+<sect1>Keith Jarrett, Le Virtuose du Piano, <it>(WEA Rhino 9548-34534 2)</it>
+
+<p>
+Made in germany by Warner Music in 1996 for the WarnerJazz set.
+
+<bf>Tracks:</bf>
+  Everything I love,
+  Sombrero Sam,
+  Grow your own,
+  Birth,
+  My Back Pages,
+  Pardon my Rags,
+  Days and nights waiting,
+  Sympathy,
+  Song of her,
+  Fortune Smiles,
+  Is it really the same?,
+  Margot.
+
+</article>
