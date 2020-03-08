@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<discography modified="2020-03-07">
-	<release>
+<!-- Checklist: add release id to concerts.xml if live concert -->
+
+<discography modified="2020-03-08">
+	<release id="the-koln-concert">
 		<artist>Keith Jarrett</artist>
 		<name>The Köln Concert</name>
 		<year>1975</year>
+		<type>album</type>
+		<type>live</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000188364"/>
 		<link type="Discogs" url="https://www.discogs.com/master/26241"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/516d4629-7bf3-3ac3-907a-ed9a022db840"/>
@@ -13,13 +17,38 @@
 </discography>
 
 <!--
-	<release>
-		<artist>Keith Jarrett</artist>
-		<name></name>
-		<year></year>
-		<link type="AllMusic" url=""/>
-		<link type="Discogs" url=""/>
-		<link type="MusicBrainz" url=""/>
-		<link type="Wikidata" url=""/>
-	</release>
+<release id="">
+	<artist>Keith Jarrett</artist>
+	<name></name>
+	<year></year>
+	<type></type>
+	<link type="AllMusic" url=""/>
+	<link type="Discogs" url=""/>
+	<link type="MusicBrainz" url=""/>
+	<link type="Wikidata" url=""/>
+</release>
+-->
+
+<!--
+Types (should be about the actual content of the release, not about the physical/digital format):
+- album
+- compilation
+- live
+- sampler
+- single
+- soundtrack
+- unofficial release (= bootleg)
+
+Types that won't apply (either because they don't apply to master releases / release groups or because they won't apply to Keith Jarrett):
+- advance
+- EP (*probably* won't apply to Keith Jarrett)
+- maxi-single (*probably* won't apply to Keith Jarrett)
+- promo
+- reissue
+- remastered
+- test pressing
+
+References:
+- https://musicbrainz.org/doc/Release_Group/Type
+- https://www.discogs.com/help/formatslist
 -->
