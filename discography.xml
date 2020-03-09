@@ -3,6 +3,13 @@
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
 <discography modified="2020-03-08">
+	<release id="swinging-big-sound">
+		<artist>Don Jacoby and the College All-Stars</artist>
+		<name>Swinging Big Sound</name>
+		<year>1962</year>
+		<type>album</type>
+		<link type="Discogs" url="https://www.discogs.com/Don-Jacoby-And-The-College-All-Stars-Swinging-Big-Sound/master/738171"/>
+	</release>
 	<release id="the-koln-concert">
 		<artist>Keith Jarrett</artist>
 		<name>The Köln Concert</name>
