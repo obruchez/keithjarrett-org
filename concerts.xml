@@ -63,7 +63,7 @@
 		<concert>
 			<date>January 1</date>
 			<place>The Lighthouse, Hermosa Beach, CA, USA</place>
-			<release>Buttercorn Lady</release>
+			<release id="buttercorn-lady">Buttercorn Lady</release>
 			<release>Get The Message</release>
 			<with>
 				<name instr="drums">Art Blakey</name>
@@ -75,7 +75,7 @@
 		<concert>
 			<date>January 9</date>
 			<place>The Lighthouse, Hermosa Beach, CA, USA</place>
-			<release>Buttercorn Lady</release>
+			<release id="buttercorn-lady">Buttercorn Lady</release>
 			<release>Get The Message</release>
 			<with>
 				<name instr="drums">Art Blakey</name>

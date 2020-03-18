@@ -1,26 +1,3 @@
-<sect1>Buttercorn Lady, <it>(Art Blakey and the New Jazz Messengers)</it>
-
-<p>
-<bf>1966.</bf> Live; The Lighthouse, Hermosa Beach, CA;
-January 1 and 9, 1966; Jack Tracy (producer).
-Limelight/Mercury LS-86034; CD 32JD-28.
-
-<bf>Featuring:</bf>
-  Chuck Mangione <it>(trumpet)</it>,
-  Frank Mitchell <it>(tenor sax)</it>,
-  Keith Jarrett <it>(piano)</it>,
-  Reggie Johnson <it>(bass)</it>,
-  Art Blakey <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Buttercorn Lady,
-  Recuerdo,
-  The Theme,
-  Between Races,
-  My Romance (from Jumbo),
-  Secret Love.
-
-
 <sect1>Dream Weaver, <it>(Charles Lloyd Quartet)</it>
 
 <p>

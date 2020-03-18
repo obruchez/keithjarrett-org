@@ -8,7 +8,18 @@
 		<name>Swinging Big Sound</name>
 		<year>1962</year>
 		<type>album</type>
-		<link type="Discogs" url="https://www.discogs.com/Don-Jacoby-And-The-College-All-Stars-Swinging-Big-Sound/master/738171"/>
+		<link type="Discogs" url="https://www.discogs.com/master/738171"/>
+	</release>
+	<release id="buttercorn-lady">
+		<artist>Art Blakey &amp; the Jazz Messengers</artist>
+		<name>Buttercorn Lady</name>
+		<year>1966</year>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/buttercorn-lady-mw0000187725"/>
+		<link type="Discogs" url="https://www.discogs.com/master/176740"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/06f9a118-22c0-3e03-a547-6de7a7c73922"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q16954686"/>
 	</release>
 	<release id="the-koln-concert">
 		<artist>Keith Jarrett</artist>
