@@ -4362,10 +4362,11 @@
 	</group>
 	<group year="1975">
 		<concert>
-			<!-- Stefan Diller -->
 			<date>January 17</date>
 			<place>Kreis-Kulturraum, Kronach, Germany</place>
 			<with solo="yes"/>
+			<comments>Article about the concert, written by the person who organized it: <a href="https://www.manafonistas.de/2018/12/22/50-2395-11-3227-hotel-sonne/">"50.2395, 11.3227 – Hotel Sonne"</a>.</comments>
+			<privatecomments>Concert first mentioned by Stefan Diller. Extra information by the person who organized the concert (Hans-Dieter Klinger).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Peter Elsdon + Arnulf Müller (exact venue) -->
@@ -4397,7 +4398,7 @@
 		<concert>
 			<!-- Matthias Bohlen -->
 			<date>January 25</date>
-			<place>Kantonsschule, Baden, Switzerland</place>
+			<place>Aula, Kantonsschule, Baden, Switzerland</place>
 			<with solo="yes"/>
 			<comments>More information about this concert in <a href="https://web.archive.org/web/20120309113854/http://www.zwitschermaschine.li/rubjarrett.html">"The Baden Concert"</a> (<a href="http://retro.seals.ch/cntmng?pid=ban-001:2006:81::254">PDF version</a>)</comments>
 			<privatecomments>Link to PDF given by Arnulf Müller (March 14, 2016 email).</privatecomments>
@@ -4405,7 +4406,7 @@
 		<concert>
 			<!-- Matthias Bohlen -->
 			<date>January 29</date>
-			<place>Graz, Austria</place>
+			<place>Großer Kammersaal, Graz, Austria</place>
 			<with solo="yes"/>
 			<comments>Concert mentioned in <a href="https://web.archive.org/web/20120309113854/http://www.zwitschermaschine.li/rubjarrett.html">"The Baden Concert"</a> (<a href="http://retro.seals.ch/cntmng?pid=ban-001:2006:81::254">PDF version</a>)</comments>
 			<privatecomments>Link to PDF given by Arnulf Müller (March 14, 2016 email).</privatecomments>
@@ -4413,7 +4414,7 @@
 		<concert>
 			<!-- Peter Elsdon -->
 			<date>January 31</date>
-			<place>Hamburg, Germany</place>
+			<place>Congress Center Hamburg (CCH), Hamburg, Germany</place>
 			<with solo="yes"/>
             <comments/>
 		</concert>
