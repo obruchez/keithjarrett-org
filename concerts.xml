@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 13, 2020">
+<concerts modified="March 18, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6288,13 +6288,14 @@
 			<date>April 15</date>
 			<place>Konserthuset, Stockholm, Sweden</place>
 			<with solo="yes"/>
-			<comments>Comments from Hans: "One of the memorable moments in the concert was the 'Everybody cough'-break in the midst of one of the tunes."</comments>
+			<comments>Comments from Hans: "One of the memorable moments in the concert was the 'Everybody cough' break in the midst of one of the tunes."</comments>
 		</concert>
 		<concert>
-			<!-- Ulf Larsson -->
-			<date>April 19 (?)</date>
+			<date>April 19</date>
 			<place>Örebro konserthus, Örebro, Sweden</place>
 			<with solo="yes"/>
+			<comments>Comments from Gus: "We too had the 'Everybody cough' break."</comments>
+			<privatecomments>Concert first mentioned by Ulf Larsson. Date confirmed by Gus (February 19, 2020 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- David Gitin -->
