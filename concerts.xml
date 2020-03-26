@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 18, 2020">
+<concerts modified="March 19, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5718,7 +5718,6 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Hans-Dieter Klinger (ticket scans available in August 20, 2015 email) -->
 			<date>October 25</date>
 			<time>8 PM</time>
 			<place>Kongress-Saal im Deutschen Museum, Munich, Germany</place>
@@ -5727,6 +5726,18 @@
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
+			<privatecomments>Hans-Dieter Klinger (ticket scans available in August 20, 2015 email)</privatecomments>
+		</concert>
+		<concert>
+			<date>October 27</date>
+			<time>8 PM</time>
+			<place>Großer Saal, Musikhalle, Hamburg, Germany</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<privatecomments>Matthias Bohlen (ticket scan available in March 19, 2020 email)</privatecomments>
 		</concert>
 		<concert>
 			<date>November 11</date>
