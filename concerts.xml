@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 19, 2020">
+<concerts modified="March 26, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5969,11 +5969,11 @@
 			<privatecomments>Simon Savary ("je l'avais reçu comme Part II [de October 31, 1974], mais aussi comme concert autonome avec cette date [3 mai], d'où une certaine confusion sur l'authenticité de la date"). Date could be incorrect according to Rolf Rauschenbach, but is correct according to Marc Morvan (May 3 concert does not exist, confusion between 3/5 and 5/3).</privatecomments>
 		</concert>
 		<concert>
-			<date>March 28 (?)</date>
+			<date>March 25</date>
 			<place>War Memorial Opera House, San Francisco, CA, USA</place>
 			<with solo="yes"/>
-			<comments>Rolf R.: "Most probably did not happen, no mention in Stanford Daily."</comments>
-			<privatecomments>tlambie@charter.net</privatecomments>
+			<comments>A photo from this concert is available from <a href="https://www.gettyimages.de/detail/nachrichtenfoto/musician-keith-jarrett-plays-piano-at-the-opera-house-nachrichtenfoto/74913969">Getty Images</a>.</comments>
+			<privatecomments>First mentioned by tlambie@charter.net. Exact date thanks to Arnulf Müller.</privatecomments>
 		</concert>
 		<concert>
 			<date>April 2</date>
