@@ -22,13 +22,24 @@
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q16954686"/>
 	</release>
 	<release id="dream-weaver">
-		<artist>Keith Jarrett</artist>
+		<artist>The Charles Lloyd Quartet</artist>
 		<name>Dream Weaver</name>
 		<year>1966</year>
 		<type>album</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000224251"/>
 		<link type="Discogs" url="https://www.discogs.com/master/168858"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5306478"/>
+	</release>
+	<release id="the-flowering">
+		<artist>The Charles Lloyd Quartet</artist>
+		<name>The Flowering</name>
+		<year>1971</year>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000882294"/>
+		<link type="Discogs" url="https://www.discogs.com/master/338330"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/fa92987f-8dd5-4596-92a8-8d00658530e5"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7734541"/>
 	</release>
 	<release id="the-koln-concert">
 		<artist>Keith Jarrett</artist>

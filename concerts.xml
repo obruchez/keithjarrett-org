@@ -127,23 +127,25 @@
 			<date>July 23</date>
 			<place>Pinède Gould, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
+			<release id="the-flowering">The Flowering</release>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Cecil McBee</name>
 				<name>Jack DeJohnette</name>
 			</with>
-			<comments><i>The Flowering of the Original Charles Lloyd Quartet</i> includes a track called "Goin' To Memphis/Island Blues", which comes from one of the two concerts in Antibes Juan-Les-Pins.</comments>
+			<comments><i>The Flowering</i> includes a track called "Goin' To Memphis/Island Blues", which comes from one of the two concerts in Antibes Juan-Les-Pins.</comments>
 		</concert>
 		<concert>
 			<date>July 24</date>
 			<place>Pinède Gould, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
+			<release id="the-flowering">The Flowering</release>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Cecil McBee</name>
 				<name>Jack DeJohnette</name>
 			</with>
-			<comments><i>The Flowering of the Original Charles Lloyd Quartet</i> includes a track called "Goin' To Memphis/Island Blues", which comes from one of the two concerts in Antibes Juan-Les-Pins.</comments>
+			<comments><i>The Flowering</i> includes a track called "Goin' To Memphis/Island Blues", which comes from one of the two concerts in Antibes Juan-Les-Pins.</comments>
 		</concert>
 		<concert>
 			<date>August 7</date>
@@ -215,7 +217,7 @@
 		<concert>
 			<date>October 29</date>
 			<place>Aulaen Hall, Oslo, Norway</place>
-			<release>The Flowering of the Original Charles Lloyd Quartet</release>
+			<release id="the-flowering">The Flowering</release>
 			<release>In Europe</release>
 			<with>
 				<name>Charles Lloyd</name>
