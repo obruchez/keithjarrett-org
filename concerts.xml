@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 26, 2020">
+<concerts modified="April 5, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -3395,16 +3395,15 @@
 			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Sam Rivers).</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 11</date>
 			<place>Amherst College, Amherst, MA, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
-				<name>Guilherme Franco (?)</name>
 			</with>
-			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Sam Rivers).</comments>
+			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Sam Rivers). Wylie S.: "Keith walked out, played a few notes, and then proclaimed something like: 'This was not a piano. No classical pianist would play it,' and walked off the stage. Paul Motian (and Charlie Haden?) went and dragged him back - grumbling."</comments>
+			<privatecomments>First mentioned by Kenneth Kubernik. Wylie Smith confirmed that Guilherme Franco was not there.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
