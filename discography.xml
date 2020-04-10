@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2020-03-08">
+<discography modified="2020-04-10">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -29,6 +29,17 @@
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000224251"/>
 		<link type="Discogs" url="https://www.discogs.com/master/168858"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5306478"/>
+	</release>
+	<release id="charles-lloyd-in-europe">
+		<artist>The Charles Lloyd Quartet</artist>
+		<name>Charles Lloyd in Europe</name>
+		<year>1968</year>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000455551"/>
+		<link type="Discogs" url="https://www.discogs.com/master/259282"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/189824ce-743c-4429-9da5-e27ff4f2d70a"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5080302"/>
 	</release>
 	<release id="the-flowering">
 		<artist>The Charles Lloyd Quartet</artist>
