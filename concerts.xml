@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 5, 2020">
+<concerts modified="April 13, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -161,7 +161,7 @@
 			<date>September 18</date>
 			<place>Monterey, CA, USA</place>
 			<event>Monterey Jazz Festival</event>
-			<release>Forest Flower: Charles Lloyd at Monterey</release>
+			<release id="forest-flower">Forest Flower</release>
 			<release>Forest Flower/Soundtrack</release>
 			<with>
 				<name>Charles Lloyd</name>
