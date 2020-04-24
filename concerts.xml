@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 13, 2020">
+<concerts modified="April 24, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -383,7 +383,7 @@
 			<!-- Kenneth Kubernik -->
 			<date>January 27</date>
 			<place>Fillmore Auditorium, San Francisco, CA, USA</place>
-			<release>Love-In</release>
+			<release id="love-in">Love-In</release>
 			<release>Journey Within</release>
 			<with>
 				<name>Charles Lloyd</name>

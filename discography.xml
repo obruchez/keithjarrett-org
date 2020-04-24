@@ -41,6 +41,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/87391912-d884-4521-8c5d-576d054ff03e"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5468862"/>
 	</release>
+	<release id="love-in">
+		<artist>The Charles Lloyd Quartet</artist>
+		<name>Love-In</name>
+		<year>1967</year>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000661993"/>
+		<link type="Discogs" url="https://www.discogs.com/master/168860"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/a97b2b88-d7b7-4f69-9984-5f841e6f81a2"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q6690148"/>
+	</release>
 	<release id="charles-lloyd-in-europe">
 		<artist>The Charles Lloyd Quartet</artist>
 		<name>Charles Lloyd in Europe</name>
