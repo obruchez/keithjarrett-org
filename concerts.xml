@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 24, 2020">
+<concerts modified="April 26, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -2905,6 +2905,17 @@
 			</with>
 		</concert>
 		<concert>
+			<date>June 16</date>
+			<place>Skulpturengarten, Neue Nationalgalerie, Berlin, Germany</place>
+			<event>Jazz in the Garden</event>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Photos by Ludwig Binder: <a href="https://www.jazzbuilder.de/index.php/j/jarrett-keith/item/209-keith-jarrett-1972">Bayerisches Jazzinstitut</a>. Photos by Frank Roland-Beeneken: <a href="https://blog.smb.museum/jazz-in-the-garden-musik-in-der-neuen-nationalgalerie/">Staatliche Museen zu Berlin</a>. Photo by Wolfgang Frankenstein (probably, the credit seems to be incorrect): <a href="https://www.gettyimages.de/detail/nachrichtenfoto/musician-keith-jarrett-poses-for-a-portrait-session-in-nachrichtenfoto/469840416">Getty Images</a>. The photos used for <i>The Köln Concert</i> were also taken by Wolfgang Frankenstein during this concert.</comments>
+			<privatecomments>Concert added by Matthias Bohlen and Arnulf Müller (April 16, 2020 email).</privatecomments>
+		</concert>
+		<concert>
 			<date>August 2</date>
 			<place>Molde Kino, Molde, Norway</place>
 			<event>Molde International Jazz Festival</event>
@@ -5280,6 +5291,17 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+		</concert>
+		<concert>
+			<date>May 5</date>
+			<place>Hamburg, Germany</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Concert mentioned in German magazine "Sounds".</comments>
+			<privatecomments>Concert added by Matthias Bohlen (April 15, 2020 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Sep Troelstra -->
