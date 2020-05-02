@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 26, 2020">
+<concerts modified="May 2, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -500,7 +500,7 @@
 		<concert>
 			<date>May 14</date>
 			<place>Kalevi Sport Hall, Tallinn, Estonia</place>
-			<release>In the Soviet Union</release>
+			<release id="charles-lloyd-in-the-soviet-union">In the Soviet Union</release>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Ron McClure</name>
