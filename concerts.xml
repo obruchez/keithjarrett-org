@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 2, 2020">
+<concerts modified="May 13, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -384,7 +384,7 @@
 			<date>January 27</date>
 			<place>Fillmore Auditorium, San Francisco, CA, USA</place>
 			<release id="love-in">Love-In</release>
-			<release>Journey Within</release>
+			<release id="journey-within">Journey Within</release>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Ron McClure</name>

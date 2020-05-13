@@ -1,24 +1,3 @@
-<sect1>Journey Within, <it>(Charles Lloyd Quartet)</it>
-
-<p>
-<bf>1967.</bf> 
-Live; Fillmore Auditorium, San Francisco, January 27, 1967; 
-George Avakian (producer). 
-Atlantic SD-1493; (Europe) 587101.
-
-<bf>Featuring:</bf>
-  Charles Lloyd <it>(tenor sax, flute)</it>,
-  Keith Jarrett <it>(piano)</it>,
-  Ron McClure <it>(bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Journey Within,
-  Love No. 3 (Keith Jarrett)<footnote>Piano solo.</footnote>,
-  Memphis Green,
-  Lonesome Child (Song / Dance)<footnote>Keith Jarrett on soprano sax, too.</footnote>.
-
-
 <sect1>4th International Jazz Festival - Praha '67, 
 <it>(Charles Lloyd Quartet)</it>
 

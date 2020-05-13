@@ -52,6 +52,15 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/a97b2b88-d7b7-4f69-9984-5f841e6f81a2"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q6690148"/>
 	</release>
+	<release id="journey-within">
+		<artist>The Charles Lloyd Quartet</artist>
+		<name>Journey Within</name>
+		<year>1967</year>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000894426"/>
+		<link type="Discogs" url="https://www.discogs.com/master/366042"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q6296363"/>
+	</release>
 	<release id="charles-lloyd-in-europe">
 		<artist>Charles Lloyd</artist>
 		<name>Charles Lloyd in Europe</name>
