@@ -72,6 +72,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/189824ce-743c-4429-9da5-e27ff4f2d70a"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5080302"/>
 	</release>
+	<release id="life-between-the-exit-signs">
+		<artist>Keith Jarrett</artist>
+		<name>Life Between the Exit Signs</name>
+		<year>1968</year>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000911876"/>
+		<link type="Discogs" url="https://www.discogs.com/master/292865"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/b9132c60-c29b-38b9-938a-1076b4635967"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q6544734"/>
+	</release>
 	<release id="charles-lloyd-in-the-soviet-union">
 		<artist>Charles Lloyd</artist>
 		<name>Charles Lloyd in the Soviet Union</name>

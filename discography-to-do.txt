@@ -14,6 +14,7 @@ Live; Praha, October 22, 1967. Supraphon SUA 15987.
 <bf>Tracks:</bf>
   Island Blues.
 
+---
 
 <sect1>Europa Jazz, <it>(Charles Lloyd Quartet)</it>
 
@@ -29,37 +30,7 @@ Live; Praha, October 22, 1967. Supraphon SUA 15987.
 <bf>Tracks:</bf>
   Twin Pearls.
 
-
-<sect1>Life Between the Exit Signs, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=787859/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1968.</bf> 
-Atlantic Recording Studios, NYC, May 4, 1967; 
-George Avakian (producer). 
-Vortex 2006.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Charlie Haden <it>(bass)</it>,
-  Paul Motian <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Lisbon Stomp (*),
-  Love No. 1 (*),
-  Love No. 2,
-  Everything I Love (*),
-  Margot,
-  Long Time Gone (But Not Withdrawn),
-  Life Between the Exit Signs,
-  Church Dreams.
-
-(*)<footnote>Reissued on: Keith Jarrett - 
-<it>Foundations: the Keith Jarrett Anthology (1966-1971)</it>.</footnote>
-
+---
 
 <sect1>Restoration Ruin, <it>(Keith Jarrett)</it>
 
