@@ -32,37 +32,6 @@ Live; Praha, October 22, 1967. Supraphon SUA 15987.
 
 ---
 
-<sect1>Restoration Ruin, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=793041/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1968.</bf> 
-Atlantic Recording Studios, NYC, March 12, 1968; 
-George Avakian (producer). 
-Vortex 2008.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(voice, guitar, harmonica, soprano sax,
-	piano, electric organ, flute, bass, drums, tambourine,
-	percussion)</it>.
-
-<bf>Tracks:</bf>
-  Restoration Ruin (*),
-  All Right,
-  For You and Me (*),
-  Have a Real Time,
-  Sioux City Sue New (*),
-  You're Fortunate,
-  Fire and Rain,
-  Wonders (*),
-  Where Are You Going?
-
-(*)<footnote>With string quartet. Recorded with overdubbing.</footnote>
-
-
 <sect1>Somewhere Before, <it>(Keith Jarrett Trio)</it>
 
 <p>
