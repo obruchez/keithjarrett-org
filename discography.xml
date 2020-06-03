@@ -92,6 +92,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3d857781-8db4-3283-b046-ef3c04b4f850"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q17027792"/>
 	</release>
+	<release id="somewhere-before">
+		<artist>Keith Jarrett Trio</artist>
+		<name>Somewhere Before</name>
+		<year>1969</year>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000196472"/>
+		<link type="Discogs" url="https://www.discogs.com/master/218104"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/9459e5d4-7ced-41fe-b410-ab9128b3d0f5"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7560336"/>
+	</release>
 	<release id="charles-lloyd-in-the-soviet-union">
 		<artist>Charles Lloyd</artist>
 		<name>Charles Lloyd in the Soviet Union</name>

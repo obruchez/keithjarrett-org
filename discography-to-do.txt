@@ -32,39 +32,6 @@ Live; Praha, October 22, 1967. Supraphon SUA 15987.
 
 ---
 
-<sect1>Somewhere Before, <it>(Keith Jarrett Trio)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=321779/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1968.</bf> 
-Shelly's Manne-Hole, Hollywood, October 30-31, 1968; 
-George Avakian (producer). 
-Vortex / Atlantic 2012; 
-Reissued (Japan): PF.-7529A; CD 30XD-1038.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, soprano sax, flute)</it>,
-  Charlie Haden <it>(bass)</it>,
-  Paul Motian <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  My Back Pages (Bob Dylan),
-  Pretty Ballad (*),
-  Moving Soon (*),
-  Somewhere Before (*),
-  New Rag,
-  A Moment for Tears (*),
-  Pout's Over (And the Day's Not Through),
-  Dedicated to You,
-  Old Rag.
-
-(*)<footnote>Reissued on: Keith Jarrett - 
-<it>Foundations: the Keith Jarrett Anthology (1966-1971)</it>.</footnote>
-
-
 <sect1>Soundtrack, <it>(Charles Lloyd)</it>
 
 <p>

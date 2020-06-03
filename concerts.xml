@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 13, 2020">
+<concerts modified="June 3, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -965,7 +965,7 @@
 		<concert>
 			<date>August 30</date>
 			<place>Shelly's Manne-Hole, Hollywood, CA, USA</place>
-			<release>Somewhere Before</release>
+			<release id="somewhere-before">Somewhere Before</release>
 			<with>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
@@ -975,7 +975,7 @@
 		<concert>
 			<date>August 31</date>
 			<place>Shelly's Manne-Hole, Hollywood, CA, USA</place>
-			<release>Somewhere Before</release>
+			<release id="somewhere-before">Somewhere Before</release>
 			<with>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
