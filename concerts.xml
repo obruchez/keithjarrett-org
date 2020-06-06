@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 3, 2020">
+<concerts modified="June 6, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -8736,7 +8736,16 @@
 			<comments>Keith played mostly standards.</comments>
 		</concert>
 		<concert>
-			<!-- Klaus Lipinski -->
+			<date>September 29</date>
+			<place>Lafayette College's Williams Center For The Arts, Easton, PA, USA</place>
+			<with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+			<comments>Concert mentioned in <a href="https://www.mcall.com/news/mc-xpm-1991-09-27-2806695-story.html">"Precision is the key in which jazz pianist Jarrett likes to play"</a>.</comments>
+			<privatecomments>Mentioned by Mark Bauer.</privatecomments>
+		</concert>
+		<concert>
 			<date>October 21</date>
 			<place>Beethovenhalle, Bonn, Germany</place>
 			<with>
@@ -8744,6 +8753,7 @@
 				<name instr="orchestra">Unknown orchestra</name>
 			</with>
 			<comments>Keith played a Mozart concerto, KV 467. The orchestra, conducted by Dennis Russel Davies, also played "Bridge of Light for Viola and Orchestra" and Stravinsky compositions (?).</comments>
+			<privatecomments>Mentioned by Klaus Lipinski.</privatecomments>
 		</concert>
 		<concert>
 			<date>October 26</date>
