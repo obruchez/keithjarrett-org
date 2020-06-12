@@ -92,6 +92,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3d857781-8db4-3283-b046-ef3c04b4f850"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q17027792"/>
 	</release>
+	<release id="soundtrack">
+		<artist>Charles Lloyd</artist>
+		<name>Soundtrack</name>
+		<year>1969</year>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000874223"/>
+		<link type="Discogs" url="https://www.discogs.com/master/435168"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/60b5aae7-7423-40fa-be5d-91fa8a174aad"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7564980"/>
+	</release>
 	<release id="somewhere-before">
 		<artist>Keith Jarrett Trio</artist>
 		<name>Somewhere Before</name>

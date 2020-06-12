@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 6, 2020">
+<concerts modified="June 12, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -162,7 +162,6 @@
 			<place>Monterey, CA, USA</place>
 			<event>Monterey Jazz Festival</event>
 			<release id="forest-flower">Forest Flower</release>
-			<release>Forest Flower/Soundtrack</release>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Cecil McBee</name>
@@ -1018,8 +1017,7 @@
 		<concert>
 			<date>November 15</date>
 			<place>Town Hall, New York, NY, USA</place>
-			<release>Soundtrack</release>
-			<release>Forest Flower/Soundtrack</release>
+			<release id="soundtrack">Soundtrack</release>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Ron McClure</name>
