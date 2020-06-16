@@ -91,36 +91,6 @@ CBS KC-36472.
 <bf>Tracks:</bf>
   Konda.
 
-
-<sect1>Gary Burton and Keith Jarrett
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=157939/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1971.</bf> A&amp;R Recording Studios, NYC, July 23, 1970;
-Dave Sanders (sound engineer);
-Joel Dorn (producer).
-Atlantic SD-1577; CD 7567-81374-2.
-All songs composed by Keith Jarrett except <it>Como en Vietnam</it>, by Steve
-Swallow.
-
-<bf>Featuring:</bf>
-  Gary Burton <it>(vibes)</it>,
-  Keith Jarrett <it>(piano, electric piano, soprano sax)</it>,
-  Sam Brown <it>(guitar)</it>,
-  Steve Swallow <it>(bass)</it>,
-  Bill Goodwin <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Grow Your Own,
-  Moon Child / In Your Quiet Place,
-  Como en Vietnam,
-  Fortune Smiles,
-  The Raven Speaks.
-
-
 <sect1>Marion Williams
 
 <p>
