@@ -146,6 +146,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/fa92987f-8dd5-4596-92a8-8d00658530e5"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7734541"/>
 	</release>
+	<release id="ruta-and-daitya">
+		<artist>Keith Jarrett &amp; Jack DeJohnette</artist>
+		<name>Ruta and Daitya</name>
+		<year>1972</year>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000093768"/>
+		<link type="Discogs" url="https://www.discogs.com/master/26523"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3c7242d8-5406-365b-87d7-024c79b37953"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7382748"/>
+	</release>
 	<release id="the-koln-concert">
 		<artist>Keith Jarrett</artist>
 		<name>The Köln Concert</name>
@@ -157,7 +167,6 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/516d4629-7bf3-3ac3-907a-ed9a022db840"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q532850"/>
 	</release>
-</discography>
 
 <!--
 <release id="">

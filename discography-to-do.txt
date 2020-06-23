@@ -140,31 +140,6 @@ Atlantic SD-7221.
 (2) <footnote>Strings and winds overdubbed, arranged by Eumir Deodato. David Spinozza (guitar) and Ray Lucas (drums) substitute Resnicoff and Tate.</footnote>
 (3) <footnote>Donald Leace (guitar, voice), Keith Jarrett (piano), David Spinozza (guitar), Bill Salter (accoustic bass), Bill LaVorgna (drums), strings and winds overdubbed arranged by Eumir Deodato.</footnote>
 
-
-<sect1>Ruta and Daitya, <it>(Keith Jarrett and Jack DeJohnette)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206290/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1971.</bf> Sunset Studios, Los Angeles, May 1971.
-ECM 1021; LP 230 1021/CD 513 776-2.
-Grand Prix - 1974, Swing Journal (Japan).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, electric piano, electric organ, flute)</it>,
-  Jack DeJohnette <it>(drums, percussion)</it>.
-
-<bf>Tracks:</bf>
-  Overture - Communion,
-  Ruta and Daitya,
-  All We Got,
-  Sounds of Peru (Submergence; Awakening; Algeria),
-  - You Know, You Know - ,
-  Pastel Morning.
-
-
 <sect1>The Mourning Of a Star, <it>(Keith Jarrett)</it>
 
 <p>
