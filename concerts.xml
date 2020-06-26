@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 12, 2020">
+<concerts modified="June 26, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -122,6 +122,18 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments><i>Forest Flower</i> is a Charles Lloyd bootleg.</comments>
+		</concert>
+		<concert>
+			<date incomplete="yes">May</date>
+			<place>Volksbildungsheim, Frankfurt, Germany</place>
+			<event>Deutsches Jazzfestival Frankfurt</event>
+			<with>
+				<name>Charles Lloyd</name>
+				<name>Cecil McBee</name>
+				<name>Jack DeJohnette</name>
+			</with>
+			<comments>The concert was broadcast by HR 2 (Live Jazz) in 2019.</comments>
+			<privatecomments>Mentioned by Matthias Bohlen.</privatecomments>
 		</concert>
 		<concert>
 			<date>July 23</date>
