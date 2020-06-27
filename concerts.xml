@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 26, 2020">
+<concerts modified="June 27, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -3508,6 +3508,7 @@
 			<date incomplete="yes"/>
 			<place>Freiburg, Germany</place>
 			<with solo="yes"/>
+			<comments>There's a concert recording circulating as "Freiburg 1973", but it's likely a recording of the January 21, 1975 concert.</comments>
 		</concert>
 		<concert>
 			<date incomplete="yes"/>
