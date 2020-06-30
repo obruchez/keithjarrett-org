@@ -140,47 +140,6 @@ Atlantic SD-7221.
 (2) <footnote>Strings and winds overdubbed, arranged by Eumir Deodato. David Spinozza (guitar) and Ray Lucas (drums) substitute Resnicoff and Tate.</footnote>
 (3) <footnote>Donald Leace (guitar, voice), Keith Jarrett (piano), David Spinozza (guitar), Bill Salter (accoustic bass), Bill LaVorgna (drums), strings and winds overdubbed arranged by Eumir Deodato.</footnote>
 
-<sect1>The Mourning Of a Star, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=631544/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1971.</bf>
-Atlantic Recording Studios, NYC, July 8, 9 and 16, 1971 (1),
-August 23, 1971 (2);
-George Avakian (producer).
-Atlantic SD-1596; (Europe) K 40309.
-
-<bf>Featuring (1):</bf>
-  Keith Jarrett <it>(piano, soprano sax, tenor flute, steel drums, conga)</it>,
-  Charlie Haden <it>(accoustic bass, steel drums)</it>,
-  Paul Motian <it>(drums, steel drums, conga)</it>.
-
-<bf>Featuring (2):</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Charlie Haden <it>(accoustic bass)</it>,
-  Paul Motian <it>(drums)</it>.
-
-<bf>Tracks (1):</bf>
-  Follow the Crooked Path (Though It Be Longer),
-  Interlude No. 3,
-  Standing Outside,
-  Everything That Lives Laments,
-  Trust,
-  All I Want (*),
-  Traces of You,
-  The Mourning of a Star,
-  Sympathy.
-
-<bf>Tracks (2):</bf>
-  Interlude No. 1,
-  Interlude No. 2.
-
-(*) <footnote><it>All I Want</it> is a composition by Joni Mitchell.</footnote>
-
-
 <sect1>Birth, <it>(Keith Jarrett)</it>
 
 <p>

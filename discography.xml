@@ -129,16 +129,29 @@
 		<artist>Gary Burton &amp; Keith Jarrett</artist>
 		<name>Gary Burton &amp; Keith Jarrett</name>
 		<year>1971</year>
+		<firstreleasedate>1971-01-12</firstreleasedate>
 		<type>album</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000869415"/>
 		<link type="Discogs" url="https://www.discogs.com/master/119159"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/29c297a2-73e2-4d74-9ae4-224e74146ce3"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2687806"/>
 	</release>
+	<release id="the-mourning-of-a-star">
+		<artist>Keith Jarrett</artist>
+		<name>The Mourning of a Star</name>
+		<year>1971</year>
+		<firstreleasedate>1971-07-09</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000111796"/>
+		<link type="Discogs" url="https://www.discogs.com/master/271143"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release/9654811d-cad3-44b7-b29d-a0bb0777b1c7"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7752504"/>
+	</release>
 	<release id="the-flowering">
 		<artist>The Charles Lloyd Quartet</artist>
 		<name>The Flowering</name>
 		<year>1971</year>
+		<firstreleasedate>1971-07-xx</firstreleasedate>
 		<type>album</type>
 		<type>live</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000882294"/>
@@ -169,16 +182,17 @@
 	</release>
 
 <!--
-<release id="">
-	<artist>Keith Jarrett</artist>
-	<name></name>
-	<year></year>
-	<type></type>
-	<link type="AllMusic" url=""/>
-	<link type="Discogs" url=""/>
-	<link type="MusicBrainz" url=""/>
-	<link type="Wikidata" url=""/>
-</release>
+	<release id="">
+		<artist>Keith Jarrett</artist>
+		<name></name>
+		<year></year>
+		<firstreleasedate></firstreleasedate>
+		<type></type>
+		<link type="AllMusic" url=""/>
+		<link type="Discogs" url=""/>
+		<link type="MusicBrainz" url=""/>
+		<link type="Wikidata" url=""/>
+	</release>
 -->
 
 <!--
