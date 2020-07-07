@@ -159,10 +159,20 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/fa92987f-8dd5-4596-92a8-8d00658530e5"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7734541"/>
 	</release>
+	<release id="birth">
+		<artist>Keith Jarrett</artist>
+		<name>Birth</name>
+		<year>1972</year>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000311725"/>
+		<link type="Discogs" url="https://www.discogs.com/master/119164"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/b00157e9-76f3-3e99-bf3a-9257187a9314"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q4916992"/>
+	</release>
 	<release id="ruta-and-daitya">
 		<artist>Keith Jarrett &amp; Jack DeJohnette</artist>
 		<name>Ruta and Daitya</name>
-		<year>1972</year>
+		<year>1973</year>
 		<type>album</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000093768"/>
 		<link type="Discogs" url="https://www.discogs.com/master/26523"/>
@@ -180,6 +190,7 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/516d4629-7bf3-3ac3-907a-ed9a022db840"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q532850"/>
 	</release>
+</discography>
 
 <!--
 	<release id="">
