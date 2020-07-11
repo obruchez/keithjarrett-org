@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="July 6, 2020">
+<concerts modified="July 11, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6172,6 +6172,17 @@
 			<privatecomments>According to Marc Morvan's email.</privatecomments>
 		</concert>
 		<concert>
+			<date>May 13</date>
+			<place>Tyrone Guthrie Theater, Minneapolis, MN, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<comments></comments>
+			<privatecomments>Concert mentioned by Tom Wilmeth.</privatecomments>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>May 15</date>
 			<place>Village Vanguard, New York, NY, USA</place>
@@ -6305,17 +6316,6 @@
 			<place>Providence Performing Arts Center, Providence, RI, USA</place>
 			<with solo="yes"/>
 			<comments>Providence Performing Arts Center was called Ocean Performing Arts Center before 1982. Volker: "Some years ago I bought a used Cologne Concert record in Boston. Sticking on the back I found two used concert tickets for a KJ concert: Don Law presents Keith Jarrett in the ...N State Performing Arts Center in Providence, RI, on a Saturday at 8 pm on day ...3 in 1979. Since the front part of the concert tickets are ripped off the month and potentially the first digit of the day is missing. According to the calendar from 1979 for Sat 3 it must have been either February, March or November 1979. If the date was Sat the 13th it was January or October and if the day was Sat the 23rd it must have been June. The ticket price was US$ 9.75."</comments>
-		</concert>
-		<concert>
-			<date incomplete="yes"/>
-			<place>Tyrone Guthrie Theater, Minneapolis, MN, USA</place>
-			<with>
-				<name>Jan Garbarek</name>
-				<name>Palle Danielsson</name>
-				<name>Jon Christensen</name>
-			</with>
-			<comments></comments>
-			<privatecomments>Concert mentioned by Tom Wilmeth.</privatecomments>
 		</concert>
 	</group>
 	<group year="1980">
