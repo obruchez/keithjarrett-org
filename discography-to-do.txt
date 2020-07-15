@@ -140,37 +140,6 @@ Atlantic SD-7221.
 (2) <footnote>Strings and winds overdubbed, arranged by Eumir Deodato. David Spinozza (guitar) and Ray Lucas (drums) substitute Resnicoff and Tate.</footnote>
 (3) <footnote>Donald Leace (guitar, voice), Keith Jarrett (piano), David Spinozza (guitar), Bill Salter (accoustic bass), Bill LaVorgna (drums), strings and winds overdubbed arranged by Eumir Deodato.</footnote>
 
-<sect1>El Juicio (The Judgement), <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=787859/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1972.</bf>
-Atlantic Recording Studios, NYC, July 8-9, 15-16 1971;
-George Avakian (producer)
-Atlantic SD-1673; (Europe) K 50154.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, soprano sax, flute)</it>,
-  Dewey Redman <it>(tenor sax)</it>,
-  Charlie Haden <it>(acoustic bass)</it>,
-  Paul Motian <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Gipsy Moth,
-  Toll Road,
-  Pre-Judgement Atmosphere,
-  El Juicio,
-  Piece for Ornette (long version) (*),
-  Piece for Ornette (short version) (*),
-  Pardon My Rags (piano solo) (*).
-
-
-(*) <footnote>Reissued on: Keith Jarrett - (Foundations: the Keith Jarrett Anthology (1966-1971)).</footnote>
-
-
 <sect1>Facing You, <it>(Keith Jarrett)</it>
 
 <p>
