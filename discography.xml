@@ -169,6 +169,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/b00157e9-76f3-3e99-bf3a-9257187a9314"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q4916992"/>
 	</release>
+	<release id="expectations">
+		<artist>Keith Jarrett</artist>
+		<name>Expectations</name>
+		<year>1972</year>
+		<firstreleasedate>1972-10-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000691522"/>
+		<link type="Discogs" url="https://www.discogs.com/master/26466"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/68e17ee7-446e-3083-b476-e89dc7940fdf"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5420839"/>
+	</release>
 	<release id="ruta-and-daitya">
 		<artist>Keith Jarrett &amp; Jack DeJohnette</artist>
 		<name>Ruta and Daitya</name>

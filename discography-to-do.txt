@@ -266,44 +266,6 @@ CTI-6020; CD CBS 40927 (1988).
 (1) <footnote>Jay Berliner is substituted by George Benson.</footnote>
 (2) <footnote>Only on CD as "bonus track".</footnote>
 
-
-<sect1>Expectations, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1046150/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1972.</bf>
-NYC, September - October 1971;
-Tim Geelan and James Green (sound engineers);
-George Avakian (producer);
-CBS KG-31580 (2LP); CD CBS 467902.
-Grand Prix du Disque - 1972, Charles Cros Academy.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, electric organ, soprano sax, tambourine, percussion, arranger)</it>,
-  Dewey Redman (1) <it>(tenor sax, percussion)</it>,
-  Sam Brown (2) <it>(electric guitar)</it>,
-  Charlie Haden <it>(accousic bass)</it>,
-  Paul Motian <it>(drums)</it>,
-  Airto Moreira (3) <it>(drums, percussion)</it>,
-  strings (4) and brasses (5) added.
-
-<bf>Tracks:</bf>
-  Vision (piano solo + (4)),
-  Common Mama (1) (3) (5),
-  The Magician in You (2) (3),
-  Roussillon (1),
-  Expectations (4),
-  Take Me Back (2) (3),
-  The Circular Letter (for J-K) - (1) (2) (3),
-  Nomads (2) (3) (5),
-  Sundance (1) (2) (3),
-  Bring Back The Time When (If) - (1) (2) (3),
-  There Is a Road (God's River) - (4) (without drums).
-
-
 <sect1>NDR Jazz Workshop
 
 <p>
