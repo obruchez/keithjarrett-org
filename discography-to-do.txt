@@ -140,33 +140,6 @@ Atlantic SD-7221.
 (2) <footnote>Strings and winds overdubbed, arranged by Eumir Deodato. David Spinozza (guitar) and Ray Lucas (drums) substitute Resnicoff and Tate.</footnote>
 (3) <footnote>Donald Leace (guitar, voice), Keith Jarrett (piano), David Spinozza (guitar), Bill Salter (accoustic bass), Bill LaVorgna (drums), strings and winds overdubbed arranged by Eumir Deodato.</footnote>
 
-<sect1>Facing You, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1158655/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1972.</bf>
-Arne Bendiksen Studio, Oslo, November 10, 1971;
-Jan Erik Kongshaug (sound engineer).
-ECM 1017; LP 230 1017/CD 827 132-2.
-Grand Prix du Festival Montreaux - 1973.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks:</bf>
-  In Front,
-  Ritooria,
-  Lalene,
-  - My Child, My Child - ,
-  Landscape for Future Earth,
-  Starbright,
-  Vapallia,
-  Semblence.
-
-
 <sect1>ECM Special
 
 <p>
