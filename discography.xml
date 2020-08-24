@@ -200,6 +200,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3c7242d8-5406-365b-87d7-024c79b37953"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7382748"/>
 	</release>
+	<release id="fort-yawuh">
+		<artist>Keith Jarrett</artist>
+		<name>Fort Yawuh</name>
+		<year>1973</year>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000308857"/>
+		<link type="Discogs" url="https://www.discogs.com/master/53918"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/d14ac8ec-388f-3c48-92fe-43e2b35bb897"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5472421"/>
+	</release>
 	<release id="el-juicio-the-judgement">
 		<artist>Keith Jarrett</artist>
 		<name>El Juicio (The Judgement)</name>

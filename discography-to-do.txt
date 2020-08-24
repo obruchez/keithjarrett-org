@@ -341,31 +341,6 @@ CBS G-30956 (2LP); CD 50DP-707/8.
 
 (*) <footnote>Partially reissued on: Miles Davis, <it>Miles Davis - The CBS Years 1955-1985</it>, 1988, CBS 463246-2.</footnote>
 
-
-<sect1>Fort Yawuh, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=794248/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1973.</bf>
-Live; Village Vanguard, NYC, February 24, 1973. Impulse AS-9240.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, soprano sax, tambourine)</it>,
-  Dewey Redman <it>(tenor sax, musette, maracas)</it>,
-  Charlie Haden <it>(accoustic bass)</it>,
-  Paul Motian <it>(drums, percussion)</it>,
-  Danny Johnson <it>(percussion)</it>.
-
-<bf>Tracks:</bf>
-  (If the) Misfits (Wear It),
-  Fort Yawuh,
-  De Drums,
-  Still Life Still Life.
-
-
 <sect1>Impulse Artists On Tour
 
 <p>

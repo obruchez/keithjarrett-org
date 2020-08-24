@@ -3116,7 +3116,7 @@
 		<concert>
 			<date>February 24</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<release>Fort Yawuh</release>
+			<release id="fort-yawuh">Fort Yawuh</release>
 			<release>Impulse Artists On Tour</release>
 			<release>The Impulse Years, 1973-1974</release>
 			<with>
