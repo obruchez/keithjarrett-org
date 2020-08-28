@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="July 11, 2020">
+<concerts modified="August 28, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6169,6 +6169,39 @@
 				<name>Jon Christensen</name>
 			</with>
 			<comments></comments>
+			<privatecomments>According to Marc Morvan's email.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 8</date>
+			<place>Blue Note, Boulder, CO, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<comments>Mentioned <a href="https://www.coloradohistoricnewspapers.org/?a=d&amp;d=SCL19790503-01.2.40.2&amp;srpos=36&amp;e=-------en-20--21-byDA-img-txIN%7ctxCO%7ctxTA-%22blue+note%22----1979---2--">here</a>.</comments>
+			<privatecomments>According to Marc Morvan's email.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 9</date>
+			<place>Blue Note, Boulder, CO, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<comments>Mentioned <a href="https://www.coloradohistoricnewspapers.org/?a=d&amp;d=SCL19790503-01.2.40.2&amp;srpos=36&amp;e=-------en-20--21-byDA-img-txIN%7ctxCO%7ctxTA-%22blue+note%22----1979---2--">here</a>.</comments>
+			<privatecomments>According to Marc Morvan's email.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 10</date>
+			<place>Blue Note, Boulder, CO, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<comments>Mentioned <a href="https://www.coloradohistoricnewspapers.org/?a=d&amp;d=SCL19790503-01.2.40.2&amp;srpos=36&amp;e=-------en-20--21-byDA-img-txIN%7ctxCO%7ctxTA-%22blue+note%22----1979---2--">here</a>.</comments>
 			<privatecomments>According to Marc Morvan's email.</privatecomments>
 		</concert>
 		<concert>
