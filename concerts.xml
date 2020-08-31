@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="August 28, 2020">
+<concerts modified="August 31, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -3153,7 +3153,7 @@
 		<concert>
 			<date>March 20</date>
 			<place>Salle de Spectacles, Epalinges, Switzerland</place>
-			<release>Solo Concerts: Bremen/Lausanne</release>
+			<release id="solo-concerts-bremen-and-lausanne">Solo Concerts: Bremen/Lausanne</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -3276,7 +3276,7 @@
 		<concert>
 			<date>July 12</date>
 			<place>Kleiner Sendesaal, Bremen, Germany</place>
-			<release>Solo Concerts: Bremen/Lausanne</release>
+			<release id="solo-concerts-bremen-and-lausanne">Solo Concerts: Bremen/Lausanne</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>

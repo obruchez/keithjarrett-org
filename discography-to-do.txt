@@ -357,48 +357,6 @@ Live; Village Vanguard, NYC, February 24, 1973. Impulse AS-9264.
 <bf>Tracks:</bf>
   Roads Traveled Roads Veiled.
 
-
-<sect1>Solo Concerts, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1158657/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1973.</bf>
-Live;
-(1): Radio Bremen, Kleiner Sendesaal, Losanna, July 12, 1973; Rolf
-Rockstroh (sound engineer).
-(2): Radio Suisse Romande, Studio Lausanne, Salle de Spectacles
-D'Epalinges, March 20, 1973; Pierre Grandjean, Alain Kobel (sound
-engineer).
-Manfred Eicher and Keith Jarrett (producers);
-ECM 1035-37; 3-LP 264 1035/2-CD 827 747-2.
-Best Jazz Performance (category: solo) - 1974, Grammy Nomination (USA);
-Album of the year (Pop) - 1974, Time Magazine (USA);
-Record of the Year (International Critics' Poll) - 1974, Down Beat (USA);
-Record of the Year - 1974, Stereo Review (USA);
-Record of the Year (World) - 1974/75, Jazz Forum (Poland);
-Grand Prix (gold) - 1974/75, Swing Journal (Germany);
-Grosser Deutscher Schallplattenpreis (cathegory: solo / international) -
-1974/75, Deutsche Phono-Akademie (Germany);
-Record of the Year - 1975, The New York Times;
-Album of the Year - 1975, Time Magazine;
-Kuenstler des Jahres - 1975, Deutsche Phono-Akademie (Germany).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks:</bf>
-  Part I (1),
-  Part IIa (1),
-  Part IIb (1),
-  Part Ia (2),
-  Part Ib (2),
-  Part IIa (2),
-  Part IIb (2).
-
-
 <sect1>In the Light, <it>(Keith Jarrett)</it>
 
 <p>
