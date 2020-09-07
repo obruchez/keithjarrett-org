@@ -357,37 +357,6 @@ Live; Village Vanguard, NYC, February 24, 1973. Impulse AS-9264.
 <bf>Tracks:</bf>
   Roads Traveled Roads Veiled.
 
-<sect1>In the Light, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206308/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1974.</bf>
-February 1973; Kurt Rapp, Martin Wieland, M. Scheuermann (sound engineers);
-Manfred Eicher and Keith Jarrett (producers).
-ECM 1033/4; 2-LP 264 1033/2-CD 835 011-2.
-
-<itemize>  
-  <item><it>Metamorphosis</it>, Willi Freivogel <it>(flute)</it>, and Stuttgart
-      Suedfunk Symphony Orchestra string section, Mladen Gutesha
-      <it>(director)</it>
-  <item><it>Fughata for Harpsichord</it>, Keith Jarrett <it>(harpsichord)</it>
-  <item><it>Brass Quintet</it>, The American Brass Quintet
-  <item><it>A Pagan Hymn</it>, Keith Jarrett <it>(piano)</it>
-  <item><it>String Quartet</it>, The Fritz Sonnleitner Quartet <it>(Frizt
-      Sonnleitner, Gunther Klein, Siegfried Meinecke, Fritz Kiskalt)</it>
-  <item><it>Short Piece for Guitar and Strings</it>, Ralph Towner <it>(guitar)</it>,
-      and Stuttgart Suedfunk Symphony Orchestra string section, Keith
-      Jarrett <it>(director)</it>
-  <item><it>Crystal Moment</it> for four celli and two trombones
-  <item><it> In the Cave, In the Light</it>, Keith Jarrett <it>(piano, gong,
-      percussion)</it> and Stuttgart Suedfunk Symphony Orchestra string
-      section, Keith Jarrett <it>(director)</it>
-</itemize>
-
-
 <sect1>Treasure Island, <it>(Keith Jarrett)</it>
 
 <p>
