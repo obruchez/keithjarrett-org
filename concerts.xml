@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="August 31, 2020">
+<concerts modified="September 13, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5401,7 +5401,17 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-		<concert>s
+		<concert>
+			<date>May 18</date>
+			<place>Vienna, Australia</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>From Maurizio's list.</privatecomments>
+		</concert>
+		<concert>
 			<date>May 26</date>
 			<place>Walker Auditorium, Walker Art Center, Minneapolis, MN, USA</place>
 			<with>
