@@ -397,34 +397,6 @@ Live; Village Vanguard, NYC, February 24, 1973. Impulse AS-9264.
   The Windup.
 
 
-<sect1>Belonging, <it>(Jan Garbarek, Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184240/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1974.</bf>
-Arne Bendiksen Studio, Oslo, April 24-25, 1974;
-Jan Erik Kongshaug (sound engineer).
-ECM 1050; LP 230 1050/CD 829 115-2.
-Deutscher Schallplattenpreis - 1975, Deutsche Phono-Akademie (Germany).
-
-<bf>Featuring:</bf>
-  Jan Garbarek <it>(soprano and tenor sax)</it>,
-  Keith Jarrett <it>(piano)</it>,
-  Palle Danielsson <it>(accoustic bass)</it>,
-  Jon Christensen <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Spiral Dance,
-  Blossom,
-  Long As You Know You're Living Yours,
-  Belonging,
-  The Windup,
-  Solstice.
-
-
 <sect1>Get Up With It, <it>(Miles Davis)</it>
 
 <p>
