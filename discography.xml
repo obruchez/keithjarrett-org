@@ -255,6 +255,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release/bbf913d4-df10-4c46-8eda-1412600d84fc"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2895061"/>
 	</release>
+	<release id="luminessence">
+		<artist>Keith Jarrett &amp; Jan Garbarek</artist>
+		<name>Luminessence</name>
+		<year>1975</year>
+		<firstreleasedate>1975-03-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000200605"/>
+		<link type="Discogs" url="https://www.discogs.com/release/3548396"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/cba95cf7-3e69-3b58-8b9f-9b018de0633c"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3267308"/>
+	</release>
 	<release id="el-juicio-the-judgement">
 		<artist>Keith Jarrett</artist>
 		<name>El Juicio (The Judgement)</name>
