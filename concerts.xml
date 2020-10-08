@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="September 13, 2020">
+<concerts modified="September 25, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -3703,7 +3703,7 @@
 			<date>March 17</date>
 			<place>Alice Tully Hall, Lincoln Center, New York, NY, USA</place>
 			<with>
-				<name instr="director">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russel Davies</name>
 			</with>
 			<comments>Kenneth K.: "Jarrett was the featured soloist in Carla Bley's '3/4, for Piano and Orchestra' conducted by Dennis Russell Davies. (...) This may be his first encounter with Dennis Russell Davies with whom he would work over the next two decades. Bley's piece required a pianist well above her skill set; not sure exactly how Jarrett was approached but the concert took place on a Sunday afternoon, just two days before his engagement at the Vanguard. Jarrett would reprise this performance that December in Minneapolis, where he performed a series of concerts for quartet and serious compositions, including a piece from 'In the Light'."</comments>
 			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
@@ -3991,8 +3991,8 @@
 			<event>Newport Jazz Festival</event>
 			<with>
 				<name instr="drums">Paul Motian</name>
-				<name instr="director">Arnold Eidus</name>
 				<name instr="orchestra">Chamber Orchestra</name>
+				<name instr="conductor">Arnold Eidus</name>
 			</with>
 			<comments>Concert mentioned by <a href="https://news.google.com/newspapers?id=xuJLAAAAIBAJ&amp;sjid=74sDAAAAIBAJ&amp;hl=fr&amp;pg=3179%2C616219">The Village Voice</a> and <a href="https://www.nytimes.com/1974/07/04/archives/jarrett-five-improvises-in-wellpaced-program.html">The New York Times</a>.</comments>
 			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
@@ -4357,7 +4357,7 @@
 			<date>December 21</date>
 			<place>O'Shaughnessy Theatre, St Paul, MN, USA</place>
 			<with>
-				<name instr="director">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russel Davies</name>
 			</with>
             <comments>Kenneth K.: "'In the Cave, In the Light'. '3/4, for Piano and Orchestra'.</comments>
             <privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
@@ -5003,8 +5003,8 @@
 			<with>
 				<name instr="tenor and soprano saxophones">Jan Garbarek</name>
 				<name instr="bass">Charlie Haden</name>
-				<name instr="conductor">Alois J. Hochstrasser</name>
 				<name instr="orchestra">Capella Classica</name>
+				<name instr="conductor">Alois J. Hochstrasser</name>
 			</with>
 			<comments>Programme: "Compositions for soloists and strings".</comments>
 		</concert>
@@ -5502,8 +5502,8 @@
 			<with>
 				<name instr="bass">Charlie Haden</name>
 				<name instr="tenor and soprano saxophones">Jan Garbarek</name>
-				<name instr="conductor">Paul Shure</name>
 				<name instr="orchestra">26-piece string orchestra</name>
+				<name instr="conductor">Paul Shure</name>
 			</with>
 			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting." Produced by Albatross Productions. John C. S.: "Keith commented that it was the best the music had sounded and was pleased."</comments>
 		</concert>
@@ -5561,8 +5561,8 @@
 			<place>Waumbek Village, Jeffersons, NH, USA</place>
 			<event>White Mountains Festival</event>
 			<with>
-				<name instr="director">Dennis Russel Davies</name>
 				<name instr="orchestra">Unknown orchestra</name>
+				<name instr="conductor">Dennis Russel Davies</name>
 			</with>
 			<comments>Concert mentioned in <a href="http://news.google.com/newspapers?nid=2209&amp;dat=19760713&amp;id=6XtjAAAAIBAJ&amp;sjid=0XkNAAAAIBAJ&amp;pg=5327,2006229">"White Mountains Festival Expected to Lure Thousands"</a></comments>
 			<privatecomments>Arnulf Müller. Location confirmed by Marc Movan.</privatecomments>
@@ -6684,13 +6684,12 @@
 			<comments>Keith Jarrett read several poems from Rumi.</comments>
 		</concert>
 		<concert>
-			<!-- Seth Melchert -->
-			<!-- Kenneth Kubernik -->
-			<date incomplete="yes">August</date>
+			<date>August 29</date>
 			<place>Cabrillo College, Aptos, CA, USA</place>
 			<event>Cabrillo Festival of Contemporary Music</event>
 			<with solo="yes"/>
-			<comments>Seth M.: "Keith Jarrett played the Stravinsky Piano Concerto. He also played piano for John Cage's 'Dance/4 Orchestras' along with Dennis Russell Davies." Kenneth K.: "Peggy Glanville-Hicks 'Etruscan Concerto' KJ soloist."</comments>
+			<comments>Seth M.: "Keith Jarrett played the Stravinsky Piano Concerto. He also played piano for John Cage's 'Dance/4 Orchestras' along with Dennis Russell Davies." Kenneth K.: "Peggy Glanville-Hicks 'Etruscan Concerto' KJ soloist." Article from the New York Times: <a href="https://www.nytimes.com/1982/09/02/arts/concert-the-cabrillo-music-festival.html">Concert: the Cabrillo Music Festival</a>.</comments>
+			<privatecomments>Information from Seth Melchert and Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<date>September 8</date>
@@ -7103,7 +7102,7 @@
 			<with>
 				<name instr="violin">Joachim Schall</name>
 				<name instr="orchestra">Rundfunk Sinfonieorchester Saarbrücken</name>
-				<name instr="director">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russel Davies</name>
 			</with>
 			<comments>Pieces played: "Suite für Solo Violine, Solo Klavier und kleines Orchester" (Lou Harrison) and "Konzert für Klavier mit Bläseroktettbegleitung" (Colin McPhee). Joachim Schall played durting the Lou Harrison piece only. Incomplete information about the concert (excerpt from Google cache): "Bei zwei Konzerten erlebte das Festival einen bisher ungekannten Ansturm. Dirigent Dennis Russel Davies hatte nicht nur seine komponierenden Freunde Lou Harrison und William Bolcom eingebracht - als weitaus folgenreicher erwies sich seine Einladung an die Piano-Kultfigur Keith Jarrett. Als Jarrett im ersten Orchesterkonzert im Funkhaus Halberg in Werken von Lou Harrison und Colin McPhee mitspielte, mussten einige Fans das Ganze vom Flur aus verfolgen, denn die Kapazitäten des großen Sendesaals reichten nicht aus. Und auch der Ansturm aufs zweite Orchesterkonzert war groß: hier trat Jarrett als Solist in Samuel Barbers Klavierkonzert auf. Ob seine Fans allerdings in ...</comments>
 		</concert>
@@ -7113,22 +7112,22 @@
 			<event>Musik des 20. Jahrhunderts</event>
 			<with>
 				<name instr="orchestra">Rundfunk‐Sinfonieorchester Saarbrücken</name>
-				<name instr="director">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russel Davies</name>
 			</with>
 			<release>Barber/Bartók</release>
 			<comments>Piece played: "Piano Concerto, op. 38" (Samuel Barber).</comments>
 			<privatecomments>Originally mentioned by Arnulf Müller.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>August 24</date>
 			<place>Cabrillo College, Aptos, CA, USA</place>
 			<event>Cabrillo Festival of Contemporary Music</event>
 			<with>
-				<name>Unknown conductor</name>
-				<name>Unknown orchestra</name>
+				<name instr="orchestra">Santa Cruz Symphony (?)</name>
+				<name instr="conductor">Dennis Russell Davies</name>
 			</with>
 			<comments>Kenneth K.: "Mozart Piano Concerto K488."</comments>
+			<privatecomments>Concert mentioned by Kenneth Kubernik. Conductor/orchestra information from Steve Rhodes.</privatecomments>
 		</concert>
 		<concert>
 			<date>October 8</date>
@@ -7175,8 +7174,8 @@
 			<date>November 29</date>
 			<place>Eastman Theater, Eastman School of Music, Rochester, New York, NY, USA</place>
 			<with>
-				<name instr="director">Isaiah Jackson</name>
 				<name instr="orchestra">Rochester Philharmonic Orchestra</name>
+				<name instr="conductor">Isaiah Jackson</name>
 			</with>
             <comments>Solo concert, Q&amp;A interview with students, and Bartok recital (?). From an <a href="https://www.newspapers.com/newspage/136569913/">article in Democrat and Chronicle</a>: "Keith Jarrett will perform Bartok's Piano Concerto No. 3 with the Rochester Philharmonic Orchestra tomorrow at 8 p.m. and Saturday at 8:30 p.m. in the Eastman Theater. Isaiah Jackson will conduct the program, which includes Hindemith's Symphonic Metamorphoses and Rimsky-Korsakou's Scheherazade."</comments>
             <privatecomments>Simon Savary: "réf.: le frère d'un collègue d'un contact y a assisté en tant qu'étudiant. On essaie d'accéder aux archives pour avoir les concerts. J'ai seulement l'entrevue". Exact date (and mention of second concert) from Marc Morvan.</privatecomments>
@@ -7185,8 +7184,8 @@
 			<date>December 1</date>
 			<place>Eastman Theater, Eastman School of Music, Rochester, New York, NY, USA</place>
 			<with>
-				<name instr="director">Isaiah Jackson</name>
 				<name instr="orchestra">Rochester Philharmonic Orchestra</name>
+				<name instr="conductor">Isaiah Jackson</name>
 			</with>
             <comments>Solo concert, Q&amp;A interview with students, and Bartok recital (?). From an <a href="https://www.newspapers.com/newspage/136569913/">article in Democrat and Chronicle</a>: "Keith Jarrett will perform Bartok's Piano Concerto No. 3 with the Rochester Philharmonic Orchestra tomorrow at 8 p.m. and Saturday at 8:30 p.m. in the Eastman Theater. Isaiah Jackson will conduct the program, which includes Hindemith's Symphonic Metamorphoses and Rimsky-Korsakou's Scheherazade."</comments>
             <privatecomments>See November 29 concert.</privatecomments>
@@ -7215,8 +7214,8 @@
 			<with>
 				<name instr="violin">Koichiro Harada</name>
 				<name instr="oboe">Hiroshi Shibayama</name>
+				<name instr="orchestra">New Japan Philharmonic Orchestra</name>
 				<name instr="conductor">Kazuyoshi Akiyama</name>
-				<name>New Japan Philharmonic Orchestra</name>
 			</with>
 			<release>Barber/Bartók</release>
 			<comments>The following pieces were played: Franzosische Suiten (J.S. Bach) / Sonata for Violin and Piano (K. Jarrett) / Adagio for Oboe and String Orchestra (K. Jarrett) / Elegy for Violin and String Orchestra (K. Jarrett) / Piano Concerto No. 3 Sz. 119 (B. Bartok).</comments>
@@ -7227,8 +7226,8 @@
 			<event>1<sup>st</sup> Tokyo Music Joy</event>
 			<with>
 				<name instr="piano">Chick Corea</name>
+				<name instr="orchestra">New Japan Philharmonic</name>
 				<name instr="conductor">Yoshikazu Tanaka</name>
-				<name>New Japan Philharmonic</name>
 			</with>
 			<comments>The following Mozart pieces were played: Konzert für Klavier und Orchester No.23 A dur K.488 / Konzert für Klavier und Orchester No.20 D moll K.466 / Konzert fur 2 Klaviere und Orchester Es dur K.365.</comments>
 		</concert>
@@ -7588,8 +7587,8 @@
 				<name instr="cello">Hakuro Mohri</name>
 				<name instr="flute">Masami Nakagawa</name>
 				<name instr="biwa">Kinshi Tsuruta</name>
+				<name instr="orchestra">New Japan Philarmonic</name>
 				<name instr="conductor">Naoto Otomo</name>
-				<name>New Japan Philarmonic</name>
 			</with>
 			<comments>According to koinumamusic.com, the following pieces were played: Sacred Ground (For The American Indian) (K. Jarrett) / Improvisation Duo with biwa / Piano Concerto (L. Harrison). According to ecmrecords.com, "Sacred Ground (For The American Indian)" is a piece for piano, flute, cello, and clarinet, commissioned by the Chamber Music Society of Lincoln Center, premiered in 1985 at Alice Tully Hall, with Jarrett joined by Paula Robison, Fred Sherry and Richard Stoltzman. From koinumamusic.com: "In Tokyo in 1986, following a performance of a Lou Harrison piece, Keith Jarrett came back onstage in response to enthusiastic applause and agreed to play an encore. After striking the first chord of a standard tune, Jarrett suddenly remembered that the piano was especially tuned to Harrison's Piano Concerto -- a composition which called for the black keys to be tuned in fourths and fifths, the white keys in just intonation. Undaunted, he was able to play a perfect rendition of the standard by spontaneously selecting the "right" keys."</comments>
 		</concert>
@@ -7601,8 +7600,8 @@
 				<name instr="clarinet">Richard Stoltzman</name>
 				<name instr="piano">Chick Corea</name>
 				<name instr="bass">Eddie Gomez</name>
+				<name instr="orchestra">New Japan Philarmonic</name>
 				<name instr="conductor">Naoto Otomo</name>
-				<name>New Japan Philarmonic</name>
 			</with>
 			<comments/>
 		</concert>
@@ -7757,8 +7756,8 @@
 			<place>Cabrillo College, Aptos, CA, USA</place>
 			<event>Cabrillo Festival of Contemporary Music</event>
 			<with>
-				<name instr="director">Dennis Russel Davies</name>
 				<name instr="orchestra">Unknown orchestra</name>
+				<name instr="conductor">Dennis Russel Davies</name>
 			</with>
 			<comments>Kenneth K.: "Lou Harrison Piano Concerto/Dennis Russell Davies conducting."</comments>
 		</concert>
@@ -8121,8 +8120,8 @@
 			<time>8 PM</time>
 			<place>Symphony Hall, Boston, MA, USA</place>
 			<with>
-				<name instr="conductor">Christopher Hogwood</name>
 				<name instr="orchestra">Haendel &amp; Haydn Society Orchestra</name>
+				<name instr="conductor">Christopher Hogwood</name>
 			</with>
 			<comments>According to <a href="https://www.csmonitor.com/1988/0119/ljarr.html">this article</a>. Program: "Symphony No. 4 (Haydn), Piano Concerto in C, K. 467 (Mozart), A Solo Piano Improvisation (Jarrett), Classical Symphony (Prolofiev)".</comments>
 			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
@@ -8132,8 +8131,8 @@
 			<time>3 PM</time>
 			<place>Symphony Hall, Boston, MA, USA</place>
 			<with>
-				<name instr="conductor">Christopher Hogwood</name>
 				<name instr="orchestra">Haendel &amp; Haydn Society Orchestra</name>
+				<name instr="conductor">Christopher Hogwood</name>
 			</with>
 			<comments>According to <a href="https://www.csmonitor.com/1988/0119/ljarr.html">this article</a>. Program: "Symphony No. 4 (Haydn), Piano Concerto in C, K. 467 (Mozart), A Solo Piano Improvisation (Jarrett), Classical Symphony (Prolofiev)".</comments>
 			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
@@ -8246,8 +8245,8 @@
 			<date>September 14-18 (?)</date>
 			<place>St. Paul, MN, USA</place>
 			<with>
-				<name instr="conductor">Christopher Hogwood</name>
 				<name instr="orchestra">St. Paul Chamber Orchestra</name>
+				<name instr="conductor">Christopher Hogwood</name>
 			</with>
 			<comments>Mozart Piano Concerto No. 21. One or several concerts.</comments>
 		</concert>
@@ -8565,8 +8564,8 @@
 			<date>October 28</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
 			<with>
-                <name instr="director">Dennis Russel Davies</name>
 				<name instr="orchestra">American Composer's Orchestra</name>
+                <name instr="conductor">Dennis Russel Davies</name>
 			</with>
 			<comments>This concert was cancelled.</comments>
 		</concert>
@@ -8814,8 +8813,8 @@
 			<date>October 21</date>
 			<place>Beethovenhalle, Bonn, Germany</place>
 			<with>
-				<name instr="director">Dennis Russel Davies</name>
 				<name instr="orchestra">Unknown orchestra</name>
+				<name instr="conductor">Dennis Russel Davies</name>
 			</with>
 			<comments>Keith played a Mozart concerto, KV 467. The orchestra, conducted by Dennis Russel Davies, also played "Bridge of Light for Viola and Orchestra" and Stravinsky compositions (?).</comments>
 			<privatecomments>Mentioned by Klaus Lipinski.</privatecomments>
@@ -8956,8 +8955,8 @@
 			<place>Izumi Hall, Osaka, Japan</place>
 			<with>
 				<name instr="viola">Patricia McCarty</name>
-				<name instr="conductor">Kazuhiro Koizumi</name>
 				<name instr="orchestra">Japan Shinsei Symphony Orchestra</name>
+				<name instr="conductor">Kazuhiro Koizumi</name>
 			</with>
 			<comments>Mozart compositions were played.</comments>
 		</concert>
@@ -8966,8 +8965,8 @@
 			<place>Kaikan Hall 1, Kyoto, Japan</place>
 			<with>
 				<name instr="viola">Patricia McCarty</name>
-				<name instr="conductor">Kazuhiro Koizumi</name>
 				<name instr="orchestra">Japan Shinsei Symphony Orchestra</name>
+				<name instr="conductor">Kazuhiro Koizumi</name>
 			</with>
 			<comments>Mozart compositions were played.</comments>
 		</concert>
@@ -8976,8 +8975,8 @@
 			<place>Metropolitan Art Space, Tokyo, Japan</place>
 			<with>
 				<name instr="viola">Patricia McCarty</name>
-				<name instr="conductor">Kazuhiro Koizumi</name>
 				<name instr="orchestra">Japan Shinsei Symphony Orchestra</name>
+				<name instr="conductor">Kazuhiro Koizumi</name>
 			</with>
 			<comments>Mozart compositions were played.</comments>
 		</concert>
