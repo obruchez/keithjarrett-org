@@ -418,35 +418,6 @@ Live; Village Vanguard, NYC, February 24, 1973. Impulse AS-9264.
 (*) <footnote>Reissued on: <it>Miles Davis - The CBS Years 1955-1985</it>, 1988, CBS 463246-2.</footnote>
 
 
-<sect1>Death and the Flower, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=402507/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1975.</bf>
-Atlantic Recording Studios, NYC, October 9-10, 1974;
-Tony May (sound engineer);
-Ed Michel (producer).
-Impulse AS-9301; CD 32XD-603 (*).
-Album of the year (Reader's Poll) - 1975, Swing Journal (Germany).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, soprano sax, flute, osi drums, percussion)</it>,
-  Dewey Redman <it>(tenor sax, percussion)</it>,
-  Charlie Haden <it>(accoustic bass)</it>,
-  Paul Motian <it>(drums, percussion)</it>,
-  Guilhermo Franco <it>(percussion)</it>.
-
-<bf>Tracks:</bf>
-  Death and the Flower,
-  Prayer,
-  Great Bird.
-
-(*) <footnote>Contains a poem by Keith Jarrett (<it>Death and the Flower</it>, December 5, 1975).</footnote>
-
-
 <sect1>Backhand, <it>(Keith Jarrett)</it>
 
 <p>

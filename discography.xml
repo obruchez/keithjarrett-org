@@ -276,6 +276,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/977a4ca2-d51b-3d42-bb5c-7cfb775c7a50"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5351470"/>
 	</release>
+	<release id="death-and-the-flower">
+		<artist>Keith Jarrett</artist>
+		<name>Death and the Flower</name>
+		<year>1975</year>
+		<firstreleasedate>1975-05-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000113144"/>
+		<link type="Discogs" url="https://www.discogs.com/master/53925"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/6e07bc91-7af9-3139-9d49-3a0ee317d330"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3020742"/>
+	</release>
 	<release id="the-koln-concert">
 		<artist>Keith Jarrett</artist>
 		<name>The Köln Concert</name>
