@@ -418,29 +418,6 @@ Live; Village Vanguard, NYC, February 24, 1973. Impulse AS-9264.
 (*) <footnote>Reissued on: <it>Miles Davis - The CBS Years 1955-1985</it>, 1988, CBS 463246-2.</footnote>
 
 
-<sect1>Luminessence - Music for string orchestra and saxophone, <it>(Jan Garbarek, Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206310/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1975.</bf>
-Tonstudio Bauer, Ludwigsburg, Germany, April 29-30, 1974;
-Martin Wieland, Kurt Rapp (sound engineer).
-ECM 1049; LP230 1049/CD 839 307-2.
-
-<bf>Featuring:</bf>
-  Jan Garbarek <it>(soprano and tenor sax)</it>,
-  Stuttgart's Suedfunk Symphony Orchestra string section - Mladen Gutesha <it>(director)</it>,
-  Keith Jarrett <it>(composer)</it>.
-
-<bf>Tracks:</bf>
-  Numinor,
-  Windsong,
-  Luminessence.
-
-
 <sect1>Death and the Flower, <it>(Keith Jarrett)</it>
 
 <p>

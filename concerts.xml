@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="September 25, 2020">
+<concerts modified="September 27, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -4026,12 +4026,11 @@
 			<comments>Marc M.: "Villalago is a neoclassical villa built in the 19th century with a park and an amphitheatre (there is also a town named Villalago in Italy but it's another place)."</comments>
 		</concert>
 		<concert>
-			<!-- Jazz Magazine -->
-			<!-- YouTube video (good quality, mono): https://www.youtube.com/watch?v=e-AsGNFFnRw -->
-			<date incomplete="yes">July</date>
+			<date>July 23</date>
 			<place>Palais des Congrès, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
 			<with solo="yes"/>
+			<privatecomments>Listed in Jazz Magazine. YouTube video (good quality, mono): https://www.youtube.com/watch?v=e-AsGNFFnRw.</privatecomments>
 		</concert>
 		<concert>
 			<date>August 1</date>
