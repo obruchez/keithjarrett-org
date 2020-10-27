@@ -418,31 +418,6 @@ Live; Village Vanguard, NYC, February 24, 1973. Impulse AS-9264.
 (*) <footnote>Reissued on: <it>Miles Davis - The CBS Years 1955-1985</it>, 1988, CBS 463246-2.</footnote>
 
 
-<sect1>The K&ouml;ln Concert, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=816195/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1975.</bf>
-Live; Opera, K&ouml;ln, January 24, 1975;
-Martin Wieland (sound engineer).
-ECM 1064/5; 2-LP 264 1064/CD 810 067-2.
-Album of the decade (Reader's Poll) - 1980, Stereo (Germany).
-Deutscher Schallplattenpreis - 1976, Deutsche Phono-Akademie (Germany).
-Album of the Year - 1975, Time Magazine.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks:</bf>
-  Part I,
-  Part IIa,
-  Part IIb,
-  Part IIc.
-
-
 <sect1>Gnu High, <it>(Kenny Wheeler)</it>
 
 <p>
@@ -462,33 +437,6 @@ All compositions by Kenny Wheeler.
   Heyoke,
   Smatter,
   Gnu Suite.
-
-
-<sect1>Mysteries, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=402549/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1976.</bf>
-Recorded at Generation Sound, NYC, December 1975;
-Tony May (sound engineer).
-Esmond Edwards (producer).
-Impulse AS-9315; CD 32XD-606.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, Pakistani flute, percussion)</it>,
-  Dewey Redman <it>(tenor sax, musette, tambourine, maracas)</it>,
-  Charlie Haden <it>(accoustic bass)</it>,
-  Paul Motian <it>(drums, percussion)</it>,
-  Guilhermo Franco <it>(percussion)</it>.
-
-<bf>Tracks:</bf>
-  Rotation,
-  Everything That Lives Laments,
-  Flame,
-  Mysteries.
 
 
 <sect1>Bop-Be, <it>(Keith Jarrett)</it>
