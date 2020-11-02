@@ -438,32 +438,7 @@ All compositions by Kenny Wheeler.
   Smatter,
   Gnu Suite.
 
-
-<sect1>Bop-Be, <it>(Keith Jarrett)</it>
-
-<p>
-<bf>1976.</bf>
-Recorded at Generation Sound, NYC, October 1976;
-Tony May (sound engineer);
-Esmond Edwards (producer).
-ABC Impulse IA-9334.
-Reissued on "Keith Jarrett - <it>Silence</it>", 1992, except for <it>Pyramids Moving</it>.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, percussion)</it>,
-  Dewey Redman <it>(tenor sax, musette)</it>,
-  Charlie Haden <it>(accoustic bass)</it>,
-  Paul Motian <it>(drums, percussion)</it>.
-
-<bf>Tracks:</bf>
-  Mushi-Mushi (Dewey Redman),
-  Silence (Charlie Haden),
-  Bo-Be (Keith Jarrett),
-  Pyramids Moving,
-  Gotta Get Some Sleep (Dewey Redman),
-  Blackberry Winter (Alec Wilder),
-  Pocket Full of Cherry (Charlie Haden).
-
+NEXT
 
 <sect1>Shades, <it>(Keith Jarrett)</it>
 

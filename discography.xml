@@ -319,6 +319,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/d12b0e77-eb78-3035-825d-ce1518e807c5"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3331720"/>
 	</release>
+	<release id="bop-be">
+		<artist>Keith Jarrett</artist>
+		<name>Bop-Be</name>
+		<year>1978</year>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000938452"/>
+		<link type="Discogs" url="https://www.discogs.com/master/53971"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/877553d1-65c5-4921-b194-0526b834f0c1"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q4944150"/>
+	</release>
 </discography>
 
 <!--
