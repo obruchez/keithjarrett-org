@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 30, 2020">
+<concerts modified="November 2, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
