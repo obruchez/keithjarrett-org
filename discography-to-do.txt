@@ -440,27 +440,6 @@ All compositions by Kenny Wheeler.
 
 NEXT
 
-<sect1>Shades, <it>(Keith Jarrett)</it>
-
-<p>
-<bf>1976.</bf>
-Recorded at Generation Sound, NYC, December 1975;
-Tony May (sound engineer);
-Esmond Edwards (producer).
-Impulse ASD-9322; (Europe) IMPL 8039.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, percussion)</it>,
-  Dewey Redman <it>(tenor sax, maracas, tambourine)</it>,
-  Charlie Haden <it>(accoustic bass)</it>,
-  Paul Motian <it>(drums, percussion)</it>.
-
-<bf>Tracks:</bf>
-  Shades of Jazz,
-  Southern Smiles,
-  Rose Petals,
-  Diatribe.
-
 
 <sect1>Byablue, <it>(Keith Jarrett)</it>
 
