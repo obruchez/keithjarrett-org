@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 2, 2020">
+<concerts modified="November 14, 2020">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -4398,11 +4398,11 @@
             <comments>Concert mentioned in <a href="http://www.suedkurier.de/nachrichten/kultur/themensk/8222-VS-swingt-8220-Organisator-Fritz-Ewald-blickt-zurueck;art410935,6292677">"VS swingt-Organisator Fritz Ewald blickt zurück"</a></comments>
 		</concert>
 		<concert>
-			<!-- Sébastien Cicolella + Stephan Perthes -->
 			<date>January 21</date>
-			<place>Audimax (Auditorium Maximum), Albert-Ludwigs-Universität Freiburg, Freiburg, Germany</place>
+			<place>Audimax (Auditorium Maximum), Albert-Ludwigs-Universität Freiburg, Freiburg im Breisgau, Germany</place>
 			<with solo="yes"/>
 			<comments>The second part starts with one of the themes from "The Survivors' Suite".</comments>
+			<privatecomments>Information from Sébastien Cicolella and Stephan Perthes.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Radio Télévision Suisse -->
@@ -6413,6 +6413,12 @@
 			<date>October 26</date>
 			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>October 28</date>
+			<place>Orchestra Hall, Minneapolis, MN, USA</place>
+			<with solo="yes"/>
+			<privatecomments>Jeff Esterholm (attended the concert).</privatecomments>
 		</concert>
 		<concert>
 			<!-- jazzmanxxi -->
@@ -8526,6 +8532,14 @@
 		</concert>
 	</group>
 	<group year="1990">
+		<concert>
+			<date>April 6</date>
+			<place>Clowes Memorial Hall, Indianapolis, IN, USA</place>
+			<event>An Evening of Music and Poetry</event>
+			<with solo="yes"/>
+			<comments>From The Indianapolis Recorder (March 31, 1990): "Pianist, composer and improvisor Keith Jarrett, famed for his 20 years' work in jazz, classical and improvisational music, will collaborate with the popular master poet, Robert Bly, for their first concert together, at 8 p.m. April 6 at Clowes Memorial Hall. "An Evening of Music and Poetry" is a presentation of the Butler University Department of English and Writers' Studio. This will be Jarrett's only 1990 solo piano appearance in the U.S."</comments>
+			<privatecomments>Matias J. Vega</privatecomments>
+		</concert>
         <concert>
 			<date>April 13</date>
 			<place>McCarter Theater, Princeton University, Princeton, NJ, USA</place>
