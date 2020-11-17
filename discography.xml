@@ -329,6 +329,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/df98314a-855c-4c1f-bc84-fa599cd1291a"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7460297"/>
 	</release>
+	<release id="byablue">
+		<artist>Keith Jarrett</artist>
+		<name>Byablue</name>
+		<year>1977</year>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000874554"/>
+		<link type="Discogs" url="https://www.discogs.com/master/53968"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/dd1e865a-ae3f-3c36-ab95-d30f2b449018"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5003902"/>
+	</release>
 	<release id="bop-be">
 		<artist>Keith Jarrett</artist>
 		<name>Bop-Be</name>

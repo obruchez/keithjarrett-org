@@ -440,36 +440,6 @@ All compositions by Kenny Wheeler.
 
 NEXT
 
-
-<sect1>Byablue, <it>(Keith Jarrett)</it>
-
-<p>
-<bf>1976.</bf>
-Recorded at Generation Sound, NYC, October 1976;
-Tony May (sound engineer);
-Esmond Edwards (producer).
-Impulse AS-9331; CD 32XD-605.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, soprano sax, percussion)</it>,
-  Dewey Redman <it>(tenor sax, musette)</it>,
-  Charlie Haden <it>(accoustic bass)</it>,
-  Paul Motian <it>(drums, percussion)</it>.
-
-<bf>Tracks:</bf>
-  Byablue (Paul Motian),
-  Konya,
-  Rainbow (Margot Jarrett) (1),
-  Trieste (Paul Motian),
-  Fantasm (Paul Motian) (2),
-  Yahllah,
-  Byablue (3).
-
-(1) <footnote>Dewey Redman doesn't play here.</footnote>
-(2) <footnote>Paul Motian doesn't play here.</footnote>
-(3) <footnote>Piano solo.</footnote>
-
-
 <sect1>Arbour Zena, <it>(Keith Jarrett)</it>
 
 <p>
