@@ -329,6 +329,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/df98314a-855c-4c1f-bc84-fa599cd1291a"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7460297"/>
 	</release>
+	<release id="arbour-zena">
+		<artist>Keith Jarrett</artist>
+		<name>Arbour Zena</name>
+		<year>1976</year>
+		<firstreleasedate>1976-05-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000188227"/>
+		<link type="Discogs" url="https://www.discogs.com/master/53928"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/75832078-4350-3e99-bfb6-c2c914574014"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2859733"/>
+	</release>
 	<release id="byablue">
 		<artist>Keith Jarrett</artist>
 		<name>Byablue</name>

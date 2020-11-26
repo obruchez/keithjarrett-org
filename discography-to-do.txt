@@ -440,30 +440,6 @@ All compositions by Kenny Wheeler.
 
 NEXT
 
-<sect1>Arbour Zena, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206304/from=sr-8224315-1" 
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1976.</bf>
-Tonstudio Bauer, Ludwigsburg, October 1975;
-Martin Wieland (sound engineer).
-ECM 1070; LP 230 1070/CD 825 592-2.
-
-<bf>Featuring:</bf>
-  Jan Garbarek <it>(tenor sax, soprano sax)</it>,
-  Keith Jarrett <it>(piano)</it>,
-  Charlie Haden <it>(accoustic bass)</it>,
-  Stuttgart Suedfunk Symphony Orchestra string section - Mladen Gutesha <it>(director)</it>.
-
-<bf>Tracks:</bf>
-  Runes,
-  Solara March,
-  Mirrors.
-
-
 <sect1>Closeness, <it>(Charlie Haden)</it>
 
 <p>
