@@ -438,8 +438,6 @@ All compositions by Kenny Wheeler.
   Smatter,
   Gnu Suite.
 
-NEXT
-
 <sect1>Closeness, <it>(Charlie Haden)</it>
 
 <p>
@@ -455,29 +453,7 @@ A&amp;M Horizon 11; CD D32Y-3826.
   Ellen David.
 
 
-<sect1>The Survivors' Suite, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184237/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1977.</bf>
-Tonstudio Bauer, Ludwigsburg, April 1976;
-Martin Wieland (sound engineer).
-ECM 1085; LP 230 1085/CD827 131-2.
-Album of the Year - 1977, Melody Maker Magazine.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, soprano sax, bass flute, celesta, osi-drums)</it>,
-  Dewey Redman <it>(tenor sax, percussion)</it>,
-  Charlie Haden <it>(accoustic bass)</it>,
-  Paul Motian <it>(drums, percussion)</it>.
-
-<bf>Tracks:</bf>
-  The Survivors' Suite: Beginning,
-  The Survivors' Suite: Conclusion.
-
+NEXT
 
 <sect1>Staircase, <it>(Keith Jarrett)</it>
 
