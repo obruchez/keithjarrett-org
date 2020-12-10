@@ -452,28 +452,7 @@ A&amp;M Horizon 11; CD D32Y-3826.
 <bf>Tracks:</bf>
   Ellen David.
 
-
 NEXT
-
-<sect1>Staircase, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184238/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1977.</bf> Davout Studio, Paris, May 1976.
-ECM 1090/92; 2-LP 264 1090/2-CD827 337-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks:</bf>
-  Staircase (Part I-III),
-  Hourglass Part I, II),
-  Sundial (Part I-III),
-  Sand (Part I-III).
-
 
 <sect1>Eyes of the Heart, <it>(Keith Jarrett)</it>
 
