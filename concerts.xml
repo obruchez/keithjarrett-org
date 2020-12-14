@@ -5295,7 +5295,7 @@
 			<!-- Sep Troelstra -->
 			<date>May 3</date>
 			<place>Theater am Korntmarkt, Bregenz, Austria</place>
-			<release>Eyes of the Heart</release>
+			<release id="eyes-of-the-heart">Eyes of the Heart</release>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>

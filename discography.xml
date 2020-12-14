@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2020-12-10">
+<discography modified="2020-12-14">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -381,6 +381,18 @@
 		<link type="Discogs" url="https://www.discogs.com/master/53971"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/877553d1-65c5-4921-b194-0526b834f0c1"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q4944150"/>
+	</release>
+	<release id="eyes-of-the-heart">
+		<artist>Keith Jarrett</artist>
+		<name>Eyes of the Heart</name>
+		<year>1979</year>
+		<firstreleasedate>1979-05-25</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000188362"/>
+		<link type="Discogs" url="https://www.discogs.com/master/212263"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/fdb574a8-4723-35af-826e-7a6ebf44ed8e"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5422841"/>
 	</release>
 </discography>
 

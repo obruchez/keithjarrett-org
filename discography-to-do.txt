@@ -454,30 +454,6 @@ A&amp;M Horizon 11; CD D32Y-3826.
 
 NEXT
 
-<sect1>Eyes of the Heart, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184236/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1977.</bf>
-Live; Theater am Korntmarkt, Bregenz, Austria, May 1976;
-Martin Wieland (sound engineer);
-ECM 1150; LP 264 1150/CD 825 476-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, soprano sax, osi-drums, tambourine)</it>,
-  Dewey Redman <it>(tenor sax, tambourine, maracas)</it>,
-  Charlie Haden <it>(accoustic bass)</it>,
-  Paul Motian <it>(drums, percussion)</it>.
-
-<bf>Tracks:</bf>
-  Eyes of the Heart (Part I),
-  Eyes of the Heart (Part II),
-  Encore (A-B-C).
-
-
 <sect1>Hymns and Spheres, <it>(Keith Jarrett)</it>
 
 <p>
