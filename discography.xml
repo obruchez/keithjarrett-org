@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2020-12-14">
+<discography modified="2021-01-09">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -339,6 +339,17 @@
 		<link type="Discogs" url="https://www.discogs.com/master/53928"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/75832078-4350-3e99-bfb6-c2c914574014"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2859733"/>
+	</release>
+		<release id="hymns-and-spheres">
+		<artist>Keith Jarrett</artist>
+		<name>Hymns and Spheres</name>
+		<year>1976</year>
+		<firstreleasedate>1976-11-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000867587"/>
+		<link type="Discogs" url="https://www.discogs.com/master/278312"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/6f76f14a-69f0-4f03-9c91-d758808222a4"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q13582537"/>
 	</release>
 	<release id="the-survivors-suite">
 		<artist>Keith Jarrett</artist>

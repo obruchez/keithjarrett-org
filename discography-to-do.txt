@@ -454,32 +454,6 @@ A&amp;M Horizon 11; CD D32Y-3826.
 
 NEXT
 
-<sect1>Hymns and Spheres, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184239/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1977.</bf>
-Ottobeuren Abbey, Germany, September 1976;
-Martin Wieland (sound engineer);
-ECM 1086/7; 2-LP 264 1086/CD 827 463-2 (1).
-Record of the Year - 1986, Hi-Fi Vision (Germany) (3).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(organ)</it> (2).
-
-<bf>Tracks:</bf>
-  Hymns of Remembrance,
-  Spheres (Movements 1-9),
-  Hymns of Release.
-
-(1) <footnote>The CD <it>Spheres</it> (ECM 1302) contains only <it>Spheres</it> movements 1, 4, 7 and 9.</footnote>
-(2) <footnote>The "Trinity Organ" is one of the two made by Karl Joseph Riepp.</footnote>
-(3) <footnote>Given when the CD has been reissued.</footnote>
-
-
 <sect1>Sun Bear Concerts, <it>(Keith Jarrett)</it>
 
 <p>
