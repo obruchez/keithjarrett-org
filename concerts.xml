@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 14, 2020">
+<concerts modified="January 25, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5599,7 +5599,7 @@
 		<concert>
 			<date>November 5</date>
 			<place>Kaikan Hall 1, Kyoto, Japan</place>
-			<release>Sun Bear Concerts</release>
+			<release id="sun-bear-concerts">Sun Bear Concerts</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -5610,7 +5610,7 @@
 		<concert>
 			<date>November 8</date>
 			<place>Sankei Hall, Osaka, Japan</place>
-			<release>Sun Bear Concerts</release>
+			<release id="sun-bear-concerts">Sun Bear Concerts</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -5621,13 +5621,13 @@
 		<concert>
 			<date>November 12</date>
 			<place>Aichi Auditorium, Nagoya, Japan</place>
-			<release>Sun Bear Concerts</release>
+			<release id="sun-bear-concerts">Sun Bear Concerts</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>
 			<date>November 14</date>
 			<place>Nakano Sun Plaza, Tokyo, Japan</place>
-			<release>Sun Bear Concerts</release>
+			<release id="sun-bear-concerts">Sun Bear Concerts</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -5638,7 +5638,7 @@
 		<concert>
 			<date>November 18</date>
 			<place>Hokkaido Kosei Nenkin Hall, Sapporo, Japan</place>
-			<release>Sun Bear Concerts</release>
+			<release id="sun-bear-concerts">Sun Bear Concerts</release>
 			<with solo="yes"/>
 		</concert>
 	</group>

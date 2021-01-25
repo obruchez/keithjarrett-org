@@ -383,6 +383,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/dd1e865a-ae3f-3c36-ab95-d30f2b449018"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5003902"/>
 	</release>
+	<release id="sun-bear-concerts">
+		<artist>Keith Jarrett</artist>
+		<name>Sun Bear Concerts</name>
+		<year>1978</year>
+		<firstreleasedate>1978-01-xx</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000316745"/>
+		<link type="Discogs" url="https://www.discogs.com/master/26306"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3cdb714e-a620-362b-91d9-3fb33a91e63d"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3503734"/>
+	</release>
 	<release id="bop-be">
 		<artist>Keith Jarrett</artist>
 		<name>Bop-Be</name>

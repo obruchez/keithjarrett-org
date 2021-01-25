@@ -454,54 +454,6 @@ A&amp;M Horizon 11; CD D32Y-3826.
 
 NEXT
 
-<sect1>Sun Bear Concerts, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1251479/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1977.</bf> Live; Japan, November 1976.
-ECM 1100; 10-LP 264 1100/6-CD 843 028-2.
-Album of the Year (Reader's Poll) - 1980, Jazz Forum (Poland).
-Grosser Deutscher Schallplattenpreis - 1979, Deutsche Phono-Akademie (Germany).
-Silverdisc Award - 1978, Swing Journal (Germany).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks:</bf>
-  Kyoto (November 5, 1976): 
-      Part IA,
-      Part IB,
-      Part IIA,
-      Part IIB -
-  Osaka (November 8, 1976):
-      Part IA,
-      Part IB,
-      Part IIA,
-      Part IIB -
-  Nagoya (November 12, 1976):
-      Part IA,
-      Part IB,
-      Part IIA,
-      Part IIB -
-  Tokyo (November 14, 1976):
-      Part IA,
-      Part IB,
-      Part IIA,
-      Part IIB -
-  Sapporo (November 18, 1976):
-      Part IA,
-      Part IB,
-      Part IIA,
-      Part IIB -
-  Encores:
-      Sapporo,
-      Tokyo,
-      Nagoya.
-
-
 <sect1>Tales of Another, <it>(Gary Peacock)</it>
 
 <p>
