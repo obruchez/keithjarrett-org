@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 25, 2021">
+<concerts modified="January 27, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6870,10 +6870,10 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Jazz Magazine -->
 			<date>July 4</date>
 			<place>Palais des Congrès, Paris, France</place>
 			<with solo="yes"/>
+			<privatecomments>According to Jazz Magazine.</privatecomments>
 		</concert>
 		<concert>
 			<date>July 6</date>
@@ -6881,10 +6881,10 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Jazz Magazine -->
 			<date>July 8</date>
 			<place>Arènes, Nîmes, France</place>
 			<with solo="yes"/>
+			<privatecomments>According to Jazz Magazine.</privatecomments>
 		</concert>
 		<concert>
 			<date>July 10</date>
@@ -6894,17 +6894,23 @@
 			<privatecomments>Links sent by Arnulf Müller.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Jazz Magazine -->
 			<date>July 12</date>
 			<place>Pinède Gould, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
 			<with solo="yes"/>
+			<privatecomments>According to Jazz Magazine.</privatecomments>
 		</concert>
 		<concert>
 			<date>July 16</date>
 			<place>Piazza del Campidoglio, Rome, Italy</place>
 			<with solo="yes"/>
 			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
+			<date>July 18</date>
+			<place>Teatro Nazionale, Milan, Italy</place>
+			<with solo="yes"/>
+			<privatecomments>Added by Marc Morvan. <a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,19/articleid,1029_01_1983_0168_0019_22543384/anews,true/">Article</a>.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -7662,11 +7668,13 @@
 		</concert>
         <concert>
 			<date>July 8</date>
-			<place>Teatro Nationale, Milan, Italy</place>
+			<place>Villa Imperiale, Genoa, Italy</place>
+			<event>Estate Jazz a Villa Imperiale</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Venue correction by Marc Morvan.</privatecomments>
 		</concert>
 		<concert>
 			<date>July 9</date>
