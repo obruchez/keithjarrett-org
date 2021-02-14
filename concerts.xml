@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 27, 2021">
+<concerts modified="February 14, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -1193,6 +1193,16 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+		</concert>
+		<concert>
+			<date>April/May (?)</date>
+			<place>Symphony Hall, Boston, MA, USA</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Robert B.: "The movie <i>2001: A Space Odyssey</i> was also shown that night at the venue. Keiths's playing was exceptional and he played like he was possessed."</comments>
+			<privatecomments>Email from Robert Baker.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
