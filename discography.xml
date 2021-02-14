@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2021-01-09">
+<discography modified="2021-02-14">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -416,6 +416,17 @@
 		<link type="Discogs" url="https://www.discogs.com/master/212263"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/fdb574a8-4723-35af-826e-7a6ebf44ed8e"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5422841"/>
+	</release>
+	<release id="ritual">
+		<artist>Keith Jarrett &amp; Dennis Russell Davies</artist>
+		<name>Ritual</name>
+		<year>1982</year>
+		<firstreleasedate>1982-02-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000898684"/>
+		<link type="Discogs" url="https://www.discogs.com/master/259251"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/c63d6808-0f59-48b5-a611-63e6b41176a5"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7336839"/>
 	</release>
 </discography>
 

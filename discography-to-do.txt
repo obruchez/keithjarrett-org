@@ -452,8 +452,6 @@ A&amp;M Horizon 11; CD D32Y-3826.
 <bf>Tracks:</bf>
   Ellen David.
 
-NEXT
-
 <sect1>Tales of Another, <it>(Gary Peacock)</it>
 
 <p>
@@ -474,21 +472,7 @@ All compositions by Gary Peacock.
   Major Major,
   Trilogy I-III.
 
-
-<sect1>Ritual, <it>(Keith Jarrett, Dennis Russell Davies)</it>
-
-<p>
-<bf>1977.</bf>
-Tonstudio Bauer, Ludwigsburg, June 1976;
-Martin Wieland (sound engineer).
-ECM 1112. Compositions by Keith Jarrett.
-
-<bf>Featuring:</bf>
-  Dennis Russell Davies <it>(piano)</it>.
-
-<bf>Track:</bf>
-  Ritual.
-
+NEXT
 
 <sect1>My Song, <it>(Keith Jarrett)</it>
 
