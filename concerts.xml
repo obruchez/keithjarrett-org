@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 14, 2021">
+<concerts modified="February 17, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -4559,26 +4559,25 @@
 			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon -->
 			<date>March 13</date>
 			<time>8:30 PM</time>
 			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
             <comments>Marc M.: Gato Barbieri was ill, so Keith Jarrett was headlining.</comments>
-            <privatecomments>Time and Gato Barbieri concert from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
+            <privatecomments>Information from Peter Elsdon. Time and Gato Barbieri concert from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<date incomplete="yes">March</date>
+			<date>March 16</date>
 			<place>Queen Elizabeth Playhouse, Vancouver, BC, Canada</place>
 			<with solo="yes"/>
-            <comments>Kenneth K.: "This was probably the weekend following his gig in LA."</comments>
-            <privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
+            <comments>Paul P.: "I recall one "funny" incident that happened after he was introduced. He requested that everyone in the audience get their coughing out of the way before he began. All in attendance politely produced a small cough. He began that landmark work and about 15 minutes in a baby started crying. He didn't falter. Just carried on to produce some of the most fantastic piano stylings I had ever heard. Accompanied by his trademark standing, humming and kicking the piano just above the pedals."</comments>
+            <privatecomments>Mentioned by Kenneth Kubernik. Date confirmed by Paul Pitre.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Howard Courtney -->
 			<date>March 21</date>
 			<place>Convocation Hall, Toronto, ON, Canada</place>
 			<with solo="yes"/>
+			<privatecomments>Information from Howard Courtney.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 25</date>
