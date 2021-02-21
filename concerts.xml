@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 17, 2021">
+<concerts modified="February 21, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -630,16 +630,15 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
-			<date>June 23</date>
-			<place>Central Park, New York, NY, USA</place>
+			<date>June 30</date>
+			<place>Wollman Rink, Central Park, New York, NY, USA</place>
 			<event>Rheingold Music Festival</event>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
-			<comments></comments>
+			<privatecomments>Concert listed by Kenneth Kubernik. Correct date and exact venue given by Bill Hery.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
