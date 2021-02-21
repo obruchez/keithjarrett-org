@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2021-02-14">
+<discography modified="2021-02-21">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -394,6 +394,17 @@
 		<link type="Discogs" url="https://www.discogs.com/master/26306"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3cdb714e-a620-362b-91d9-3fb33a91e63d"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3503734"/>
+	</release>
+	<release id="my-song">
+		<artist>Keith Jarrett</artist>
+		<name>My Song</name>
+		<year>1978</year>
+		<firstreleasedate>1978-06-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000188228"/>
+		<link type="Discogs" url="https://www.discogs.com/master/26503"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/b60a80b9-5077-38f7-92df-fda49d5a73f5"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q941930"/>
 	</release>
 	<release id="bop-be">
 		<artist>Keith Jarrett</artist>

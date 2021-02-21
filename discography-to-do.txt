@@ -474,34 +474,6 @@ All compositions by Gary Peacock.
 
 NEXT
 
-<sect1>My Song, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=816197/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1978.</bf>
-Talent Studios, Oslo, October 31 and November 1, 1977;
-Jan Erik Kongshaug (sound engineer).
-ECM 1115; LP 230 1115/CD 821 406-2.
-Record of the year - 1979, Jazz Forum (Poland).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, percussion)</it>,
-  Jan Garbarek <it>(tenor sax, soprano sax)</it>,
-  Palle Danielsson <it>(accoustic bass)</it>,
-  Jon Christensen <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Questar,
-  My Song,
-  Tabarka,
-  Country,
-  Mandala,
-  The Journey Home.
-
-
 <sect1>Without Rhyme or Reason, <it>(Scott Jarrett)</it>
 
 <p>
