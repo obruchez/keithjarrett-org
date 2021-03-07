@@ -472,8 +472,6 @@ All compositions by Gary Peacock.
   Major Major,
   Trilogy I-III.
 
-NEXT
-
 <sect1>Without Rhyme or Reason, <it>(Scott Jarrett)</it>
 
 <p>
@@ -499,32 +497,7 @@ GRP 5007.
 
 <sect>The years ranging from 1980 to 1990
 
-<sect1>Nude Ants: Live at the Village Vanguard, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184241/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1980.</bf>
-Live; Village Vanguard, NYC, May 1979;
-Tom McKenney (sound engineer).
-ECM 1171/2; CD J58J-20176/7.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, percussion)</it>,
-  Jan Garbarek <it>(tenor sax, soprano sax)</it>,
-  Palle Danielsson <it>(accoustic bass)</it>,
-  Jon Christensen <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Chant of the Soul,
-  Innocence,
-  Processional,
-  Oasis,
-  New Dance,
-  Sunshine Song.
-
+NEXT
 
 <sect1>Sacred Hymns, <it>(G. I. Gurdjieff)</it>
 

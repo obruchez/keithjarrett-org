@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 21, 2021">
+<concerts modified="March 7, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6236,7 +6236,7 @@
 			<!-- Kenneth Kubernik -->
 			<date>May 15</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<release>Nude Ants: Live at the Village Vanguard</release>
+			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
@@ -6248,7 +6248,7 @@
 			<!-- Kenneth Kubernik -->
 			<date>May 16</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<release>Nude Ants: Live at the Village Vanguard</release>
+			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
@@ -6260,7 +6260,7 @@
 			<!-- Kenneth Kubernik -->
 			<date>May 17</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<release>Nude Ants: Live at the Village Vanguard</release>
+			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
@@ -6272,7 +6272,7 @@
 			<!-- Kenneth Kubernik -->
 			<date>May 18</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<release>Nude Ants: Live at the Village Vanguard</release>
+			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
@@ -6284,7 +6284,7 @@
 			<!-- Kenneth Kubernik -->
 			<date>May 19</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<release>Nude Ants: Live at the Village Vanguard</release>
+			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
@@ -6296,7 +6296,7 @@
 			<!-- Kenneth Kubernik -->
 			<date>May 20</date>
 			<place>Village Vanguard, New York, NY, USA</place>
-			<release>Nude Ants: Live at the Village Vanguard</release>
+			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
