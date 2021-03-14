@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2021-03-07">
+<discography modified="2021-03-14">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -439,6 +439,17 @@
 		<link type="Discogs" url="https://www.discogs.com/master/26514"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/a8cde19e-6cf8-3eec-b043-8d012aa4fecc"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3346053"/>
+	</release>
+	<release id="sacred-hymns">
+		<artist>Keith Jarrett</artist>
+		<name>G.I. Gurdjieff: Sacred Hymns</name>
+		<year>1980</year>
+		<firstreleasedate>1980-09-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000197736"/>
+		<link type="Discogs" url="https://www.discogs.com/master/119160"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/a8b37587-5f04-3c66-81da-199999408cf1"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5512023"/>
 	</release>
 	<release id="ritual">
 		<artist>Keith Jarrett &amp; Dennis Russell Davies</artist>

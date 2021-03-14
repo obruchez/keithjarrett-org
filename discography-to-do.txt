@@ -499,39 +499,6 @@ GRP 5007.
 
 NEXT
 
-<sect1>Sacred Hymns, <it>(G. I. Gurdjieff)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206306/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1980.</bf>
-Tonstudio Bauer, Ludwigsburg, March 1980;
-Martin Wieland (sound engineer);
-ECM 1174; LP 230 1174/CD 829 122-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks:</bf>
-  Reading of Sacred Books,
-  Prayer and Despair,
-  Religious Ceremony,
-  Hymn,
-  Orthodox Hymn from Asia Minor,
-  Hymn for Good Friday,
-  Hymn,
-  Hymn for Easter Thursday,
-  Hymn to the Endless Creator,
-  Hymn for a Great Temple,
-  The Story of the Resurrection of Christ,
-  Holy Affirming - Holy Denying - Holy Reconciling,
-  Easter Night Procession,
-  Easter Hymn,
-  Meditation.
-
-
 <sect1>The Celestial Hawk, <it>(Keith Jarrett)</it>
 
 <p>
