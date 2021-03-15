@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 7, 2021">
+<concerts modified="March 15, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -11561,6 +11561,8 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<date>April 30</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
+			<release>Creation</release>
+			<comments>An excerpt from this concert is included on the <i>Creation</i> album.</comments>
 		</concert>
 		<concert>
 			<date>May 3</date>
@@ -11572,7 +11574,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
 			<release>Creation</release>
-			<comments>Two excerpts from this concert are included on the <i>Creation</i> album.</comments>
+			<comments>An excerpt from this concert is included on the <i>Creation</i> album.</comments>
 		</concert>
 		<concert>
 			<date>May 9</date>
