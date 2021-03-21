@@ -451,6 +451,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/a8b37587-5f04-3c66-81da-199999408cf1"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5512023"/>
 	</release>
+	<release id="the-celestial-hawk">
+		<artist>Keith Jarrett</artist>
+		<name>The Celestial Hawk</name>
+		<year>1980</year>
+		<firstreleasedate>1980-11-xx</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000064242"/>
+		<link type="Discogs" url="https://www.discogs.com/master/119166"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/871478b2-7f71-3314-91af-f3c3b3eef584"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7721829"/>
+	</release>
 	<release id="ritual">
 		<artist>Keith Jarrett &amp; Dennis Russell Davies</artist>
 		<name>Ritual</name>

@@ -499,30 +499,6 @@ GRP 5007.
 
 NEXT
 
-<sect1>The Celestial Hawk, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206307/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1980.</bf>
-Carnegie Hall, NYC, March 22, 1980;
-Stan Tankel (sound engineer);
-Keith Jarrett and Manfred Eicher (producers).
-ECM 1175; LP 230 1175/CD 829 370-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano, composer)</it>,
-  Syracuse Symphony, Christopher Keene <it>(director)</it>.
-
-<bf>Tracks:</bf>
-  The Celestial Hawk,
-  First Movement,
-  Second Movement,
-  Third Movement.
-
-
 <sect1>Invocations / The Moth and the Flame, <it>(Keith Jarrett)</it>
 
 <p>
