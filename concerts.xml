@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 15, 2021">
+<concerts modified="March 27, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -111,6 +111,16 @@
 				<name>Cecil McBee</name>
 				<name>Jack DeJohnette</name>
 			</with>
+		</concert>
+		<concert>
+			<date>May 2</date>
+			<place>RTBF studios, Brussels, Belgium</place>
+			<with>
+				<name>Charles Lloyd</name>
+				<name>Cecil McBee</name>
+				<name>Jack DeJohnette</name>
+			</with>
+			<comments>Broadcast November 13, 1966. <a href="https://www.youtube.com/watch?v=iVEKGYZI2yM">Video available on YouTube</a>. According to the YouTube description: "This may be the earliest footage of Keith Jarrett."</comments>
 		</concert>
 		<concert>
 			<date>May 7</date>
@@ -6013,6 +6023,12 @@
 		</concert>
 	</group>
 	<group year="1979">
+		<concert>
+			<date>March 3</date>
+			<place>Ocean State Theatre, Providence, RI, USA</place>
+			<with solo="yes"/>
+			<privatecomments>Added by Jude Gartland.</privatecomments>
+		</concert>
 		<concert>
 			<date>March 5</date>
 			<place>Boston Music Hall, Boston, MA, USA</place>
