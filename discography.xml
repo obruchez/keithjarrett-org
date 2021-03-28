@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2021-03-14">
+<discography modified="2021-03-28">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -462,6 +462,17 @@
 		<link type="Discogs" url="https://www.discogs.com/master/119166"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/871478b2-7f71-3314-91af-f3c3b3eef584"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7721829"/>
+	</release>
+	<release id="invocations-the-moth-and-the-flame">
+		<artist>Keith Jarrett</artist>
+		<name>Invocations / The Moth and the Flame</name>
+		<year>1981</year>
+		<firstreleasedate>1981-05-27</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000651255"/>
+		<link type="Discogs" url="https://www.discogs.com/master/212430"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/953e046c-79e2-3d8f-b416-1d72c35179fe"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3153964"/>
 	</release>
 	<release id="ritual">
 		<artist>Keith Jarrett &amp; Dennis Russell Davies</artist>

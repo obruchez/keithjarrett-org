@@ -499,39 +499,6 @@ GRP 5007.
 
 NEXT
 
-<sect1>Invocations / The Moth and the Flame, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1206303/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1981.</bf>
-Tonstudio Bauer, Ludwigsburg, November 1979 (1);
-Ottobeuren Abbey, November 1980 (2);
-Martin Wieland (sound engineer).
-ECM 1201/2; 2-LP 264 1201/2-CD 825 473-2 (*).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(organ, soprano sax, piano)</it>.
-
-Invocations (1) -
-<bf>Tracks:</bf>
-  First (Solo Voice),
-  Second (Mirage, Realities),
-  Third (Power, Resolve),
-  Fourth (Shock, Scatter),
-  Fifth (Recognition),
-  Sixth (Celebration),
-  Seventh (Solo Voice).
-
-(2) -
-<bf>Tracks:</bf>
-  The Moth and the Flame (Part I-V).
-
-(*) <footnote>With a poem of Robert Bly: <it>When things are heard</it>.</footnote>
-
-
 <sect1>Concerts, <it>(Keith Jarrett)</it>
 
 <p>
