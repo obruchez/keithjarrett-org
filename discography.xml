@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2021-03-28">
+<discography modified="2021-04-06">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -484,6 +484,18 @@
 		<link type="Discogs" url="https://www.discogs.com/master/259251"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/c63d6808-0f59-48b5-a611-63e6b41176a5"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7336839"/>
+	</release>
+	<release id="concerts">
+		<artist>Keith Jarrett</artist>
+		<name>Concerts</name>
+		<year>1982</year>
+		<firstreleasedate>1982-09-15</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000651256"/>
+		<link type="Discogs" url="https://www.discogs.com/master/315902"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/91c4ef2a-7cf3-41c8-a33b-7161bbb446a8"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5158589"/>
 	</release>
 </discography>
 

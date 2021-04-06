@@ -499,39 +499,6 @@ GRP 5007.
 
 NEXT
 
-<sect1>Concerts, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1158656/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1981.</bf>
-Live; Festspielhaus, Bregenz, Austria, May 28, 1981 (1);
-Herkulessaal, Munich, June 2, 1981 (2);
-Martin Wieland (sound engineer).
-ECM 1227/29; 3-LP 264 1227.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks (1):</bf>
-  Part I,
-  Part II,
-  Untitled,
-  Heartland.
-
-<bf>Tracks (2):</bf>
-  Part I,
-  Part II,
-  Part III,
-  Part IV,
-  Part III,
-  Part IV,
-  Mon Coeur est Rouge,
-  Heartland.
-
-
 <sect1>Standards, Volume 1, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
 
 <p>

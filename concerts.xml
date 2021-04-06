@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 28, 2021">
+<concerts modified="April 6, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6522,20 +6522,20 @@
 		<concert>
 			<date>May 28</date>
 			<place>Festspielhaus, Bregenz, Austria</place>
-			<release>Concerts</release>
+			<release id="concerts">Concerts</release>
 			<support>LP/CD</support>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- 24 Heures du 28 mai 1981 -->
 			<date>May 31</date>
 			<place>Palais de Beaulieu, Lausanne, Switzerland</place>
 			<with solo="yes"/>
+			<comments>According to 24 Heures newspaper from May 28, 1981.</comments>
 		</concert>
 		<concert>
 			<date>June 2</date>
 			<place>Herkulessaal, Munich, Germany</place>
-			<release>Concerts</release>
+			<release id="concerts">Concerts</release>
 			<support>LP</support>
 			<with solo="yes"/>
 		</concert>
