@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 6, 2021">
+<concerts modified="April 14, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -7192,6 +7192,13 @@
 			<privatecomments>First mentioned by Kenneth Kubernik. Exact date by Marc Morvan.</privatecomments>
 		</concert>
 		<concert>
+			<date incomplete="yes">October</date>
+			<place>Orpheum Theatre, Vancouver, BC, Canada</place>
+			<with solo="yes"/>
+			<comments>This concert was cancelled.</comments>
+			<privatecomments>Mentioned by Ralph Grabowski.</privatecomments>
+		</concert>
+		<concert>
 			<date>November 10</date>
 			<place>Orchestra Hall, Minneapolis, MN, USA</place>
 			<with solo="yes"/>
@@ -11723,6 +11730,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<date>July 3</date>
 			<place>Béla Bartók National Concert Hall, Palace of Arts, Budapest, Hungary</place>
 			<time>8 PM</time>
+			<release>Budapest Concert</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>
