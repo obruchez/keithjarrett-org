@@ -499,33 +499,6 @@ GRP 5007.
 
 NEXT
 
-<sect1>Standards, Volume 1, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1172733/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1983.</bf>
-Power Station, NYC, January 1983;
-Jan Erik Kongshaug (sound engineer).
-ECM 1225; LP 811 969/CD 811 966-2.
-Silverdisc Award - 1983, Swing Journal (Germany).
-Record of the Year - 1983, Audio Magazine (Germany).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  The Meaning of the Blues,
-  All the Things You Are,
-  It Never Entered My Mind,
-  The Masquerade Is Over,
-  God Bless the Child.
-
-
 <sect1>Changes, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
 
 <p>
