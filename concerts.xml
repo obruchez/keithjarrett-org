@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 14, 2021">
+<concerts modified="April 20, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6385,6 +6385,13 @@
 		</concert>
 	</group>
 	<group year="1980">
+		<concert>
+			<date>February 7</date>
+			<place>Bushnell Memorial Hall, Hartford, CT, USA</place>
+			<time>8:30 PM</time>
+			<with solo="yes"/>
+			<privatecomments>Concert mentioned by Matthias Bohlen. Concert poster included in email (February 10, 2021).</privatecomments>
+		</concert>
 		<concert>
 			<date>February 12</date>
 			<place>Music Hall, Boston, MA, USA</place>
