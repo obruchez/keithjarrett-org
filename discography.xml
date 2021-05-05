@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2021-04-06">
+<discography modified="2021-05-05">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -506,6 +506,17 @@
 		<link type="Discogs" url="https://www.discogs.com/master/299956"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/794ec2de-07e4-3773-84c2-9d807678746f"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2703037"/>
+	</release>
+	<release id="changes">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>Changes</name>
+		<year>1984</year>
+		<firstreleasedate>1984-09-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000649584"/>
+		<link type="Discogs" url="https://www.discogs.com/master/261206"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3c165b2e-4716-3843-b544-7b8223e4de90"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2295483"/>
 	</release>
 </discography>
 
