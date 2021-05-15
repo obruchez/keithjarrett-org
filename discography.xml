@@ -518,7 +518,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3c165b2e-4716-3843-b544-7b8223e4de90"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2295483"/>
 	</release>
-</discography>
+	<release id="standards-volume-2">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>Standards, Volume 2</name>
+		<year>1985</year>
+		<firstreleasedate>1985-04-29</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000649586"/>
+		<link type="Discogs" url="https://www.discogs.com/master/289295"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/a994ec2b-1552-3ce3-9b5a-066075a141a1"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2330381"/>
+	</release>
 
 <!--
 	<release id="">

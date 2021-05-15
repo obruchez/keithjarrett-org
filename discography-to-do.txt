@@ -499,35 +499,6 @@ GRP 5007.
 
 NEXT
 
-<sect1>Standards, Volume 2, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1172736/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1983.</bf>
-Power Station, NYC, January 1983;
-Jan Erik Kongshaug (sound engineer).
-ECM 1289; LP 825 015-1/CD 825 015-2.
-Silverdisc Award - 1983, Swing Journal (Germany).
-Record of the Year (Critic's Poll) - 1983, Jazz life magazine (Germany).
-Record of the Year - 1983, Hi-fi Vision (Germany).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  So Tender (Keith Jarrett),
-  Moon and Sand,
-  In Love In Vain,
-  Never Let Me Go,
-  If I Should Lose You,
-  I Fall In Love Too Easily.
-
-
 <sect1>Tabula Rasa, <it>(Arvo Part)</it>
 
 <p>
