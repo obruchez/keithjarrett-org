@@ -497,8 +497,6 @@ GRP 5007.
 
 <sect>The years ranging from 1980 to 1990
 
-NEXT
-
 <sect1>Tabula Rasa, <it>(Arvo Part)</it>
 
 <p>
@@ -513,22 +511,6 @@ ECM 1275; LP 817 764-1/CD 817 764-2.
 <bf>Track:</bf>
   Fratres.
 
-
-<sect1>Spheres, <it>(Keith Jarrett)</it>
-
-<p>
-<bf>1985.</bf>
-Ottobeuren, W.Germany 1976<footnote>Recorded on the Carl 
-Joseph Riepp Baroque Organ at Ottobeuren, W.Germany</footnote>.
-ECM 1302; CD 827 463-2 (AAD).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(Organ)</it>.
-
-<bf>Tracks:</bf>
-  Spheres (1st, 4th, 7th, 9th Movement).
-
-  
 <sect1>Works, <it>(Keith Jarrett)</it>
 
 <p>
@@ -544,26 +526,7 @@ ECM LP 825 425-1/CD 825 425-2.
   Invocations - Recognition (from <it>Invocations / The Moth and the Flame</it> - 1981),
   Nagoya - Part IIB -Encore- (from <it>Sun Bear Concerts</it> - 1977).
 
-
-<sect1>Spirits, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184242/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1986.</bf>
-Cavelight Studio, NJ, July 1985;
-Keith Jarrett and Manfred Eicher (producers).
-ECM 1333/4; 2-LP 829 467-1/2-CD 829 467-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(Pakistani flute, tablas, flutes, shakers, voice, soprano sax, piano, guitar, glockenspiel, tambourine, double bell)</it>.
-
-<bf>Tracks:</bf>
-  Spirits Volume 1: Spirits 1-12,
-  Spirits Volume 2: Spirits 13-26.
-
+NEXT
 
 <sect1>Standards Live, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
 

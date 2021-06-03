@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2021-05-15">
+<discography modified="2021-06-03">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -340,9 +340,9 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/75832078-4350-3e99-bfb6-c2c914574014"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2859733"/>
 	</release>
-		<release id="hymns-and-spheres">
+		<release id="hymns-spheres">
 		<artist>Keith Jarrett</artist>
-		<name>Hymns and Spheres</name>
+		<name>Hymns / Spheres</name>
 		<year>1976</year>
 		<firstreleasedate>1976-11-xx</firstreleasedate>
 		<type>album</type>
@@ -529,7 +529,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/a994ec2b-1552-3ce3-9b5a-066075a141a1"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2330381"/>
 	</release>
-
+    <release id="spirits">
+		<artist>Keith Jarrett</artist>
+		<name>Spirits</name>
+		<year>1986</year>
+		<firstreleasedate>1986-09-29</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000188363"/>
+		<link type="Discogs" url="https://www.discogs.com/master/26416"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/978fafa2-2040-417d-b167-f68950193560"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7578073"/>
+	</release>
+	
 <!--
 	<release id="">
 		<artist>Keith Jarrett</artist>
