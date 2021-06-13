@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2021-06-03">
+<discography modified="2021-06-13">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -529,6 +529,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/a994ec2b-1552-3ce3-9b5a-066075a141a1"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2330381"/>
 	</release>
+	<release id="standards-live">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>Standards Live</name>
+		<year>1986</year>
+		<firstreleasedate>1986-03-xx</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000192032"/>
+		<link type="Discogs" url="https://www.discogs.com/master/53983"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/6246516d-9b72-3f27-8792-f52f69af2e03"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7598422"/>
+	</release>
     <release id="spirits">
 		<artist>Keith Jarrett</artist>
 		<name>Spirits</name>
@@ -540,7 +552,7 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/978fafa2-2040-417d-b167-f68950193560"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7578073"/>
 	</release>
-	
+
 <!--
 	<release id="">
 		<artist>Keith Jarrett</artist>
@@ -554,6 +566,7 @@
 		<link type="Wikidata" url=""/>
 	</release>
 -->
+</discography>
 
 <!--
 Types (should be about the actual content of the release, not about the physical/digital format):

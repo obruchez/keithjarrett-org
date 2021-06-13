@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 20, 2021">
+<concerts modified="June 13, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -7424,7 +7424,7 @@
 		<concert>
 			<date>July 2</date>
 			<place>Palais des Congrès, Paris, France</place>
-			<release>Standards Live</release>
+			<release id="standards-live">Standards Live</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>

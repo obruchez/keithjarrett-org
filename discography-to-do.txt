@@ -528,35 +528,6 @@ ECM LP 825 425-1/CD 825 425-2.
 
 NEXT
 
-<sect1>Standards Live, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1032210/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1986.</bf>
-Live; The Palais des Congres Studios de la Grande Armee, Paris, July
-2nd 1985.
-ECM 1317; LP 827 827-1/CD 827 827-2.
-Best Jazz Performance (Group) - 1987, Grammy Nomination (USA).
-Grand Prix - 1987, Swing Journal (Germany).
-Album of the Year - 1987, Jazz Life Magazine (Germany).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Stella By Starlight,
-  The Wrong Blues,
-  Falling In Love With Love,
-  Too Young to Go Steady,
-  The Way You Look Tonight,
-  The Old Country.
-
-
 <sect1>Book of Ways, <it>(Keith Jarrett)</it>
 
 <p>
