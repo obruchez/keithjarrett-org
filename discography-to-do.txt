@@ -528,28 +528,6 @@ ECM LP 825 425-1/CD 825 425-2.
 
 NEXT
 
-<sect1>Book of Ways, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184243/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1986.</bf>
-Tonstudio Bauer, Ludwigsburg, July 1986;
-Martin Wieland (sound engineer).
-ECM 1344/5; 2-LP 831 396-1/2-CD 831 396-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(clavichord)</it>.
-
-<bf>Volume 1; Tracks:</bf>
-  The Book of Ways - The Feeling of Strings 1-10.
-
-<bf>Volume 2; Tracks:</bf>
-  The Book of Ways - The Feeling of Strings 11-19
-
-
 <sect1>Still Live, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
 
 <p>

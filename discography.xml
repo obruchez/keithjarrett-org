@@ -552,6 +552,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/978fafa2-2040-417d-b167-f68950193560"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7578073"/>
 	</release>
+	<release id="book-of-ways">
+		<artist>Keith Jarrett</artist>
+		<name>Book of Ways</name>
+		<year>1987</year>
+		<firstreleasedate>1987-09-01</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000193575"/>
+		<link type="Discogs" url="https://www.discogs.com/master/119167"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/d747ef24-53f4-316b-875b-932d79f00697"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q4943099"/>
+	</release>
 
 <!--
 	<release id="">
