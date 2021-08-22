@@ -556,12 +556,24 @@
 		<artist>Keith Jarrett</artist>
 		<name>Book of Ways</name>
 		<year>1987</year>
-		<firstreleasedate>1987-09-01</firstreleasedate>
+		<firstreleasedate>1987-09-xx</firstreleasedate>
 		<type>album</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000193575"/>
 		<link type="Discogs" url="https://www.discogs.com/master/119167"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/d747ef24-53f4-316b-875b-932d79f00697"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q4943099"/>
+	</release>
+	<release id="still-live">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>Still Live</name>
+		<year>1988</year>
+		<firstreleasedate>1988-03-07</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000195323"/>
+		<link type="Discogs" url="https://www.discogs.com/master/218103"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/c9e02421-4053-3517-a201-d759f669fe8d"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7617100"/>
 	</release>
 
 <!--

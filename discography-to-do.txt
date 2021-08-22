@@ -528,40 +528,6 @@ ECM LP 825 425-1/CD 825 425-2.
 
 NEXT
 
-<sect1>Still Live, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1213874/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1988.</bf>
-Live; Munich, July 13, 1986;
-Martin Wieland (sound engineer).
-ECM 1360/1; 2-LP 835 008-1/2-CD 835 008-2.
-Best Jazz Performance (Group) - 1987, Grammy Nomination (USA).
-Bronzedisc Award - 1987, Swing Journal (Germany).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  My Funny Valentine,
-  Autumn Leaves,
-  When I Fall in Love,
-  The Song Is You,
-  Come Rain or Come Shine,
-  Late Lament,
-  You and the Night and the Music / Extension,
-  Intro / Some Day My Prince Will Come,
-  Billie's Bounce (*),
-  I Remember Clifford.
-
-(*) <footnote>Bonus track on CD only.</footnote>
-
-
 <sect1>Das Wohltemperierte Klavier, Buch I, <it>(Johann Sebastian Bach)</it>
 
 <p>
