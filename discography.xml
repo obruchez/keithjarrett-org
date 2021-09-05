@@ -575,6 +575,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/c9e02421-4053-3517-a201-d759f669fe8d"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7617100"/>
 	</release>
+	<release id="das-wohltemperierte-klavier-buch-i">
+		<artist>Keith Jarrett</artist>
+		<name>J. S. Bach: Das Wohltemperierte Klavier, Buch I</name>
+		<year>1988</year>
+		<firstreleasedate>1988-04-25</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000877646"/>
+		<link type="Discogs" url="https://www.discogs.com/master/444813"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/03d06048-b8f0-3b13-ae2a-c8b307e7b067"/>
+	</release>
 
 <!--
 	<release id="">
