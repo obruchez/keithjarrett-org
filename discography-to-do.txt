@@ -526,8 +526,6 @@ ECM LP 825 425-1/CD 825 425-2.
   Invocations - Recognition (from <it>Invocations / The Moth and the Flame</it> - 1981),
   Nagoya - Part IIB -Encore- (from <it>Sun Bear Concerts</it> - 1977).
 
-NEXT
-
 <sect1>Piano Concerto / Suite for Violin, Piano and Small Orchestra, <it>(Lou Harrison)</it>
 
 <p>
@@ -563,31 +561,7 @@ New World Records NW 366-2.
   Second Gamelan,
   Chorale.
 
-
-<sect1>Dark Intervals, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184244/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1988.</bf>
-Live; Suntory Hall, Tokyo, April 11, 1987;
-ECM 1379; LP 837 342-1/CD 837 342-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks:</bf>
-  Opening,
-  Hymn,
-  Americana,
-  Entrance,
-  Parallels,
-  Fire Dance,
-  Ritual Prayer,
-  Recitative.
-
+NEXT
 
 <sect1>Personal Mountains, <it>(Keith Jarrett)</it>
 

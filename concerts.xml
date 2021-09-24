@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 13, 2021">
+<concerts modified="September 24, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -7958,7 +7958,7 @@
 		<concert>
 			<date>April 11</date>
 			<place>Suntory Hall, Tokyo, Japan</place>
-			<release>Dark Intervals</release>
+			<release id="dark-intervals">Dark Intervals</release>
 			<with solo="yes"/>
 		</concert>
         <concert>
