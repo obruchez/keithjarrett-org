@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="September 24, 2021">
+<concerts modified="October 19, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5427,6 +5427,17 @@
 				<name>Paul Motian</name>
 			</with>
 			<privatecomments>From Maurizio's list.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 20</date>
+			<place>Kino Union, Ljubljana, Slovenia</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Mentioned in <a href="https://www.dlib.si/details/URN:NBN:SI:doc-ZBWPPKQY">Glasbena mladina</a>.</comments>
+			<privatecomments>Mentioned by Jani Lustrek.</privatecomments>
 		</concert>
 		<concert>
 			<date>May 26</date>
