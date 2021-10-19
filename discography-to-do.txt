@@ -563,32 +563,6 @@ New World Records NW 366-2.
 
 NEXT
 
-<sect1>Personal Mountains, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184245/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1989.</bf>
-Live; Tokyo, April 1979.
-ECM 1382; LP 837 361-1/CD 837 361-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Jan Garbarek <it>(soprano sax, tenor sax)</it>,
-  Palle Danielsson <it>(accoustic bass)</it>,
-  Jon Christensen <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Personal Mountains,
-  Prism,
-  Oasis,
-  Innocence,
-  Late Night Willie (*).
-
-(*) <footnote>Bonus track on CD only.</footnote>
-
 
 <sect1>Goldberg Variations, <it>(Johann Sebastian Bach)</it>
 

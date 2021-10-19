@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2021-06-13">
+<discography modified="2021-10-19">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -596,6 +596,18 @@
 		<link type="Discogs" url="https://www.discogs.com/master/53937"/>
 		<link type="MusicBrainz" url="https://www.wikidata.org/wiki/Q3702715"/>
 		<link type="Wikidata" url="https://musicbrainz.org/release-group/3697a2df-0d93-3daf-9604-3e47a493be0e"/>
+	</release>
+	<release id="personal-mountains">
+		<artist>Keith Jarrett, Jan Garbarek, Palle Danielsson &amp; Jon Christensen</artist>
+		<name>Personal Mountains</name>
+		<year>1989</year>
+		<firstreleasedate>1989-05-xx</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000653601"/>
+		<link type="Discogs" url="https://www.discogs.com/master/26480"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/bafc9193-616e-3718-9909-0ef5678b3692"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3375701"/>
 	</release>
 
 <!--

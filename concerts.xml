@@ -6163,7 +6163,7 @@
 		<concert>
 			<date incomplete="yes">April</date>
 			<place>Tokyo, Japan</place>
-			<release>Personal Mountains</release>
+			<release id="personal-mountains">Personal Mountains</release>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
