@@ -609,6 +609,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/bafc9193-616e-3718-9909-0ef5678b3692"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3375701"/>
 	</release>
+	<release id="changeless">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>Changeless</name>
+		<year>1989</year>
+		<firstreleasedate>1989-10-xx</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000654753"/>
+		<link type="Discogs" url="https://www.discogs.com/master/347492"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/ff67b63e-1a9a-38ed-b399-2df09661817b"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5071906"/>
+	</release>
 
 <!--
 	<release id="">

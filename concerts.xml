@@ -8034,7 +8034,7 @@
 		<concert>
 			<date>October 9</date>
 			<place>Lexington, KY, USA</place>
-			<release>Changeless</release>
+			<release id="changeless">Changeless</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -8044,7 +8044,7 @@
 		<concert>
 			<date>October 11</date>
 			<place>Convention Center, Dallas, TX, USA</place>
-			<release>Changeless</release>
+			<release id="changeless">Changeless</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -8055,7 +8055,7 @@
 			<!-- Listed as October 13 in Japanese 1991 tour book -->
 			<date>October 12</date>
 			<place>Wortham Center, Houston, TX, USA</place>
-			<release>Changeless</release>
+			<release id="changeless">Changeless</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -8065,7 +8065,7 @@
 		<concert>
 			<date>October 14</date>
 			<place>Paramount Theater, Denver, CO, USA</place>
-			<release>Changeless</release>
+			<release id="changeless">Changeless</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>

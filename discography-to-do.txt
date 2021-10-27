@@ -561,9 +561,6 @@ New World Records NW 366-2.
   Second Gamelan,
   Chorale.
 
-NEXT
-
-
 <sect1>Goldberg Variations, <it>(Johann Sebastian Bach)</it>
 
 <p>
@@ -583,33 +580,7 @@ Johann Sebastian Bach, Goldberg Variationen (BWV 998);
 
 (*) <footnote>Instrument made by Tatsuo Takahashi.</footnote>
 
-
-<sect1>Changeless, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1184246/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1989.</bf>
-Live; Denver, October 14, 1987 (1);
-Dallas, October 11, 1987 (2);
-Lexington, October 9, 1987 (3);
-Houston, October 12, 1987 (4);
-Tom McKenney (sound engineer).
-ECM 1392; LP 839 618-1/CD 839 618-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Dancing (1),
-  Endless (2),
-  Lifeline (3),
-  Ecstasy (4).
-
+NEXT
 
 <sect>The years ranging from 1990 to 2000+
 
