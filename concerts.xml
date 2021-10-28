@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 19, 2021">
+<concerts modified="October 28, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9166,6 +9166,13 @@
 			<date>November 24</date>
 			<place>Opernhaus, Zürich, Switzerland</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>December 17</date>
+			<place>Williams Center, Lafayette College, Easton, PA, USA</place>
+			<with solo="yes"/>
+			<release>The Rainbow Colored Lotus: A Big Hand For Hanshin</release>
+			<comments>"Paint My Heart Red" was released on the <i>Rainbow Colored Lotus</i> compilation, but was apparently initially recorded for a year-end special on NHK-TV (December 31, 1994). It's not clear if an audience was present or not, and if more pieces were recorded.</comments>
 		</concert>
 	</group>
 	<group year="1995">
