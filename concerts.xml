@@ -4,8 +4,8 @@
 
 <!-- TODO: add instruments + include KJ in the musicians
      TODO: Japanese concerts, include Japanese name of venues (?)
-     - Ron McClure vs Cecil McBee ("Cecil McBee was gone by the end of '66.  McClure begins in Jan, '67")
-     - Franco was in the band for most dates between '73/'74.  By '75, to the best of my knowledge, it was only the quartet.
+     - Ron McClure vs Cecil McBee ("Cecil McBee was gone by the end of '66. McClure begins in Jan, '67")
+     - Franco was in the band for most dates between '73/'74. By '75, to the best of my knowledge, it was only the quartet.
      Other contributions:
       - Jerry Margolin: Hult Center, Eugene solo concert, 199?, mentioned in the XSL introduction
       - Simon Savary: September 26-October 15, 1988, South America (trio) -> tournée annulée et remise l'année suivante (On y apprend que la tournée sud-américaine était initialement prévue pour 1988, mais a été reportée en mai 1989 pour des raisons politiques : référendum au Chili rendant sans intérêt un concert de jazz et remaniement de la constitution au Brésil qui a causé des grèves de transport en commun. - lettre Steve Cloud 7 octobre 1988)
@@ -3971,7 +3971,8 @@
 			<comments>Rolf R.: "Sunship Ensemble opened". <a href="http://www.blueminor-records.com/sunship.htm">"Sunship played concerts at the Western Front and at the opening of the Granville Mall in Vancouver, plus opening for pianist Keith Jarrett, at the Commodore Ballroom on June 11, 1974."</a></comments>
 			<privatecomments>Concert reported by Russ Browne (without the precise date, which was given by Rolf Rauschenbach).</privatecomments>
 		</concert>
-		<concert>  <!-- Jasiek Poznanski -->
+		<concert>
+			<!-- Jasiek Poznanski -->
 			<date>June 12</date>
 			<place>Convocation Hall, Edmonton, AB, Canada</place>
 			<with solo="yes"/>
@@ -10256,7 +10257,7 @@
 		<concert>
 			<date>July 1</date>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
-		    <event>Festival International de Jazz de Montréal</event>
+			<event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10611,7 +10612,7 @@
 		<concert>
 			<date>June 21</date>
 			<place>Carnegie Hall, New York City, NY, USA</place>
-		    <event>JVC Jazz Festival</event>
+			<event>JVC Jazz Festival</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10620,7 +10621,7 @@
 		<concert>
 			<date>June 29</date>
 			<place>Four Seasons Centre for the Performing Arts, Toronto, ON, Canada</place>
-		    <event>Toronto Jazz Festival</event>
+			<event>Toronto Jazz Festival</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10629,7 +10630,7 @@
 		<concert>
 			<date>July 1</date>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
-		    <event>Festival International de Jazz de Montréal</event>
+			<event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10646,7 +10647,7 @@
 		<concert>
 			<date>July 10</date>
 			<place>Arena Santa Guiliana, Perugia, Italy</place>
-		    <event>Umbria Jazz Festival</event>
+			<event>Umbria Jazz Festival</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10663,7 +10664,7 @@
 		<concert>
 			<date>July 16</date>
 			<place>Essen, Germany</place>
-		    <event>Klavier-Festival Ruhr</event>
+			<event>Klavier-Festival Ruhr</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10672,7 +10673,7 @@
 		<concert>
 			<date>July 19</date>
 			<place>Pinède Gould, Antibes Juan-les-Pins, France</place>
-		    <event>Jazz à Juan</event>
+			<event>Jazz à Juan</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10681,7 +10682,7 @@
 		<concert>
 			<date>July 22</date>
 			<place>Peralada, Spain</place>
-		    <event>Festival International de Musica Castell de Peralada</event>
+			<event>Festival International de Musica Castell de Peralada</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10703,8 +10704,8 @@
 			<with solo="yes"/>
 		</concert>
 	</group>
-    
-    <group year="2008">
+
+	<group year="2008">
 		<concert>
 			<date>February 2</date>
 			<place>New Jersey Performing Arts Center, Newark, NJ, USA</place>
@@ -10712,7 +10713,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-		    <!--
+			<!--
 Think the playlist was:
 
 1) The Masquerade is over
@@ -10732,7 +10733,7 @@ Break
 7) Tenessee Waltz (encore)
 
 not completely sure about the order of 3,4,5 and i think he played another song after 2.
-		    -->
+		-->
 		</concert>
 		<concert>
 			<date>March 5</date>
@@ -10745,7 +10746,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 		<concert>
 			<date>March 8 </date>
 			<place>Masonic Auditorium, San Francisco, CA, USA</place>
-		    <event>San Francisco Jazz Festival</event>
+			<event>San Francisco Jazz Festival</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10798,7 +10799,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 		<concert>
 			<date>July 15</date>
 			<place>Teatro d'Annunzio, Pescara, Italy</place>
-		    <event>Pescara Jazz</event>
+			<event>Pescara Jazz</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10807,7 +10808,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 		<concert>
 			<date>July 18</date>
 			<place>Pinède Gould, Antibes Juan-Les-Pins, France</place>
-		    <event>Jazz à Juan</event>
+			<event>Jazz à Juan</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10875,26 +10876,26 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<release>Paris/London: Testament</release>
 			<with solo="yes"/>
 		</concert>
-    </group>
-    
-    <group year="2009">
+	</group>
+
+	<group year="2009">
 		<concert>
 			<date>January 29</date>
 			<place>Carnegie Hall, New York City, NY, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-		    <date>March 11</date>
-		    <place>Royce Hall, UCLA, Los Angeles, USA</place>
-		    <with>
+			<date>March 11</date>
+			<place>Royce Hall, UCLA, Los Angeles, USA</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>March 14</date>
-		    <place>Zellerbach Hall, UC Berkeley, Berkeley, USA</place>
-		    <with>
+			<date>March 14</date>
+			<place>Zellerbach Hall, UC Berkeley, Berkeley, USA</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
@@ -10902,64 +10903,64 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 		<concert>
 			<date>May 18</date>
 			<place>Teatro San Carlo, Naples, Italy</place>
-		    <event>Angeli Musicanti Festival</event>
+			<event>Angeli Musicanti Festival</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-		    <date>July 8</date>
-		    <place>Salle Erasme, Palais de la Musique, Strasbourg, France</place>
-		    <with>
+			<date>July 8</date>
+			<place>Salle Erasme, Palais de la Musique, Strasbourg, France</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 11</date>
-		    <place>KKL, Lucerne, Switzerland</place>
-		    <with>
+			<date>July 11</date>
+			<place>KKL, Lucerne, Switzerland</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 			<release>Somewhere</release>
 		</concert>
 		<concert>
-		    <date>July 13</date>
-		    <place>Teatro Comunale, Florence, Italy</place>
-		    <event>Festival “Live On”</event>
-		    <with>
+			<date>July 13</date>
+			<place>Teatro Comunale, Florence, Italy</place>
+			<event>Festival “Live On”</event>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 16</date>
-		    <place>Palazzo Te, Mantua, Italy</place>
-		    <with>
+			<date>July 16</date>
+			<place>Palazzo Te, Mantua, Italy</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 18</date>
-		    <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
-		    <event>Jazz à Juan</event>
-		    <with>
+			<date>July 18</date>
+			<place>Pinède Gould, Antibes Juan-les-Pins, France</place>
+			<event>Jazz à Juan</event>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 21</date>
-		    <place>L'Auditori, Barcelona, Spain</place>
-		    <with>
+			<date>July 21</date>
+			<place>L'Auditori, Barcelona, Spain</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 25</date>
-		    <place>Royal Festival Hall, London, UK</place>
-		    <with>
+			<date>July 25</date>
+			<place>Royal Festival Hall, London, UK</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
@@ -10967,40 +10968,40 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 		<concert>
 			<date>October 9</date>
 			<place>Henry Le Boeuf Hall, Palais des Beaux-Arts, Brussels, Belgium</place>
-		    <event></event>
+			<event></event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
 			<date>October 12</date>
 			<place>Philharmonie, Berlin, Germany</place>
-		    <event></event>
+			<event></event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
 			<date>October 16</date>
 			<place>Tonhalle, Zürich, Switzerland</place>
-		    <event></event>
+			<event></event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
 			<!-- Franck Bichot -->
 			<date>November 16</date>
 			<place>Paris, France</place>
-		    <event></event>
+			<event></event>
 			<with solo="yes"/>
-		    <comments>Private concert. Venue unknown. It was probably a solo concert, not a trio concert, but this remains to be confirmed.</comments>
+			<comments>Private concert. Venue unknown. It was probably a solo concert, not a trio concert, but this remains to be confirmed.</comments>
 		</concert>
 		<concert>
-		    <date>November 20</date>
-		    <place>Prudential Hall, New Jersey Performing Arts Center, Newark, NJ, USA</place>
-		    <with>
+			<date>November 20</date>
+			<place>Prudential Hall, New Jersey Performing Arts Center, Newark, NJ, USA</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-    </group>
-    
-    <group year="2010">
+	</group>
+
+	<group year="2010">
 		<concert>
 			<date>February 12</date>
 			<place>Orchestra Hall, Chicago, IL, USA</place>
@@ -11017,151 +11018,151 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<with solo="yes"/>
 		</concert>
 		<concert>
-		    <date>June 17</date>
-		    <place>Carnegie Hall, New York, NY, USA</place>
-		    <with>
+			<date>June 17</date>
+			<place>Carnegie Hall, New York, NY, USA</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>June 30</date>
-		    <place>Four Seasons Centre for the Performing Arts, Toronto, ON, Canada</place>
-		    <event>TD Toronto Jazz Festival</event>
-		    <with>
+			<date>June 30</date>
+			<place>Four Seasons Centre for the Performing Arts, Toronto, ON, Canada</place>
+			<event>TD Toronto Jazz Festival</event>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 3</date>
-		    <place>Salle Wilfred-Pelletier, Place des Arts, Montréal, QC, Canada</place>
-		    <event>Festival International de Jazz de Montréal</event>
-		    <with>
+			<date>July 3</date>
+			<place>Salle Wilfred-Pelletier, Place des Arts, Montréal, QC, Canada</place>
+			<event>Festival International de Jazz de Montréal</event>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 9</date>
-		    <place>Festspielhaus, Baden-Baden, Germany</place>
-		    <with>
+			<date>July 9</date>
+			<place>Festspielhaus, Baden-Baden, Germany</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 11</date>
-		    <place>Auditorium Stravinski, Montreux, Switzerland</place>
-		    <event>Montreux Jazz Festival</event>
-		    <with>
+			<date>July 11</date>
+			<place>Auditorium Stravinski, Montreux, Switzerland</place>
+			<event>Montreux Jazz Festival</event>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 13</date>
-		    <place>Palazzo Mauro de André, Ravenna, Italy</place>
-		    <event>Ravenna Festival</event>
-		    <with>
+			<date>July 13</date>
+			<place>Palazzo Mauro de André, Ravenna, Italy</place>
+			<event>Ravenna Festival</event>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 16</date>
-		    <place>Lazzaretto, Bergamo, Italy</place>
-		    <with>
+			<date>July 16</date>
+			<place>Lazzaretto, Bergamo, Italy</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 18</date>
-		    <place>Auditorium Parco della Musica, Rome, Italy</place>
-		    <with>
+			<date>July 18</date>
+			<place>Auditorium Parco della Musica, Rome, Italy</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 21</date>
-		    <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
-		    <event>Jazz à Juan</event>
-		    <with>
+			<date>July 21</date>
+			<place>Pinède Gould, Antibes Juan-les-Pins, France</place>
+			<event>Jazz à Juan</event>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 23</date>
-		    <place>Grand Théâtre de Fourvière, Lyon, France</place>
-		    <event>Les Nuits de Fourvière</event>
-		    <with>
+			<date>July 23</date>
+			<place>Grand Théâtre de Fourvière, Lyon, France</place>
+			<event>Les Nuits de Fourvière</event>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>September 23</date>
-		    <place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
-		    <with>
+			<date>September 23</date>
+			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>September 26</date>
-		    <place>Kobe Kokusai Kaikan (Kobe International House), Kobe, Japan</place>
-		    <with>
+			<date>September 26</date>
+			<place>Kobe Kokusai Kaikan (Kobe International House), Kobe, Japan</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>September 29</date>
-		    <place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
-		    <with>
+			<date>September 29</date>
+			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>October 1</date>
-		    <place>Kanagawa Kenmin Hall, Yokohama, Japan</place>
-		    <with>
+			<date>October 1</date>
+			<place>Kanagawa Kenmin Hall, Yokohama, Japan</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>October 3</date>
-		    <place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
-		    <with>
+			<date>October 3</date>
+			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>October 6</date>
-		    <place>Main Auditorium, Sejong Center, Seoul, South Korea</place>
-		    <with>
+			<date>October 6</date>
+			<place>Main Auditorium, Sejong Center, Seoul, South Korea</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-    </group>
-    
-    <group year="2011">
-    	<concert>
+	</group>
+
+	<group year="2011">
+		<concert>
 			<date>January 16</date>
 			<place>Isaac Stern Auditorium, Carnegie Hall, New York, NY, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-		    <date>January 21</date>
-		    <place>Knight Concert Hall, Adrienne Arsht Center for the Performing Arts, Miami, FL, USA</place>
-		    <with>
+			<date>January 21</date>
+			<place>Knight Concert Hall, Adrienne Arsht Center for the Performing Arts, Miami, FL, USA</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
@@ -11182,7 +11183,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<place>Teatro Colon, Buenos Aires, Argentina</place>
 			<with solo="yes"/>
 		</concert>
-    	<concert>
+		<concert>
 			<date>May 28</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
@@ -11198,110 +11199,110 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<with solo="yes"/>
 		</concert>
 		<concert>
-		    <date>July 7</date>
-		    <place>Palais de la Musique, Strasbourg, France</place>
+			<date>July 7</date>
+			<place>Palais de la Musique, Strasbourg, France</place>
 			<event>Strasbourg Jazz Festival</event>
-		    <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 9</date>
-		    <place>Opera House, Copenhagen, Denmark</place>
-		    <event>Copenhagen Jazz Festival</event>
-		    <with>
+			<date>July 9</date>
+			<place>Opera House, Copenhagen, Denmark</place>
+			<event>Copenhagen Jazz Festival</event>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 12</date>
-		    <place>Salle Pleyel, Paris, France</place>
-		    <with>
+			<date>July 12</date>
+			<place>Salle Pleyel, Paris, France</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 16</date>
-		    <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
+			<date>July 16</date>
+			<place>Pinède Gould, Antibes Juan-les-Pins, France</place>
 			<event>Jazz à Juan</event>
-		    <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 18</date>
-		    <place>Teatro di San Carlo, Naples, Italy</place>
-		    <with>
+			<date>July 18</date>
+			<place>Teatro di San Carlo, Naples, Italy</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 21</date>
-		    <place>Teatro degli Arcimboldi, Milan, Italy</place>
-		    <with>
+			<date>July 21</date>
+			<place>Teatro degli Arcimboldi, Milan, Italy</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 23</date>
-		    <place>Teatre Grec, Barcelona, Spain</place>
+			<date>July 23</date>
+			<place>Teatre Grec, Barcelona, Spain</place>
 			<event>Festival Grec de Barcelona</event>
-		    <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 27</date>
-		    <place>Royal Festival Hall, London, UK</place>
-		    <with>
+			<date>July 27</date>
+			<place>Royal Festival Hall, London, UK</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>October 21</date>
-		    <place>Symphony Hall, Chicago, IL, USA</place>
-		    <with>
+			<date>October 21</date>
+			<place>Symphony Hall, Chicago, IL, USA</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>October 26</date>
-		    <place>UCLA Royce Hall, Los Angeles, CA, USA</place>
-		    <with>
+			<date>October 26</date>
+			<place>UCLA Royce Hall, Los Angeles, CA, USA</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>October 29</date>
-		    <place>Zellerbach Hall, Berkeley, CA, USA</place>
-		    <with>
+			<date>October 29</date>
+			<place>Zellerbach Hall, Berkeley, CA, USA</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>November 1</date>
-		    <place>S. Mark Taper Foundation Auditorium, Benaroya Hall, Seattle, WA, USA</place>
+			<date>November 1</date>
+			<place>S. Mark Taper Foundation Auditorium, Benaroya Hall, Seattle, WA, USA</place>
 			<event>Earshot Jazz Festival</event>
-		    <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-    </group>
-    
-    <group year="2012">
-    	<concert>
+	</group>
+
+	<group year="2012">
+		<concert>
 			<date>January 25</date>
 			<place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
 			<with solo="yes"/>
@@ -11332,76 +11333,76 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<with solo="yes"/>
 		</concert>
 		<concert>
-		    <date>July 8</date>
-		    <place>Konzerthaus, Vienna, Austria</place>
-		    <with>
+			<date>July 8</date>
+			<place>Konzerthaus, Vienna, Austria</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 10</date>
-		    <place>Festspielhaus, Baden-Baden, Germany</place>
-		    <with>
+			<date>July 10</date>
+			<place>Festspielhaus, Baden-Baden, Germany</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 13</date>
-		    <place>Kongresshaus, Zurich, Switzerland</place>
-		    <with>
+			<date>July 13</date>
+			<place>Kongresshaus, Zurich, Switzerland</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 18</date>
-		    <place>Haliç Congress Center, Istanbul, Turkey</place>
+			<date>July 18</date>
+			<place>Haliç Congress Center, Istanbul, Turkey</place>
 			<event>Istanbul International Jazz Festival</event>
-		    <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 20</date>
-		    <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
+			<date>July 20</date>
+			<place>Pinède Gould, Antibes Juan-les-Pins, France</place>
 			<event>Jazz à Juan</event>
-		    <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 23</date>
-		    <place>Teatro Carlo Felice, Genoa, Italy</place>
-		    <with>
+			<date>July 23</date>
+			<place>Teatro Carlo Felice, Genoa, Italy</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 25</date>
-		    <place>Auditorium Giovanni Agnelli, Centro Congressi Lingotto, Turin, Italy</place>
-		    <with>
+			<date>July 25</date>
+			<place>Auditorium Giovanni Agnelli, Centro Congressi Lingotto, Turin, Italy</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 27</date>
-		    <place>Teatro Petruzzelli, Bari, Italy</place>
+			<date>July 27</date>
+			<place>Teatro Petruzzelli, Bari, Italy</place>
 			<event>Bari in Jazz</event>
-		    <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 29</date>
-		    <place>Auditorium Parco della Musica, Rome, Italy</place>
-		    <with>
+			<date>July 29</date>
+			<place>Auditorium Parco della Musica, Rome, Italy</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
@@ -11417,16 +11418,16 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<with solo="yes"/>
 		</concert>
 		<concert>
-		    <date>December 1</date>
-		    <place>Prudential Hall, New Jersey Performing Arts Center, Newark, NJ, USA</place>
-		    <with>
+			<date>December 1</date>
+			<place>Prudential Hall, New Jersey Performing Arts Center, Newark, NJ, USA</place>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-    </group>
-    <group year="2013">
-    	<concert>
+	</group>
+	<group year="2013">
+		<concert>
 			<date>February 21</date>
 			<place>National Concert Hall, Dublin, Ireland</place>
 			<time>8 PM</time>
@@ -11439,174 +11440,174 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<with solo="yes"/>
 		</concert>
 		<concert>
-		    <date>May 6</date>
-		    <place>Bunkamura, Tokyo, Japan</place>
-		    <time>7 PM</time>
-		    <with>
+			<date>May 6</date>
+			<place>Bunkamura, Tokyo, Japan</place>
+			<time>7 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>May 9</date>
-		    <place>Bunkamura, Tokyo, Japan</place>
-		    <time>7 PM</time>
-		    <with>
+			<date>May 9</date>
+			<place>Bunkamura, Tokyo, Japan</place>
+			<time>7 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>May 12</date>
-		    <place>Festival Hall, Osaka, Japan</place>
-		    <time>7 PM</time>
-		    <with>
+			<date>May 12</date>
+			<place>Festival Hall, Osaka, Japan</place>
+			<time>7 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>May 15</date>
-		    <place>Bunkamura, Tokyo, Japan</place>
-		    <time>7 PM</time>
-		    <with>
+			<date>May 15</date>
+			<place>Bunkamura, Tokyo, Japan</place>
+			<time>7 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>May 19</date>
-		    <place>Sejong Center, Seoul, South Korea</place>
-		    <time>7 PM</time>
-		    <with>
+			<date>May 19</date>
+			<place>Sejong Center, Seoul, South Korea</place>
+			<time>7 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 1</date>
-		    <place>Salle Pleyel, Paris, France</place>
-		    <time>8 PM</time>
-		    <with>
+			<date>July 1</date>
+			<place>Salle Pleyel, Paris, France</place>
+			<time>8 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 4</date>
-		    <place>De Doelen, Rotterdam, Netherlands</place>
-		    <event>North Sea Jazz</event>
-		    <time>8 PM</time>
-		    <with>
+			<date>July 4</date>
+			<place>De Doelen, Rotterdam, Netherlands</place>
+			<event>North Sea Jazz</event>
+			<time>8 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 7</date>
-		    <place>Arena Santa Giuliana, Perugia, Italy</place>
-		    <event>Umbria Jazz</event>
-		    <time>9 PM</time>
-		    <with>
+			<date>July 7</date>
+			<place>Arena Santa Giuliana, Perugia, Italy</place>
+			<event>Umbria Jazz</event>
+			<time>9 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 9</date>
-		    <place>Philharmonie, Gasteig, Munich, Germany</place>
-		    <time>8 PM</time>
-		    <with>
+			<date>July 9</date>
+			<place>Philharmonie, Gasteig, Munich, Germany</place>
+			<time>8 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July</date>
-		    <place></place>
-		    <time> PM</time>
-		    <with>
+			<date>July</date>
+			<place></place>
+			<time> PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 12</date>
-		    <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
-		    <event>Jazz à Juan</event>
-		    <with>
+			<date>July 12</date>
+			<place>Pinède Gould, Antibes Juan-les-Pins, France</place>
+			<event>Jazz à Juan</event>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 16</date>
-		    <place>Gran Teatro La Fenice, Venice, Italy</place>
-		    <event>Venezia Jazz Festival</event>
-		    <time>9 PM</time>
-		    <with>
+			<date>July 16</date>
+			<place>Gran Teatro La Fenice, Venice, Italy</place>
+			<event>Venezia Jazz Festival</event>
+			<time>9 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 19</date>
-		    <place>Grand Théâtre de Fourvière, Lyon, France</place>
-		    <event>Les Nuits de Fourvière</event>
-		    <time>9 PM</time>
-		    <with>
+			<date>July 19</date>
+			<place>Grand Théâtre de Fourvière, Lyon, France</place>
+			<event>Les Nuits de Fourvière</event>
+			<time>9 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>July 21</date>
-		    <place>Vittoriale degli Italiani, Gardone Riviera, Italy</place>
-		    <time>9 PM</time>
-		    <with>
+			<date>July 21</date>
+			<place>Vittoriale degli Italiani, Gardone Riviera, Italy</place>
+			<time>9 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>September 28</date>
-		    <place>UCLA Royce Hall, Los Angeles, CA, USA</place>
-		    <time>8 PM</time>
-		    <with>
+			<date>September 28</date>
+			<place>UCLA Royce Hall, Los Angeles, CA, USA</place>
+			<time>8 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>October 1</date>
-		    <place>S. Mark Taper Foundation Auditorium, Benaroya Hall, Seattle, WA, USA</place>
-		    <time>8 PM</time>
-		    <with>
+			<date>October 1</date>
+			<place>S. Mark Taper Foundation Auditorium, Benaroya Hall, Seattle, WA, USA</place>
+			<time>8 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>October 4</date>
-		    <place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
-		    <time>8 PM</time>
-		    <with>
+			<date>October 4</date>
+			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
+			<time>8 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>December 11</date>
-		    <place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
-		    <time>8 PM</time>
-		    <with>
+			<date>December 11</date>
+			<place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
+			<time>8 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 	</group>
 	<group year="2014">
-    	<concert>
+		<concert>
 			<date>February 5</date>
 			<place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
 			<time>8 PM</time>
@@ -11676,19 +11677,19 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<comments>Three excerpts from this concert are included on the <i>Creation</i> album.</comments>
 		</concert>
 		<concert>
-		    <date>October 19</date>
-		    <place>Symphony Center, Chicago, IL, USA</place>
-		    <time>8 PM</time>
-		    <with>
+			<date>October 19</date>
+			<place>Symphony Center, Chicago, IL, USA</place>
+			<time>8 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
 		<concert>
-		    <date>November 30</date>
-		    <place>New Jersey Performing Arts Center, Newark, NJ, USA</place>
-		    <time>8 PM</time>
-		    <with>
+			<date>November 30</date>
+			<place>New Jersey Performing Arts Center, Newark, NJ, USA</place>
+			<time>8 PM</time>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
@@ -11696,7 +11697,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 	</group>
 
 	<group year="2015">
-    	<concert>
+		<concert>
 			<date>March 3</date>
 			<place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
 			<time>8 PM</time>
@@ -11740,7 +11741,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 	</group>
 
 	<group year="2016">
-    	<concert>
+		<concert>
 			<date>February 9</date>
 			<place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
 			<time>8 PM</time>
@@ -11792,7 +11793,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 	</group>
 
 	<group year="2017">
-    	<concert>
+		<concert>
 			<date>February 15</date>
 			<place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
 			<time>8 PM</time>
