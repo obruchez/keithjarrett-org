@@ -582,7 +582,7 @@
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
-            <comments>The other group appearing was the Grateful Dead. The year might be 1966 or 1967.</comments>
+			<comments>The other group appearing was the Grateful Dead. The year might be 1966 or 1967.</comments>
 		</concert>
 		<concert>
 			<date>June 11</date>
@@ -1488,7 +1488,7 @@
 				<name instr="bass">August "Gus" Nemeth</name>
 				<name instr="drums">Aldo Romano</name>
 			</with>
-            <comments>Recorded for the "Tous en scène" TV show in Paris and broadcast on November 23, 1969 by La Deuxième Chaîne de l’ORTF. At least one tune was played ("Expectations"). An official video is available from ina.fr.</comments>
+			<comments>Recorded for the "Tous en scène" TV show in Paris and broadcast on November 23, 1969 by La Deuxième Chaîne de l’ORTF. At least one tune was played ("Expectations"). An official video is available from ina.fr.</comments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
@@ -2892,11 +2892,11 @@
 			<comments>The advertisement is shown in the <i>I Called Him Morgan</i> documentary (at 1:03:48). Leonhard S.: "Three days before the Jarrett trio gig Lee Morgan was shot at Slug's, so you can imagine that this event overshadowed the gig."</comments>
 			<privatecomments>Originally mentioned by Guy Berger. Date confirmed by. Leonhard Schilde.</privatecomments>
 		</concert>
-        <concert>
-        	<!-- Radio recording circulating -->
+		<concert>
+			<!-- Radio recording circulating -->
 			<date>June 3</date>
 			<place>Székesfehérvár, Hungary</place>
-            <event>Alba Regia Jazz Festival</event>
+			<event>Alba Regia Jazz Festival</event>
 			<with>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
@@ -3197,8 +3197,8 @@
 			<place>Munich, Germany</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
-        	<!-- Matthias Bohlen -->
+		<concert>
+			<!-- Matthias Bohlen -->
 			<date>March 30</date>
 			<place>Hotel Mohren, Willisau, Switzerland</place>
 			<with solo="yes"/>
@@ -3984,10 +3984,10 @@
 			<comment>Article: <a href="https://ubir.buffalo.edu/xmlui/bitstream/handle/10477/3336/LIB-MUS022_05-1974-07.pdf?sequence=1">Buffalo Jazz Report</a>.</comment>
 			<privatecomments>Concert reported by bolton@purdue.edu (without the precise date, which was given by Rolf Rauschenbach).</privatecomments>
 		</concert>
-        <concert>
+		<concert>
 			<date>June 30</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
-            <event>Newport Jazz Festival</event>
+			<event>Newport Jazz Festival</event>
 			<with solo="yes"/>
 			<comments>11:30 PM. Keith Jarrett, Herbie Hancock, and McCoy Tyner all played solo sets.</comments>
 			<privatecomments>Steve Lake. Wolfgang's Vault.</privatecomments>
@@ -4191,19 +4191,19 @@
 			</with>
 			<comments>James E.: "I think that just Keith Jarrett and Charlie Haden were on stage for that concert. I recall Keith Jarrett repeatedly "wowing down" the crowd with his arms so that their applause didn't drown out Charlie Haden's upright bass solos. Eventually, the crowd of mostly students got the message and held their applause till the end of later pieces."</comments>
 		</concert>
-        <concert>
-        	<!-- stupidrule2001@yahoo.com -->
+		<concert>
+			<!-- stupidrule2001@yahoo.com -->
 			<date>October 16</date>
 			<place>Lisner Auditorium, George Washington University, Washington, DC, USA</place>
 			<with solo="yes"/>
-            <comments>"He played solo and opened for the Gary Burton Quintet. At the end, he complained about the piano."</comments>
+			<comments>"He played solo and opened for the Gary Burton Quintet. At the end, he complained about the piano."</comments>
 		</concert>
 		<concert>
 			<!-- Peter Elsdon -->
 			<date>October 19</date>
 			<place>Bucks County Play House, New Hope, PA, USA</place>
 			<with solo="yes"/>
-            <comments/>
+			<comments/>
 		</concert>
 		<concert>
 			<date>October 22</date>
@@ -4265,8 +4265,8 @@
 			</with>
 			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
-        <concert>
-        	<!-- Simon Savary: je l'avais reçu comme Boston 31.10.74 originalement, mais avec 2 parties. La deuxième partie provenait finalement d'une autre source (May 3, 1979) -->
+		<concert>
+			<!-- Simon Savary: je l'avais reçu comme Boston 31.10.74 originalement, mais avec 2 parties. La deuxième partie provenait finalement d'une autre source (May 3, 1979) -->
 			<date>October 31</date>
 			<place>Sanders Theater, Harvard University, Cambridge, MA, USA</place>
 			<event></event>
@@ -4360,7 +4360,7 @@
 			<date>December 14</date>
 			<place>Koussevitsky Arts Centre, Berkshire Community College, Pittsfield, MA, USA</place>
 			<with solo="yes"/>
-            <comments/>
+			<comments/>
 		</concert>
 		<concert>
 			<date>December 20</date>
@@ -4368,8 +4368,8 @@
 			<with>
 				<name>St. Paul Chamber Orchestra</name>
 			</with>
-            <comments>Kenneth K.: "'An Open Confrontation with Keith Jarrett' - part of the St. Paul Chamber Orchestra 'Perspectives Series'."</comments>
-            <privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
+			<comments>Kenneth K.: "'An Open Confrontation with Keith Jarrett' - part of the St. Paul Chamber Orchestra 'Perspectives Series'."</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<date>December 21</date>
@@ -4377,9 +4377,9 @@
 			<with>
 				<name instr="conductor">Dennis Russel Davies</name>
 			</with>
-            <comments>Kenneth K.: "'In the Cave, In the Light'. '3/4, for Piano and Orchestra'.</comments>
-            <privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
-        </concert>
+			<comments>Kenneth K.: "'In the Cave, In the Light'. '3/4, for Piano and Orchestra'.</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
+		</concert>
 		<concert>
 			<!-- Richard Paske -->
 			<date>December 22</date>
@@ -4414,7 +4414,7 @@
 			<date>January 20</date>
 			<place>Theater am Ring, Villingen, Germany</place>
 			<with solo="yes"/>
-            <comments>Concert mentioned in <a href="http://www.suedkurier.de/nachrichten/kultur/themensk/8222-VS-swingt-8220-Organisator-Fritz-Ewald-blickt-zurueck;art410935,6292677">"VS swingt-Organisator Fritz Ewald blickt zurück"</a></comments>
+			<comments>Concert mentioned in <a href="http://www.suedkurier.de/nachrichten/kultur/themensk/8222-VS-swingt-8220-Organisator-Fritz-Ewald-blickt-zurueck;art410935,6292677">"VS swingt-Organisator Fritz Ewald blickt zurück"</a></comments>
 		</concert>
 		<concert>
 			<date>January 21</date>
@@ -4457,7 +4457,7 @@
 			<date>January 31</date>
 			<place>Congress Center Hamburg (CCH), Hamburg, Germany</place>
 			<with solo="yes"/>
-            <comments/>
+			<comments/>
 		</concert>
 		<concert>
 			<date>February 2</date>
@@ -4468,8 +4468,8 @@
 			<date>February 3</date>
 			<place>Großer Saal, Amerikahaus, Munich, Germany</place>
 			<with solo="yes"/>
-            <comments/>
-            <privatecomments>First added thanks to Peter Elsdon. Venue confirmed by Gerd Rudel.</privatecomments>
+			<comments/>
+			<privatecomments>First added thanks to Peter Elsdon. Venue confirmed by Gerd Rudel.</privatecomments>
 		</concert>
 		<concert>
 			<date>February 5</date>
@@ -4482,7 +4482,7 @@
 			<place>Skinner Hall of Music, Vassar College, Poughkeepsie, NY, USA</place>
 			<release>Solo Performance New York '75</release>
 			<with solo="yes"/>
-            <comments>The correct date is February 13, not February 14, according to <a href="http://historian.vassar.edu/chronology/1975.html">vassar.edu</a>. <i>Solo Performance New York '75</i> is a bootleg.</comments>
+			<comments>The correct date is February 13, not February 14, according to <a href="http://historian.vassar.edu/chronology/1975.html">vassar.edu</a>. <i>Solo Performance New York '75</i> is a bootleg.</comments>
 		</concert>
 		<concert>
 			<date>February 20</date>
@@ -4572,15 +4572,15 @@
 			<time>8:30 PM</time>
 			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
-            <comments>Marc M.: Gato Barbieri was ill, so Keith Jarrett was headlining.</comments>
-            <privatecomments>Information from Peter Elsdon. Time and Gato Barbieri concert from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
+			<comments>Marc M.: Gato Barbieri was ill, so Keith Jarrett was headlining.</comments>
+			<privatecomments>Information from Peter Elsdon. Time and Gato Barbieri concert from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>March 16</date>
 			<place>Queen Elizabeth Playhouse, Vancouver, BC, Canada</place>
 			<with solo="yes"/>
-            <comments>Paul P.: "I recall one "funny" incident that happened after he was introduced. He requested that everyone in the audience get their coughing out of the way before he began. All in attendance politely produced a small cough. He began that landmark work and about 15 minutes in a baby started crying. He didn't falter. Just carried on to produce some of the most fantastic piano stylings I had ever heard. Accompanied by his trademark standing, humming and kicking the piano just above the pedals."</comments>
-            <privatecomments>Mentioned by Kenneth Kubernik. Date confirmed by Paul Pitre.</privatecomments>
+			<comments>Paul P.: "I recall one "funny" incident that happened after he was introduced. He requested that everyone in the audience get their coughing out of the way before he began. All in attendance politely produced a small cough. He began that landmark work and about 15 minutes in a baby started crying. He didn't falter. Just carried on to produce some of the most fantastic piano stylings I had ever heard. Accompanied by his trademark standing, humming and kicking the piano just above the pedals."</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik. Date confirmed by Paul Pitre.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 21</date>
@@ -4659,14 +4659,14 @@
 			<date>April 4</date>
 			<place>Flanagan Chapel, Lewis and Clark College, Portland, OR, USA</place>
 			<with solo="yes"/>
-            <comments/>
+			<comments/>
 		</concert>
 		<concert>
 			<!-- Peter Elsdon -->
 			<date>April 20</date>
 			<place>Given Auditorium, Bixler Art and Music Center, Colby College, Waterville, ME, USA</place>
 			<with solo="yes"/>
-            <comments/>
+			<comments/>
 		</concert>
 		<concert>
 			<!-- Ed Deal -->
@@ -5088,22 +5088,22 @@
 			<date>December 3</date>
 			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with solo="yes"/>
-            <comments>Bruce D. (about one the three nights at Amazingrace Coffeehouse in December 1975): "Keith left the stage at one point because the heating system kept turning on and off, it was cold in Chicago. The unit seemed to be right above his head and he wasn't happy with the noise."</comments>
-            <privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
+			<comments>Bruce D. (about one the three nights at Amazingrace Coffeehouse in December 1975): "Keith left the stage at one point because the heating system kept turning on and off, it was cold in Chicago. The unit seemed to be right above his head and he wasn't happy with the noise."</comments>
+			<privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
 		</concert>
 		<concert>
 			<date>December 4</date>
 			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with solo="yes"/>
-            <comments>See December 3, 1975 comments.</comments>
-            <privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
+			<comments>See December 3, 1975 comments.</comments>
+			<privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
 		</concert>
 		<concert>
 			<date>December 5</date>
 			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with solo="yes"/>
-            <comments>See December 3, 1975 comments.</comments>
-            <privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
+			<comments>See December 3, 1975 comments.</comments>
+			<privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
 		</concert>
 		<concert>
 			<!-- stupidrule2001@yahoo.com -->
@@ -5114,14 +5114,14 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-            <comments>"At the end, he complained about the management's time limit on his performance."</comments>
+			<comments>"At the end, he complained about the management's time limit on his performance."</comments>
 		</concert>
-        <concert>
-        	<!-- stupidrule2001@yahoo.com -->
+		<concert>
+			<!-- stupidrule2001@yahoo.com -->
 			<date>December 16 (?)</date>
 			<place>Kennedy Center, Washington, DC, USA</place>
 			<with solo="yes"/>
-            <comments>"The Andrew White Quartet opened."</comments>
+			<comments>"The Andrew White Quartet opened."</comments>
 		</concert>
 	</group>
 	<group year="1976">
@@ -5187,7 +5187,7 @@
 				<name>Paul Motian</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<!-- Eric G. Postel (concert booked by him) -->
 			<date>February 28</date>
 			<place>McConaughy Hall, Wesleyan University, Middletown, CT, USA</place>
@@ -5373,7 +5373,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<!-- Comments by Peter Vaniterson -->
-            <comments>Peter V.: "They played 'The Survivors' Suite' and short parts from 'Eyes of the Heart'. It was recorded by Dutch radio and broadcast later on by Michiel de Ruyter." A scan of the concert poster is available <a href="https://www.flickr.com/photos/keithjarrettorg/21749918408">here</a>. Concert started with a solo set?</comments>
+			<comments>Peter V.: "They played 'The Survivors' Suite' and short parts from 'Eyes of the Heart'. It was recorded by Dutch radio and broadcast later on by Michiel de Ruyter." A scan of the concert poster is available <a href="https://www.flickr.com/photos/keithjarrettorg/21749918408">here</a>. Concert started with a solo set?</comments>
 		</concert>
 		<concert>
 			<!-- Sep Troelstra -->
@@ -5547,7 +5547,7 @@
 			</with>
 			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
 		</concert>
-        <concert>
+		<concert>
 			<date>June 28</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
 			<with>
@@ -5555,15 +5555,15 @@
 				<name instr="bass">Charlie Haden</name>
 				<name instr="conductor">Dennis Russell Davies</name>
 			</with>
-            <comments>Performance of the music from "Arbour Zena" with string orchestra conducted by Dennis Russell Davies. With Keith, Jan Garbarek and Charlie Haden as soloists. <a href="https://www.nytimes.com/1976/06/28/archives/jazz-today.html">Jazz Today</a>.</comments>
-            <privatecomments>Steve Lake. Marc Morvan (exact date).</privatecomments>
+			<comments>Performance of the music from "Arbour Zena" with string orchestra conducted by Dennis Russell Davies. With Keith, Jan Garbarek and Charlie Haden as soloists. <a href="https://www.nytimes.com/1976/06/28/archives/jazz-today.html">Jazz Today</a>.</comments>
+			<privatecomments>Steve Lake. Marc Morvan (exact date).</privatecomments>
 		</concert>
 		<concert>
-        	<!-- Mark Crutchfield-->
+			<!-- Mark Crutchfield-->
 			<date incomplete="yes">June</date>
 			<place>Lisner Auditorium, George Washington University (?), Washington, DC, USA</place>
 			<with solo="yes"/>
-            <comments>Mentioned by Elton John in several interviews.</comments>
+			<comments>Mentioned by Elton John in several interviews.</comments>
 		</concert>
 		<concert>
 			<!-- Sep Troelstra -->
@@ -5695,7 +5695,7 @@
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
-			<!-- Bart Bartók  -->
+			<!-- Bart Bartók -->
 			<date>July 12</date>
 			<place>Paramount Northwest, Seattle, WA, USA</place>
 			<with solo="yes"/>
@@ -5727,7 +5727,7 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Stefan Hochuli  -->
+			<!-- Stefan Hochuli -->
 			<date>October 12</date>
 			<place>Kongresshaus, Zürich, Switzerland</place>
 			<with>
@@ -5926,59 +5926,59 @@
 			<with solo="yes"/>
 			<privatecomments>Kenneth Kubernik. Rolf Rauschenbach (exact city).</privatecomments>
 		</concert>
-        <concert>
-        	<!-- Unknown source + Preston Keido Houser -->
+		<concert>
+			<!-- Unknown source + Preston Keido Houser -->
 			<date incomplete="yes">Summer</date>
 			<place>Berkeley, CA, USA</place>
 			<event></event>
 			<with solo="yes"/>
-            <comments>The city (Berkeley) is not completely certain, but the concert did take place in the San Francisco Bay Area. Preston H.: "I attended a solo concert in the summer of 1978 in Berkeley, CA. or it could have been May, 1980, at Zellerbach Hall. I'm not sure. It was a long time ago and I don't have any program information but I seem to recall that Jarrett was added on Sunday night immediately after the Berkeley Jazz Festival (although not officially part of the festival itself; 5/22/80 was a Thursday). I remember the crowd was pretty rowdy but it was the best Jarrett solo concert I ever heard, something like a mystical experience in unholy circumstances."</comments> 
+			<comments>The city (Berkeley) is not completely certain, but the concert did take place in the San Francisco Bay Area. Preston H.: "I attended a solo concert in the summer of 1978 in Berkeley, CA. or it could have been May, 1980, at Zellerbach Hall. I'm not sure. It was a long time ago and I don't have any program information but I seem to recall that Jarrett was added on Sunday night immediately after the Berkeley Jazz Festival (although not officially part of the festival itself; 5/22/80 was a Thursday). I remember the crowd was pretty rowdy but it was the best Jarrett solo concert I ever heard, something like a mystical experience in unholy circumstances."</comments> 
 		</concert>
-        <concert>
-          	<!-- Kenneth Kubernik -->
+		<concert>
+			<!-- Kenneth Kubernik -->
 			<date>October 15</date>
 			<place>Metropolitan Opera House, New York, NY, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-          	<!-- Kenneth Kubernik -->
+			<!-- Kenneth Kubernik -->
 			<date>October 17</date>
 			<place>Auditorium Theater, Chicago, IL, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-          	<!-- Kenneth Kubernik -->
+			<!-- Kenneth Kubernik -->
 			<date>October 19</date>
 			<place>Jones Hall, Houston, TX, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-          	<!-- Kenneth Kubernik -->
+			<!-- Kenneth Kubernik -->
 			<date>October 22</date>
 			<place>Ford Auditorium, Detroit, MI, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-          	<!-- Kenneth Kubernik -->
+			<!-- Kenneth Kubernik -->
 			<date>October 24</date>
 			<place>Fox Theater, Atlanta, GA, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-          	<!-- Kenneth Kubernik -->
+			<!-- Kenneth Kubernik -->
 			<date>October 26</date>
 			<place>Academy of Music, Philadelphia, PA, USA</place>
 			<with solo="yes"/>
 			<comments/>
 		</concert>
 		<concert>
-          	<!-- Kenneth Kubernik -->
+			<!-- Kenneth Kubernik -->
 			<date>October 29</date>
 			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-          	<!-- Kenneth Kubernik -->
+			<!-- Kenneth Kubernik -->
 			<date>October 30</date>
 			<place>Pasadena Civic Auditorium, Pasadena, CA, USA</place>
 			<with solo="yes"/>
@@ -6387,7 +6387,7 @@
 			<with solo="yes"/>
 			<privatecomments>Mentioned by Bruce Dinsmor. Ticket scan sent in May 2, 2019 email.</privatecomments>
 		</concert>
-        <concert>
+		<concert>
 			<!-- Volker R. Jacobs -->
 			<date incomplete="yes"/>
 			<place>Providence Performing Arts Center, Providence, RI, USA</place>
@@ -6445,7 +6445,7 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Simon Savary  -->	
+			<!-- Simon Savary -->	
 			<date>September 7</date>
 			<place>Salle Louis-Fréchette, Grand Théâtre, Québec, QC, Canada</place>
 			<with solo="yes"/>
@@ -6479,14 +6479,14 @@
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
-        	<!-- Simon Savary -->
+		<concert>
+			<!-- Simon Savary -->
 			<date incomplete="yes"/>
 			<place>Koncertsalen i Tivoli, Copenhagen, Denmark</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
-        	<!-- Simon Savary -->
+		<concert>
+			<!-- Simon Savary -->
 			<date incomplete="yes"/>
 			<place>Falkoner Teatret, Frederiksberg, Denmark</place>
 			<with solo="yes"/>
@@ -6624,7 +6624,7 @@
 			<with solo="yes"/>
 			<comments>Kenneth K.: "The night before he played (solo) at the Pasadena Civic Auditorium (...) late in the month"</comments>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 23</date>
 			<place>Pick-Staiger Concert Hall, Northwestern University, Evanston, IL, USA</place>
 			<with solo="yes"/>
@@ -6635,7 +6635,7 @@
 			<date>November 25</date>
 			<place>Royal Oak Music Theatre, Royal Oak, MI, USA</place>
 			<with solo="yes"/>
-			<privatecomments>According to email sent by Susan Sauber on April 2, 2008: "I paid $11 plus the 85 cent ticketing  surchage.  I remember a beautiful set, although at one point he was annoyed by the coughing in the audience, he stopped playing, "conducted" the audience in coughing, then asked rather sarcastically if he could resume his playing in silence."</privatecomments>
+			<privatecomments>According to email sent by Susan Sauber on April 2, 2008: "I paid $11 plus the 85 cent ticketing surchage. I remember a beautiful set, although at one point he was annoyed by the coughing in the audience, he stopped playing, "conducted" the audience in coughing, then asked rather sarcastically if he could resume his playing in silence."</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes">November</date>
@@ -6672,13 +6672,13 @@
 	</group>
 	<group year="1982">
 		<concert>
-			<!-- Simon Savary  -->
+			<!-- Simon Savary -->
 			<date>January 11</date>
 			<place>Salle Wilfrid-Pelletier, Montréal, QC, Canada</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Simon Savary  -->
+			<!-- Simon Savary -->
 			<date>January 14</date>
 			<place>Salle Louis-Fréchette, Grand Théâtre de Québec, QC, Canada</place>
 			<with solo="yes"/>
@@ -6825,43 +6825,43 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Brock Griffin  -->
+			<!-- Brock Griffin -->
 			<!-- Concert poster in email + on Flickr -->
 			<date>December 8</date>
 			<place>Macky Auditorium, Boulder, CO, USA</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
-        	<!-- Simon Savary -->
+		<concert>
+			<!-- Simon Savary -->
 			<date>December 11</date>
 			<place>Dorothy Chandler Pavillion, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
 		</concert>
 	</group>
 	<group year="1983">
-       <concert>
-            <!-- Mike Lewis -->
+		<concert>
+			<!-- Mike Lewis -->
 			<date>April 11</date>
 			<place>Roy Thomson Hall, Toronto, ON, Canada</place>
 			<with solo="yes"/>
-            <comments>Two sets with one encore ("Over The Rainbow"). Mike L.: "I remember it as a tense show with a number of walk-outs after the first half."</comments>
+			<comments>Two sets with one encore ("Over The Rainbow"). Mike L.: "I remember it as a tense show with a number of walk-outs after the first half."</comments>
 		</concert>
-        <concert>
-            <!-- mfallon@windstream.net -->
-            <!-- source: poster sold on eBay, year unknown, but confirmed by Mike -->
+		<concert>
+			<!-- mfallon@windstream.net -->
+			<!-- source: poster sold on eBay, year unknown, but confirmed by Mike -->
 			<date>April 12</date>
 			<place>Heinz Hall, Pittsburg, PA, USA</place>
 			<with solo="yes"/>
-            <comments>From Mike: "He played 'Somewhere Over The Rainbow' (maybe as a second encore). I remember during what was probably the first encore, where he did a bluesy vamp, the audience started clapping along and, after a while, he stopped playing, clapped along a bit and then said that 'What you are hearing out there is not the same thing as what I am hearing up here.' That got them quiet..."</comments>
+			<comments>From Mike: "He played 'Somewhere Over The Rainbow' (maybe as a second encore). I remember during what was probably the first encore, where he did a bluesy vamp, the audience started clapping along and, after a while, he stopped playing, clapped along a bit and then said that 'What you are hearing out there is not the same thing as what I am hearing up here.' That got them quiet..."</comments>
 		</concert>
 		<concert>
-            <!-- Simon Savary -->
+			<!-- Simon Savary -->
 			<date>April 14</date>
 			<place>Boston Symphony Hall, Boston, MA, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-            <!-- Simon Savary -->
+			<!-- Simon Savary -->
 			<date>April 19</date>
 			<place>Théâtre St. Denis, Montréal, QC, Canada</place>
 			<with solo="yes"/>
@@ -6878,26 +6878,26 @@
 			<date>May 13</date>
 			<place>Portland Civic Auditorium, Portland, OR, USA</place>
 			<with solo="yes"/>
-            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+			<privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>May 15</date>
 			<place>Seattle Opera House, Seattle, WA, USA</place>
 			<with solo="yes"/>
-            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+			<privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>May 17</date>
 			<place>Royal Theatre, Victoria, BC, Canada</place>
 			<with solo="yes"/>
-            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+			<privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>May 18</date>
 			<place>Orpheum Theatre, Vancouver, BC, Canada</place>
 			<with solo="yes"/>
 			<comments>This concert was cancelled ("lack of ticket sales").</comments>
-            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+			<privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>May 22</date>
@@ -7044,13 +7044,13 @@
 			<date>November 21</date>
 			<place>Hancher Auditorium, University of Iowa, Iowa City, IA, USA</place>
 			<with solo="yes"/>
-            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+			<privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>November 23</date>
 			<place>Uihlein Hall, Performing Arts Center, Milwaukee, WI, USA</place>
 			<with solo="yes"/>
-            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+			<privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Doug Nordfors -->
@@ -7074,7 +7074,7 @@
 			<date>December 11</date>
 			<place>Severance Hall, Cleveland, OH, USA</place>
 			<with solo="yes"/>
-            <privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
+			<privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- Seth Melchert -->
@@ -7229,25 +7229,25 @@
 			<comments>Kenneth K.: "Same program as Stockholm." Robert W.: "I was there, and bought a poster commemorating the show. I still have it, and the date is clearly Sunday, Nov. 11."</comments>
 			<privatecomments>First mentioned by Kenneth Kubernik. Exact date by Robert Wood.</privatecomments>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 29</date>
 			<place>Eastman Theater, Eastman School of Music, Rochester, New York, NY, USA</place>
 			<with>
 				<name instr="orchestra">Rochester Philharmonic Orchestra</name>
 				<name instr="conductor">Isaiah Jackson</name>
 			</with>
-            <comments>Solo concert, Q&amp;A interview with students, and Bartok recital (?). From an <a href="https://www.newspapers.com/newspage/136569913/">article in Democrat and Chronicle</a>: "Keith Jarrett will perform Bartok's Piano Concerto No. 3 with the Rochester Philharmonic Orchestra tomorrow at 8 p.m. and Saturday at 8:30 p.m. in the Eastman Theater. Isaiah Jackson will conduct the program, which includes Hindemith's Symphonic Metamorphoses and Rimsky-Korsakou's Scheherazade."</comments>
-            <privatecomments>Simon Savary: "réf.: le frère d'un collègue d'un contact y a assisté en tant qu'étudiant. On essaie d'accéder aux archives pour avoir les concerts. J'ai seulement l'entrevue". Exact date (and mention of second concert) from Marc Morvan.</privatecomments>
+			<comments>Solo concert, Q&amp;A interview with students, and Bartok recital (?). From an <a href="https://www.newspapers.com/newspage/136569913/">article in Democrat and Chronicle</a>: "Keith Jarrett will perform Bartok's Piano Concerto No. 3 with the Rochester Philharmonic Orchestra tomorrow at 8 p.m. and Saturday at 8:30 p.m. in the Eastman Theater. Isaiah Jackson will conduct the program, which includes Hindemith's Symphonic Metamorphoses and Rimsky-Korsakou's Scheherazade."</comments>
+			<privatecomments>Simon Savary: "réf.: le frère d'un collègue d'un contact y a assisté en tant qu'étudiant. On essaie d'accéder aux archives pour avoir les concerts. J'ai seulement l'entrevue". Exact date (and mention of second concert) from Marc Morvan.</privatecomments>
 		</concert>
-        <concert>
+		<concert>
 			<date>December 1</date>
 			<place>Eastman Theater, Eastman School of Music, Rochester, New York, NY, USA</place>
 			<with>
 				<name instr="orchestra">Rochester Philharmonic Orchestra</name>
 				<name instr="conductor">Isaiah Jackson</name>
 			</with>
-            <comments>Solo concert, Q&amp;A interview with students, and Bartok recital (?). From an <a href="https://www.newspapers.com/newspage/136569913/">article in Democrat and Chronicle</a>: "Keith Jarrett will perform Bartok's Piano Concerto No. 3 with the Rochester Philharmonic Orchestra tomorrow at 8 p.m. and Saturday at 8:30 p.m. in the Eastman Theater. Isaiah Jackson will conduct the program, which includes Hindemith's Symphonic Metamorphoses and Rimsky-Korsakou's Scheherazade."</comments>
-            <privatecomments>See November 29 concert.</privatecomments>
+			<comments>Solo concert, Q&amp;A interview with students, and Bartok recital (?). From an <a href="https://www.newspapers.com/newspage/136569913/">article in Democrat and Chronicle</a>: "Keith Jarrett will perform Bartok's Piano Concerto No. 3 with the Rochester Philharmonic Orchestra tomorrow at 8 p.m. and Saturday at 8:30 p.m. in the Eastman Theater. Isaiah Jackson will conduct the program, which includes Hindemith's Symphonic Metamorphoses and Rimsky-Korsakou's Scheherazade."</comments>
+			<privatecomments>See November 29 concert.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Nick Hoorweg -->
@@ -7409,11 +7409,11 @@
 			</with>
 			<comments/>
 		</concert>
-        <concert>
-        	<!-- Simon Savary -->
+		<concert>
+			<!-- Simon Savary -->
 			<date>March 8-24 (?)</date>
 			<place>Toronto, Canada</place>
-            <event>Bach 300 Festival</event>
+			<event>Bach 300 Festival</event>
 			<with solo="yes"/>
 			<comments>Part of the music was released on "All That Bach". The exact date is unknown. It is not clear if it was a concert or a studio session.</comments>
 		</concert>
@@ -7527,7 +7527,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>September 21</date>
 			<place>Kennedy Center, Washington, DC, USA</place>
 			<with>
@@ -7535,7 +7535,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>September 27</date>
 			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
 			<with>
@@ -7543,7 +7543,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>September 28</date>
 			<place>Beverly Theatre, Los Angeles, CA, USA</place>
 			<with>
@@ -7555,7 +7555,7 @@
 			<!-- Pierre Pradat (exact venue) -->
 			<date>October 24</date>
 			<place>Chapiteau de la Pépinère, Nancy, France</place>
-            <event>Nancy Jazz Pulsations</event>
+			<event>Nancy Jazz Pulsations</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -7570,7 +7570,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 29</date>
 			<place>Konzerthaus, Vienna, Austria</place>
 			<with>
@@ -7578,7 +7578,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 30</date>
 			<place>Kongresshaus, Zürich, Switzerland</place>
 			<with>
@@ -7586,7 +7586,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 1</date>
 			<place>Palais des Beaux-Arts, Brussels, Belgium</place>
 			<with>
@@ -7602,7 +7602,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 5</date>
 			<place>Auditorium Maurice Ravel, Lyon, France</place>
 			<with>
@@ -7610,7 +7610,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 7</date>
 			<place>Palais des Congrès, Lille, France</place>
 			<with>
@@ -7618,7 +7618,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 10</date>
 			<place>Congresso, Cagliari, Italy</place>
 			<with>
@@ -7714,7 +7714,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 8</date>
 			<place>Villa Imperiale, Genoa, Italy</place>
 			<event>Estate Jazz a Villa Imperiale</event>
@@ -7749,8 +7749,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
-        	<!-- Aziz Susam: photo billet: https://mail.google.com/mail/#all/1267bc5b469b7ff4, "Spor ve Sergi Sarayi" means "Sports And Exhibition Palace" -->
+		<concert>
+			<!-- Aziz Susam: photo billet: https://mail.google.com/mail/#all/1267bc5b469b7ff4, "Spor ve Sergi Sarayi" means "Sports And Exhibition Palace" -->
 			<date>July 16</date>
 			<place>Spor ve Sergi Sarayi, Istanbul, Turkey</place>
 			<event>Istanbul International Jazz Festival</event>
@@ -7769,7 +7769,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 19</date>
 			<place>Royal Festival Hall, London, UK</place>
 			<with>
@@ -7794,7 +7794,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 24</date>
 			<place>Le Zénith, Montpellier, France</place>
 			<with>
@@ -7822,10 +7822,10 @@
 			</with>
 			<comments>Kenneth K.: "Lou Harrison Piano Concerto/Dennis Russell Davies conducting."</comments>
 		</concert>
-        <concert>
+		<concert>
 			<date>August 27</date>
 			<place>Salle Rolland-Brunelle, Joliette, QC, Canada</place>
-			<event>Festival  de Lanaudière</event>
+			<event>Festival de Lanaudière</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -7971,8 +7971,8 @@
 			<release id="dark-intervals">Dark Intervals</release>
 			<with solo="yes"/>
 		</concert>
-        <concert>
-        	<!-- Anders Diehl: went to the April 12 concert. Old comments (now removed): "The exact day is unknown. What is certain is that Keith Jarrett played three solo concerts at the Suntory Hall between April 11 and April 14." -->
+		<concert>
+			<!-- Anders Diehl: went to the April 12 concert. Old comments (now removed): "The exact day is unknown. What is certain is that Keith Jarrett played three solo concerts at the Suntory Hall between April 11 and April 14." -->
 			<date>April 12</date>
 			<place>Suntory Hall, Tokyo, Japan</place>
 			<with solo="yes"/>
@@ -8008,13 +8008,13 @@
 			<!-- at 9 p.m. -->
 			<date>June 26</date>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
-            <event>Festival International de Jazz de Montréal</event>
+			<event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 3</date>
 			<place>Ruth Eckerd Hall, Clearwater, FL, USA</place>
 			<with>
@@ -8022,7 +8022,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 8</date>
 			<place>Vanderbilt University, Nashville, TN, USA</place>
 			<with>
@@ -8071,7 +8071,7 @@
 			</with>
 			<comments>Only one tune was included on the album.</comments>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 16</date>
 			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
 			<with>
@@ -8079,7 +8079,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 19</date>
 			<place>Northwestern University, Chicago, IL, USA</place>
 			<with>
@@ -8087,7 +8087,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 21</date>
 			<place>Flynn Theater, Burlington, VT, USA</place>
 			<with>
@@ -8095,7 +8095,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 23</date>
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with>
@@ -8103,7 +8103,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 25</date>
 			<place>Roy Thomson Hall, Toronto, OT, Canada</place>
 			<with>
@@ -8111,7 +8111,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 27</date>
 			<place>Orchestra Hall, Minneapolis, MN, USA</place>
 			<with>
@@ -8119,7 +8119,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 29</date>
 			<place>Eastman Theater, Rochester, NY, USA</place>
 			<with>
@@ -8198,7 +8198,7 @@
 			<comments>According to <a href="https://www.csmonitor.com/1988/0119/ljarr.html">this article</a>. Program: "Symphony No. 4 (Haydn), Piano Concerto in C, K. 467 (Mozart), A Solo Piano Improvisation (Jarrett), Classical Symphony (Prolofiev)".</comments>
 			<privatecomments>Mentioned by Marc Morvan.</privatecomments>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 7</date>
 			<place>Kanagawa Kenmin Hall, Yokohama, Japan</place>
 			<with>
@@ -8206,7 +8206,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 9</date>
 			<place>City Culture Hall, Hadano, Japan</place>
 			<with>
@@ -8214,7 +8214,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 11</date>
 			<place>Citizen's Hall, Sapporo, Japan</place>
 			<with>
@@ -8222,7 +8222,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 13</date>
 			<place>City Cultural Center, Koriyama, Japan</place>
 			<with>
@@ -8230,7 +8230,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 15</date>
 			<place>Kosei Nenkin Hall, Tokyo, Japan</place>
 			<with>
@@ -8238,7 +8238,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 17</date>
 			<place>Civic Hall, Fukuoka, Japan</place>
 			<with>
@@ -8246,7 +8246,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 19</date>
 			<place>Kosei Nenkin Hall, Hiroshima, Japan</place>
 			<with>
@@ -8254,7 +8254,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 21</date>
 			<place>Kosei Nenkin Hall, Tokyo, Japan</place>
 			<with>
@@ -8262,7 +8262,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 22</date>
 			<place>Kosei Nenkin Hall, Tokyo, Japan</place>
 			<with>
@@ -8270,7 +8270,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 24</date>
 			<place>Festival Hall, Osaka</place>
 			<with>
@@ -8301,8 +8301,8 @@
 			<comments>Concert in memory of Italo Calvino. Article about the concert: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/2014/03/30/keith-jarrett-fuga-dal-verdura-dopo-un.html">"Keith Jarrett, fuga dal Verdura dopo un fischio"</a>.</comments>
 			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
-        <concert>
-        	<!-- Simon Savary -->
+		<concert>
+			<!-- Simon Savary -->
 			<date>September 14-18 (?)</date>
 			<place>St. Paul, MN, USA</place>
 			<with>
@@ -8317,8 +8317,8 @@
 			<release>Paris Concert</release>
 			<with solo="yes"/>
 		</concert>
-        <concert>
-        	<!-- Simon Savary -->
+		<concert>
+			<!-- Simon Savary -->
 			<date>October 22</date>
 			<place>Palais des Beaux-Arts, Brussels, Belgium</place>
 			<event>Belga Jazz Festival</event>
@@ -8349,16 +8349,16 @@
 			<with solo="yes"/>
 			<comments>Keith Jarrett played harpsichord.</comments>
 		</concert>
-          <concert>
+		<concert>
 			<date>January 19</date>
 			<place>U-Port, Tokyo, Japan</place>
-          	<event>5<sup>th</sup> Tokyo Music Joy</event>
+			<event>5<sup>th</sup> Tokyo Music Joy</event>
 			<with solo="yes"/>
 		</concert>
-     	<concert>
+		<concert>
 			<date>January 20</date>
 			<place>U-Port, Tokyo, Japan</place>
-          	<event>5th Tokyo Music Joy</event>
+			<event>5th Tokyo Music Joy</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -8369,29 +8369,29 @@
 			<comments>Mike L.: "Goldberg Variations on harpsichord, small theatre, lovely show."</comments>
 		</concert>
 		<concert>
-            <date>March 5</date>
-            <time>7:30 PM</time>
-            <place>Alice Tully Hall, Lincoln Center, New York, NY, USA</place>
-            <with solo="yes"/>
-            <comments>Bach's "Goldberg Variations" played on harpsichord. Concert mentioned in <a href="https://books.google.ch/books?id=K-gCAAAAMBAJ">New York Magazine</a> (March 6, 1989). A workshop apparently took place at 5:30 PM.</comments>
-            <privatecomments>Facebook message from Harry Miller.</privatecomments>
-        </concert>
-          <concert>
-            <!-- Peter Tóth, PDF sent by email -->
-            <date>March 20</date>
-            <place>Ferenc Liszt Academy of Music, Budapest, Hungary</place>
-            <event>Budapest Spring Festival</event>
-            <with solo="yes"/>
-            <comments>Keith Jarrett played pieces by Purcell, Mozart, Hindemith, and Bartok.</comments>
-        </concert>
-        <concert>
-            <!-- Peter Tóth, PDF sent by email -->
-            <date>March 22</date>
-            <place>Ferenc Liszt Academy of Music, Budapest, Hungary</place>
-            <event>Budapest Spring Festival</event>
-            <with solo="yes"/>
-            <comments>Keith Jarrett played two 40-minute improvised parts.</comments>
-        </concert>
+			<date>March 5</date>
+			<time>7:30 PM</time>
+			<place>Alice Tully Hall, Lincoln Center, New York, NY, USA</place>
+			<with solo="yes"/>
+			<comments>Bach's "Goldberg Variations" played on harpsichord. Concert mentioned in <a href="https://books.google.ch/books?id=K-gCAAAAMBAJ">New York Magazine</a> (March 6, 1989). A workshop apparently took place at 5:30 PM.</comments>
+			<privatecomments>Facebook message from Harry Miller.</privatecomments>
+		</concert>
+		<concert>
+			<!-- Peter Tóth, PDF sent by email -->
+			<date>March 20</date>
+			<place>Ferenc Liszt Academy of Music, Budapest, Hungary</place>
+			<event>Budapest Spring Festival</event>
+			<with solo="yes"/>
+			<comments>Keith Jarrett played pieces by Purcell, Mozart, Hindemith, and Bartok.</comments>
+		</concert>
+		<concert>
+			<!-- Peter Tóth, PDF sent by email -->
+			<date>March 22</date>
+			<place>Ferenc Liszt Academy of Music, Budapest, Hungary</place>
+			<event>Budapest Spring Festival</event>
+			<with solo="yes"/>
+			<comments>Keith Jarrett played two 40-minute improvised parts.</comments>
+		</concert>
 		<concert>
 			<!-- Mirco Merlo -->
 			<date>March 25</date>
@@ -8402,40 +8402,40 @@
 			<!-- Simon Savary -->
 			<date incomplete="yes">April/May</date>
 			<place>Chile</place>
-            <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-            <comments>A tour in Chile with the trio is mentioned in a letter written by Stephen Cloud to Kunihiko Yamashita on October 7, 1988 (source: "My Experience: My Ferocious Longing" book). I don't know if it eventually happened.</comments>
+			<comments>A tour in Chile with the trio is mentioned in a letter written by Stephen Cloud to Kunihiko Yamashita on October 7, 1988 (source: "My Experience: My Ferocious Longing" book). I don't know if it eventually happened.</comments>
 		</concert>
-        <concert>
+		<concert>
 			<date>May 14</date>
 			<place>Teatro Castro Alves, Salvador, Brazil</place>
-            <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>May 16</date>
 			<place>Teatro Dom Pedro, Rio de Janeiro, Brazil</place>
-            <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>May 17</date>
 			<place>Teatro Dom Pedro, Rio de Janeiro, Brazil</place>
-            <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>May 19</date>
 			<place>Anhembi, Sao Paulo, Brazil</place>
-            <with>
+			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
@@ -8457,7 +8457,7 @@
 		<concert>
 			<date incomplete="yes">July</date>
 			<place>Place Des Arts, Montréal, QC, Canada</place>
-            <event>Festival International de Jazz de Montréal</event>
+			<event>Festival International de Jazz de Montréal</event>
 			<with solo="yes"/>
 			<comments>Keith played mostly standards. The year for this concert is maybe incorrect. It might actually be the July 4, 1990 concert.</comments>
 		</concert>
@@ -8490,7 +8490,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 5</date>
 			<place>Koncertsalen i Tivoli, Copenhagen, Denmark</place>
 			<with>
@@ -8507,7 +8507,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 9</date>
 			<place>Royal Festival Hall, London, UK</place>
 			<with>
@@ -8515,7 +8515,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 11</date>
 			<place>Graf-Zeppelin-Haus, Friedrichshafen, Germany</place>
 			<with>
@@ -8564,7 +8564,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 23</date>
 			<place>Palais de la Musique, Strasbourg, France</place>
 			<with>
@@ -8604,7 +8604,7 @@
 			<comments>From The Indianapolis Recorder (March 31, 1990): "Pianist, composer and improvisor Keith Jarrett, famed for his 20 years' work in jazz, classical and improvisational music, will collaborate with the popular master poet, Robert Bly, for their first concert together, at 8 p.m. April 6 at Clowes Memorial Hall. "An Evening of Music and Poetry" is a presentation of the Butler University Department of English and Writers' Studio. This will be Jarrett's only 1990 solo piano appearance in the U.S."</comments>
 			<privatecomments>Matias J. Vega</privatecomments>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 13</date>
 			<place>McCarter Theater, Princeton University, Princeton, NJ, USA</place>
 			<with>
@@ -8612,7 +8612,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 19</date>
 			<place>Lisner Auditorium, George Washington University, Washington, DC, USA</place>
 			<with>
@@ -8630,11 +8630,11 @@
 			</with>
 		</concert>
 		<concert>
-		    <!-- Simon Savary -->
-		    <!-- at 6 p.m. -->
+			<!-- Simon Savary -->
+			<!-- at 6 p.m. -->
 			<date>July 4</date>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
-            <event>Festival International de Jazz de Montréal</event>
+			<event>Festival International de Jazz de Montréal</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -8642,7 +8642,7 @@
 			<place>Carnegie Hall, New York, NY, USA</place>
 			<with>
 				<name instr="orchestra">American Composer's Orchestra</name>
-                <name instr="conductor">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russel Davies</name>
 			</with>
 			<comments>This concert was cancelled.</comments>
 		</concert>
@@ -8662,7 +8662,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 15</date>
 			<place>Palau de la Música Catalana, Barcelona, Spain</place>
 			<with>
@@ -8670,7 +8670,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 17</date>
 			<place>Teatro Monumental, Madrid, Spain</place>
 			<with>
@@ -8678,7 +8678,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 19</date>
 			<place>Teatro Lirico, Milano, Italy</place>
 			<with>
@@ -8686,7 +8686,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 20</date>
 			<place>Teatro Olimpico, Rome, Italy</place>
 			<with>
@@ -8694,7 +8694,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 22</date>
 			<place>Teatro Turreno, Perugia, Italy</place>
 			<with>
@@ -8702,7 +8702,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 24</date>
 			<place>Teatro Regio, Turin, Italy</place>
 			<with>
@@ -8710,7 +8710,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 26</date>
 			<place>Erkel Theatre, Budapest, Hungary</place>
 			<with>
@@ -8718,7 +8718,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 28</date>
 			<place>Musikverein, Vienna, Autria</place>
 			<with>
@@ -8726,7 +8726,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 30</date>
 			<place>Palace of Culture, Prague, Czech Republic</place>
 			<with>
@@ -8734,8 +8734,8 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
-        	<!-- 24 Heures du 5 décembre 1990 -->
+		<concert>
+			<!-- 24 Heures du 5 décembre 1990 -->
 			<date>December 3</date>
 			<place>Victoria Hall, Geneva, Switzerland</place>
 			<with>
@@ -8744,7 +8744,7 @@
 			</with>
 			<comments>8:30 PM.</comments>
 		</concert>
-        <concert>
+		<concert>
 			<date>December 5</date>
 			<place>Kongresshaus, Zürich, Switzerland</place>
 			<with>
@@ -8768,7 +8768,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 7</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with>
@@ -8776,7 +8776,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 8</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with>
@@ -8784,7 +8784,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 10</date>
 			<place>Ibaraki Prefectural Culture Center, Mito, Japan</place>
 			<with>
@@ -8792,7 +8792,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 12</date>
 			<place>Yamanashi Kenmin Bunka Hall, Kofu, Japan</place>
 			<with>
@@ -8800,7 +8800,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 14</date>
 			<place>Citizens' Hall, Miyazaki, Japan</place>
 			<with>
@@ -8808,7 +8808,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 16</date>
 			<place>City Culture Hall, Fukui, Japan</place>
 			<with>
@@ -8816,7 +8816,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 18</date>
 			<place>Ishikawa Kosei Nenkin Hall, Kanazawa, Japan</place>
 			<with>
@@ -8824,7 +8824,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 21</date>
 			<place>Festival Hall, Osaka, Japan</place>
 			<with>
@@ -8832,7 +8832,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 23</date>
 			<place>Kosei Nenkin Hall, Tokyo, Japan</place>
 			<with>
@@ -8840,7 +8840,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 24</date>
 			<place>Kosei Nenkin Hall, Tokyo, Japan</place>
 			<with>
@@ -9037,7 +9037,7 @@
 			</with>
 			<comments>Mozart compositions were played.</comments>
 		</concert>
-        <concert>
+		<concert>
 			<date>June 1</date>
 			<place>Kaikan Hall 1, Kyoto, Japan</place>
 			<with>
@@ -9047,7 +9047,7 @@
 			</with>
 			<comments>Mozart compositions were played.</comments>
 		</concert>
-        <concert>
+		<concert>
 			<date>June 4</date>
 			<place>Metropolitan Art Space, Tokyo, Japan</place>
 			<with>
@@ -9078,11 +9078,11 @@
 			</with>
 		</concert>
 		<concert>
-		    <!-- Simon Savary -->
-		    <!-- at 8:30 p.m. -->
+			<!-- Simon Savary -->
+			<!-- at 8:30 p.m. -->
 			<date>July 3</date>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
-            <event>Festival International de Jazz de Montréal</event>
+			<event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -9193,7 +9193,7 @@
 			<date>February 10 (?)</date>
 			<place>Musikverein, Vienna, Austria</place>
 			<with solo="yes"/>
-            <comments>Two parts with about six encores were played.</comments>
+			<comments>Two parts with about six encores were played.</comments>
 		</concert>
 		<concert>
 			<date>February 13</date>
@@ -9319,7 +9319,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>March 22</date>
 			<place>Sunpalace Hall, Fukuoka, Japan</place>
 			<with>
@@ -9327,7 +9327,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>March 25</date>
 			<place>Festival Hall, Osaka, Japan</place>
 			<with>
@@ -9335,7 +9335,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>March 26</date>
 			<place>Kaikan Hall 1, Kyoto, Japan</place>
 			<with>
@@ -9343,7 +9343,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>March 28</date>
 			<place>Arts Center, Aichi, Japan</place>
 			<with>
@@ -9373,7 +9373,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 2</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with>
@@ -9389,7 +9389,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 5</date>
 			<place>Kanagawa Kenmin Hall, Yokohama, Japan</place>
 			<with>
@@ -9398,12 +9398,12 @@
 			</with>
 		</concert>
 		<concert>
-		    <!-- Simon Savary -->
-		    <!-- at 8:30 p.m. -->
+			<!-- Simon Savary -->
+			<!-- at 8:30 p.m. -->
 			<date>June 27</date>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
-            <event>Festival International de Jazz de Montréal</event>
-            <comments>This concert was cancelled.</comments>
+			<event>Festival International de Jazz de Montréal</event>
+			<comments>This concert was cancelled.</comments>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -9434,8 +9434,8 @@
 			</with>
 			<comments>Article about the concert, also mentioning the October 1996 mini-tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
 		</concert>
-        <concert>
-        	<!-- Aziz Susam: correct date + venue -->
+		<concert>
+			<!-- Aziz Susam: correct date + venue -->
 			<date>July 15</date>
 			<place>Cemil Topuzlu Open Air Theater, Istanbul, Turkey</place>
 			<event>International Istanbul Jazz Festival</event>
@@ -10256,7 +10256,7 @@
 		<concert>
 			<date>July 1</date>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
-            <event>Festival International de Jazz de Montréal</event>
+		    <event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10568,7 +10568,7 @@
 			<place>Orchestra Hall, Symphony Center, Chicago, IL, USA</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+		<concert>
 			<date>April 30</date>
 			<place>Tokyo Bunka Kaikan, Tokyo, Japan</place>
 			<with>
@@ -10576,7 +10576,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>May 3</date>
 			<place>Osaka Festival Hall, Osaka, Japan</place>
 			<with>
@@ -10584,7 +10584,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>May 6</date>
 			<place>Kanagawa Kenmin Hall, Yokohama, Japan</place>
 			<with>
@@ -10592,7 +10592,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>May 8</date>
 			<place>Tokyo Bunka Kaikan, Tokyo, Japan</place>
 			<with>
@@ -10600,7 +10600,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>May 10</date>
 			<place>Tokyo Kosei Nenkin Kaikan, Tokyo, Japan</place>
 			<with>
@@ -10608,34 +10608,34 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>June 21</date>
 			<place>Carnegie Hall, New York City, NY, USA</place>
-            <event>JVC Jazz Festival</event>
+		    <event>JVC Jazz Festival</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>June 29</date>
 			<place>Four Seasons Centre for the Performing Arts, Toronto, ON, Canada</place>
-            <event>Toronto Jazz Festival</event>
+		    <event>Toronto Jazz Festival</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 1</date>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
-            <event>Festival International de Jazz de Montréal</event>
+		    <event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 7</date>
 			<place>Salle Pleyel, Paris, France</place>
 			<with>
@@ -10643,16 +10643,16 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 10</date>
 			<place>Arena Santa Guiliana, Perugia, Italy</place>
-            <event>Umbria Jazz Festival</event>
+		    <event>Umbria Jazz Festival</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 13</date>
 			<place>Piazza della Loggia, Brescia, Italy</place>
 			<with>
@@ -10660,34 +10660,34 @@
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 16</date>
 			<place>Essen, Germany</place>
-            <event>Klavier-Festival Ruhr</event>
+		    <event>Klavier-Festival Ruhr</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 19</date>
 			<place>Pinède Gould, Antibes Juan-les-Pins, France</place>
-            <event>Jazz à Juan</event>
+		    <event>Jazz à Juan</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 22</date>
 			<place>Peralada, Spain</place>
-            <event>Festival International de Musica Castell de Peralada</event>
+		    <event>Festival International de Musica Castell de Peralada</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 14</date>
 			<place>Teatro alla Scala, Milan, Italy</place>
 			<with solo="yes"/>
@@ -10697,7 +10697,7 @@
 			<place>Béla Bartók National Concert Hall, Palace of Arts, Budapest, Hungary</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 21</date>
 			<place>Alte Oper, Frankfurt, Germany</place>
 			<with solo="yes"/>
@@ -10705,14 +10705,14 @@
 	</group>
     
     <group year="2008">
-        <concert>
+		<concert>
 			<date>February 2</date>
 			<place>New Jersey Performing Arts Center, Newark, NJ, USA</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-            <!--
+		    <!--
 Think the playlist was:
 
 1) The Masquerade is over
@@ -10732,9 +10732,9 @@ Break
 7) Tenessee Waltz (encore)
 
 not completely sure about the order of 3,4,5 and i think he played another song after 2.
-            -->
+		    -->
 		</concert>
-        <concert>
+		<concert>
 			<date>March 5</date>
 			<place>Royce Hall, Los Angeles, CA, USA</place>
 			<with>
@@ -10742,10 +10742,10 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>March 8 </date>
 			<place>Masonic Auditorium, San Francisco, CA, USA</place>
-            <event>San Francisco Jazz Festival</event>
+		    <event>San Francisco Jazz Festival</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10756,22 +10756,22 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<place>Kanagawa Kenmin Hall, Yokohama, Japan</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+		<concert>
 			<date>May 17</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+		<concert>
 			<date>May 20</date>
 			<place>Festival Hall, Osaka, Japan</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+		<concert>
 			<date>May 23</date>
 			<place>Metropolitan Art Space, Tokyo, Japan</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 5</date>
 			<place>Salle Pleyel, Paris, France</place>
 			<with>
@@ -10779,7 +10779,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 8</date>
 			<place>Teatro Regio, Turin, Italy</place>
 			<with>
@@ -10787,7 +10787,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 12</date>
 			<place>Auditorium Parco della Musica, Rome, Italy</place>
 			<with>
@@ -10795,25 +10795,25 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 15</date>
 			<place>Teatro d'Annunzio, Pescara, Italy</place>
-            <event>Pescara Jazz</event>
+		    <event>Pescara Jazz</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 18</date>
 			<place>Pinède Gould, Antibes Juan-Les-Pins, France</place>
-            <event>Jazz à Juan</event>
+		    <event>Jazz à Juan</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 22</date>
 			<place>Kursaal, San Sebastian, Spain</place>
 			<event>San Sebastian Jazz Festival</event>
@@ -10822,7 +10822,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>July 25</date>
 			<place>Grand Théâtre de Fourvière, Lyon, France</place>
 			<event>Les Nuits de Fourvière</event>
@@ -10831,7 +10831,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>September 13</date>
 			<place>Symphony Center, Chicago, IL, USA</place>
 			<with>
@@ -10839,7 +10839,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>September 19</date>
 			<place>Verizon Hall, Kimmel Center, Philadelphia, PA, USA</place>
 			<with>
@@ -10847,7 +10847,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 18</date>
 			<place>Carnegie Hall, New York City, NY, USA</place>
 			<with>
@@ -10855,7 +10855,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 26</date>
 			<place>Symphony Hall, Boston, MA, USA</place>
 			<with>
@@ -10863,13 +10863,13 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 				<name>Jack DeJohnette</name>
 			</with>
 		</concert>
-        <concert>
+		<concert>
 			<date>November 26</date>
 			<place>Salle Pleyel, Paris, France</place>
 			<release>Paris/London: Testament</release>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+		<concert>
 			<date>December 1</date>
 			<place>Royal Festival Hall, London, UK</place>
 			<release>Paris/London: Testament</release>
@@ -10878,278 +10878,278 @@ not completely sure about the order of 3,4,5 and i think he played another song 
     </group>
     
     <group year="2009">
-        <concert>
+		<concert>
 			<date>January 29</date>
 			<place>Carnegie Hall, New York City, NY, USA</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
-            <date>March 11</date>
-            <place>Royce Hall, UCLA, Los Angeles, USA</place>
-            <with>
+		<concert>
+		    <date>March 11</date>
+		    <place>Royce Hall, UCLA, Los Angeles, USA</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>March 14</date>
-            <place>Zellerbach Hall, UC Berkeley, Berkeley, USA</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>March 14</date>
+		    <place>Zellerbach Hall, UC Berkeley, Berkeley, USA</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
+		</concert>
+		<concert>
 			<date>May 18</date>
 			<place>Teatro San Carlo, Naples, Italy</place>
-            <event>Angeli Musicanti Festival</event>
+		    <event>Angeli Musicanti Festival</event>
 			<with solo="yes"/>
 		</concert>
-        <concert>
-            <date>July 8</date>
-            <place>Salle Erasme, Palais de la Musique, Strasbourg, France</place>
-            <with>
+		<concert>
+		    <date>July 8</date>
+		    <place>Salle Erasme, Palais de la Musique, Strasbourg, France</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 11</date>
-            <place>KKL, Lucerne, Switzerland</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 11</date>
+		    <place>KKL, Lucerne, Switzerland</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
 			<release>Somewhere</release>
-        </concert>
-        <concert>
-            <date>July 13</date>
-            <place>Teatro Comunale, Florence, Italy</place>
-            <event>Festival “Live On”</event>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 13</date>
+		    <place>Teatro Comunale, Florence, Italy</place>
+		    <event>Festival “Live On”</event>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 16</date>
-            <place>Palazzo Te, Mantua, Italy</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 16</date>
+		    <place>Palazzo Te, Mantua, Italy</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 18</date>
-            <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
-            <event>Jazz à Juan</event>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 18</date>
+		    <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
+		    <event>Jazz à Juan</event>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 21</date>
-            <place>L'Auditori, Barcelona, Spain</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 21</date>
+		    <place>L'Auditori, Barcelona, Spain</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 25</date>
-            <place>Royal Festival Hall, London, UK</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 25</date>
+		    <place>Royal Festival Hall, London, UK</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
+		</concert>
+		<concert>
 			<date>October 9</date>
 			<place>Henry Le Boeuf Hall, Palais des Beaux-Arts, Brussels, Belgium</place>
-            <event></event>
+		    <event></event>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 12</date>
 			<place>Philharmonie, Berlin, Germany</place>
-            <event></event>
+		    <event></event>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+		<concert>
 			<date>October 16</date>
 			<place>Tonhalle, Zürich, Switzerland</place>
-            <event></event>
+		    <event></event>
 			<with solo="yes"/>
 		</concert>
-        <concert>
-        	<!-- Franck Bichot -->
+		<concert>
+			<!-- Franck Bichot -->
 			<date>November 16</date>
 			<place>Paris, France</place>
-            <event></event>
+		    <event></event>
 			<with solo="yes"/>
-            <comments>Private concert. Venue unknown. It was probably a solo concert, not a trio concert, but this remains to be confirmed.</comments>
+		    <comments>Private concert. Venue unknown. It was probably a solo concert, not a trio concert, but this remains to be confirmed.</comments>
 		</concert>
-        <concert>
-            <date>November 20</date>
-            <place>Prudential Hall, New Jersey Performing Arts Center, Newark, NJ, USA</place>
-            <with>
+		<concert>
+		    <date>November 20</date>
+		    <place>Prudential Hall, New Jersey Performing Arts Center, Newark, NJ, USA</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
+		</concert>
     </group>
     
     <group year="2010">
-        <concert>
+		<concert>
 			<date>February 12</date>
 			<place>Orchestra Hall, Chicago, IL, USA</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+		<concert>
 			<date>March 15</date>
 			<place>Walt Disney Concert Hall, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+		<concert>
 			<date>March 19</date>
 			<place>Davies Symphony Hall, San Francisco, CA, USA</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-            <date>June 17</date>
-            <place>Carnegie Hall, New York, NY, USA</place>
-            <with>
+		    <date>June 17</date>
+		    <place>Carnegie Hall, New York, NY, USA</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>June 30</date>
-            <place>Four Seasons Centre for the Performing Arts, Toronto, ON, Canada</place>
-            <event>TD Toronto Jazz Festival</event>
-            <with>
+		</concert>
+		<concert>
+		    <date>June 30</date>
+		    <place>Four Seasons Centre for the Performing Arts, Toronto, ON, Canada</place>
+		    <event>TD Toronto Jazz Festival</event>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 3</date>
-            <place>Salle Wilfred-Pelletier, Place des Arts, Montréal, QC, Canada</place>
-            <event>Festival International de Jazz de Montréal</event>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 3</date>
+		    <place>Salle Wilfred-Pelletier, Place des Arts, Montréal, QC, Canada</place>
+		    <event>Festival International de Jazz de Montréal</event>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 9</date>
-            <place>Festspielhaus, Baden-Baden, Germany</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 9</date>
+		    <place>Festspielhaus, Baden-Baden, Germany</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 11</date>
-            <place>Auditorium Stravinski, Montreux, Switzerland</place>
-            <event>Montreux Jazz Festival</event>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 11</date>
+		    <place>Auditorium Stravinski, Montreux, Switzerland</place>
+		    <event>Montreux Jazz Festival</event>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 13</date>
-            <place>Palazzo Mauro de André, Ravenna, Italy</place>
-            <event>Ravenna Festival</event>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 13</date>
+		    <place>Palazzo Mauro de André, Ravenna, Italy</place>
+		    <event>Ravenna Festival</event>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 16</date>
-            <place>Lazzaretto, Bergamo, Italy</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 16</date>
+		    <place>Lazzaretto, Bergamo, Italy</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 18</date>
-            <place>Auditorium Parco della Musica, Rome, Italy</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 18</date>
+		    <place>Auditorium Parco della Musica, Rome, Italy</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 21</date>
-            <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
-            <event>Jazz à Juan</event>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 21</date>
+		    <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
+		    <event>Jazz à Juan</event>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 23</date>
-            <place>Grand Théâtre de Fourvière, Lyon, France</place>
-            <event>Les Nuits de Fourvière</event>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 23</date>
+		    <place>Grand Théâtre de Fourvière, Lyon, France</place>
+		    <event>Les Nuits de Fourvière</event>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>September 23</date>
-            <place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>September 23</date>
+		    <place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>September 26</date>
-            <place>Kobe Kokusai Kaikan (Kobe International House), Kobe, Japan</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>September 26</date>
+		    <place>Kobe Kokusai Kaikan (Kobe International House), Kobe, Japan</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>September 29</date>
-            <place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>September 29</date>
+		    <place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>October 1</date>
-            <place>Kanagawa Kenmin Hall, Yokohama, Japan</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>October 1</date>
+		    <place>Kanagawa Kenmin Hall, Yokohama, Japan</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>October 3</date>
-            <place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>October 3</date>
+		    <place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>October 6</date>
-            <place>Main Auditorium, Sejong Center, Seoul, South Korea</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>October 6</date>
+		    <place>Main Auditorium, Sejong Center, Seoul, South Korea</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
+		</concert>
     </group>
     
     <group year="2011">
@@ -11159,13 +11159,13 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<with solo="yes"/>
 		</concert>
 		<concert>
-            <date>January 21</date>
-            <place>Knight Concert Hall, Adrienne Arsht Center for the Performing Arts, Miami, FL, USA</place>
-            <with>
+		    <date>January 21</date>
+		    <place>Knight Concert Hall, Adrienne Arsht Center for the Performing Arts, Miami, FL, USA</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
+		</concert>
 		<concert>
 			<date>April 6</date>
 			<place>Sala São Paulo, São Paulo, Brazil</place>
@@ -11198,106 +11198,106 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<with solo="yes"/>
 		</concert>
 		<concert>
-            <date>July 7</date>
-            <place>Palais de la Musique, Strasbourg, France</place>
+		    <date>July 7</date>
+		    <place>Palais de la Musique, Strasbourg, France</place>
 			<event>Strasbourg Jazz Festival</event>
-            <with>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 9</date>
-            <place>Opera House, Copenhagen, Denmark</place>
-            <event>Copenhagen Jazz Festival</event>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 9</date>
+		    <place>Opera House, Copenhagen, Denmark</place>
+		    <event>Copenhagen Jazz Festival</event>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 12</date>
-            <place>Salle Pleyel, Paris, France</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 12</date>
+		    <place>Salle Pleyel, Paris, France</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 16</date>
-            <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
+		</concert>
+		<concert>
+		    <date>July 16</date>
+		    <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
 			<event>Jazz à Juan</event>
-            <with>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 18</date>
-            <place>Teatro di San Carlo, Naples, Italy</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 18</date>
+		    <place>Teatro di San Carlo, Naples, Italy</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 21</date>
-            <place>Teatro degli Arcimboldi, Milan, Italy</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 21</date>
+		    <place>Teatro degli Arcimboldi, Milan, Italy</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 23</date>
-            <place>Teatre Grec, Barcelona, Spain</place>
+		</concert>
+		<concert>
+		    <date>July 23</date>
+		    <place>Teatre Grec, Barcelona, Spain</place>
 			<event>Festival Grec de Barcelona</event>
-            <with>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 27</date>
-            <place>Royal Festival Hall, London, UK</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 27</date>
+		    <place>Royal Festival Hall, London, UK</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>October 21</date>
-            <place>Symphony Hall, Chicago, IL, USA</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>October 21</date>
+		    <place>Symphony Hall, Chicago, IL, USA</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>October 26</date>
-            <place>UCLA Royce Hall, Los Angeles, CA, USA</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>October 26</date>
+		    <place>UCLA Royce Hall, Los Angeles, CA, USA</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>October 29</date>
-            <place>Zellerbach Hall, Berkeley, CA, USA</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>October 29</date>
+		    <place>Zellerbach Hall, Berkeley, CA, USA</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>November 1</date>
-            <place>S. Mark Taper Foundation Auditorium, Benaroya Hall, Seattle, WA, USA</place>
+		</concert>
+		<concert>
+		    <date>November 1</date>
+		    <place>S. Mark Taper Foundation Auditorium, Benaroya Hall, Seattle, WA, USA</place>
 			<event>Earshot Jazz Festival</event>
-            <with>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
+		</concert>
     </group>
     
     <group year="2012">
@@ -11332,80 +11332,80 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<with solo="yes"/>
 		</concert>
 		<concert>
-            <date>July 8</date>
-            <place>Konzerthaus, Vienna, Austria</place>
-            <with>
+		    <date>July 8</date>
+		    <place>Konzerthaus, Vienna, Austria</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 10</date>
-            <place>Festspielhaus, Baden-Baden, Germany</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 10</date>
+		    <place>Festspielhaus, Baden-Baden, Germany</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 13</date>
-            <place>Kongresshaus, Zurich, Switzerland</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 13</date>
+		    <place>Kongresshaus, Zurich, Switzerland</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 18</date>
-            <place>Haliç Congress Center, Istanbul, Turkey</place>
+		</concert>
+		<concert>
+		    <date>July 18</date>
+		    <place>Haliç Congress Center, Istanbul, Turkey</place>
 			<event>Istanbul International Jazz Festival</event>
-            <with>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 20</date>
-            <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
+		</concert>
+		<concert>
+		    <date>July 20</date>
+		    <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
 			<event>Jazz à Juan</event>
-            <with>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 23</date>
-            <place>Teatro Carlo Felice, Genoa, Italy</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 23</date>
+		    <place>Teatro Carlo Felice, Genoa, Italy</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 25</date>
-            <place>Auditorium Giovanni Agnelli, Centro Congressi Lingotto, Turin, Italy</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 25</date>
+		    <place>Auditorium Giovanni Agnelli, Centro Congressi Lingotto, Turin, Italy</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 27</date>
-            <place>Teatro Petruzzelli, Bari, Italy</place>
+		</concert>
+		<concert>
+		    <date>July 27</date>
+		    <place>Teatro Petruzzelli, Bari, Italy</place>
 			<event>Bari in Jazz</event>
-            <with>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>July 29</date>
-            <place>Auditorium Parco della Musica, Rome, Italy</place>
-            <with>
+		</concert>
+		<concert>
+		    <date>July 29</date>
+		    <place>Auditorium Parco della Musica, Rome, Italy</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
+		</concert>
 		<concert>
 			<date>October 24</date>
 			<place>Theatro Municipal, Rio de Janeiro, Brazil</place>
@@ -11417,13 +11417,13 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<with solo="yes"/>
 		</concert>
 		<concert>
-            <date>December 1</date>
-            <place>Prudential Hall, New Jersey Performing Arts Center, Newark, NJ, USA</place>
-            <with>
+		    <date>December 1</date>
+		    <place>Prudential Hall, New Jersey Performing Arts Center, Newark, NJ, USA</place>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
+		</concert>
     </group>
     <group year="2013">
     	<concert>
@@ -11439,171 +11439,171 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<with solo="yes"/>
 		</concert>
 		<concert>
-            <date>May 6</date>
-            <place>Bunkamura, Tokyo, Japan</place>
-            <time>7 PM</time>
-            <with>
+		    <date>May 6</date>
+		    <place>Bunkamura, Tokyo, Japan</place>
+		    <time>7 PM</time>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>May 9</date>
-            <place>Bunkamura, Tokyo, Japan</place>
-            <time>7 PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>May 12</date>
-            <place>Festival Hall, Osaka, Japan</place>
-            <time>7 PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>May 15</date>
-            <place>Bunkamura, Tokyo, Japan</place>
-            <time>7 PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>May 19</date>
-            <place>Sejong Center, Seoul, South Korea</place>
-            <time>7 PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>July 1</date>
-            <place>Salle Pleyel, Paris, France</place>
-            <time>8 PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>July 4</date>
-            <place>De Doelen, Rotterdam, Netherlands</place>
-            <event>North Sea Jazz</event>
-            <time>8 PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>July 7</date>
-            <place>Arena Santa Giuliana, Perugia, Italy</place>
-            <event>Umbria Jazz</event>
-            <time>9 PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>July 9</date>
-            <place>Philharmonie, Gasteig, Munich, Germany</place>
-            <time>8 PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>July</date>
-            <place></place>
-            <time> PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>July 12</date>
-            <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
-            <event>Jazz à Juan</event>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>July 16</date>
-            <place>Gran Teatro La Fenice, Venice, Italy</place>
-            <event>Venezia Jazz Festival</event>
-            <time>9 PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>July 19</date>
-            <place>Grand Théâtre de Fourvière, Lyon, France</place>
-            <event>Les Nuits de Fourvière</event>
-            <time>9 PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
-        <concert>
-            <date>July 21</date>
-            <place>Vittoriale degli Italiani, Gardone Riviera, Italy</place>
-            <time>9 PM</time>
-            <with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-        </concert>
+		</concert>
 		<concert>
-            <date>September 28</date>
-            <place>UCLA Royce Hall, Los Angeles, CA, USA</place>
-            <time>8 PM</time>
-            <with>
+		    <date>May 9</date>
+		    <place>Bunkamura, Tokyo, Japan</place>
+		    <time>7 PM</time>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>October 1</date>
-            <place>S. Mark Taper Foundation Auditorium, Benaroya Hall, Seattle, WA, USA</place>
-            <time>8 PM</time>
-            <with>
+		</concert>
+		<concert>
+		    <date>May 12</date>
+		    <place>Festival Hall, Osaka, Japan</place>
+		    <time>7 PM</time>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>October 4</date>
-            <place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
-            <time>8 PM</time>
-            <with>
+		</concert>
+		<concert>
+		    <date>May 15</date>
+		    <place>Bunkamura, Tokyo, Japan</place>
+		    <time>7 PM</time>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>December 11</date>
-            <place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
-            <time>8 PM</time>
-            <with>
+		</concert>
+		<concert>
+		    <date>May 19</date>
+		    <place>Sejong Center, Seoul, South Korea</place>
+		    <time>7 PM</time>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
+		</concert>
+		<concert>
+		    <date>July 1</date>
+		    <place>Salle Pleyel, Paris, France</place>
+		    <time>8 PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>July 4</date>
+		    <place>De Doelen, Rotterdam, Netherlands</place>
+		    <event>North Sea Jazz</event>
+		    <time>8 PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>July 7</date>
+		    <place>Arena Santa Giuliana, Perugia, Italy</place>
+		    <event>Umbria Jazz</event>
+		    <time>9 PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>July 9</date>
+		    <place>Philharmonie, Gasteig, Munich, Germany</place>
+		    <time>8 PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>July</date>
+		    <place></place>
+		    <time> PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>July 12</date>
+		    <place>Pinède Gould, Antibes Juan-les-Pins, France</place>
+		    <event>Jazz à Juan</event>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>July 16</date>
+		    <place>Gran Teatro La Fenice, Venice, Italy</place>
+		    <event>Venezia Jazz Festival</event>
+		    <time>9 PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>July 19</date>
+		    <place>Grand Théâtre de Fourvière, Lyon, France</place>
+		    <event>Les Nuits de Fourvière</event>
+		    <time>9 PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>July 21</date>
+		    <place>Vittoriale degli Italiani, Gardone Riviera, Italy</place>
+		    <time>9 PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>September 28</date>
+		    <place>UCLA Royce Hall, Los Angeles, CA, USA</place>
+		    <time>8 PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>October 1</date>
+		    <place>S. Mark Taper Foundation Auditorium, Benaroya Hall, Seattle, WA, USA</place>
+		    <time>8 PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>October 4</date>
+		    <place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
+		    <time>8 PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
+		<concert>
+		    <date>December 11</date>
+		    <place>Isaac Stern Auditorium, Carnegie Hall, New York City, NY, USA</place>
+		    <time>8 PM</time>
+		    <with>
+				<name>Gary Peacock</name>
+				<name>Jack DeJohnette</name>
+			</with>
+		</concert>
 	</group>
 	<group year="2014">
     	<concert>
@@ -11676,23 +11676,23 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<comments>Three excerpts from this concert are included on the <i>Creation</i> album.</comments>
 		</concert>
 		<concert>
-            <date>October 19</date>
-            <place>Symphony Center, Chicago, IL, USA</place>
-            <time>8 PM</time>
-            <with>
+		    <date>October 19</date>
+		    <place>Symphony Center, Chicago, IL, USA</place>
+		    <time>8 PM</time>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
-        <concert>
-            <date>November 30</date>
-            <place>New Jersey Performing Arts Center, Newark, NJ, USA</place>
-            <time>8 PM</time>
-            <with>
+		</concert>
+		<concert>
+		    <date>November 30</date>
+		    <place>New Jersey Performing Arts Center, Newark, NJ, USA</place>
+		    <time>8 PM</time>
+		    <with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-        </concert>
+		</concert>
 	</group>
 
 	<group year="2015">
