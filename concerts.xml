@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 28, 2021">
+<concerts modified="November 1, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -8349,16 +8349,16 @@
 			<with solo="yes"/>
 			<comments>Keith Jarrett played harpsichord.</comments>
 		</concert>
-        <concert>
+          <concert>
 			<date>January 19</date>
 			<place>U-Port, Tokyo, Japan</place>
-            <event>5<sup>th</sup> Tokyo Music Joy</event>
+          	<event>5<sup>th</sup> Tokyo Music Joy</event>
 			<with solo="yes"/>
 		</concert>
-        <concert>
+     	<concert>
 			<date>January 20</date>
 			<place>U-Port, Tokyo, Japan</place>
-            <event>5th Tokyo Music Joy</event>
+          	<event>5th Tokyo Music Joy</event>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -8368,7 +8368,15 @@
 			<with solo="yes"/>
 			<comments>Mike L.: "Goldberg Variations on harpsichord, small theatre, lovely show."</comments>
 		</concert>
-        <concert>
+		<concert>
+            <date>March 5</date>
+            <time>7:30 PM</time>
+            <place>Alice Tully Hall, Lincoln Center, New York, NY, USA</place>
+            <with solo="yes"/>
+            <comments>Bach's "Goldberg Variations" played on harpsichord. Concert mentioned in <a href="https://books.google.ch/books?id=K-gCAAAAMBAJ">New York Magazine</a> (March 6, 1989). A workshop apparently took place at 5:30 PM.</comments>
+            <privatecomments>Facebook message from Harry Miller.</privatecomments>
+        </concert>
+          <concert>
             <!-- Peter Tóth, PDF sent by email -->
             <date>March 20</date>
             <place>Ferenc Liszt Academy of Music, Budapest, Hungary</place>
