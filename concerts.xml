@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 1, 2021">
+<concerts modified="November 11, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -8527,7 +8527,7 @@
 		<concert>
 			<date>October 15</date>
 			<place>Philharmonie, Cologne, Germany</place>
-			<release>Tribute</release>
+			<release id="tribute">Tribute</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>

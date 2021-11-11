@@ -580,8 +580,6 @@ Johann Sebastian Bach, Goldberg Variationen (BWV 998);
 
 (*) <footnote>Instrument made by Tatsuo Takahashi.</footnote>
 
-NEXT
-
 <sect>The years ranging from 1990 to 2000+
 
 <sect1>Lousadzak for Piano and Orchestra, <it>(Alan Hovhaness)</it>
@@ -594,39 +592,7 @@ Recorded 1989. MusicMasters Records, Musicmaster 66204.
   Keith Jarrett <it>(piano)</it>,
   American Composer's Orchestra, Dennis Russell Davies <it>(director)</it>.
 
-
-<sect1>Tribute, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1172743/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1990.</bf>
-Live; K&ouml;ln Philarmonic, October 15, 1989.
-ECM 1420/21; 2-LP 847 135-1/2-CD 847 135-2.
-Prix du President de la Republique (Album of the Year) - 1990, Charles Cros
-Academy (France).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Lover Man: Lee Konitz,
-  I Hear a Rhapsody: Jim Hall,
-  Little Girl Blue: Nancy Wilson,
-  Solar: Bill Evans,
-  Sun Prayer: Keith Jarrett,
-  Just In Time: Charlie Parker,
-  Smoke Gets In Your Eyes: Coleman Hawkins,
-  All of You: Miles Davis,
-  Ballad of the Sad Young Man: Anita O'Day,
-  All the Things You Are: Sonny Rollins,
-  It's Easy to Remember: John Coltrane,
-  U Dance (Keith Jarrett).
-
+NEXT
 
 <sect1>Paris Concert, <it>(Keith Jarrett)</it>
 

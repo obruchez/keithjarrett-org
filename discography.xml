@@ -621,6 +621,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/ff67b63e-1a9a-38ed-b399-2df09661817b"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5071906"/>
 	</release>
+	<release id="tribute">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>Tribute</name>
+		<year>1990</year>
+		<firstreleasedate>1990-10-xx</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000674398"/>
+		<link type="Discogs" url="https://www.discogs.com/master/326676"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/6905ece1-5d88-315b-9184-689fab9c4328"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7840506"/>
+	</release>
 
 <!--
 	<release id="">
