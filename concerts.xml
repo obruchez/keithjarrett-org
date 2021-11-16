@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 11, 2021">
+<concerts modified="November 16, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5076,8 +5076,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Listed as a November 25 concert <a href="http://www.lapresse.ca/arts/musique/entrevues/201507/17/01-4886315-john-roney-reinvente-le-koln-concert-de-jarrett.php">here</a>.</comments>
-			<privatecomments>From Marc Morvan's list.</privatecomments>
+			<comments>Two sets. Listed as a November 25 concert <a href="http://www.lapresse.ca/arts/musique/entrevues/201507/17/01-4886315-john-roney-reinvente-le-koln-concert-de-jarrett.php">here</a>.</comments>
+			<privatecomments>From Marc Morvan's list. Number of sets given by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Herbert Kohout -->
