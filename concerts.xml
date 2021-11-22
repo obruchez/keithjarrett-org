@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 16, 2021">
+<concerts modified="November 22, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6874,6 +6874,13 @@
 			<with solo="yes"/>
 			<comments>Mentioned in <a href="https://archive.org/stream/towntopicsprince389unse#page/n25/search/jarrett">Town Topics</a>.</comments>
 			<privatecomments>From Marc Morvan.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 12</date>
+			<place>Silva Concert Hall, Hult Center for the Performing Arts, Eugene, OR, USA</place>
+			<time>8 PM</time>
+			<with solo="yes"/>
+			<privatecomments>Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>May 13</date>
