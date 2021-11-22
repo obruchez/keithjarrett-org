@@ -594,27 +594,6 @@ Recorded 1989. MusicMasters Records, Musicmaster 66204.
 
 NEXT
 
-<sect1>Paris Concert, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1158658/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1990.</bf>
-Live; Salle Pleyel, Paris, October 17, 1988;
-Peter Laenger, Andreas Neubronner (sound engineer).
-ECM 1401; LP 839 173-1/CD 839 173-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks:</bf>
-  October 17, 1988 <it>(Keith Jarrett)</it>,
-  The Wind <it>(Russ Freeman, Jerry Gladstone)</it>,
-  Blues <it>(Keith Jarrett)</it>.
-
-
 <sect1>Keith Jarrett at his best, <it>(Keith Jarrett)</it>
 
 <p>

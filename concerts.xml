@@ -8322,7 +8322,7 @@
 		<concert>
 			<date>October 17</date>
 			<place>Salle Pleyel, Paris, France</place>
-			<release>Paris Concert</release>
+			<release id="paris-concert">Paris Concert</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>

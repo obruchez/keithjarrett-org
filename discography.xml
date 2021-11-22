@@ -621,6 +621,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/ff67b63e-1a9a-38ed-b399-2df09661817b"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5071906"/>
 	</release>
+	<release id="paris-concert">
+		<artist>Keith Jarrett</artist>
+		<name>Paris Concert</name>
+		<year>1990</year>
+		<firstreleasedate>1990-04-xx</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000309205"/>
+		<link type="Discogs" url="https://www.discogs.com/master/26275"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/4a055da3-1626-3840-9ffc-5ef55928f4f0"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3818513"/>
+	</release>
 	<release id="tribute">
 		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
 		<name>Tribute</name>
