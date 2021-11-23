@@ -5902,6 +5902,12 @@
 			<comments>Kenneth K.: "The show in March, '78 was on a Wednesday night, in the middle of the month - maybe the 15th or 16th"</comments>
 		</concert>
 		<concert>
+			<date>April 7</date>
+			<place>Allentown Symphony Hall, Allentown, PA, USA</place>
+			<with solo="yes"/>
+			<privatecomments>Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
 			<date>April 15</date>
 			<place>NBC Studios, New York, NY, USA</place>
 			<event>Saturday Night Live</event>
