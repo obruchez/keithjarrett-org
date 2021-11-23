@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 22, 2021">
+<concerts modified="November 23, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6406,9 +6406,10 @@
 		</concert>
 		<concert>
 			<date>February 12</date>
+			<time>8 PM</time>
 			<place>Music Hall, Boston, MA, USA</place>
 			<with solo="yes"/>
-			<privatecomments>Exact date (year) by Marc Morvan.</privatecomments>
+			<privatecomments>Exact date (year) by Marc Morvan. Time by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 22</date>
