@@ -6478,7 +6478,7 @@
 		</concert>
 		<concert>
 			<date>December 1</date>
-			<place>Place des Arts, Montréal, QC, Canada</place>
+			<place>Salle Wilfrid-Pelletier, Place des Arts, Montréal, QC, Canada</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -6680,10 +6680,11 @@
 	</group>
 	<group year="1982">
 		<concert>
-			<!-- Simon Savary -->
 			<date>January 11</date>
-			<place>Salle Wilfrid-Pelletier, Montréal, QC, Canada</place>
+			<place>Salle Wilfrid-Pelletier, Place des Arts, Montréal, QC, Canada</place>
 			<with solo="yes"/>
+			<comments>The concert was interrupted.</comments>
+			<privatecomments>Simon Savary.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
@@ -8472,7 +8473,7 @@
 		</concert>
 		<concert>
 			<date incomplete="yes">July</date>
-			<place>Place Des Arts, Montréal, QC, Canada</place>
+			<place>Salle Wilfrid-Pelletier, Place des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<with solo="yes"/>
 			<comments>Keith played mostly standards. The year for this concert is maybe incorrect. It might actually be the July 4, 1990 concert.</comments>
@@ -8647,8 +8648,8 @@
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
-			<!-- at 6 p.m. -->
 			<date>July 4</date>
+			<time>6 PM</time>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<with solo="yes"/>
