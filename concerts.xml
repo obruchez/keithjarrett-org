@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 23, 2021">
+<concerts modified="November 27, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5905,7 +5905,7 @@
 			<date>April 7</date>
 			<place>Allentown Symphony Hall, Allentown, PA, USA</place>
 			<with solo="yes"/>
-			<privatecomments>Tonino Vantaggiato.</privatecomments>
+			<privatecomments>From Tonino Vantaggiato's list.</privatecomments>
 		</concert>
 		<concert>
 			<date>April 15</date>
@@ -6418,6 +6418,14 @@
 			<privatecomments>Exact date (year) by Marc Morvan. Time by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
+			<date>March 16</date>
+			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
+			<with>
+				<name>Saint Paul Chamber Orchestra</name>
+			</with>
+			<privatecomments>From Tonino Vantaggiato's list.</privatecomments>
+		</concert>
+		<concert>
 			<date>March 22</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
 			<release>The Celestial Hawk</release>
@@ -6480,6 +6488,7 @@
 			<date>December 1</date>
 			<place>Salle Wilfrid-Pelletier, Place des Arts, Montréal, QC, Canada</place>
 			<with solo="yes"/>
+			<comments>The concert was interrupted.</comments>
 		</concert>
 		<concert>
 			<!-- James Dizdar -->
@@ -6888,7 +6897,7 @@
 			<place>Silva Concert Hall, Hult Center for the Performing Arts, Eugene, OR, USA</place>
 			<time>8 PM</time>
 			<with solo="yes"/>
-			<privatecomments>Tonino Vantaggiato.</privatecomments>
+			<privatecomments>From Tonino Vantaggiato's list.</privatecomments>
 		</concert>
 		<concert>
 			<date>May 13</date>
