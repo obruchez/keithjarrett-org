@@ -592,8 +592,6 @@ Recorded 1989. MusicMasters Records, Musicmaster 66204.
   Keith Jarrett <it>(piano)</it>,
   American Composer's Orchestra, Dennis Russell Davies <it>(director)</it>.
 
-NEXT
-
 <sect1>Keith Jarrett at his best, <it>(Keith Jarrett)</it>
 
 <p>
@@ -639,34 +637,7 @@ Discurios Dis 201 LP.
   Yesterday,
   Funky Tonk.
 
-
-<sect1>The Cure, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1172745/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1991.</bf>
-Live; Town Hall, NYC, April 21 1990;
-Jan Erik Kongshaug (sound engineer).
-ECM 1440; CD 849 650-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Bemsha Swing,
-  Old Folks,
-  Woody'n You,
-  Blame It On My Youth,
-  Golden Earrings,
-  Body and Soul,
-  The Cure (Keith Jarrett),
-  Things Ain't What They Used to Be.
-
+NEXT
 
 <sect1>Das Wohltemperierte Klavier, Buch II, <it>(Johann Sebastian Bach)</it>
 

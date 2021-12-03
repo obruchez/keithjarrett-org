@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2021-10-19">
+<discography modified="2021-12-03">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -644,6 +644,19 @@
 		<link type="Discogs" url="https://www.discogs.com/master/326676"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/6905ece1-5d88-315b-9184-689fab9c4328"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7840506"/>
+	</release>
+
+	<release id="the-cure">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>The Cure</name>
+		<year>1991</year>
+		<firstreleasedate>1991-10-xx</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000273257"/>
+		<link type="Discogs" url="https://www.discogs.com/master/490714"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/9d13c204-8e04-3db3-b8df-aae4931ccdcc"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7728416"/>
 	</release>
 
 <!--

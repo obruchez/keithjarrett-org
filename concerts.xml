@@ -8641,7 +8641,7 @@
 		<concert>
 			<date>April 21</date>
 			<place>Town Hall, New York, NY, USA</place>
-			<release>The Cure</release>
+			<release id="the-cure">The Cure</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
