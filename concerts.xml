@@ -7519,7 +7519,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Not listed in 1991 Japanese tour book -->
 			<date>July 18</date>
 			<place>San Sebastian, Spain</place>
 			<event>San Sebastian Jazz Festival</event>
@@ -7527,15 +7526,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-		</concert>
-		<concert>
-			<date>July 19</date>
-			<place>San Sebastian, Spain</place>
-			<event>San Sebastian Jazz Festival</event>
-			<with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
+			<privatecomments>Not listed in 1991 Japanese tour book. Didn't play on the day after (July 19, 1985) according to Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>July 23</date>
