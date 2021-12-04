@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 3, 2021">
+<concerts modified="December 4, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6874,10 +6874,12 @@
 			<comments>From Mike: "He played 'Somewhere Over The Rainbow' (maybe as a second encore). I remember during what was probably the first encore, where he did a bluesy vamp, the audience started clapping along and, after a while, he stopped playing, clapped along a bit and then said that 'What you are hearing out there is not the same thing as what I am hearing up here.' That got them quiet..."</comments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>April 14</date>
+			<time>7:30 PM</time>
 			<place>Boston Symphony Hall, Boston, MA, USA</place>
 			<with solo="yes"/>
+			<comments>Cancelled (poor ticket sales).</comments>
+			<privatecomments>Simon Savary.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
@@ -7062,6 +7064,7 @@
 		</concert>
 		<concert>
 			<date>November 19</date>
+			<time>8:30 PM</time>
 			<place>Louise M. Davies Symphony Hall, San Francisco, CA, USA</place>
 			<with solo="yes"/>
 			<comments>Kenneth K.: "Stravinsky Piano Concerto".</comments>
@@ -7087,8 +7090,10 @@
 		</concert>
 		<concert>
 			<date>December 7</date>
+			<time>8 PM</time>
 			<place>Symphony Hall, Boston, MA, USA</place>
 			<with solo="yes"/>
+			<comments>"Celebrating 10 years of solo piano concerts".</comments>
 		</concert>
 		<concert>
 			<date>December 10</date>
@@ -7230,6 +7235,7 @@
 		</concert>
 		<concert>
 			<date>October 26</date>
+			<time>8 PM</time>
 			<place>Symphony Hall, Boston, MA, USA</place>
 			<with solo="yes"/>
 			<comments>Kenneth K.: "Same program as Stockholm." Mentioned in the Boston Globe and Boston Phoenix.</comments>
