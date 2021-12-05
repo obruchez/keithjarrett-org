@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 4, 2021">
+<concerts modified="December 5, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -4510,8 +4510,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Two shows a night?</comments>
-			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
+			<comments>Two sets.</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik. Number of sets confirmed by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 5</date>
@@ -4521,8 +4521,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Two shows a night?</comments>
-			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
+			<comments>Two sets.</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik. Number of sets confirmed by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 6</date>
@@ -4532,8 +4532,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Two shows a night?</comments>
-			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
+			<comments>Two sets.</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik. Number of sets confirmed by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 7</date>
@@ -4543,8 +4543,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Two shows a night?</comments>
-			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
+			<comments>Two sets.</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik. Number of sets confirmed by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 8</date>
@@ -4554,8 +4554,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Two shows a night?</comments>
-			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
+			<comments>Two sets.</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik. Number of sets confirmed by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 9</date>
@@ -4565,8 +4565,8 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Two shows a night?</comments>
-			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
+			<comments>Two sets.</comments>
+			<privatecomments>Mentioned by Kenneth Kubernik. Number of sets confirmed by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 13</date>
