@@ -5937,9 +5937,15 @@
 			<!-- Unknown source + Preston Keido Houser -->
 			<date incomplete="yes">Summer</date>
 			<place>Berkeley, CA, USA</place>
-			<event></event>
 			<with solo="yes"/>
 			<comments>The city (Berkeley) is not completely certain, but the concert did take place in the San Francisco Bay Area. Preston H.: "I attended a solo concert in the summer of 1978 in Berkeley, CA. or it could have been May, 1980, at Zellerbach Hall. I'm not sure. It was a long time ago and I don't have any program information but I seem to recall that Jarrett was added on Sunday night immediately after the Berkeley Jazz Festival (although not officially part of the festival itself; 5/22/80 was a Thursday). I remember the crowd was pretty rowdy but it was the best Jarrett solo concert I ever heard, something like a mystical experience in unholy circumstances."</comments> 
+		</concert>
+		<concert>
+			<date incomplete="yes">Summer</date>
+			<place>Salle Wilfrid-Pelletier, Place des Arts, Montréal, QC, Canada</place>
+			<with solo="yes"/>
+			<comments>Mentioned by André Ménard in <a href="https://www.youtube.com/watch?v=IKbIL4zjxm8">this YouTube video</a>.</comments> 
+			<privatecomments>Added by Simon Savary.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
