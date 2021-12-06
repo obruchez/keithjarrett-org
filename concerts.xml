@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 5, 2021">
+<concerts modified="December 6, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5785,10 +5785,11 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Denis Le Neuf -->
 			<date>October 23</date>
 			<place>Theatre Royal, Drury Lane, London, UK</place>
 			<with solo="yes"/>
+			<comments>Advertised as being the first appearance of Keith Jarrett in the UK.</comments>
+			<privatecomments>Added by Denis Le Neuf.</privatecomments>
 		</concert>
 		<concert>
 			<date>October 25</date>
