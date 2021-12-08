@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 7, 2021">
+<concerts modified="December 8, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -2230,6 +2230,19 @@
 				<name instr="percussions">Airto Moreira</name>
 			</with>
 			<comments>Kenneth K.: "Shares bill with Nina Simone"</comments>
+		</concert>
+		<concert>
+			<date>April 28</date>
+			<place>Theater, Fresno City College, Fresno, CA, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>Students only.</comments>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Keith N. Moore -->
