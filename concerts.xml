@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 8, 2021">
+<concerts modified="December 9, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6541,10 +6541,11 @@
 	</group>
 	<group year="1981">
 		<concert>
-			<!-- Simon Savary -->
 			<date>March 11</date>
+			<time>8 PM</time>
 			<place>McCarter Theatre, Princeton, NJ, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Added by Simon Savary. Time by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 21</date>
@@ -6770,6 +6771,13 @@
 			<place>Town Hall, Auckland, New Zealand</place>
 			<with solo="yes"/>
 			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+		</concert>
+		<concert>
+			<date>April 17</date>
+			<time>8 PM</time>
+			<place>McCarter Theatre, Princeton, NJ, USA</place>
+			<with solo="yes"/>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Seth Melchert -->
