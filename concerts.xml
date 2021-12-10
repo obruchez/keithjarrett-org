@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 9, 2021">
+<concerts modified="December 10, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6488,6 +6488,14 @@
 			<date>May 22</date>
 			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>August 17</date>
+			<time>8:30 PM</time>
+			<place>Robert Mondavi Winery, Oakville, CA, USA</place>
+			<event>Robert Mondavi Summer Festival</event>
+			<with solo="yes"/>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Simon Savary -->	
