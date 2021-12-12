@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 11, 2021">
+<concerts modified="December 12, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6661,24 +6661,25 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<date>October 20</date>
+			<place>Pasadena Civic Auditorium, Pasadena, CA, USA</place>
+			<with solo="yes"/>
+			<comments>Kenneth K.: "He encored with "Never Never Land" from 'Peter Pan'"</comments>
+			<privatecomments>Added by Kenneth Kubernik. Exact date by Tonino Vantaggiato (indirectly via Santa Barbara concert).</privatecomments>
+		</concert>
+		<concert>
+			<date>October 21</date>
+			<time>8 PM</time>
+			<place>Arlington Theater, Santa Barbara, CA, USA</place>
+			<with solo="yes"/>
+			<comments>Kenneth K.: "The night before he played (solo) at the Pasadena Civic Auditorium (...) late in the month"</comments>
+			<privatecomments>Added by Kenneth Kubernik. Exact date and time by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
 			<!-- oscarq47 -->
 			<date>October 23</date>
 			<place>Fox Theatre, San Diego, CA, USA</place>
 			<with solo="yes"/>
-		</concert>
-		<concert>
-			<!-- Kenneth Kubernik -->
-			<date incomplete="yes">October</date>
-			<place>Pasadena Civic Auditorium, Pasadena, CA, USA</place>
-			<with solo="yes"/>
-			<comments>Kenneth K.: "He encored with "Never Never Land" from 'Peter Pan'"</comments>
-		</concert>
-		<concert>
-			<!-- Kenneth Kubernik -->
-			<date incomplete="yes">October</date>
-			<place>Arlington Theater, Santa Barbara, CA, USA</place>
-			<with solo="yes"/>
-			<comments>Kenneth K.: "The night before he played (solo) at the Pasadena Civic Auditorium (...) late in the month"</comments>
 		</concert>
 		<concert>
 			<date>November 23</date>
