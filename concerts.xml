@@ -6661,18 +6661,18 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<date>October 20</date>
-			<place>Pasadena Civic Auditorium, Pasadena, CA, USA</place>
-			<with solo="yes"/>
-			<comments>Kenneth K.: "He encored with "Never Never Land" from 'Peter Pan'"</comments>
-			<privatecomments>Added by Kenneth Kubernik. Exact date by Tonino Vantaggiato (indirectly via Santa Barbara concert).</privatecomments>
-		</concert>
-		<concert>
 			<date>October 21</date>
 			<time>8 PM</time>
 			<place>Arlington Theater, Santa Barbara, CA, USA</place>
 			<with solo="yes"/>
-			<comments>Kenneth K.: "The night before he played (solo) at the Pasadena Civic Auditorium (...) late in the month"</comments>
+			<privatecomments>Added by Kenneth Kubernik. Exact date and time by Tonino Vantaggiato. Following comment by Kenneth thus seems to be wrong: "The night before he played (solo) at the Pasadena Civic Auditorium (...) late in the month".</privatecomments>
+		</concert>
+		<concert>
+			<date>October 24</date>
+			<time>8 PM</time>
+			<place>Pasadena Civic Auditorium, Pasadena, CA, USA</place>
+			<with solo="yes"/>
+			<comments>Kenneth K.: "He encored with "Never Never Land" from 'Peter Pan'"</comments>
 			<privatecomments>Added by Kenneth Kubernik. Exact date and time by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
