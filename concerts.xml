@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 12, 2021">
+<concerts modified="December 15, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -4602,6 +4602,13 @@
 			<with solo="yes"/>
 			<comments>Marc M.: "Gato Barbieri was ill, so Keith Jarrett was headlining." George N.: "Previous commenter states Gato was ill, I recall the announcement being that it was travel problems that kept them from being there that night."</comments>
 			<privatecomments>Information from Peter Elsdon. Time and Gato Barbieri concert from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
+		</concert>
+		<concert>
+			<date>March 15</date>
+			<time>2:30 PM</time>
+			<place>Queen Elizabeth Playhouse, Vancouver, BC, Canada</place>
+			<with solo="yes"/>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 16</date>
