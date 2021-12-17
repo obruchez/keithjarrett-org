@@ -639,24 +639,6 @@ Discurios Dis 201 LP.
 
 NEXT
 
-<sect1>Das Wohltemperierte Klavier, Buch II, <it>(Johann Sebastian Bach)</it>
-
-<p>
-<bf>1991.</bf>
-Cavelight Studio, NJ, May 1990;
-Peter Laenger (sound engineer).
-ECM NEW SERIES 1433/34; 2-CD 847 936-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(harpsichord)</it> (*).
-
-<bf>Tracks:</bf>
-  Pr&auml;ludien und Fugen I-XII <it>(BWV 870-881)</it>,
-  Pr&auml;ludien und Fugen XIII-XXIV <it>(BWV 882-893)</it>.
-
-(*) <footnote>Instrument made by Tatsuo Takahashi.</footnote>
-
-
 <sect1>Etruscan Concerto, <it>(Peggy Glanville-Hicks)</it>
 
 <p>
