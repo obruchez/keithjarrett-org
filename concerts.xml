@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 15, 2021">
+<concerts modified="December 17, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6792,6 +6792,13 @@
 			<date>March 27</date>
 			<time>8 PM</time>
 			<place>Academy of Music, Philadelphia, PA, USA</place>
+			<with solo="yes"/>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
+			<date>April 10</date>
+			<time>8 PM</time>
+			<place>Boston Opera House, Boston, MA, USA</place>
 			<with solo="yes"/>
 			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
