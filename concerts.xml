@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 17, 2021">
+<concerts modified="December 20, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6656,10 +6656,11 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Simon Savary-->
 			<date>September 6</date>
-			<place>Marin Veterans Auditorium, San Rafael, CA, USA</place>
+			<time>8 PM</time>
+			<place>Marin Veterans' Memorial Auditorium, Marin County Civic Center, San Rafael, CA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Added by Simon Savary. "Autumn concert" added by Seth Melchert, but actually same concert (confirmed by Tonino Vantaggiato). Time by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Mark Matthew Freeman -->
@@ -6720,12 +6721,6 @@
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with solo="yes"/>
 			<comments>Concert mentioned during "The Tomorrow Show" ("next Friday").</comments>
-		</concert>
-		<concert>
-			<!-- Seth Melchert -->
-			<date incomplete="yes">Autumn</date>
-			<place>Marin Civic Center, San Rafael, CA, USA</place>
-			<with solo="yes"/>
 		</concert>
 		<concert>
 			<!-- jazzinreds@yahoo.co.uk -->
