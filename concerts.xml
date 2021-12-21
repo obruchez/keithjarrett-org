@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 20, 2021">
+<concerts modified="December 21, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5173,13 +5173,25 @@
 		<concert>
 			<!-- Jeffrey Utter <jlutter@yahoo.com> -->
 			<date>January 16</date>
-			<place>UC San Diego Gym, University of California, San Diego, CA, USA</place>
+			<place>UC San Diego Gym, UC San Diego, San Diego, CA, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
 			<comments>From the UCSD archives: "Jazz pianist Keith Jarrett will perform in concert at the University of California, San Diego Friday, Jan. 16, at 8:30 p.m. in the UC San Diego Gym. (...) Tickets for the performance are $3 for UC San Diego students in advance and $4.50 for general admission. Tickets can be obtained at the UC San Diego Box Office on campus (452-4559) or through Ticketron agencies."</comments>
+		</concert>
+		<concert>
+			<date>January 17</date>
+			<time>8 PM</time>
+			<place>Campbell Hall, UC Santa Barbara, Santa Barbara, CA, USA</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<comments>Tonino V.: "One hour of delay to start the show, two sets."</comments>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
