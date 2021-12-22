@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 21, 2021">
+<concerts modified="December 22, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -4594,6 +4594,14 @@
 			</with>
 			<comments>Two sets.</comments>
 			<privatecomments>Mentioned by Kenneth Kubernik. Number of sets confirmed by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
+			<date>March 11</date>
+			<time>8 PM</time>
+			<place>Campbell Hall, UC Santa Barbara, Santa Barbara, CA, USA</place>
+			<with solo="yes"/>
+			<comments>Tonino V.: "John Carter quintet also featured during the same evening. John Carter gave a lecture at 2 PM on that same day."</comments>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 13</date>
