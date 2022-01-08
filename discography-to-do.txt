@@ -637,8 +637,6 @@ Discurios Dis 201 LP.
   Yesterday,
   Funky Tonk.
 
-NEXT
-
 <sect1>Etruscan Concerto, <it>(Peggy Glanville-Hicks)</it>
 
 <p>
@@ -731,7 +729,6 @@ Reissue of Byablue and Bop-Be.
   Pocket Full of Cherry,
   Byablue.
 
-
 <sect1>24 Preludes and Fugues, Opus 87, <it>(Dmitri Shostakovich)</it>
 
 <p>
@@ -750,36 +747,7 @@ Best of Year List - 1992, John Rockwell, New York Times.
   Preludes and Fugues, Opus 87, 1-12;
   Preludes and Fugues, Opus 87, 13-24.
 
-
-<sect1>Bye Bye Blackbird, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1032192/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1993.</bf>
-Live; Power Station, NYC, October 12, 1991;
-Jay Newland (sound engineer).
-ECM 1467; CD 513 074-2.
-Album of the Year (Reader's Poll) - 1993, Swing Journal (Germany).
-Silverdisc Award - 1993, Swing Journal (Germany).
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Bye Bye Blackbird,
-  You Won't Forget Me,
-  Butch and Butch,
-  Summer Night,
-  For Miles (Keith Jarrett, Gary Peacock, Jack DeJohnette),
-  Straight No Chaser,
-  I Thought About You,
-  Blackbird, Bye Bye (Keith Jarrett, Gary Peacock, Jack DeJohnette).
-
+NEXT
 
 <sect1>Vienna Concert, <it>(Keith Jarrett)</it>
 
