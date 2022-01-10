@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 22, 2021">
+<concerts modified="January 10, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9128,10 +9128,12 @@
 		</concert>
 		<concert>
 			<date>March 14</date>
-			<place>New York, NY, USA</place>
+			<place>Alice Tully Hall, Lincoln Center, New York, NY, USA</place>
 			<with>
 				<name>Fairfield Orchestra</name>
 			</with>
+			<comments>Tonino V.: "According to [a newspaper article] about the concert, it was reported that the recording session with Fairfield Orchestra [<i>Bridge of Light</i>] would have taken place the week after the concert at Alice Tully Hall."</comments>
+			<privatecomments>Exact venue given by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<date>May 31</date>
