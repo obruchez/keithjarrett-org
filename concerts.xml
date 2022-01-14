@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 11, 2021">
+<concerts modified="January 14, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6933,6 +6933,12 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
+			<date>December 10</date>
+			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
+			<with solo="yes"/>
+			<privatecomments>Concert added by Tonino Vantaggiato .</privatecomments>
+		</concert>
+		<concert>
 			<!-- Simon Savary -->
 			<date>December 11</date>
 			<place>Dorothy Chandler Pavillion, Los Angeles, CA, USA</place>
@@ -7202,10 +7208,11 @@
 			<privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Seth Melchert -->
 			<date incomplete="yes"></date>
 			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
 			<with solo="yes"/>
+			<comments>No information found about this concert. Might be the same as the December 10, 1982 concert.</comments>
+			<privatecomments>Concert added by Seth Melchert. Existence of this concert put in doubt by Tonino Vantaggiato.</privatecomments>
 		</concert>
 	</group>
 	<group year="1984">
