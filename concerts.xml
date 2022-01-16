@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 14, 2021">
+<concerts modified="January 16, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -4510,7 +4510,7 @@
 			<place>Skinner Hall of Music, Vassar College, Poughkeepsie, NY, USA</place>
 			<release>Solo Performance New York '75</release>
 			<with solo="yes"/>
-			<comments>The correct date is February 13, not February 14, according to <a href="http://historian.vassar.edu/chronology/1975.html">vassar.edu</a>. <i>Solo Performance New York '75</i> is a bootleg.</comments>
+			<comments>The correct date is February 13, not February 14, according to <a href="https://www.vassar.edu/chronology/records/1975/1975-02-13-jarrett.html">vassar.edu</a>. <i>Solo Performance New York '75</i> is a bootleg.</comments>
 		</concert>
 		<concert>
 			<date>February 20</date>
