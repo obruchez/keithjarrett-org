@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 16, 2021">
+<concerts modified="January 17, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -3225,10 +3225,11 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Matthias Bohlen -->
 			<date>March 30</date>
 			<place>Hotel Mohren, Willisau, Switzerland</place>
 			<with solo="yes"/>
+			<comments>Concert poster available on <a href="https://www.willisaujazzarchive.ch/concerts/1973/1079.html">The Willisau Jazz Archive</a>.</comments>
+			<privatecomments>Added by Matthias Bohlen.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
