@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 17, 2021">
+<concerts modified="January 25, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -2945,6 +2945,16 @@
 			</with>
 		</concert>
 		<concert>
+			<date>June 10</date>
+			<time>8 PM</time>
+			<place>Aula Kantonsschule, Willisau, Switzerland</place>
+			<with>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<privatecomments>Articles about the concert in an email from Tonino Vantaggiato from January 24, 2022.</privatecomments>
+		</concert>
+		<concert>
 			<date>June 12</date>
 			<place>Munich, Germany</place>
 			<with>
@@ -3226,10 +3236,11 @@
 		</concert>
 		<concert>
 			<date>March 30</date>
+			<time>8 PM</time>
 			<place>Hotel Mohren, Willisau, Switzerland</place>
 			<with solo="yes"/>
 			<comments>Concert poster available on <a href="https://www.willisaujazzarchive.ch/concerts/1973/1079.html">The Willisau Jazz Archive</a>.</comments>
-			<privatecomments>Added by Matthias Bohlen.</privatecomments>
+			<privatecomments>Added by Matthias Bohlen. Articles about the concert in an email from Tonino Vantaggiato from January 24, 2022.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Simon Savary -->
@@ -3404,6 +3415,18 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments>Concert organized by Showcase Jazz. Michele M.: "The Steinway concert grand was sent to Grand Rapids, before it arrived late in East Lansing. The show started at 11p.m.! Fans were sitting in the hallway for 3 hours, and they waited. There was no way to get the word out then. What a night!"</comments>
+		</concert>
+		<concert>
+			<date>November 2</date>
+			<time>8 PM</time>
+			<place>Hotel Mohren, Willisau, Switzerland</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+				<name>Guilherme Franco</name>
+			</with>
+			<privatecomments>Articles about the concert in an email from Tonino Vantaggiato from January 24, 2022.</privatecomments>
 		</concert>
 		<concert>
 			<date>November 3</date>
@@ -5356,14 +5379,15 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra -->
 			<date>May 1</date>
+			<time>8 PM</time>
 			<place>Hotel Mohren, Willisau, Switzerland</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Added by Sep Troelstra. Articles about the concert in an email from Tonino Vantaggiato from January 24, 2022.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Sep Troelstra -->
