@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 25, 2021">
+<concerts modified="January 26, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -2206,8 +2206,7 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
-			<date incomplete="yes">April</date>
+			<date>April 7</date>
 			<place>Gaslight Club, New York, NY, USA</place>
 			<with>
 				<name instr="trumpet">Miles Davis</name>
@@ -2216,7 +2215,60 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
-			<comments>Five nights. The Gaslight Club was formerly the Cafe Au Go Go.</comments>
+			<comments>The Gaslight Club was formerly the Cafe Au Go Go.</comments>
+			<privatecomments>Added by Kenneth Kubernik. Exact date by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
+			<date>April 8</date>
+			<place>Gaslight Club, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>The Gaslight Club was formerly the Cafe Au Go Go.</comments>
+			<privatecomments>Added by Kenneth Kubernik. Exact date by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
+			<date>April 9</date>
+			<place>Gaslight Club, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>The Gaslight Club was formerly the Cafe Au Go Go.</comments>
+			<privatecomments>Added by Kenneth Kubernik. Exact date by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
+			<date>April 10</date>
+			<place>Gaslight Club, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>The Gaslight Club was formerly the Cafe Au Go Go.</comments>
+			<privatecomments>Added by Kenneth Kubernik. Exact date by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
+			<date>April 11</date>
+			<place>Gaslight Club, New York, NY, USA</place>
+			<with>
+				<name instr="trumpet">Miles Davis</name>
+				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
+				<name instr="electric bass">Michael Henderson</name>
+				<name instr="drums">Jack DeJohnette</name>
+				<name instr="percussions">Airto Moreira</name>
+			</with>
+			<comments>The Gaslight Club was formerly the Cafe Au Go Go.</comments>
+			<privatecomments>Added by Kenneth Kubernik. Exact date by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Kenneth Kubernik -->
