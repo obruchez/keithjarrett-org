@@ -9067,7 +9067,7 @@
 		<concert>
 			<date>July 13</date>
 			<place>Staatsoper, Vienna, Austria</place>
-			<release>Vienna Concert</release>
+			<release id="vienna-concert">Vienna Concert</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>

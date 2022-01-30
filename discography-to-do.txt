@@ -749,30 +749,6 @@ Best of Year List - 1992, John Rockwell, New York Times.
 
 NEXT
 
-<sect1>Vienna Concert, <it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1158651/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1993.</bf>
-Vienna State Opera, Vienna, July 13, 1991;
-Peter Laenger (sound engineer);
-Manfred Eicher and Keith Jarrett (producers).
-ECM 1481; CD 513 437-2.
-<footnote>
-Includes a poem by Robert Bly.
-</footnote>
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks:</bf>
-  Vienna, Part I;
-  Vienna, Part II.
-
-
 <sect1>The French Suites, <it>(Johann Sebastian Bach)</it>
 
 <p>
