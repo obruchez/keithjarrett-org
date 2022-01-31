@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 26, 2021">
+<concerts modified="January 31, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -47,7 +47,65 @@
 	</group>
 	<group year="1965">
 		<concert>
-			<!-- Kenneth Kubernik -->
+			<date>November 9</date>
+			<place>Five Spot Café, New York, NY, USA</place>
+			<with>
+				<name instr="drums">Art Blakey</name>
+				<name instr="trumpet">Chuck Mangione (?)</name>
+				<name instr="tenor saxophone">Frank Mitchell (?)</name>
+				<name instr="bass">Reggie Johnson (?)</name>
+			</with>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
+			<date>November 28</date>
+			<time>3 PM</time>
+			<place>Five Spot Café, New York, NY, USA</place>
+			<with>
+				<name instr="drums">Art Blakey</name>
+				<name instr="trumpet">Chuck Mangione (?)</name>
+				<name instr="tenor saxophone">Frank Mitchell (?)</name>
+				<name instr="bass">Reggie Johnson (?)</name>
+			</with>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
+			<date>December 5</date>
+			<time>3 PM</time>
+			<place>Five Spot Café, New York, NY, USA</place>
+			<with>
+				<name instr="drums">Art Blakey</name>
+				<name instr="trumpet">Chuck Mangione (?)</name>
+				<name instr="tenor saxophone">Frank Mitchell (?)</name>
+				<name instr="bass">Reggie Johnson (?)</name>
+			</with>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
+			<date>December 12</date>
+			<time>3 PM</time>
+			<place>Five Spot Café, New York, NY, USA</place>
+			<with>
+				<name instr="drums">Art Blakey</name>
+				<name instr="trumpet">Chuck Mangione (?)</name>
+				<name instr="tenor saxophone">Frank Mitchell (?)</name>
+				<name instr="bass">Reggie Johnson (?)</name>
+			</with>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
+			<date>December 19</date>
+			<time>3 PM</time>
+			<place>Five Spot Café, New York, NY, USA</place>
+			<with>
+				<name instr="drums">Art Blakey</name>
+				<name instr="trumpet">Chuck Mangione (?)</name>
+				<name instr="tenor saxophone">Frank Mitchell (?)</name>
+				<name instr="bass">Reggie Johnson (?)</name>
+			</with>
+			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
+		</concert>
+		<concert>
 			<date incomplete="yes">December</date>
 			<place>Five Spot Café, New York, NY, USA</place>
 			<with>
@@ -57,6 +115,7 @@
 				<name instr="bass">Reggie Johnson (?)</name>
 			</with>
 			<comments>Kenneth K.: "Blakey had a residency for the month".</comments>
+			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 	</group>
 	<group year="1966">
