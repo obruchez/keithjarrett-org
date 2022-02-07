@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 31, 2021">
+<concerts modified="February 7, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -106,7 +106,7 @@
 			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
-			<date incomplete="yes">December</date>
+			<date incomplete="yes">November-December</date>
 			<place>Five Spot Café, New York, NY, USA</place>
 			<with>
 				<name instr="drums">Art Blakey</name>
@@ -114,8 +114,8 @@
 				<name instr="tenor saxophone">Frank Mitchell (?)</name>
 				<name instr="bass">Reggie Johnson (?)</name>
 			</with>
-			<comments>Kenneth K.: "Blakey had a residency for the month".</comments>
-			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
+			<comments>Residency from November 9, 1965 to December 19 (or 20), 1965.</comments>
+			<privatecomments>Added by Kenneth Kubernik. More information from Tonino Vantaggiato.</privatecomments>
 		</concert>
 	</group>
 	<group year="1966">
