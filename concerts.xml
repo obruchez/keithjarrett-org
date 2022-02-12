@@ -9215,7 +9215,7 @@
 		<concert>
 			<date>September 16</date>
 			<place>Deer Head Inn, Allentown, PA, USA</place>
-			<release>At The Deer Head Inn </release>
+			<release id="at-the-deer-head-inn">At The Deer Head Inn</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Paul Motian</name>

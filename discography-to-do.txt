@@ -747,8 +747,6 @@ Best of Year List - 1992, John Rockwell, New York Times.
   Preludes and Fugues, Opus 87, 1-12;
   Preludes and Fugues, Opus 87, 13-24.
 
-NEXT
-
 <sect1>The French Suites, <it>(Johann Sebastian Bach)</it>
 
 <p>
@@ -892,34 +890,7 @@ and David Becker (producers). Keith Jarrett (piano), Steve Swallow
   Piece for Ornette <it>(short version)</it> (22),
   Pardon My Rags (23).
 
-
-<sect1>At the Deer Head Inn, <it>(Keith Jarrett, Gary Peacock, Paul Motian)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1172728/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1994.</bf>
-Live; The Deer Head Inn, Allentown, PA, September 16, 1992;
-Kent Heckman (sound engineer);
-Bill Goodwin (producer).
-ECM 1531; CD 517 720-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Paul Motian <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Solar,
-  Basin Street Blues,
-  Chandra,
-  You Don't Know What Love Is,
-  You and the Night and the Music,
-  Bye Bye Blackbird,
-  It's Easy to Remember.
-
+NEXT
 
 <sect1>Bridge of Light, <it>(Keith Jarrett)</it>
 
