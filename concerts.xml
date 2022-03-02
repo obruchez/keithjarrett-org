@@ -6891,13 +6891,15 @@
 			<place>Salle Wilfrid-Pelletier, Place des Arts, Montréal, QC, Canada</place>
 			<with solo="yes"/>
 			<comments>The concert was interrupted.</comments>
-			<privatecomments>Simon Savary.</privatecomments>
+			<privatecomments>Added by Simon Savary.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>January 14</date>
+			<time></time>
 			<place>Salle Louis-Fréchette, Grand Théâtre de Québec, QC, Canada</place>
 			<with solo="yes"/>
+			<privatecomments>Added by Simon Savary.</privatecomments>
+			<image type="poster">1982-01-14-poster.jpg</image>
 		</concert>
 		<concert>
 			<date>March 6</date>
