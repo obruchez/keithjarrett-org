@@ -6895,7 +6895,7 @@
 		</concert>
 		<concert>
 			<date>January 14</date>
-			<time></time>
+			<time>8:30 PM</time>
 			<place>Salle Louis-Fréchette, Grand Théâtre de Québec, QC, Canada</place>
 			<with solo="yes"/>
 			<privatecomments>Added by Simon Savary.</privatecomments>
@@ -8763,7 +8763,7 @@
 		<concert>
 			<date>October 7</date>
 			<place>Konserthus, Oslo, Norway</place>
-			<release>Standards In Norway</release>
+			<release id="standards-in-norway">Standards In Norway</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>

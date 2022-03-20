@@ -890,8 +890,6 @@ and David Becker (producers). Keith Jarrett (piano), Steve Swallow
   Piece for Ornette <it>(short version)</it> (22),
   Pardon My Rags (23).
 
-NEXT
-
 <sect1>What I Say? Volume 1, <it>(Miles Davis (featuring Keith Jarrett))</it>
 
 <p>
@@ -951,35 +949,7 @@ ECM NEW SERIES 1501; CD 445 230-2.
   Sonate D major <it>(BWV 1028)</it>,
   Sonate G minor <it>(BWV 1029)</it>.
 
-
-<sect1>Standards in Norway, <it>(Keith Jarrett Trio)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1032193/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1995.</bf>
-Live; Konserthus, Oslo, October 7, 1989;
-Jan Erik Kongshaug (sound engineer);
-Manfred Eicher (producer).
-ECM 1542; CD 521 717-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  All Of You,
-  Little Girl Blue,
-  Just In Time,
-  Old Folks,
-  Love Is a Many-Splendored Thing,
-  Dedicated to You,
-  I Hear a Rhapsody,
-  How About You?
-
+NEXT
 
 <sect1>Keith Jarrett At the Blue Note - The Complete Recordings, <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
 
