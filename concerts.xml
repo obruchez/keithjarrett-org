@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 7, 2021">
+<concerts modified="April 2, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9394,7 +9394,7 @@
 		<concert>
 			<date>June 3</date>
 			<place>Blue Note, New York, NY, USA</place>
-			<release>At The Blue Note</release>
+			<release id="at-the-blue-note">Keith Jarrett at the Blue Note - The complete recordings</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -9403,7 +9403,7 @@
 		<concert>
 			<date>June 4</date>
 			<place>Blue Note, New York, NY, USA</place>
-			<release>At The Blue Note</release>
+			<release id="at-the-blue-note">Keith Jarrett at the Blue Note - The complete recordings</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -9412,7 +9412,7 @@
 		<concert>
 			<date>June 5</date>
 			<place>Blue Note, New York, NY, USA</place>
-			<release>At The Blue Note</release>
+			<release id="at-the-blue-note">Keith Jarrett at the Blue Note - The complete recordings</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>

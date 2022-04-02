@@ -725,7 +725,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/56fed9a1-ec8b-37a3-9629-f2d8bf4ff041"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7598431"/>
 	</release>
-
+	<release id="at-the-blue-note">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>Keith Jarrett at the Blue Note - The complete recordings</name>
+		<year>1995</year>
+		<firstreleasedate>1995-10-25</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000176964"/>
+		<link type="Discogs" url="https://www.discogs.com/master/1362851"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/c81c22f8-0fbe-3a16-8dcf-7226737bf115"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q4459658"/>
+	</release>
 <!--
 	<release id="">
 		<artist>Keith Jarrett</artist>
