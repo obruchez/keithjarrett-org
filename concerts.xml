@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 2, 2021">
+<concerts modified="April 24, 2021">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9462,7 +9462,7 @@
 		<concert>
 			<date>February 13</date>
 			<place>Teatro alla Scala, Milano, Italy</place>
-			<release>La Scala</release>
+			<release id="la-scala">La Scala</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>

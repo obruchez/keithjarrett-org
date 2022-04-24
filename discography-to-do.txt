@@ -949,8 +949,6 @@ ECM NEW SERIES 1501; CD 445 230-2.
   Sonate D major <it>(BWV 1028)</it>,
   Sonate G minor <it>(BWV 1029)</it>.
 
-NEXT
-
 <sect1>H&auml;ndel Suites for Keyboard, <it>(George Fredrick H&auml;ndel)</it>
 
 <p>
@@ -1021,22 +1019,7 @@ Masonic Funeral Music K.477,
 Concerto for Piano and Orchestra No.21 in C Major K.467,
 Symphony No.40 in G Minor K.550.
 
-
-<sect1>La Scala, <it>(Keith Jarrett)</it>
-
-<p>
-<bf>1997.</bf>
-Recorded February 13, 1995 and January 1995
-at Teatro alla Scala, Milano.
-Manfred Eicher (producer).
-ECM 1640 537 268-2.
-
-<bf>Featuring:</bf>
-Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks:</bf>
-La Scala - Part I, La Scala - Part II, Over the rainbow.
-
+NEXT
 
 <sect1>W.A.Mozart Piano Concertos, 
 <it>(Keith Jarrett)</it>
