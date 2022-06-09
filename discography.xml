@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2021-12-17">
+<discography modified="2022-06-09">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -749,6 +749,19 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/52ca368a-a71f-3627-b65c-0b4055857d20"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3819026"/>
 	</release>
+	<release id="tokyo-96">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>Tokyo '96</name>
+		<year>1998</year>
+		<firstreleasedate>1998-04-20</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000709266"/>
+		<link type="Discogs" url="https://www.discogs.com/master/624007"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/c045faf4-175e-3272-b996-096cf2a86911"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q17026026"/>
+	</release>
+
 <!--
 	<release id="">
 		<artist>Keith Jarrett</artist>

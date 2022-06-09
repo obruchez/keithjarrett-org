@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="April 24, 2021">
+<concerts modified="June 9, 2022">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9618,7 +9618,7 @@
 		<concert>
 			<date>March 30</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
-			<release>Tokyo '96</release>
+			<release id="tokyo-96">Tokyo '96</release>
 			<support>CD</support>
 			<release>Tokyo 1996</release>
 			<support>VHS/LaserDisc/DVD</support>

@@ -1019,8 +1019,6 @@ Masonic Funeral Music K.477,
 Concerto for Piano and Orchestra No.21 in C Major K.467,
 Symphony No.40 in G Minor K.550.
 
-NEXT
-
 <sect1>W.A.Mozart Piano Concertos, 
 <it>(Keith Jarrett)</it>
 
@@ -1039,35 +1037,7 @@ ECM 1624 (2 CD).
   Piano Concerto in E flat Major K 271 (Jeunehomme),
   Adagio and Fugue in C Minor K 546.
 
-
-<sect1>Tokyo '96, 
-<it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1032204/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1998.</bf> 
-Recorded live March 30, 1996 at Orchad Hall, Tokyo. ECM 1666.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  It Could Happen To You,
-  Never Let Me Go,
-  Billie's Bounce,
-  Summer Night,
-  I'll Remember April,
-  Mona Lisa,
-  Autumn Leaves,
-  Last Night When We Were Young ­ Caribbean Sky,
-  John's Abbey,
-  My Funny Valentine ­ Song.
-
+NEXT
 
 <sect1>The Melody At Night, With You, 
 <it>(Keith Jarrett)</it>
