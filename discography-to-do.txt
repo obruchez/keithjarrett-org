@@ -1039,34 +1039,6 @@ ECM 1624 (2 CD).
 
 NEXT
 
-<sect1>The Melody At Night, With You, 
-<it>(Keith Jarrett)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=805873/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>1999 (?).</bf> 
-ECM 1675.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>.
-
-<bf>Tracks:</bf>
-  I Loves You Porgy,
-  I Got It Band And That Ain't Good,
-  Don't Ever Leave Me,
-  Someone To Watch Over Me,
-  My Wild Irish Rose,
-  Blame It On My Youth,
-  Meditation,
-  Something To Remember You By,
-  Be My Love,
-  Shenandoah,
-  I'm Through With Love.
-
-
 <sect1>Whisper Not, 
 <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
 
