@@ -1039,39 +1039,6 @@ ECM 1624 (2 CD).
 
 NEXT
 
-<sect1>Whisper Not, 
-<it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1262554/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>2000 (?).</bf> 
-Release date is October 2000. ECM 1724.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  Bouncin' with Bud,
-  Whisper Not,
-  Groovin' High,
-  Chelsea Bridge,
-  Wrap Your Troubles In Dreams,
-  Round Midnight,
-  Sandu,
-  What Is This Thing Called Love,
-  Conception,
-  Prelude To A Kiss,
-  Hallucinations,
-  All My Tomorrows,
-  Poinciana,
-  When I Fall In Love.
-
-
 <sect1>Inside Out, 
 <it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
 

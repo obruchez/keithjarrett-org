@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="August 5, 2022">
+<concerts modified="September 25, 2022">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9856,7 +9856,7 @@
 		<concert>
 			<date>July 5</date>
 			<place>Palais des Congrès, Paris, France</place>
-			<release>Whisper Not</release>
+			<release id="whisper-not">Whisper Not</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
