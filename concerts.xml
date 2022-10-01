@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="September 25, 2022">
+<concerts modified="October 1, 2022">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -12026,13 +12026,14 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<date>July 3</date>
 			<place>Béla Bartók National Concert Hall, Palace of Arts, Budapest, Hungary</place>
 			<time>8 PM</time>
-			<release>Budapest Concert</release>
+			<release id="budapest-concert">Budapest Concert</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>
 			<date>July 6</date>
 			<place>L'Auditorium de Bordeaux, Bordeaux, France</place>
 			<time>8 PM</time>
+			<release id="bordeaux-concert">Bordeaux Concert</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>
