@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 1, 2022">
+<concerts modified="October 9, 2022">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9937,7 +9937,7 @@
 		<concert>
 			<date>July 26</date>
 			<place>Royal Festival Hall, London, UK</place>
-			<release>Inside Out</release>
+			<release id="inside-out">Inside Out</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>

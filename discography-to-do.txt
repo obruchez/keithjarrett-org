@@ -1039,30 +1039,6 @@ ECM 1624 (2 CD).
 
 NEXT
 
-<sect1>Inside Out, 
-<it>(Keith Jarrett, Gary Peacock, Jack DeJohnette)</it>
-
-<p>
-<#if output=html><bf><htmlurl
-url="http://www.cdnow.com/pagename=/RP/CDN/FIND/album.html/itemid=1425476/from=sr-8224315-1"
-name="Buy this album on CdNow.com"></bf></#if>
-
-<bf>October 2001 (?).</bf> 
-ECM 1780.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(piano)</it>,
-  Gary Peacock <it>(accoustic bass)</it>,
-  Jack DeJohnette <it>(drums)</it>.
-
-<bf>Tracks:</bf>
-  From The Body,
-  Inside Out,
-  341 Free Fade,
-  Riot, 
-  When I Fall In Love.
-
-
 <sect>Records whose date of publication is unknown
 
 <sect1>Keith Jarrett, <it>(Atlantic 60 151)</it>
