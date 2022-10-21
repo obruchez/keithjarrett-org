@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 9, 2022">
+<concerts modified="October 21, 2022">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -10022,7 +10022,7 @@
 		<concert>
 			<date>April 23</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
-			<release>Always Let Me Go (?)</release>
+			<release id="always-let-me-go">Always Let Me Go (?)</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10031,7 +10031,7 @@
 		<concert>
 			<date>April 24</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
-			<release>Always Let Me Go (?)</release>
+			<release id="always-let-me-go">Always Let Me Go (?)</release>
 			<release>Yesterdays</release>
 			<with>
 				<name>Gary Peacock</name>
@@ -10057,7 +10057,7 @@
 		<concert>
 			<date>April 30</date>
 			<place>Metropolitan Festival Hall, Tokyo, Japan</place>
-			<release>Always Let Me Go (?)</release>
+			<release id="always-let-me-go">Always Let Me Go (?)</release>
 			<release>Yesterdays</release>
 			<with>
 				<name>Gary Peacock</name>
