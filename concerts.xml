@@ -10270,7 +10270,7 @@
 			<date>July 16</date>
 			<place>Pinède Gould, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
-			<release>Up For It</release>
+			<release id="up-for-it">Up For It</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
