@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 21, 2022">
+<concerts modified="November 9, 2022">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -2189,9 +2189,8 @@
 	</group>
 	<group year="1971">
 		<concert>
-			<!-- Kenneth Kubernik -->
-			<date>Late February-early March</date>
-			<place>Wesleyan University, Middletown, CT, USA</place>
+			<date>February 14</date>
+			<place>McConaughy Hall, Wesleyan University, Middletown, CT, USA</place>
 			<with>
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
@@ -2199,6 +2198,7 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>First mentioned by Kenneth Kubernik (Late February-early March). Exact date and hall by Dan Santoro.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 11-14 (?)</date>
@@ -3585,9 +3585,8 @@
 			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Sam Rivers).</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 10</date>
-			<place>Yale University, New Haven, CT, USA</place>
+			<place>Woolsey Hall (?), Yale University, New Haven, CT, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -3595,6 +3594,7 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Sam Rivers).</comments>
+			<privatecomments>Added by Kenneth Kubernik. Potential hall by Dan Santoro.</privatecomments>
 		</concert>
 		<concert>
 			<date>November 11</date>
@@ -4851,6 +4851,13 @@
 			<date>February or April (?)</date>
 			<place>Moore Theater, Seattle, WA, USA</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>May 10</date>
+			<place>Sprague Hall, Yale University, New Haven, CT, USA</place>
+			<with solo="yes"/>
+			<comments>Dave Liebman and Lookout Farm played that night as well.</comments>
+			<privatecomments>Added by Dan Santoro.</privatecomments>
 		</concert>
 		<concert>
 			<date>May 27</date>
