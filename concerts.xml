@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 9, 2022">
+<concerts modified="November 10, 2022">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -1625,6 +1625,18 @@
 				<name instr="drums">Aldo Romano</name>
 			</with>
 		</concert>
+        <concert>
+			<date>February 13</date>
+			<time>9 PM</time>
+			<place>Théâtre Français, Bordeaux, France</place>
+			<with>
+				<name instr="bass">August "Gus" Nemeth</name>
+				<name instr="drums">Aldo Romano</name>
+			</with>
+			<image type="poster">1970-02-13-poster.jpg</image>
+			<comments>Opening for the Martial Solal trio.</comments>
+			<privatecomments>Added by Kenneth Kubernik. Exact date by Matthias Bohlen.</privatecomments>
+		</concert>
 		<concert>
 			<date>February 28</date>
 			<place>Cat 4, Metz, France</place>
@@ -1632,16 +1644,6 @@
 				<name instr="bass">August "Gus" Nemeth (?)</name>
 				<name instr="drums">Aldo Romano (?)</name>
 			</with>
-		</concert>
-		<concert>
-			<!-- Kenneth Kubernik -->
-			<date incomplete="yes">March</date>
-			<place>Bordeaux, France</place>
-			<with>
-				<name instr="bass">August "Gus" Nemeth</name>
-				<name instr="drums">Aldo Romano</name>
-			</with>
-			<comments>Kenneth K.: "Opening for the Martial Solal trio"</comments>
 		</concert>
 		<concert>
 			<date>April 18</date>
