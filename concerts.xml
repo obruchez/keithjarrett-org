@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 10, 2022">
+<concerts modified="November 12, 2022">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9175,11 +9175,15 @@
 			<privatecomments>Klaus Lipinski. Exact date given by Matthias Bohlen and Arnulf Müller.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Klaus Lipinski -->
-			<date>October 27 (?)</date>
-			<place>Cologne, Germany</place>
-			<with/>
+			<date>October 27</date>
+			<place>Philharmonie, Cologne, Germany</place>
+			<with>
+				<name instr="orchestra">Unknown orchestra</name>
+				<name instr="viola">Patricia McCarty</name>
+				<name instr="conductor">Dennis Russel Davies (?)</name>
+			</with>
 			<comments>Same program as on October 21.</comments>
+			<privatecomments>Added by Klaus Lipinski. More information from Matthias Bohlen (textual information about concert poster, see 2022-11-07 email).</privatecomments>
 		</concert>
 		<concert>
 			<!-- marton.ati@t-online.hu -->
