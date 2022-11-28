@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 12, 2022">
+<concerts modified="November 28, 2022">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5532,7 +5532,6 @@
 			<privatecomments>Concert added by Matthias Bohlen (April 15, 2020 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra -->
 			<date>May 6</date>
 			<place>Westfälischer Kunstverein (Domplatz 10), Münster, Germany</place>
 			<with>
@@ -5540,6 +5539,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Added by Sep Troelstra. Two scans of newspaper articles (in German) sent by email by Hanns-Peter Bushoff on November 16, 2022.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Sep Troelstra -->
