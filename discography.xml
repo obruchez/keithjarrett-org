@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2022-10-21">
+<discography modified="2022-12-10">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -819,6 +819,18 @@
 		<link type="Discogs" url="https://www.discogs.com/master/1067453"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/58ee14a1-caf7-3152-a370-45b45eee999c"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7898039"/>
+	</release>
+	<release id="the-out-of-towners">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>The Out-of-Towners</name>
+		<year>2004</year>
+		<firstreleasedate>2004-08-30</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000209537"/>
+		<link type="Discogs" url="https://www.discogs.com/master/259281"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/9cd97b88-14e9-3880-8287-7e2a5409d1b0"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2156532"/>
 	</release>
 
 <!--

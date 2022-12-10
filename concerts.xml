@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 28, 2022">
+<concerts modified="December 10, 2022">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -10136,7 +10136,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-			<release>The Out-of-Towners</release>
+			<release id="the-out-of-towners">The Out-of-Towners</release>
 		</concert>
 		<concert>
 			<date>August 1</date>
