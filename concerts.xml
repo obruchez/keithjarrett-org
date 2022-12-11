@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 10, 2022">
+<concerts modified="December 11, 2022">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -1634,7 +1634,7 @@
 				<name instr="drums">Aldo Romano</name>
 			</with>
 			<image type="poster">1970-02-13-poster.jpg</image>
-			<comments>Opening for the Martial Solal trio.</comments>
+			<comments>Opening for the Martial Solal trio. <a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1970-02-13-poster.jpg">Poster</a>.</comments>
 			<privatecomments>Added by Kenneth Kubernik. Exact date by Matthias Bohlen.</privatecomments>
 		</concert>
 		<concert>
@@ -5539,6 +5539,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<image type="article">1976-05-08-Westfälische-Nachrichten.pdf</image>
+			<image type="article">1976-05-11-Münstersche-Zeitung.pdf</image>
+			<comments>Two articles about the concert: <a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1976-05-08-Westf%C3%A4lische-Nachrichten.pdf">Westfälische Nachrichten (May 8, 1976)</a> and <a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1976-05-11-M%C3%BCnstersche-Zeitung.pdf">Münstersche Zeitung (May 11, 1976)</a>.</comments>
 			<privatecomments>Added by Sep Troelstra. Two scans of newspaper articles (in German) sent by email by Hanns-Peter Bushoff on November 16, 2022.</privatecomments>
 		</concert>
 		<concert>
@@ -6907,8 +6910,9 @@
 			<time>8:30 PM</time>
 			<place>Salle Louis-Fréchette, Grand Théâtre de Québec, QC, Canada</place>
 			<with solo="yes"/>
-			<privatecomments>Added by Simon Savary.</privatecomments>
 			<image type="poster">1982-01-14-poster.jpg</image>
+			<comments><a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1982-01-14-poster.jpg">Poster</a>.</comments>
+			<privatecomments>Added by Simon Savary.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 6</date>
