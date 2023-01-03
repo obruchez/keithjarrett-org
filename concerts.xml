@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 11, 2022">
+<concerts modified="January 3, 2023">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -7795,14 +7795,6 @@
 			</with>
 		</concert>
 		<concert>
-			<date>July 26</date>
-			<place>Montpellier, France</place>
-			<with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
-		</concert>
-		<concert>
 			<date>September 21</date>
 			<place>Kennedy Center, Washington, DC, USA</place>
 			<with>
@@ -8076,6 +8068,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Confirmed by Tonino Vantaggiato (scan of the 1986 programme). The July 26, 1985 concert doesn't exist (not listed in the 1985 programme).</privatecomments>
 		</concert>
 		<concert>
 			<date>July 26</date>
