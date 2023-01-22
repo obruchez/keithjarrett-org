@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 21, 2023">
+<concerts modified="January 22, 2023">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -12064,7 +12064,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<date>July 16</date>
 			<place>Philharmonie, Gasteig, Munich, Germany</place>
 			<time>7 PM</time>
-			<release>Munich 2016</release>
+			<release id="munich-2016">Munich 2016</release>
 			<with solo="yes"/>
 		</concert>
 	</group>
