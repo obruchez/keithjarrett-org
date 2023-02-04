@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 22, 2023">
+<concerts modified="February 4, 2023">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -8216,7 +8216,7 @@
 			<date>March 7</date>
 			<place>Troy Savings Bank Music Hall , New York, NY, USA</place>
 			<with solo="yes"/>
-			<release>J.S. Bach: The Well-Tempered Clavier, Book I</release>
+			<release id="the-well‐tempered-clavier-book-i">J.S. Bach: The Well-Tempered Clavier, Book I</release>
 			<comments>Keith Jarrett played BWV 846-869 (The Well-Tempered Clavier, Book I) and possibly other pieces.</comments>
 		</concert>
 		<concert>
