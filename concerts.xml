@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="February 4, 2023">
+<concerts modified="February 18, 2023">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5814,6 +5814,7 @@
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
+			<comments>A recording of this concert used to circulate as October 20, 1977. The fact that the European quartet didn't play any other concert in 1976 is a bit odd, so the October 20, 1977 date could indeed be correct. Another confirmed entry exists for a Frankfurt concert on October 20, 1977.</comments>
 		</concert>
 		<concert>
 			<date>October 20</date>
@@ -5986,12 +5987,37 @@
 				<name>Jon Christensen</name>
 			</with>
 		</concert>
+        <concert>
+			<date>October 20</date>
+			<place>Jahrhunderthalle Hoechst, Frankfurt, Germany</place>
+			<time>8 PM</time>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<image type="poster">1977-10-20-poster.png</image>
+			<comments>"Abende Improvisierter Musik" tour. <a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1977-10-20-poster.png">Poster</a>.</comments>
+			<privatecomments>Added by Frank Geck</privatecomments>
+		</concert>
 		<concert>
 			<date>October 23</date>
 			<place>Theatre Royal, Drury Lane, London, UK</place>
 			<with solo="yes"/>
 			<comments>Advertised as being the first appearance of Keith Jarrett in the UK.</comments>
 			<privatecomments>Added by Denis Le Neuf.</privatecomments>
+		</concert>
+        <concert>
+			<date>October 24</date>
+			<place>Stadthalle, Düsseldorf, Germany</place>
+			<time>8 PM</time>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<image type="poster">1977-10-24-poster.jpg</image>
+			<comments>"Abende Improvisierter Musik" tour. <a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1977-10-24-poster.jpg">Poster</a>.</comments>
 		</concert>
 		<concert>
 			<date>October 25</date>
@@ -10755,7 +10781,7 @@
 			<place>Gran Teatro La Fenice, Venice, Italy</place>
 			<event>Veneto Jazz Summer Festival</event>
 			<with solo="yes"/>
-			<release>La Fenice</release>
+			<release id="la-fenice">La Fenice</release>
 		</concert>
 		<concert>
 			<date>July 22</date>
