@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 4, 2023">
+<concerts modified="March 23, 2023">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9776,7 +9776,7 @@
 			<place>Teatro Communale, Modena, Italy</place>
 			<with solo="yes"/>
 			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
-			<release>A Multitude of Angels</release>
+			<release id="a-multitude-of-angels">A Multitude of Angels</release>
 		</concert>
 		<concert>
 			<date>October 25</date>
@@ -9784,21 +9784,21 @@
 			<with solo="yes"/>
 			<comments>Article mentioning this concert: <a href="http://www.nicolamorali.com/articoli/consigli-dascolto-2/keith-jarrett/">"Keith Jarrett, la ricerca dell'estasi"</a>.</comments>
 			<privatecomments>Concert mentioned by Arnulf Müller (March 14, 2016 email).</privatecomments>
-			<release>A Multitude of Angels</release>
+			<release id="a-multitude-of-angels">A Multitude of Angels</release>
 		</concert>
 		<concert>
 			<date>October 28</date>
 			<place>Teatro Regio, Turin, Italy</place>
 			<with solo="yes"/>
 			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
-			<release>A Multitude of Angels</release>
+			<release id="a-multitude-of-angels">A Multitude of Angels</release>
 		</concert>
 		<concert>
 			<date>October 30</date>
 			<place>Teatro Carlo Felice, Genoa, Italy</place>
 			<with solo="yes"/>
 			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
-			<release>A Multitude of Angels</release>
+			<release id="a-multitude-of-angels">A Multitude of Angels</release>
 		</concert>
 	</group>
 	<group year="1997">
