@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="March 23, 2023">
+<concerts modified="April 22, 2023">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -11918,7 +11918,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<date>April 30</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
-			<release>Creation</release>
+			<release id="creation">Creation</release>
 			<comments>An excerpt from this concert is included on the <i>Creation</i> album.</comments>
 		</concert>
 		<concert>
@@ -11930,7 +11930,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<date>May 6</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
-			<release>Creation</release>
+			<release id="creation">Creation</release>
 			<comments>An excerpt from this concert is included on the <i>Creation</i> album.</comments>
 		</concert>
 		<concert>
@@ -11938,7 +11938,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<place>Kioi Hall, Tokyo, Japan</place>
 			<time>7 PM</time>
 			<with solo="yes"/>
-			<release>Creation</release>
+			<release id="creation">Creation</release>
 			<comments>Two excerpts from this concert are included on the <i>Creation</i> album.</comments>
 		</concert>
 		<concert>
@@ -11946,7 +11946,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<place>Roy Thomson Hall, Toronto, ON, Canada</place>
 			<time>8 PM</time>
 			<with solo="yes"/>
-			<release>Creation</release>
+			<release id="creation">Creation</release>
 			<comments>An excerpt from this concert is included on the <i>Creation</i> album.</comments>
 		</concert>
 		<concert>
@@ -11960,7 +11960,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<place>Salle Playel, Paris, France</place>
 			<time>8 PM</time>
 			<with solo="yes"/>
-			<release>Creation</release>
+			<release id="creation">Creation</release>
 			<comments>An excerpt from this concert is included on the <i>Creation</i> album.</comments>
 		</concert>
 		<concert>
@@ -11974,7 +11974,7 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<place>Auditorium Parco della Musica, Rome, Italy</place>
 			<time>7 PM</time>
 			<with solo="yes"/>
-			<release>Creation</release>
+			<release id="creation">Creation</release>
 			<comments>Three excerpts from this concert are included on the <i>Creation</i> album.</comments>
 		</concert>
 		<concert>
