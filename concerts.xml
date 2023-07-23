@@ -6093,7 +6093,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>November 17</date>
 			<place>Jones Hall, Houston, TX, USA</place>
 			<with>
@@ -6101,9 +6100,19 @@
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
+			<privatecomments>Added by Simon Savary.</privatecomments>
+		</concert>
+        <concert>
+			<date>November 18</date>
+			<place>Performing Arts Center, Milwaukee, WI, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<privatecomments>Added by Peter Losin. Exact date by Marc Morvan.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>November 19</date>
 			<place>Warner Theatre, Washington, DC, USA</place>
 			<with>
@@ -6111,9 +6120,9 @@
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
+			<privatecomments>Added by Simon Savary.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 20</date>
 			<place>Avery Fisher Hall, New York</place>
 			<with>
@@ -6122,6 +6131,7 @@
 				<name>Jon Christensen</name>
 			</with>
 			<comments>Kenneth K.: "The 'Belonging' quartet ended their American tour here"</comments>
+			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 	</group>
 	<group year="1978">
