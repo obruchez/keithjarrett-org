@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="July 23, 2023">
+<concerts modified="August 27, 2023">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -4614,6 +4614,8 @@
 			<place>Oper Köln, Cologne, Germany</place>
 			<release id="the-koln-concert">The Köln Concert</release>
 			<with solo="yes"/>
+			<image type="poster">1975-01-24-poster.jpg</image>
+			<comments><a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1975-01-24-poster.jpg">Poster (displayed at Oper Köln)</a>.</comments>
 		</concert>
 		<concert>
 			<!-- Matthias Bohlen -->
