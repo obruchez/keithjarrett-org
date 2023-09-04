@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2023-04-22">
+<discography modified="2023-09-04">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -833,6 +833,8 @@
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2156532"/>
 	</release>
 
+	<!-- TODO: Barber: Piano Concerto; Bartók: Piano Concerto No. 3; Keith Jarrett: Tokyo Encore -->
+
 <!--
 	<release id="">
 		<artist>Keith Jarrett</artist>
@@ -846,7 +848,17 @@
 		<link type="Wikidata" url=""/>
 	</release>
 -->
-
+	<release id="last-dance">
+		<artist>Keith Jarrett &amp; Charlie Haden</artist>
+		<name>Last Dance</name>
+		<year>2014</year>
+		<firstreleasedate>2014-06-13</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0002651007"/>
+		<link type="Discogs" url="https://www.discogs.com/master/738318"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3f9b64ca-d3d2-4350-95d0-952bfb207551"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q17490367"/>
+	</release>
 	<release id="creation">
 		<artist>Keith Jarrett</artist>
 		<name>Creation</name>
