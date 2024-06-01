@@ -977,6 +977,66 @@
 			<comments>Kenneth K.: "First gig with Paul Motian on drums. (...) Because they were never documented on record, many people don't realize that Motian was in the band for over a year. All the dates I list following this probably feature Paul (I say probably because the 'Soundtrack' LP from Nov. '68 features DeJohnette). Things get very murky during this time. Jack left to play with Miles but apparently filled in for this date."</comments>
 		</concert>
 		<concert>
+			<date>May 10</date>
+			<time>6:30 PM</time>
+			<place>Tokyo Kōsei Nenkin Kaikan, Tokyo, Japan</place>
+			<with>
+				<name>Charles Lloyd</name>
+				<name>Ron McClure</name>
+				<name>Paul Motian</name>
+			</with>
+			<image type="program">1968-05-xx-charles-lloyd-01.jpg</image>
+			<image type="program">1968-05-xx-charles-lloyd-02.jpg</image>
+			<image type="program">1968-05-xx-charles-lloyd-03.jpg</image>
+			<comments>Keith Jarrett did not play. Hiroshi S.:"Keith was unable to come to Japan because of the military draft order."</comments>
+			<privatecomments>Added by Hiroshi Sumi.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 11</date>
+			<time>6:30 PM</time>
+			<place>Nagoya Civic Assembly Hall, Nagoya, Japan</place>
+			<with>
+				<name>Charles Lloyd</name>
+				<name>Ron McClure</name>
+				<name>Paul Motian</name>
+			</with>
+			<image type="program">1968-05-xx-charles-lloyd-01.jpg</image>
+			<image type="program">1968-05-xx-charles-lloyd-02.jpg</image>
+			<image type="program">1968-05-xx-charles-lloyd-03.jpg</image>
+			<comments>Keith Jarrett did not play. Hiroshi S.:"Keith was unable to come to Japan because of the military draft order."</comments>
+			<privatecomments>Added by Hiroshi Sumi.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 13</date>
+			<time>6:30 PM</time>
+			<place>Tokyo Kōsei Nenkin Kaikan, Tokyo, Japan</place>
+			<with>
+				<name>Charles Lloyd</name>
+				<name>Ron McClure</name>
+				<name>Paul Motian</name>
+			</with>
+			<image type="program">1968-05-xx-charles-lloyd-01.jpg</image>
+			<image type="program">1968-05-xx-charles-lloyd-02.jpg</image>
+			<image type="program">1968-05-xx-charles-lloyd-03.jpg</image>
+			<comments>Keith Jarrett did not play. Hiroshi S.:"Keith was unable to come to Japan because of the military draft order."</comments>
+			<privatecomments>Added by Hiroshi Sumi.</privatecomments>
+		</concert>
+		<concert>
+			<date>May 14</date>
+			<time>6:30 PM</time>
+			<place>Osaka Kōsei Nenkin Kaikan, Osaka, Japan</place>
+			<with>
+				<name>Charles Lloyd</name>
+				<name>Ron McClure</name>
+				<name>Paul Motian</name>
+			</with>
+			<image type="program">1968-05-xx-charles-lloyd-01.jpg</image>
+			<image type="program">1968-05-xx-charles-lloyd-02.jpg</image>
+			<image type="program">1968-05-xx-charles-lloyd-03.jpg</image>
+			<comments>Keith Jarrett did not play. Hiroshi S.:"Keith was unable to come to Japan because of the military draft order."</comments>
+			<privatecomments>Added by Hiroshi Sumi.</privatecomments>
+		</concert>
+		<concert>
 			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">May</date>
 			<place>Wilson Auditorium, University of Cincinnati, Cincinnati, OH, USA</place>
