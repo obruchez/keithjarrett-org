@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 10, 2023">
+<concerts modified="June 1, 2024">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5778,11 +5778,11 @@
 			<privatecomments>Steve Lake. Marc Morvan (exact date).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Mark Crutchfield-->
 			<date incomplete="yes">June</date>
-			<place>Lisner Auditorium, George Washington University (?), Washington, DC, USA</place>
+			<place>DAR Constitution Hall, Washington, DC, USA</place>
 			<with solo="yes"/>
 			<comments>Mentioned by Elton John in several interviews.</comments>
+			<privatecomments>Added by Mark Crutchfield. Correct venue by Ken Barry.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Sep Troelstra -->
