@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 2, 2024">
+<concerts modified="June 7, 2024">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -3159,6 +3159,16 @@
 			<place>Molde Kino, Molde, Norway</place>
 			<event>Molde International Jazz Festival</event>
 			<with solo="yes"/>
+			<comments>One of the two concerts from August 2-3, 1972 (which one is unknown) is available from <a href="https://tv.nrk.no/serie/moldejazz/1972/FBUA37004872">NRK</a>.</comments>
+			<privatecomments>More information from Johan Hauknes (2 concerts, dates, NRK link).</privatecomments>
+		</concert>
+		<concert>
+			<date>August 3</date>
+			<place>Molde Kino, Molde, Norway</place>
+			<event>Molde International Jazz Festival</event>
+			<with solo="yes"/>
+			<comments>One of the two concerts from August 2-3, 1972 (which one is unknown) is available from <a href="https://tv.nrk.no/serie/moldejazz/1972/FBUA37004872">NRK</a>.</comments>
+			<privatecomments>More information from Johan Hauknes (2 concerts, dates, NRK link).</privatecomments>
 		</concert>
 		<concert>
 			<date>September 16</date>
@@ -3538,11 +3548,20 @@
 			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Arnulf Müller -->
-			<date incomplete="yes">Late July-early August</date>
+			<date>August 1</date>
 			<place>Molde Kino, Molde, Norway</place>
 			<event>Molde International Jazz Festival</event>
 			<with solo="yes"/>
+			<comments>One of the two concerts from August 1-2, 1973 (which one is unknown) is available from <a href="https://tv.nrk.no/serie/moldejazz/sesong/1973/episode/FBUA07002173">NRK</a>.</comments>
+			<privatecomments>Initial information from Arnulf Müller. Exact dates, number of concerts, and NRK link from Johan Hauknes.</privatecomments>
+		</concert>
+		<concert>
+			<date>August 2</date>
+			<place>Molde Kino, Molde, Norway</place>
+			<event>Molde International Jazz Festival</event>
+			<with solo="yes"/>
+			<comments>One of the two concerts from August 1-2, 1973 (which one is unknown) is available from <a href="https://tv.nrk.no/serie/moldejazz/sesong/1973/episode/FBUA07002173">NRK</a>.</comments>
+			<privatecomments>Initial information from Arnulf Müller. Exact dates, number of concerts, and NRK link from Johan Hauknes.</privatecomments>
 		</concert>
 		<concert>
 			<!-- Arnulf Müller -->
@@ -4046,15 +4065,15 @@
 			</with>
 		</concert>
 		<concert>
-			<date>April 24-25 (?)</date>
-			<place>Arne Bendiksen Studios, Oslo, Norway</place>
+			<date>April 23</date>
+			<place>NRK Studios, Oslo, Norway</place>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
-			<comments>Videos available from NRK: <a href="https://tv.nrk.no/serie/jazz/fbua07004474/06-05-1974">part 1</a> (original broadcast date: May 6, 1974) and <a href="https://tv.nrk.no/serie/jazz/fbua07005174/13-05-1974">part 2</a> (original broadcast date: May 13, 1974).</comments>
-			<privatecomments>More information from Arnulf Müller (March 14, 2016 email).</privatecomments>
+			<comments>Videos available from NRK: <a href="https://tv.nrk.no/serie/jazz/sesong/1974/episode/FBUA07004474">part 1</a> (original broadcast date: May 6, 1974) and <a href="https://tv.nrk.no/serie/jazz/sesong/1974/episode/FBUA07005174">part 2</a> (original broadcast date: May 13, 1974). Also available as a <a href="https://tv.nrk.no/program/MKTV18000020">single video</a>.</comments>
+			<privatecomments>More information from Arnulf Müller (March 14, 2016 email). More informations about date and location from Johan Hauknes.</privatecomments>
 		</concert>
 		<concert>
 			<date>May 28</date>
