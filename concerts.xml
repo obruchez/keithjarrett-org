@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 7, 2024">
+<concerts modified="June 8, 2024">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -1475,7 +1475,7 @@
 		</concert>
 		<concert>
 			<date incomplete="yes">September (?)</date>
-			<place>NRK Studio 19, Oslo, Norway</place>
+			<place>Studio 19, NRK Studios, Oslo, Norway</place>
 			<with>
 				<name>August "Gus" Nemeth</name>
 				<name>Bob Ventrello</name>
@@ -4066,13 +4066,13 @@
 		</concert>
 		<concert>
 			<date>April 23</date>
-			<place>NRK Studios, Oslo, Norway</place>
+			<place>Studio A, NRK Studios, Oslo, Norway</place>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
-			<comments>Videos available from NRK: <a href="https://tv.nrk.no/serie/jazz/sesong/1974/episode/FBUA07004474">part 1</a> (original broadcast date: May 6, 1974) and <a href="https://tv.nrk.no/serie/jazz/sesong/1974/episode/FBUA07005174">part 2</a> (original broadcast date: May 13, 1974). Also available as a <a href="https://tv.nrk.no/program/MKTV18000020">single video</a>.</comments>
+			<comments>Videos available from NRK: <a href="https://tv.nrk.no/serie/jazz/sesong/1974/episode/FBUA07004474">part 1</a> (original broadcast date: May 6, 1974) and <a href="https://tv.nrk.no/serie/jazz/sesong/1974/episode/FBUA07005174">part 2</a> (original broadcast date: May 13, 1974). Also available as a <a href="https://tv.nrk.no/program/MKTV18000020">single video</a>. Director: Svein Erik Børja. Musical producer: Manfred Eicher.</comments>
 			<privatecomments>More information from Arnulf Müller (March 14, 2016 email). More informations about date and location from Johan Hauknes.</privatecomments>
 		</concert>
 		<concert>
