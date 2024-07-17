@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 8, 2024">
+<concerts modified="July 17, 2024">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -183,14 +183,15 @@
 		</concert>
 		<concert>
 			<date>May 7</date>
-			<place>Oslo, Norway</place>
+			<place>Club 7, Oslo, Norway</place>
 			<release>Forest Flower</release>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Cecil McBee</name>
 				<name>Jack DeJohnette</name>
 			</with>
-			<comments><i>Forest Flower</i> is a Charles Lloyd bootleg.</comments>
+			<comments><i>Forest Flower</i> is a Charles Lloyd bootleg. Johan H.: "The May 7, 1966 concert with the Charles Lloyd Quartet was at the Club 7, then located at the Edderkoppen Theater, in Oslo. In the audience that night was a 19 year old Jan Garbarek, just finishing his upper secondary education this summer. Soon he would join George Russell in Stockholm -- he had already visited and played with Russell -- and his career would really take off. Incidently, at the May 7 concert the band played Lloyd's Island Blues, as yet not issued in Lloyd's name (A short version as part of a medley with Chico Hamilton was released in '64). Garbarek played this tune with his quartet (Terje Bjørklund (p), Per Løberg (bs) and Jon Christensen) for NRK TV, in late June 1966, introducing the second Kongsberg Jazz Festival. Probably he picked it up at the Lloyd 4 concert in May."</comments>
+			<privatecomments>Exact venue given by Johan Hauknes.</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes">May</date>
@@ -8851,11 +8852,14 @@
 			<comments>Keith played mostly standards.</comments>
 		</concert>
 		<concert>
-			<!-- Christian Kühnke -->
-			<date>July 27 or 28</date>
-			<place>Uelzen, Germany</place>
+			<date>July 27</date>
+			<time>8 PM</time>
+			<place>Theater an der Ilmenau, Uelzen, Germany</place>
 			<event>Musikland Niedersachsen</event>
 			<with solo="yes"/>
+			<image type="ticket">1989-07-27-ticket.jpg</image>
+			<comments>Hartmut K.: "He played two parts of improvisations and three encores with standards."</comments>
+			<privatecomments>Entry added by Christian Kühnke. Exact date and venue given by Hartmut Kuipers.</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes">July</date>
