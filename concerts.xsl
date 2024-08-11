@@ -54,7 +54,7 @@
             <li>Hungary, in the middle of the 80s (maybe in 1985-86) (solo concert)</li>
             <li>Atlanta Symphony Hall (?), Atlanta, GA, USA, late 1984-early 1985 (played two Mozart piano concertos with the Atlanta Symphony Orchestra)</li> <!-- Ken Barry -->
             <li>Village Vanguard, New York, NY, USA, 1986-87 (with Gary Peacock and Jack DeJohnette; they played for a whole week)</li>
-            <li>Monsalvat, Eltham (north of Melbourne), Australia, around 1995</li> <!-- Judith Palmer -->
+            <li>Monsalvat, Eltham (north of Melbourne), Australia, around 1995 (solo concert)</li> <!-- Judith Palmer -->
             <li>Glenn Gould Studio, Toronto Theatre, Toronto, ON, Canada, maybe around 1997-98 (solo, Goldberg Variations, cancelled, would have taken place "a little while before the 'comeback' trio concert in '98 at the NJPAC")</li> <!-- Ellwood Epps -->
         </ul>
         </p>
