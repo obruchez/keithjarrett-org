@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="August 11, 2024">
+<concerts modified="September 22, 2024">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9367,7 +9367,7 @@
 		</concert>
 		<concert>
 			<date>September 16</date>
-			<place>Deer Head Inn, Allentown, PA, USA</place>
+			<place>Deer Head Inn, Delaware Water Gap, PA, USA</place>
 			<release id="at-the-deer-head-inn">At The Deer Head Inn</release>
 			<with>
 				<name>Gary Peacock</name>
