@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="September 22, 2024">
+<concerts modified="September 28, 2024">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -8446,13 +8446,14 @@
 		</concert>
 		<concert>
 			<date>October 11</date>
-			<place>Convention Center, Dallas, TX, USA</place>
+			<place>Convention Center (?), Dallas, TX, USA</place>
 			<release id="changeless">Changeless</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-			<comments>Only one tune was included on the album.</comments>
+			<comments>Only one tune was included on the album. The venue might have been Fair Park Music Hall and not Dallas Convention Center.</comments>
+			<privatecomments>David H.: "I was at the show, and I'm pretty sure it was at Fair Park Music Hall, not Dallas Convention Center. Please double-check.".</privatecomments>
 		</concert>
 		<concert>
 			<!-- Listed as October 13 in Japanese 1991 tour book -->
