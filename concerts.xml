@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="September 28, 2024">
+<concerts modified="November 11, 2024">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5882,6 +5882,14 @@
 			<date>July 24</date>
 			<place>Théâtre de Verdure, La Grande-Motte, France</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>August 3</date>
+			<place>Parvis St-Michel, Menton, France</place>
+			<event>Festival de Musique de Menton</event>
+			<with solo="yes"/>
+			<comments>Probably a solo concert. Mentioned in the <a href="https://www.amis-festival-musique-menton.com/upload/pdf/menton_1976.pdf">programme for 1976</a>.</comments>
+			<privatecomments>Added by Stefan (November 3, 2024 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>August 7</date>
