@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 11, 2024">
+<concerts modified="November 23, 2024">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5493,7 +5493,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">February</date>
 			<place>Chicago, IL, USA</place>
 			<event>At The Top</event>
@@ -5503,9 +5502,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "A television broadcast of the Quartet from Chicago Public Television - a one-hour performance before a live audience in a studio in Chicago."</comments>
+			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">February (?)</date>
 			<place>New Orleans, LA, USA</place>
 			<with>
@@ -5514,20 +5513,22 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "Branford Marsalis talks about this show as a life changing experience."</comments>
+			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 8</date>
+			<time>8 PM</time>
 			<place>Music Hall Center for the Performing Arts, Detroit, MI, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<image type="poster">1976-03-08-poster.jpg</image>
 			<comments></comments>
+			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 11</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -5536,9 +5537,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 12</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -5547,9 +5548,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 13</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -5558,9 +5559,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 14</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -5569,6 +5570,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 26</date>
@@ -5576,7 +5578,6 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 15</date>
 			<place>New Orleans, LA, USA</place>
 			<with>
@@ -5584,6 +5585,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes">April</date>
