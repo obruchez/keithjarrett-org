@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="November 23, 2024">
+<concerts modified="December 14, 2024">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9380,6 +9380,7 @@
 			<date>September 16</date>
 			<place>Deer Head Inn, Delaware Water Gap, PA, USA</place>
 			<release id="at-the-deer-head-inn">At The Deer Head Inn</release>
+			<release id="the-old-country">The Old Country</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Paul Motian</name>
