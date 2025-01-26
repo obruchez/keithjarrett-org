@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="December 14, 2024">
+<concerts modified="January 26, 2025">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -5462,6 +5462,18 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+		</concert>
+		<concert>
+			<date>January 21</date>
+			<time>8 PM</time>
+			<place>Jubilee Auditorium, Edmonton, AB, Canada</place>
+			<with>
+				<name>Dewey Redman</name>
+				<name>Charlie Haden</name>
+				<name>Paul Motian</name>
+			</with>
+			<image type="ticket">1976-01-21-ticket.jpg</image>
+			<privatecomments>Added by Ken Reap.</privatecomments>
 		</concert>
 		<concert>
 			<date>February 14</date>
