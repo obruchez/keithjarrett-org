@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="January 26, 2025">
+<concerts modified="March 9, 2025">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -9147,6 +9147,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>First mentioned by Attila Marton (as a 1991 concert) and Peter Tóth (who already put the year 1991 into question). I decided to remove the 1991 entry after receiving Mihály Müller's email. Some articles mentioning 1990 and not 1991: <a href="https://www.jazzma.hu/regi-musoraim/vilagsztarok-magyarorszagon/2013/08/09/vilagsztarok-magyarorszagon-a-keith-jarrett-standards-trio-1990-november-26-an-az-erkel-szinhazban">link 1</a>, <a href="https://www.jazzma.hu/hirek/2017/06/03/a-jazz-helyszinei-a-budapesti-erkel-szinhaz">link 2</a>, and <a href="https://nepszava.hu/3098708_keith-jarrett-es-magyarorszag">link 3</a>.</privatecomments>
 		</concert>
 		<concert>
 			<date>November 28</date>
@@ -9343,16 +9344,6 @@
 			</with>
 			<comments>Same program as on October 21.</comments>
 			<privatecomments>Added by Klaus Lipinski. More information from Matthias Bohlen (textual information about concert poster, see 2022-11-07 email).</privatecomments>
-		</concert>
-		<concert>
-			<!-- marton.ati@t-online.hu -->
-			<!-- Tóth Péter (November) -->
-			<date incomplete="yes">November (?)</date>
-			<place>Erkel Theatre, Budapest, Hungary</place>
-			<with>
-				<name>Gary Peacock</name>
-				<name>Jack DeJohnette</name>
-			</with>
 		</concert>
 	</group>
 	<group year="1992">
