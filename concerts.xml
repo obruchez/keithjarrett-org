@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="May 31, 2025">
+<concerts modified="June 21, 2025">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -3520,6 +3520,7 @@
 			<place>Kleiner Sendesaal, Bremen, Germany</place>
 			<release id="solo-concerts-bremen-and-lausanne">Solo Concerts: Bremen/Lausanne</release>
 			<with solo="yes"/>
+			<privatecomments>Simon S.: "En écoutant la suite de la Partie I de Bremen 1973, j'ai identifié une section, allant de 9:55 à 13:30 (timing de l'émission de radio incluant le commentaire de l'animateur d'une durée d'environ 4 min), qui est très apparentée au concert à Pescara que j’ai dans ma collection (début de Part Ib), mais daté du 16 juillet 1974."</privatecomments>
 		</concert>
 		<concert>
 			<!-- Olli Ylönen -->
@@ -4273,7 +4274,7 @@
 			<place>Parco le Naiadi, Pescara, Italy</place>
 			<event>Festival Internazionale del Jazz Pescara</event>
 			<with solo="yes"/>
-			<comments><a href="http://www.pescarajazz.com/index/timeline/1974">Pescara Jazz Festival 74</a>.</comments>
+			<comments><a href="https://web.archive.org/web/20181023035425/http://www.pescarajazz.com/index/timeline/1974">Pescara Jazz Festival 74</a>.</comments>
 		</concert>
 		<concert>
 			<date>July 29</date>
@@ -4687,7 +4688,8 @@
 			<date>January 23</date>
 			<place>Salle de Spectacles, Epalinges, Switzerland</place>
 			<with solo="yes"/>
-			<comments>Concert recorded (but never broadcast?) by the Radio Suisse Romande (RSR).</comments>
+			<comments>Concert recorded (but never broadcast?) by the Radio Suisse Romande (RSR). Encore ("Calypso") broadcast by RTS on May 9, 2025.</comments>
+			<privatecomments>Simon S.: "Après ma 2e vraie écoute, aucun doute que ce Calypso est un embryon de la partie 2 de Köln le lendemain soir! (et probablement une évolution de ce qu'on entend à Kronach Part II, mais pas Freiburg - dans une classe à part; quid de Villingen?? et Bremen par la suite)."</privatecomments>
 		</concert>
 		<concert>
 			<date>January 24</date>
@@ -5588,6 +5590,16 @@
 			<date>March 26</date>
 			<place>Eastman School, Rochester, NY, USA</place>
 			<with solo="yes"/>
+		</concert>
+		<concert>
+			<date>March 26</date>
+			<place>Eastman School, Rochester, NY, USA</place>
+			<with>
+				<name instr="orchestra">Eastman Jazz Orchestra</name>
+				<name instr="conductor">Bill Dobbins</name>
+			</with>
+			<comments>Four compositions by students of Eastman School were played, then "In the Light" and "Study" by Keith Jarrett. It is unknown whether this concert happened before or after Keith Jarrett's solo concert.</comments>
+			<privatecomments>Added by Simon Savary.</privatecomments>
 		</concert>
 		<concert>
 			<date>April 15</date>
@@ -7679,7 +7691,7 @@
 				<name instr="conductor">Isaiah Jackson</name>
 			</with>
 			<comments>Solo concert, Q&amp;A interview with students, and Bartok recital (?). From an <a href="https://www.newspapers.com/newspage/136569913/">article in Democrat and Chronicle</a>: "Keith Jarrett will perform Bartok's Piano Concerto No. 3 with the Rochester Philharmonic Orchestra tomorrow at 8 p.m. and Saturday at 8:30 p.m. in the Eastman Theater. Isaiah Jackson will conduct the program, which includes Hindemith's Symphonic Metamorphoses and Rimsky-Korsakou's Scheherazade."</comments>
-			<privatecomments>Simon Savary: "réf.: le frère d'un collègue d'un contact y a assisté en tant qu'étudiant. On essaie d'accéder aux archives pour avoir les concerts. J'ai seulement l'entrevue". Exact date (and mention of second concert) from Marc Morvan.</privatecomments>
+			<privatecomments>Simon S.: "réf.: le frère d'un collègue d'un contact y a assisté en tant qu'étudiant. On essaie d'accéder aux archives pour avoir les concerts. J'ai seulement l'entrevue". Exact date (and mention of second concert) from Marc Morvan.</privatecomments>
 		</concert>
 		<concert>
 			<date>December 1</date>
