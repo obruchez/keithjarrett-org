@@ -3193,11 +3193,13 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 28</date>
+			<time></time>
 			<place>Mercer Arts Center, New York, NY, USA</place>
 			<with solo="yes"/>
-			<comments>Kenneth K.: "1st solo concert in America! It was recorded by Columbia Records for possible release. But Jarrett was dropped from the label shortly after 'Expectations' came out in favor of Herbie Hancock, whose subsequent 'Headhunters' album went gold. A good move for the suits and for fans of Jarrett; he went off and signed with Impulse! and the rest is history (if you think Columbia was going to issue all those quartet records you're dreaming)."</comments>
+			<image type="advertisement">1972-10-28-advertisement.jpg</image>
+			<comments>Kenneth K.: "1st solo concert in America! It was recorded by Columbia Records for possible release. But Jarrett was dropped from the label shortly after 'Expectations' came out in favor of Herbie Hancock, whose subsequent 'Headhunters' album went gold. A good move for the suits and for fans of Jarrett; he went off and signed with Impulse! and the rest is history (if you think Columbia was going to issue all those quartet records you're dreaming)." <a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1972-10-28-advertisement.jpg">Advertisement (The Village Voice, October 19, 1972)</a>.</comments>
+			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
 			<!-- par-mac@telus.net -->
