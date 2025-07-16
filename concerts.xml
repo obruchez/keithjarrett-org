@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="June 21, 2025">
+<concerts modified="July 16, 2025">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -3107,8 +3107,8 @@
 			<date>June 4</date>
 			<place>Stadthalle, Heidelberg, Germany</place>
 			<with solo="yes"/>
-			<comments>June 2 or June 3 according to Peter Elsdon. Possibly Keith Jarrett's first solo concert in the traditional sense.</comments>
-			<privatecomments>June 4 according to Rolf Rauschenbach.</privatecomments>
+			<comments>Possibly Keith Jarrett's first solo concert in the traditional sense.</comments>
+			<privatecomments>June 2 or June 3 according to Peter Elsdon. June 4 according to Rolf Rauschenbach.</privatecomments>
 		</concert>
 		<concert>
 			<date>June 9</date>
