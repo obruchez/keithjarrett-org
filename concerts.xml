@@ -4481,6 +4481,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<comments>Keith Jarrett appeared on a variety TV show called "Appelez-moi Lise" that same evening.</comments>
 			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
@@ -6312,13 +6313,6 @@
 			<comments>The city (Berkeley) is not completely certain, but the concert did take place in the San Francisco Bay Area. Preston H.: "I attended a solo concert in the summer of 1978 in Berkeley, CA. or it could have been May, 1980, at Zellerbach Hall. I'm not sure. It was a long time ago and I don't have any program information but I seem to recall that Jarrett was added on Sunday night immediately after the Berkeley Jazz Festival (although not officially part of the festival itself; 5/22/80 was a Thursday). I remember the crowd was pretty rowdy but it was the best Jarrett solo concert I ever heard, something like a mystical experience in unholy circumstances."</comments> 
 		</concert>
 		<concert>
-			<date incomplete="yes">Summer</date>
-			<place>Salle Wilfrid-Pelletier, Place des Arts, Montréal, QC, Canada</place>
-			<with solo="yes"/>
-			<comments>Mentioned by André Ménard in <a href="https://www.youtube.com/watch?v=IKbIL4zjxm8">this YouTube video</a>.</comments> 
-			<privatecomments>Added by Simon Savary.</privatecomments>
-		</concert>
-		<concert>
 			<!-- Kenneth Kubernik -->
 			<date>October 15</date>
 			<place>Metropolitan Opera House, New York, NY, USA</place>
@@ -6754,8 +6748,8 @@
 			<place>Salle Wilfrid-Pelletier, Place des Arts, Montréal, QC, Canada</place>
 			<with solo="yes"/>
 			<image type="advertisement">1979-08-29-advertisement.jpg</image>
-			<comments><a href="https://numerique.banq.qc.ca/patrimoine/details/52327/2776381?docsearchtext=keith%20Jarrett">Review by Nathalie Petrowski in Le Devoir (in French)</a>.</comments>
-			<privatecomments>From Rolf Rauschenbach's list. Ad from Simon Savary.</privatecomments>
+			<comments>A sonata for flute and harpsichord by Johann Sebastian Bach was played as an encore. Review by Nathalie Petrowski in <a href="https://numerique.banq.qc.ca/patrimoine/details/52327/2776381?docsearchtext=keith%20Jarrett">Le Devoir (in French)</a>. Mentioned by André Ménard in <a href="https://www.youtube.com/watch?v=IKbIL4zjxm8">this YouTube video</a>. Ménard mentions a concert from 1978, but the correct year is actually 1979. Keith Jarrett didn't play in Montréal in 1978.</comments>
+			<privatecomments>From Rolf Rauschenbach's list. Advertisement and correct year (1979, not 1978) from Simon Savary.</privatecomments>
 		</concert>
 		<concert>
 			<date>September 1</date>
