@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="July 16, 2025">
+<concerts modified="July 27, 2025">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6750,9 +6750,11 @@
 		</concert>
 		<concert>
 			<date>August 29</date>
+			<time>9:30 PM</time>
 			<place>Salle Wilfrid-Pelletier, Place des Arts, Montréal, QC, Canada</place>
 			<with solo="yes"/>
-			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
+			<image type="advertisement">1979-08-29-advertisement.jpg</image>
+			<privatecomments>From Rolf Rauschenbach's list. Ad from Simon Savary.</privatecomments>
 		</concert>
 		<concert>
 			<date>September 1</date>
