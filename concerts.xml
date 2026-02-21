@@ -16,7 +16,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="September 28, 2025">
+<concerts modified="February 21, 2026">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -7229,10 +7229,16 @@
 			<comments>The concert was interrupted because of someone taking photographs. Comments from David: "It was a cold rainy Manchester evening, a sparse audience, some jaw dropping solos, but the evening was sadly remembered mostly for an extremely insensitive photographer on the balcony (during a particlarly sensitive section of a solo) blasting off a sequence of images on a motordrive, and Keith just slamming his hands on the keyboard marching over to the man and saying, 'Do you realise what it takes for me to build up to preparing for this piece of work and then to perform it?' He then told him to get out of the theatre, which to his credit he did."</comments>
 		</concert>
 		<concert>
-			<!-- Bob Carroll -->
 			<date>November 7</date>
 			<place>Usher Hall, Edinburgh, UK</place>
 			<with solo="yes"/>
+			<privatecomments>Added by Bob Carroll.</privatecomments>
+		</concert>
+		<concert>
+			<date>November 26</date>
+			<place>Avery Fisher Hall, New York City, NY, USA</place>
+			<with solo="yes"/>
+			<privatecomments>Added by Aleksandar Mandić: "It happened on 11/26/1982 [...] On 11/30/1982, I made a long video interview with him in his home, and we discussed the concert that I enjoyed 3 days earlier. I have the video. It was his solo concert".</privatecomments>
 		</concert>
 		<concert>
 			<date>December 4</date>
