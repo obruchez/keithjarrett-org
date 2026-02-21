@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- SEND UPDATES TO MAURIZIO -->
-
 <!-- TODO: add instruments + include KJ in the musicians
      TODO: Japanese concerts, include Japanese name of venues (?)
      - Ron McClure vs Cecil McBee ("Cecil McBee was gone by the end of '66. McClure begins in Jan, '67")
@@ -251,7 +249,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 7</date>
 			<place>Costa Mesa, CA, USA</place>
 			<event>Pacific Jazz Festival</event>
@@ -261,9 +258,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Kenneth K.: "Miles was also on the bill".</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 8</date>
 			<place>Costa Mesa, CA, USA</place>
 			<event>Pacific Jazz Festival</event>
@@ -273,9 +270,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Kenneth K.: "Miles was also on the bill".</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 9</date>
 			<place>Costa Mesa, CA, USA</place>
 			<event>Pacific Jazz Festival</event>
@@ -285,6 +282,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Kenneth K.: "Miles was also on the bill".</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>October 26</date>
@@ -307,7 +305,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Richard Purschwitz -->
 			<date incomplete="yes"/>
 			<place>Berlin, Germany</place>
 			<with>
@@ -316,9 +313,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Sponsored by the Ford Foundation.</comments>
+			<privatecomments>Richard Purschwitz</privatecomments>
 		</concert>
 		<concert>
-			<!-- Richard Purschwitz -->
 			<date incomplete="yes"/>
 			<place>Portugal</place>
 			<with>
@@ -326,9 +323,9 @@
 				<name>Cecil McBee</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Richard Purschwitz</privatecomments>
 		</concert>
 		<concert>
-			<!-- Richard Purschwitz -->
 			<date incomplete="yes"/>
 			<place>Helsinki, Finland</place>
 			<with>
@@ -337,11 +334,11 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Mentioned in <a href="http://www.reocities.com/rstubenrauch/Lloyd/downbeat/rojac_lloyd_db_jul1367.html">"Charles Lloyd in Russia: Ovations and Frustrations"</a></comments>
+			<privatecomments>Richard Purschwitz</privatecomments>
 		</concert>
 	</group>
 	<group year="1967">
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 2</date>
 			<place>Shelly's Manne-Hole, Los Angeles, CA, USA</place>
 			<with>
@@ -350,9 +347,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 3</date>
 			<place>Shelly's Manne-Hole, Los Angeles, CA, USA</place>
 			<with>
@@ -361,9 +358,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 4</date>
 			<place>Shelly's Manne-Hole, Los Angeles, CA, USA</place>
 			<with>
@@ -372,9 +369,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 5</date>
 			<place>Shelly's Manne-Hole, Los Angeles, CA, USA</place>
 			<with>
@@ -383,9 +380,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 6</date>
 			<place>Shelly's Manne-Hole, Los Angeles, CA, USA</place>
 			<with>
@@ -394,9 +391,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 7</date>
 			<place>Shelly's Manne-Hole, Los Angeles, CA, USA</place>
 			<with>
@@ -405,9 +402,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 8</date>
 			<place>Shelly's Manne-Hole, Los Angeles, CA, USA</place>
 			<with>
@@ -416,9 +413,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 9</date>
 			<place>Shelly's Manne-Hole, Los Angeles, CA, USA</place>
 			<with>
@@ -427,9 +424,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 10</date>
 			<place>Both/And Club, San Francisco, CA, USA</place>
 			<with>
@@ -437,9 +434,9 @@
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 20</date>
 			<place>Fillmore Auditorium, San Francisco, CA, USA</place>
 			<with>
@@ -448,9 +445,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 21</date>
 			<place>Fillmore Auditorium, San Francisco, CA, USA</place>
 			<with>
@@ -459,9 +456,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 27</date>
 			<place>Fillmore Auditorium, San Francisco, CA, USA</place>
 			<release id="love-in">Love-In</release>
@@ -472,9 +469,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 28</date>
 			<place>Fillmore Auditorium, San Francisco, CA, USA</place>
 			<with>
@@ -483,9 +480,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 16</date>
 			<place>Berkeley Community Theater, Berkeley, CA, USA</place>
 			<with>
@@ -493,9 +490,9 @@
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 17</date>
 			<place>Avalon Ballroom, San Francisco, CA, USA</place>
 			<with>
@@ -504,9 +501,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 18</date>
 			<place>Avalon Ballroom, San Francisco, CA, USA</place>
 			<with>
@@ -515,9 +512,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 28</date>
 			<place>Rock Garden, San Francisco, CA, USA</place>
 			<with>
@@ -526,9 +523,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Kenneth K.: "With the Grateful Dead".</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 30</date>
 			<place>Berkeley Community Theater, Berkeley, CA, USA</place>
 			<with>
@@ -536,6 +533,7 @@
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>April 11</date>
@@ -547,7 +545,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 21</date>
 			<place>Avalon Ballroom, San Francisco, CA, USA</place>
 			<with>
@@ -556,9 +553,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 22</date>
 			<place>Avalon Ballroom, San Francisco, CA, USA</place>
 			<with>
@@ -567,9 +564,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Jazz Hot -->
 			<date>May 4</date>
 			<place>Town Hall, New York, NY, USA</place>
 			<with>
@@ -577,6 +574,7 @@
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Jazz Hot</privatecomments>
 		</concert>
 		<concert>
 			<date>May 14</date>
@@ -590,7 +588,6 @@
 			<comments>More information about this concert in <a href="http://www.reocities.com/rstubenrauch/Lloyd/downbeat/rojac_lloyd_db_jul1367.html">"Charles Lloyd in Russia: Ovations and Frustrations"</a></comments>
 		</concert>
 		<concert>
-			<!-- Richard Purschwitz -->
 			<date incomplete="yes">May</date>
 			<place>Leningrad / Saint Petersburg, Russia</place>
 			<with>
@@ -599,9 +596,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>More information about this concert in <a href="http://www.reocities.com/rstubenrauch/Lloyd/downbeat/rojac_lloyd_db_jul1367.html">"Charles Lloyd in Russia: Ovations and Frustrations"</a> ("After a day of relaxation and museum-going, they were to play the following day at the Trade Union Theater of Film but were locked out. Through the auspices of the Leningrad Jazz Club they finally did play at a cafe, and caught a train to Moscow with only five minutes to spare.")</comments>
+			<privatecomments>Richard Purschwitz</privatecomments>
 		</concert>
 		<concert>
-			<!-- Richard Purschwitz -->
 			<date incomplete="yes">May</date>
 			<place>US Ambassy, Moscow, Russia</place>
 			<with>
@@ -610,9 +607,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>More information about this concert in <a href="http://www.reocities.com/rstubenrauch/Lloyd/downbeat/rojac_lloyd_db_jul1367.html">"Charles Lloyd in Russia: Ovations and Frustrations"</a> ("During their three days in Moscow, they dined with the U.S. Ambassador and his wife, played for the U.S. Embassy staff, and sessioned at the Youth Club, where the K. M. Quartet, a local jazz group, plays seven nights a week. Appearing exclusively for members of the Moscow Jazz Club, the Lloyd quartet jammed with Russian musicians, as the multi-talented Jarrett, McClure, and DeJohnette took turns playing each other's instruments.")</comments>
+			<privatecomments>Richard Purschwitz</privatecomments>
 		</concert>
 		<concert>
-			<!-- Richard Purschwitz -->
 			<date incomplete="yes">May</date>
 			<place>Youth Club, Moscow, Russia</place>
 			<with>
@@ -621,9 +618,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>More information about this concert in <a href="http://www.reocities.com/rstubenrauch/Lloyd/downbeat/rojac_lloyd_db_jul1367.html">"Charles Lloyd in Russia: Ovations and Frustrations"</a> ("During their three days in Moscow, they dined with the U.S. Ambassador and his wife, played for the U.S. Embassy staff, and sessioned at the Youth Club, where the K. M. Quartet, a local jazz group, plays seven nights a week. Appearing exclusively for members of the Moscow Jazz Club, the Lloyd quartet jammed with Russian musicians, as the multi-talented Jarrett, McClure, and DeJohnette took turns playing each other's instruments.")</comments>
+			<privatecomments>Richard Purschwitz</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">May</date>
 			<place>New York, NY, USA</place>
 			<event>United Nation's Jazz Society Concert</event>
@@ -632,9 +629,9 @@
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Whittlesey -->
 			<date incomplete="yes">Spring</date>
 			<place>Greek Theater, UC Berkeley, Berkeley, CA, USA</place>
 			<with>
@@ -643,6 +640,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>The other group appearing was the Grateful Dead. The year might be 1966 or 1967.</comments>
+			<privatecomments>Peter Whittlesey</privatecomments>
 		</concert>
 		<concert>
 			<date>June 11</date>
@@ -657,7 +655,6 @@
 				<i>Parigi, 1967</i> is a Charles Lloyd bootleg.</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 17</date>
 			<place>Queen Elizabeth Hall, Southbank Centre, London, UK</place>
 			<with>
@@ -665,6 +662,7 @@
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>June 18</date>
@@ -680,7 +678,6 @@
 				<i>Forest Flower</i> is a Charles Lloyd bootleg.</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">June</date>
 			<place>Amsterdam, Netherlands</place>
 			<with>
@@ -688,9 +685,9 @@
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">June</date>
 			<place>Stockholm, Sweden</place>
 			<with>
@@ -698,6 +695,7 @@
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>June 30</date>
@@ -711,7 +709,6 @@
 			<privatecomments>Concert listed by Kenneth Kubernik. Correct date and exact venue given by Bill Hery.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 23</date>
 			<place>Both/And Club, San Francisco, CA, USA</place>
 			<with>
@@ -721,9 +718,9 @@
 				<name instr="saxophone">?</name>
 			</with>
 			<comments>Kenneth K.: "'Tribute to John Coltrane' jam session - Jarrett played with Joe Halpin/bass and Oliver Johnson/drums, backing a variety of horn players".</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>August 3</date>
 			<place>Avalon Ballroom, San Francisco, CA, USA</place>
 			<with>
@@ -732,9 +729,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>August 4</date>
 			<place>Avalon Ballroom, San Francisco, CA, USA</place>
 			<with>
@@ -743,9 +740,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>August 5</date>
 			<place>Avalon Ballroom, San Francisco, CA, USA</place>
 			<with>
@@ -754,9 +751,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>August 6</date>
 			<place>Avalon Ballroom, San Francisco, CA, USA</place>
 			<with>
@@ -765,9 +762,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>August 15</date>
 			<place>Fillmore Auditorium, San Francisco, CA, USA</place>
 			<with>
@@ -775,9 +772,9 @@
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">August</date>
 			<place>Golden Bear, Huntington Beach, CA, USA</place>
 			<with>
@@ -785,9 +782,9 @@
 				<name>Ron McClure</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>September 29</date>
 			<place>Avalon Ballroom, San Francisco, CA, USA</place>
 			<with>
@@ -796,9 +793,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>September 30</date>
 			<place>Avalon Ballroom, San Francisco, CA, USA</place>
 			<with>
@@ -807,9 +804,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 1</date>
 			<place>Avalon Ballroom, San Francisco, CA, USA</place>
 			<with>
@@ -818,6 +815,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>October 6</date>
@@ -854,7 +852,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>December 29</date>
 			<place>Capitol Theater, Portchester, NY, USA</place>
 			<with>
@@ -863,11 +860,11 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Kenneth K.: "Opening for Vanilla Fudge".</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 	</group>
 	<group year="1968">
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 13</date>
 			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
 			<with>
@@ -876,9 +873,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 18</date>
 			<place>Fillmore Auditorium, San Francisco, CA, USA</place>
 			<with>
@@ -887,9 +884,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 19</date>
 			<place>Eagles Auditorium Building, Seattle, WA, USA</place>
 			<with>
@@ -898,9 +895,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 20</date>
 			<place>Eagles Auditorium Building, Seattle, WA, USA</place>
 			<with>
@@ -909,9 +906,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>February 15</date>
 			<place>Constitution Hall, University of Washington, Seattle, WA, USA</place>
 			<with>
@@ -920,9 +917,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 23</date>
 			<place>Town Hall, Philadelphia, PA, USA</place>
 			<with>
@@ -931,9 +928,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Craig Freas -->
 			<date>April 6</date>
 			<time>8:30 PM</time>
 			<place>Schwab Auditorium, University Park, PA, USA</place>
@@ -943,9 +940,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Concert organized by the Penn State Jazz Club. Tickets were $1.50 for members.</comments>
+			<privatecomments>Craig Freas</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 12</date>
 			<place>Fillmore East, New York, NY, USA</place>
 			<with>
@@ -954,9 +951,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 13</date>
 			<place>Fillmore East, New York, NY, USA</place>
 			<with>
@@ -965,9 +962,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 7</date>
 			<place>Hunter's Playhouse, Hunter College, New York, NY, USA</place>
 			<with>
@@ -976,6 +973,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "First gig with Paul Motian on drums. (...) Because they were never documented on record, many people don't realize that Motian was in the band for over a year. All the dates I list following this probably feature Paul (I say probably because the 'Soundtrack' LP from Nov. '68 features DeJohnette). Things get very murky during this time. Jack left to play with Miles but apparently filled in for this date."</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>May 10</date>
@@ -1038,7 +1036,6 @@
 			<privatecomments>Added by Hiroshi Sumi.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">May</date>
 			<place>Wilson Auditorium, University of Cincinnati, Cincinnati, OH, USA</place>
 			<with>
@@ -1047,9 +1044,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 10</date>
 			<place>Village Gate, New York, NY, USA</place>
 			<event>Benefit for Synanon Drug Treatment Center</event>
@@ -1058,9 +1055,9 @@
 				<name>Bob Moses</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 26</date>
 			<place>Fillmore East, New York, NY, USA</place>
 			<with>
@@ -1069,9 +1066,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 27</date>
 			<place>Fillmore East, New York, NY, USA</place>
 			<with>
@@ -1080,9 +1077,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 28</date>
 			<place>Fillmore East, New York, NY, USA</place>
 			<with>
@@ -1091,9 +1088,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">July</date>
 			<place>The Dom, New York, NY, USA</place>
 			<with>
@@ -1101,6 +1098,7 @@
 				<name>Bob Moses</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>August 30</date>
@@ -1123,7 +1121,6 @@
 			<comments>Ian Carr lists this as October 31 in "Keith Jarrett: The Man and the Music".</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">September</date>
 			<place>Shrine Auditorium, Los Angeles, CA, USA</place>
 			<with>
@@ -1132,9 +1129,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 18</date>
 			<place>Village Gate, New York, NY, USA</place>
 			<with>
@@ -1143,9 +1140,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "Alternating shows with Thelonious Monk"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 19</date>
 			<place>Village Gate, New York, NY, USA</place>
 			<with>
@@ -1154,6 +1151,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "Alternating shows with Thelonious Monk"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>November 15</date>
@@ -1166,7 +1164,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>December 30</date>
 			<place>Miami, FL, USA</place>
 			<event>Miami Pop Festival</event>
@@ -1176,9 +1173,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "The largest pop festival prior to Woodstock; over 100,000 in attendance"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">December</date>
 			<place>The Scene, New York, NY, USA</place>
 			<with>
@@ -1186,6 +1183,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes"/>
@@ -1211,7 +1209,6 @@
 	</group>
 	<group year="1969">
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 18</date>
 			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
 			<with>
@@ -1220,9 +1217,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>	
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 19</date>
 			<place>Auditorium Theater, Denver, CO, USA</place>
 			<with>
@@ -1231,9 +1228,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>February 8</date>
 			<place>Berkeley Community Theater, Berkeley, CA, USA</place>
 			<with>
@@ -1242,9 +1239,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">February</date>
 			<place>Eagles Auditorium Building, Seattle, WA, USA</place>
 			<with>
@@ -1253,9 +1250,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 8</date>
 			<place>Judson Hall, New York, NY, USA</place>
 			<with>
@@ -1263,9 +1260,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 15</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -1273,9 +1270,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "Alternating sets with the Herbie Hancock Sextet"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 16</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -1283,9 +1280,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "Alternating sets with the Herbie Hancock Sextet"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 17</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -1293,9 +1290,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "Alternating sets with the Herbie Hancock Sextet"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 18</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -1303,9 +1300,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "Alternating sets with the Herbie Hancock Sextet"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 19</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -1313,6 +1310,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "Alternating sets with the Herbie Hancock Sextet"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>April 23</date>
@@ -1334,7 +1332,6 @@
 			<privatecomments>Email from Robert Baker.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">May</date>
 			<place>Wilson Auditorium, University of Cincinnati, Cincinnati, OH, USA</place>
 			<with>
@@ -1343,9 +1340,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Kenneth K.: "Possibly Jarrett's last show with Lloyd; maybe a few others but certainly gone by July"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">June</date>
 			<place>The Scene, New York, NY, USA</place>
 			<with>
@@ -1353,6 +1350,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>August 18</date>
@@ -1410,7 +1408,6 @@
 			<privatecomments>Mentioned by Damian Evans (May 10, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Jan Lohmann -->
 			<date>August 24 (?)</date>
 			<place>Bilzen, Belgium</place>
 			<with>
@@ -1418,9 +1415,9 @@
 				<name>Bob Ventrello (?)</name>
 			</with>
 			<comments>Also circulating as a July 1969 concert. Ventrello sometimes spelt "Rentrello" or "Frantello".</comments>
+			<privatecomments>Jan Lohmann</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">August</date>
 			<place>Monmouth Shopping Center, Eatontown, NJ, USA</place>
 			<with>
@@ -1428,6 +1425,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>September 4</date>
@@ -1485,17 +1483,15 @@
 			<privatecomments>Information from Johan Hauknes (June 30, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Philippe Cortens -->
 			<date>October 14</date>
 			<place>Hnita-Jazz Club, Heist-op-den-Berg, Belgium</place>
 			<with>
 				<name>August "Gus" Nemeth (?)</name>
 				<name>Bob Ventrello (?)</name>
 			</with>
+			<privatecomments>Philippe Cortens</privatecomments>
 		</concert>
 		<concert>
-			<!-- YouTube: http://www.youtube.com/watch?v=XVMFgCp69Ps -->
-			<!-- cf http://scriptorium.bcu-lausanne.ch/ -->
 			<date>October 15, 16, or 17</date>
 			<place>Lugano, Switzerland</place>
 			<with>
@@ -1503,9 +1499,9 @@
 				<name>Bob Ventrello</name>
 			</with>
 			<comments>Concert broadcast on television by the Radiotelevisione svizzera di lingua italiana (RTSI). Ventrello sometimes spelt "Rentrello" or "Frantello".</comments>
+			<privatecomments>YouTube: http://www.youtube.com/watch?v=XVMFgCp69Ps / cf http://scriptorium.bcu-lausanne.ch/</privatecomments>
 		</concert>
 		<concert>
-			<!-- Vincent Lespagnol -->
 			<date>Late October-November 13</date>
 			<place>Le Caméléon, Paris, France</place>
 			<with>
@@ -1513,9 +1509,9 @@
 				<name>Jean-François Jenny-Clark</name>
 			</with>
 			<comments>Keith Jarrett played for about two weeks, although not every night. What's certain is that he played on November 12 and November 13. He probably played two 50-minute sets per night. One night, Aldo Romano couldn't make it. Charles Bellonzi, a French drummer, wanted to play with Keith Jarrett, but he refused.</comments>
+			<privatecomments>Vincent Lespagnol</privatecomments>
 		</concert>
 		<concert>
-			<!-- Vincent Lespagnol + Jacques D. Levy -->
 			<date>November 3</date>
 			<place>Le Caméléon, Paris, France</place>
 			<with>
@@ -1523,9 +1519,9 @@
 				<name>Jack DeJohnnette</name>
 			</with>
 			<comments>This is the night when Miles Davis, his wife, Dave Holland, and Jack DeJohnette came to listen to Keith Jarrett after their concert at the Salle Pleyel. Keith Jarrett jammed with Dave Holland and Jack DeJohnette. He probably played a regular concert with Aldo Romano and Jean-François Jenny-Clark before (not confirmed). Jacques L.: "Le soir du 3 novembre 1969, Keith Jarrett a joué 2 sets au Caméléon et il était seul en tout cas au 2ème set, c'est certain. Et c'est entre les deux sets qu'il a parlé avec Miles Davis dans le couloir près du vestiaire. Il était adossé au mur et Miles lui parlait la main droite appuyée au mur au-dessus de son épaule. C'était sur un piano droit pas très neuf et j'ai tenu cette poignée pendant tout le concert... Je crois que je la tiens encore !"</comments>
+			<privatecomments>Vincent Lespagnol + Jacques D. Levy</privatecomments>
 		</concert>
 		<concert>
-			<!-- Vincent Lespagnol -->
 			<date>November 14</date>
 			<place>Le Caméléon, Paris, France</place>
 			<with>
@@ -1533,6 +1529,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Keith Jarrett played with his regular American trio only on the last day of his 2-week engagement at Le Caméléon.</comments>
+			<privatecomments>Vincent Lespagnol</privatecomments>
 		</concert>
 		<concert>
 			<date>November 18</date>
@@ -1611,7 +1608,6 @@
 			<comments>Recorded for the "Tous en scène" TV show in Paris and broadcast on November 23, 1969 by La Deuxième Chaîne de l’ORTF. At least one tune was played ("Expectations"). An official video is available from ina.fr.</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">November</date>
 			<place>Club 7, Oslo, Norway</place>
 			<with>
@@ -1619,6 +1615,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Same concert as the December 2, 1969 concert or not?</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>December 2</date>
@@ -1720,13 +1717,13 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">May</date>
 			<place>Apollo, Paris, France</place>
 			<with>
 				<name instr="bass">August "Gus" Nemeth</name>
 				<name instr="drums">Aldo Romano</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>June 17</date>
@@ -1781,7 +1778,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 3</date>
 			<place>Hampton Roads, VA, USA</place>
 			<with>
@@ -1792,6 +1788,7 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>July 6</date>
@@ -1820,7 +1817,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 8</date>
 			<place>Harvard Stadium, Cambridge, MA, USA</place>
 			<with>
@@ -1831,9 +1827,9 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 10</date>
 			<place>Hollywood Bowl, Los Angeles, CA, USA</place>
 			<with>
@@ -1845,9 +1841,9 @@
 				<name instr="percussions">Airto Moreira</name>
 			</with>
 			<comments>Kenneth K.: "Opening for The Band"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 11</date>
 			<place>Newport, RI, USA</place>
 			<event>Newport Jazz Festival</event>
@@ -1858,9 +1854,9 @@
 				<name instr="drums">Bill Goodwin</name>
 			</with>
 			<comments>Kenneth K.: "This is quite a logistical feat as the Bowl show took place on Friday night and Jarrett was performing on the East Coast the following afternoon. Thank God for red eye flights! Jarrett played (for the first and only time) acoustic AND electric piano for this event."</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 15</date>
 			<place>The Spectrum, Philadelphia, PA, USA</place>
 			<with>
@@ -1871,6 +1867,7 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>July 18-22 (?)</date>
@@ -1899,7 +1896,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 26</date>
 			<place>Civic Opera House, Chicago, IL, USA</place>
 			<with>
@@ -1910,6 +1906,7 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>August 2</date>
@@ -1924,7 +1921,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>August 16</date>
 			<place>Stony Brook University, Stony Brook, NY, USA</place>
 			<with>
@@ -1935,6 +1931,7 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>August 18</date>
@@ -1966,7 +1963,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>September 14</date>
 			<place>Boston Tea Party, Boston, MA, USA</place>
 			<with>
@@ -1977,9 +1973,9 @@
 				<name instr="percussions">Airto Moreira</name>
 				<name instr="percussions">Jim Riley (?)</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 2</date>
 			<place>Basin Street West, San Francisco, CA, USA</place>
 			<with>
@@ -1990,9 +1986,9 @@
 				<name instr="percussions">Airto Moreira</name>
 				<name instr="percussions">Jim Riley</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 3</date>
 			<place>Basin Street West, San Francisco, CA, USA</place>
 			<with>
@@ -2003,6 +1999,7 @@
 				<name instr="percussions">Airto Moreira</name>
 				<name instr="percussions">Jim Riley</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>October 4</date>
@@ -2019,7 +2016,6 @@
 			<comments>Kenneth K.: "Shares bill with Bill Evans Trio and Herbie Hancock Sextet"</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 6</date>
 			<place>Basin Street West, San Francisco, CA, USA</place>
 			<with>
@@ -2030,9 +2026,9 @@
 				<name instr="percussions">Airto Moreira</name>
 				<name instr="percussions">Jim Riley</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 7</date>
 			<place>Basin Street West, San Francisco, CA, USA</place>
 			<with>
@@ -2043,9 +2039,9 @@
 				<name instr="percussions">Airto Moreira</name>
 				<name instr="percussions">Jim Riley</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 8</date>
 			<place>Basin Street West, San Francisco, CA, USA</place>
 			<with>
@@ -2056,9 +2052,9 @@
 				<name instr="percussions">Airto Moreira</name>
 				<name instr="percussions">Jim Riley</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 9</date>
 			<place>Basin Street West, San Francisco, CA, USA</place>
 			<with>
@@ -2069,9 +2065,9 @@
 				<name instr="percussions">Airto Moreira</name>
 				<name instr="percussions">Jim Riley</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 11</date>
 			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
 			<with>
@@ -2083,9 +2079,9 @@
 				<name instr="percussions">Jim Riley</name>
 			</with>
 			<comments>Not confirmed. To be investigated.</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 14</date>
 			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
 			<with>
@@ -2096,6 +2092,7 @@
 				<name instr="percussions">Airto Moreira</name>
 				<name instr="percussions">Jim Riley</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>October 1-15 (?)</date>
@@ -2124,7 +2121,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 16</date>
 			<place>Fillmore West, San Francisco, CA, USA</place>
 			<with>
@@ -2135,6 +2131,7 @@
 				<name instr="percussions">Airto Moreira</name>
 				<name instr="percussions">Jim Riley</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>October 17</date>
@@ -2237,7 +2234,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>December 29</date>
 			<place>Village Gate, New York, NY, USA</place>
 			<with>
@@ -2248,6 +2244,7 @@
 				<name instr="percussions">Airto Moreira</name>
 			</with>
 			<comments>Several concerts (December 29, 1970-January 3, 1971). Kenneth K.: "Cancelled at last minute by Miles"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 	</group>
 	<group year="1971">
@@ -2278,7 +2275,6 @@
 			<comments><i>Live 1970-1973</i> and <i>Lennie's on the Turnpike/Philharmonic Hall</i> are Miles Davis bootlegs.</comments>
 		</concert>
 		<concert>
-			<!-- Ellwood Epps -->
 			<date>March 18</date>
 			<place>Union Theater, Memorial Union, University of Wisconsin, Madison, WI, USA</place>
 			<with>
@@ -2289,9 +2285,9 @@
 				<name>Airto Moreira</name>
 			</with>
 			<comments><a href="http://www.wisconsinhistory.org/whi/fullRecord.asp?id=53657">Poster for this concert</a>.</comments>
+			<privatecomments>Ellwood Epps</privatecomments>
 		</concert>
 		<concert>
-			<!-- Michael McLaughlin and Richard Paske (details: two shows, Michael Henderson, etc.) -->
 			<date>March 19</date>
 			<place>Tyrone Guthrie Theater, Minneapolis, MN, USA</place>
 			<with>
@@ -2302,9 +2298,9 @@
 				<name>Airto Moreira</name>
 			</with>
 			<comments>There were two concerts that night (at around 7:30 PM and 9:30 PM). Michael Henderson missed at least the first concert (snowstorms).</comments>
+			<privatecomments>Michael McLaughlin and Richard Paske (details: two shows, Michael Henderson, etc.)</privatecomments>
 		</concert>
 		<concert>
-			<!-- Richard Paske -->
 			<date>March 21</date>
 			<place>Milwaukee, WI, USA</place>
 			<with>
@@ -2314,9 +2310,9 @@
 				<name>Jack DeJohnette</name>
 				<name>Airto Moreira</name>
 			</with>
+			<privatecomments>Richard Paske</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 28</date>
 			<place>Constitution Hall, Washington, DC, USA</place>
 			<with>
@@ -2326,6 +2322,7 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>April 7</date>
@@ -2393,7 +2390,6 @@
 			<privatecomments>Added by Kenneth Kubernik. Exact date by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 23</date>
 			<place>Shrine Auditorium, Los Angeles, CA, USA</place>
 			<with>
@@ -2404,6 +2400,7 @@
 				<name instr="percussions">Airto Moreira</name>
 			</with>
 			<comments>Kenneth K.: "Shares bill with Nina Simone"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>April 28</date>
@@ -2419,7 +2416,6 @@
 			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Keith N. Moore -->
 			<date>April 30</date>
 			<place>Queen Elizabeth Theatre, Vancouver, BC, Canada</place>
 			<with>
@@ -2429,9 +2425,9 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>Keith N. Moore</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>Early May</date>
 			<place>Shelly’s Manne-Hole, Los Angeles, CA, USA</place>
 			<with>
@@ -2442,9 +2438,9 @@
 				<name instr="percussions">Airto Moreira</name>
 			</with>
 			<comments>Five nights. Kenneth K.: "It was during this engagement that Keith and Jack recorded 'Ruta and Daitya'"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 6</date>
 			<place>Fillmore West, San Francisco, CA, USA</place>
 			<with>
@@ -2454,6 +2450,7 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>May 7</date>
@@ -2467,7 +2464,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 8</date>
 			<place>Fillmore West, San Francisco, CA, USA</place>
 			<with>
@@ -2477,9 +2473,9 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 9</date>
 			<place>Fillmore West, San Francisco, CA, USA</place>
 			<with>
@@ -2489,9 +2485,9 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 5</date>
 			<place>Newport, RI, USA</place>
 			<event>Newport Jazz Festival</event>
@@ -2502,9 +2498,9 @@
 				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Airto Moreira</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 20</date>
 			<place>Beacon Theater, New York, NY, USA</place>
 			<with>
@@ -2515,9 +2511,9 @@
 				<name instr="percussions">Airto Moreira</name>
 			</with>
 			<comments>Kenneth K.: "With Soft Machine and Richard Pryor"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 21</date>
 			<place>Beacon Theater, New York, NY, USA</place>
 			<with>
@@ -2528,6 +2524,7 @@
 				<name instr="percussions">Airto Moreira</name>
 			</with>
 			<comments>Kenneth K.: "With Soft Machine and Richard Pryor"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>October 10</date>
@@ -3015,7 +3012,6 @@
 			<privatecomments>According to Marc Morvan's email (August 18, 2018).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>December 15</date>
 			<place>Gaslight Club, New York, NY, USA</place>
 			<with>
@@ -3026,9 +3022,9 @@
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>December 16</date>
 			<place>Gaslight Club, New York, NY, USA</place>
 			<with>
@@ -3039,9 +3035,9 @@
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>December 17</date>
 			<place>Gaslight Club, New York, NY, USA</place>
 			<with>
@@ -3052,9 +3048,9 @@
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>December 18</date>
 			<place>Gaslight Club, New York, NY, USA</place>
 			<with>
@@ -3065,9 +3061,9 @@
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>December 19</date>
 			<place>Gaslight Club, New York, NY, USA</place>
 			<with>
@@ -3079,6 +3075,7 @@
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
 			<comments>Kenneth K.: "Last show with Miles"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 	</group>
 	<group year="1972">
@@ -3094,7 +3091,6 @@
 			<privatecomments>Originally mentioned by Guy Berger. Date confirmed by. Leonhard Schilde.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Radio recording circulating -->
 			<date>June 3</date>
 			<place>Székesfehérvár, Hungary</place>
 			<event>Alba Regia Jazz Festival</event>
@@ -3102,6 +3098,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Radio recording circulating</privatecomments>
 		</concert>
 		<concert>
 			<date>June 4</date>
@@ -3184,13 +3181,13 @@
 			<comments>Also circulating as a September 17, 1972 concert.</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">September</date>
 			<place>Cafe Montmartre, Copenhagen, Denmark</place>
 			<with>
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>October 28</date>
@@ -3202,7 +3199,6 @@
 			<privatecomments>Added by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- par-mac@telus.net -->
 			<date incomplete="yes"/>
 			<place>Jubilee Auditorium, Edmonton, AB, Canada</place>
 			<with>
@@ -3211,6 +3207,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>The year is uncertain. This concert might have taken place in 1972 or 1973.</comments>
+			<privatecomments>par-mac@telus.net</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes"/>
@@ -3222,7 +3219,6 @@
 	</group>
 	<group year="1973">
 		<concert>
-			<!-- Simon Savary -->
 			<date>January 16</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3230,9 +3226,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>January 17</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3240,9 +3236,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>January 18</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3250,9 +3246,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>January 19</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3260,9 +3256,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>January 20</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3270,9 +3266,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>January 21</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3280,9 +3276,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>February 2</date>
 			<place>Strata Concert Gallery, Detroit, MI, USA</place>
 			<with>
@@ -3290,9 +3286,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>February 3</date>
 			<place>Strata Concert Gallery, Detroit, MI, USA</place>
 			<with>
@@ -3300,9 +3296,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>February 4</date>
 			<place>Strata Concert Gallery, Detroit, MI, USA</place>
 			<with>
@@ -3310,9 +3306,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>February 20</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3321,9 +3317,9 @@
 				<name>Paul Motian</name>
 				<name>Danny Johnson</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>February 21</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3332,9 +3328,9 @@
 				<name>Paul Motian</name>
 				<name>Danny Johnson</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>February 22</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3343,9 +3339,9 @@
 				<name>Paul Motian</name>
 				<name>Danny Johnson</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>February 23</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3354,6 +3350,7 @@
 				<name>Paul Motian</name>
 				<name>Danny Johnson</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>February 24</date>
@@ -3369,7 +3366,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>February 25</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3378,19 +3374,20 @@
 				<name>Paul Motian</name>
 				<name>Danny Johnson</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- -Exact date and venue from Arnulf Müller -->
 			<date>March 16</date>
 			<place>Teatro Donizetti, Bergamo, Italy</place>
 			<with solo="yes"/>
 			<comments>Concert mentioned in <a href="http://www.ilsussidiario.net/News/Musica-e-concerti/2010/7/8/KEITH-JARRETT-In-concerto-il-16-luglio-a-Bergamo-Con-Gary-Peacock-e-Jack-DeJohnette-keith-jarrett/98412/">"KEITH JARRETT/ In concerto il 16 luglio a Bergamo. Con Gary Peacock e Jack DeJohnette"</a></comments>
+			<privatecomments>Exact date and venue from Arnulf Müller</privatecomments>
 		</concert>
 		<concert>
-			<!-- -Exact date from Arnulf Müller -->
 			<date>March 19</date>
 			<place>Bern, Switzerland</place>
 			<with solo="yes"/>
+			<privatecomments>Exact date from Arnulf Müller</privatecomments>
 		</concert>
 		<concert>
 			<date>March 20</date>
@@ -3399,16 +3396,16 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Feuille d'Avis de Lausanne du 21 mars 1973 -->
 			<date>March 21</date>
 			<place>Salle de l'ERA, Geneva, Switzerland</place>
 			<with solo="yes"/>
+			<privatecomments>Feuille d'Avis de Lausanne du 21 mars 1973</privatecomments>
 		</concert>
 		<concert>
-			<!-- Feuille d'Avis de Lausanne du 21 mars 1973 -->
 			<date>March 22</date>
 			<place>Salle de l'ERA, Geneva, Switzerland</place>
 			<with solo="yes"/>
+			<privatecomments>Feuille d'Avis de Lausanne du 21 mars 1973</privatecomments>
 		</concert>
 		<concert>
 			<date>March 27</date>
@@ -3429,7 +3426,6 @@
 			<privatecomments>Added by Matthias Bohlen. Articles about the concert in an email from Tonino Vantaggiato from January 24, 2022.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>June 12</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3439,10 +3435,9 @@
 				<name>Guilherme Franco</name>
 			</with>
 			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
-			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
+			<privatecomments>Simon Savary. Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>June 13</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3452,10 +3447,9 @@
 				<name>Guilherme Franco</name>
 			</with>
 			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
-			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
+			<privatecomments>Simon Savary. Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>June 14</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3465,10 +3459,9 @@
 				<name>Guilherme Franco</name>
 			</with>
 			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
-			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
+			<privatecomments>Simon Savary. Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>June 15</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3478,10 +3471,9 @@
 				<name>Guilherme Franco</name>
 			</with>
 			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
-			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
+			<privatecomments>Simon Savary. Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>June 16</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3491,10 +3483,9 @@
 				<name>Guilherme Franco</name>
 			</with>
 			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
-			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
+			<privatecomments>Simon Savary. Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>June 17</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3504,7 +3495,7 @@
 				<name>Guilherme Franco</name>
 			</with>
 			<comments><a href="http://www.nytimes.com/1973/06/16/archives/jarretts-quartetplays-at-vanguard.html">An article in the New York Times</a> mentions Ron McClure on the bass, not Charlie Haden.</comments>
-			<privatecomments>Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
+			<privatecomments>Simon Savary. Information about the lineup from Ken Kubernik (May 17, 2016 email).</privatecomments>
 		</concert>
 		<concert>
 			<date>June 30</date>
@@ -3525,18 +3516,18 @@
 			<privatecomments>Simon S.: "En écoutant la suite de la Partie I de Bremen 1973, j'ai identifié une section, allant de 9:55 à 13:30 (timing de l'émission de radio incluant le commentaire de l'animateur d'une durée d'environ 4 min), qui est très apparentée au concert à Pescara que j’ai dans ma collection (début de Part Ib), mais daté du 16 juillet 1974."</privatecomments>
 		</concert>
 		<concert>
-			<!-- Olli Ylönen -->
 			<date>July 14</date>
 			<place>Karhulinna, Pori, Finland</place>
 			<event>Pori Jazz Festival</event>
 			<with solo="yes"/>
+			<privatecomments>Olli Ylönen</privatecomments>
 		</concert>
 		<concert>
-			<!-- Olli Ylönen -->
 			<date>July 15</date>
 			<place>Kirjurinluoto, Pori, Finland</place>
 			<event>Pori Jazz Festival</event>
 			<with solo="yes"/>
+			<privatecomments>Olli Ylönen</privatecomments>
 		</concert>
 		<concert>
 			<date>July 16</date>
@@ -3568,15 +3559,14 @@
 			<privatecomments>Initial information from Arnulf Müller. Exact dates, number of concerts, and NRK link from Johan Hauknes.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Arnulf Müller -->
 			<date incomplete="yes">Early October</date>
 			<place>Vienna, Austria</place>
 			<event>Musik für 14 Hände</event>
 			<with solo="yes"/>
 			<comments>7-minute piece recorded for the Austrian television. Produced in October 1973 and broadcast in 1974. More information here: <a href="http://www.spiegel.de/spiegel/print/d-41871573.html">Piano-Jazz: Musik für 14 Hände</a></comments>
+			<privatecomments>Arnulf Müller</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 21</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
 			<with>
@@ -3586,9 +3576,9 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Alice Coltrane).</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 26</date>
 			<place>Detroit, MI, USA</place>
 			<with>
@@ -3598,9 +3588,9 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Pharoah Sanders).</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Michele Munro -->
 			<date incomplete="yes">October</date>
 			<place>Michigan State University, East Lansing, MI, USA</place>
 			<time>11 PM</time>
@@ -3611,6 +3601,7 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments>Concert organized by Showcase Jazz. Michele M.: "The Steinway concert grand was sent to Grand Rapids, before it arrived late in East Lansing. The show started at 11p.m.! Fans were sitting in the hallway for 3 hours, and they waited. There was no way to get the word out then. What a night!"</comments>
+			<privatecomments>Michele Munro</privatecomments>
 		</concert>
 		<concert>
 			<date>November 2</date>
@@ -3646,7 +3637,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 8</date>
 			<place>Bowdoin College, Brunswick, ME, USA</place>
 			<with>
@@ -3656,9 +3646,9 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Marion Brown).</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 9</date>
 			<place>Symphony Hall, Boston, MA, USA</place>
 			<with>
@@ -3668,6 +3658,7 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Sam Rivers).</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>November 10</date>
@@ -3693,7 +3684,6 @@
 			<privatecomments>First mentioned by Kenneth Kubernik. Wylie Smith confirmed that Guilherme Franco was not there.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 16</date>
 			<place>Kennedy Center, Washington, DC, USA</place>
 			<with>
@@ -3703,9 +3693,9 @@
 				<name>Guilherme Franco (?)</name>
 			</with>
 			<comments>"Impulse!" tour. Opening for Gato Barbieri (+ Sam Rivers).</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 20</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3714,9 +3704,9 @@
 				<name>Paul Motian</name>
 				<name>Guilherme Franco (?)</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 21</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3725,9 +3715,9 @@
 				<name>Paul Motian</name>
 				<name>Guilherme Franco (?)</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 22</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3736,9 +3726,9 @@
 				<name>Paul Motian</name>
 				<name>Guilherme Franco (?)</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 23</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3747,9 +3737,9 @@
 				<name>Paul Motian</name>
 				<name>Guilherme Franco (?)</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 24</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3758,9 +3748,9 @@
 				<name>Paul Motian</name>
 				<name>Guilherme Franco (?)</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 25</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -3769,6 +3759,7 @@
 				<name>Paul Motian</name>
 				<name>Guilherme Franco (?)</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes"/>
@@ -4219,11 +4210,11 @@
 			<privatecomments>Concert reported by Russ Browne (without the precise date, which was given by Rolf Rauschenbach).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Jasiek Poznanski -->
 			<date>June 12</date>
 			<place>Convocation Hall, Edmonton, AB, Canada</place>
 			<with solo="yes"/>
 			<comments>Concert presented by the Edmonton Jazz Society. "Tickets were $3.50 each ($2.50 to members of the Edmonton Jazz Society)."</comments>
+			<privatecomments>Jasiek Poznanski</privatecomments>
 		</concert>
 		<concert>
 			<date>June 14</date>
@@ -4285,12 +4276,12 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Arnulf Müller -->
 			<date>July 31</date>
 			<place>Villalago, Terni, Italy</place>
 			<event>Umbria Jazz Festival</event>
 			<with solo="yes"/>
 			<comments>Marc M.: "Villalago is a neoclassical villa built in the 19th century with a park and an amphitheatre (there is also a town named Villalago in Italy but it's another place)."</comments>
+			<privatecomments>Arnulf Müller</privatecomments>
 		</concert>
 		<concert>
 			<date>July 27</date>
@@ -4377,7 +4368,6 @@
 			<privatecomments>According to Marc Morvan's email.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik + Simon Savary -->
 			<date>September 25</date>
 			<place>The Bijou, Philadelphia, PA, USA</place>
 			<with>
@@ -4386,9 +4376,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik + Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik + Simon Savary -->
 			<date>September 26</date>
 			<place>The Bijou, Philadelphia, PA, USA</place>
 			<with>
@@ -4397,9 +4387,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik + Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik + Simon Savary -->
 			<date>September 27</date>
 			<place>The Bijou, Philadelphia, PA, USA</place>
 			<with>
@@ -4408,9 +4398,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik + Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik + Simon Savary -->
 			<date>September 28</date>
 			<place>The Bijou, Philadelphia, PA, USA</place>
 			<with>
@@ -4419,6 +4409,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik + Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>September 29</date>
@@ -4431,27 +4422,27 @@
 			<privatecomments>Richard A. Moses. Marc Morvan (correct date).</privatecomments>
 		</concert>
 		<concert>
-			<!-- James A. Ewart -->
 			<date incomplete="yes">September (?)</date>
 			<place>Eisenhower Auditorium, Penn State University Park, State College, PA, USA</place>
 			<with>
 				<name>Charlie Haden</name>
 			</with>
 			<comments>James E.: "I think that just Keith Jarrett and Charlie Haden were on stage for that concert. I recall Keith Jarrett repeatedly "wowing down" the crowd with his arms so that their applause didn't drown out Charlie Haden's upright bass solos. Eventually, the crowd of mostly students got the message and held their applause till the end of later pieces."</comments>
+			<privatecomments>James A. Ewart</privatecomments>
 		</concert>
 		<concert>
-			<!-- stupidrule2001@yahoo.com -->
 			<date>October 16</date>
 			<place>Lisner Auditorium, George Washington University, Washington, DC, USA</place>
 			<with solo="yes"/>
 			<comments>"He played solo and opened for the Gary Burton Quintet. At the end, he complained about the piano."</comments>
+			<privatecomments>stupidrule2001@yahoo.com</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon -->
 			<date>October 19</date>
 			<place>Bucks County Play House, New Hope, PA, USA</place>
 			<with solo="yes"/>
 			<comments/>
+			<privatecomments>Peter Elsdon</privatecomments>
 		</concert>
 		<concert>
 			<date>October 22</date>
@@ -4552,7 +4543,6 @@
 			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon / New York Times -->
 			<date>November 26</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4560,9 +4550,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Peter Elsdon / New York Times</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon / New York Times -->
 			<date>November 27</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4570,9 +4560,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Peter Elsdon / New York Times</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon / New York Times -->
 			<date>November 28</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4580,9 +4570,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Peter Elsdon / New York Times</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon / New York Times -->
 			<date>November 29</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4590,9 +4580,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Peter Elsdon / New York Times</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon / New York Times -->
 			<date>November 30</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4600,9 +4590,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Peter Elsdon / New York Times</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon / New York Times -->
 			<date>December 1</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4610,6 +4600,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Peter Elsdon / New York Times</privatecomments>
 		</concert>
 		<concert>
 			<date>December 9</date>
@@ -4619,11 +4610,11 @@
 			<privatecomments>Initially reported by Peter Harlan. Precise dates and location by Marc Morvan.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon -->
 			<date>December 14</date>
 			<place>Koussevitsky Arts Centre, Berkshire Community College, Pittsfield, MA, USA</place>
 			<with solo="yes"/>
 			<comments/>
+			<privatecomments>Peter Elsdon</privatecomments>
 		</concert>
 		<concert>
 			<date>December 20</date>
@@ -4644,7 +4635,6 @@
 			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Richard Paske -->
 			<date>December 22</date>
 			<place>Tyrone Guthrie Theater, Minneapolis, MN, USA</place>
 			<with>
@@ -4652,9 +4642,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Richard Paske</privatecomments>
 		</concert>
 		<concert>
-			<!-- johnsluggett@charter.net -->
 			<date incomplete="yes">September-December (?)</date>
 			<place>Webster Grove, MO, USA</place>
 			<with>
@@ -4662,6 +4652,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>johnsluggett@charter.net</privatecomments>
 		</concert>
 	</group>
 	<group year="1975">
@@ -4673,11 +4664,11 @@
 			<privatecomments>Concert first mentioned by Stefan Diller. Extra information by the person who organized the concert (Hans-Dieter Klinger).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon + Arnulf Müller (exact venue) -->
 			<date>January 20</date>
 			<place>Theater am Ring, Villingen, Germany</place>
 			<with solo="yes"/>
 			<comments>Concert mentioned in <a href="http://www.suedkurier.de/nachrichten/kultur/themensk/8222-VS-swingt-8220-Organisator-Fritz-Ewald-blickt-zurueck;art410935,6292677">"VS swingt-Organisator Fritz Ewald blickt zurück"</a></comments>
+			<privatecomments>Peter Elsdon + Arnulf Müller (exact venue)</privatecomments>
 		</concert>
 		<concert>
 			<date>January 21</date>
@@ -4687,12 +4678,11 @@
 			<privatecomments>Information from Sébastien Cicolella and Stephan Perthes.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Radio Télévision Suisse -->
 			<date>January 23</date>
 			<place>Salle de Spectacles, Epalinges, Switzerland</place>
 			<with solo="yes"/>
 			<comments>Concert recorded (but never broadcast?) by the Radio Suisse Romande (RSR). Encore ("Calypso") broadcast by RTS on May 9, 2025.</comments>
-			<privatecomments>Simon S.: "Après ma 2e vraie écoute, aucun doute que ce Calypso est un embryon de la partie 2 de Köln le lendemain soir! (et probablement une évolution de ce qu'on entend à Kronach Part II, mais pas Freiburg - dans une classe à part; quid de Villingen?? et Bremen par la suite)."</privatecomments>
+			<privatecomments>Radio Télévision Suisse. Simon S.: "Après ma 2e vraie écoute, aucun doute que ce Calypso est un embryon de la partie 2 de Köln le lendemain soir! (et probablement une évolution de ce qu'on entend à Kronach Part II, mais pas Freiburg - dans une classe à part; quid de Villingen?? et Bremen par la suite)."</privatecomments>
 		</concert>
 		<concert>
 			<date>January 24</date>
@@ -4703,27 +4693,25 @@
 			<comments><a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1975-01-24-poster.jpg">Poster (displayed at Oper Köln)</a>.</comments>
 		</concert>
 		<concert>
-			<!-- Matthias Bohlen -->
 			<date>January 25</date>
 			<place>Aula, Kantonsschule, Baden, Switzerland</place>
 			<with solo="yes"/>
 			<comments>More information about this concert in <a href="https://web.archive.org/web/20120309113854/http://www.zwitschermaschine.li/rubjarrett.html">"The Baden Concert"</a> (<a href="http://retro.seals.ch/cntmng?pid=ban-001:2006:81::254">PDF version</a>)</comments>
-			<privatecomments>Link to PDF given by Arnulf Müller (March 14, 2016 email).</privatecomments>
+			<privatecomments>Matthias Bohlen. Link to PDF given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Matthias Bohlen -->
 			<date>January 29</date>
 			<place>Großer Kammersaal, Graz, Austria</place>
 			<with solo="yes"/>
 			<comments>Concert mentioned in <a href="https://web.archive.org/web/20120309113854/http://www.zwitschermaschine.li/rubjarrett.html">"The Baden Concert"</a> (<a href="http://retro.seals.ch/cntmng?pid=ban-001:2006:81::254">PDF version</a>)</comments>
-			<privatecomments>Link to PDF given by Arnulf Müller (March 14, 2016 email).</privatecomments>
+			<privatecomments>Matthias Bohlen. Link to PDF given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon -->
 			<date>January 31</date>
 			<place>Congress Center Hamburg (CCH), Hamburg, Germany</place>
 			<with solo="yes"/>
 			<comments/>
+			<privatecomments>Peter Elsdon</privatecomments>
 		</concert>
 		<concert>
 			<date>February 2</date>
@@ -4743,12 +4731,12 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Simon Savary for the correct date/hall -->
 			<date>February 13</date>
 			<place>Skinner Hall of Music, Vassar College, Poughkeepsie, NY, USA</place>
 			<release>Solo Performance New York '75</release>
 			<with solo="yes"/>
 			<comments>The correct date is February 13, not February 14, according to <a href="https://www.vassar.edu/chronology/records/1975/1975-02-13-jarrett.html">vassar.edu</a>. <i>Solo Performance New York '75</i> is a bootleg.</comments>
+			<privatecomments>Simon Savary for the correct date/hall</privatecomments>
 		</concert>
 		<concert>
 			<date>February 20</date>
@@ -4756,7 +4744,6 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- David Rae Morris -->
 			<date>March 2</date>
 			<time>8 PM</time>
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
@@ -4766,6 +4753,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>David R. M.: "He played both solo and with a band, presumably with Redman, Haden and Motian. As I recall, there were two sets. (...) As best I can remember, there were two separate sets and in the middle of at least one, the rest of the band slowly left the stage one by one leaving Mr. Jarrett to perform solo. After a time--perhaps 20 or 30 minutes--they returned to stage, once again one [by one] and resumed playing together."</comments>
+			<privatecomments>David Rae Morris</privatecomments>
 		</concert>
 		<concert>
 			<date>March 4</date>
@@ -4925,7 +4913,6 @@
 			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 30</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -4934,26 +4921,27 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>2-3 shows a night?</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>April 4</date>
 			<place>Flanagan Chapel, Lewis and Clark College, Portland, OR, USA</place>
 			<with solo="yes"/>
 			<comments/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon -->
 			<date>April 20</date>
 			<place>Given Auditorium, Bixler Art and Music Center, Colby College, Waterville, ME, USA</place>
 			<with solo="yes"/>
 			<comments/>
+			<privatecomments>Peter Elsdon</privatecomments>
 		</concert>
 		<concert>
-			<!-- Ed Deal -->
 			<date>February or April (?)</date>
 			<place>Moore Theater, Seattle, WA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Ed Deal</privatecomments>
 		</concert>
 		<concert>
 			<date>May 10</date>
@@ -5067,7 +5055,6 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 26</date>
 			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with>
@@ -5076,10 +5063,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Two shows a night.</comments>
-			<privatecomments>Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
+			<privatecomments>Kenneth Kubernik. Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 27</date>
 			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with>
@@ -5088,10 +5074,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Two shows a night.</comments>
-			<privatecomments>Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
+			<privatecomments>Kenneth Kubernik. Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 28</date>
 			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with>
@@ -5100,10 +5085,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Two shows a night.</comments>
-			<privatecomments>Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
+			<privatecomments>Kenneth Kubernik. Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 29</date>
 			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with>
@@ -5112,10 +5096,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Two shows a night.</comments>
-			<privatecomments>Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
+			<privatecomments>Kenneth Kubernik. Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 30</date>
 			<place>Amazingrace Coffeehouse, Evanston, IL, USA</place>
 			<with>
@@ -5124,11 +5107,10 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Two shows a night.</comments>
-			<privatecomments>Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
+			<privatecomments>Kenneth Kubernik. Robert Smith (December 14, 2017): "Yep, two shows a night. I saw 7 of the shows."</privatecomments>
 		</concert>
 		<concert>
 			<date>July 3</date>
-			<!-- Frederik Adlers + Wolfgang's Vault -->
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<event>Newport Jazz Festival</event>
 			<with>
@@ -5137,6 +5119,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Keith Jarrett played after Oregon and before Thelonius Monk.</comments>
+			<privatecomments>Frederik Adlers + Wolfgang's Vault</privatecomments>
 		</concert>
 		<concert>
 			<date>August 15</date>
@@ -5249,7 +5232,6 @@
 			<privatecomments>Kenneth Kubernik. City confirmed by Marc Movan.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 2</date>
 			<place>McDonel Kiva, Michigan State University, East Lansing, MI, USA</place>
 			<with>
@@ -5257,9 +5239,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 3</date>
 			<place>McDonel Kiva, Michigan State University, East Lansing, MI, USA</place>
 			<with>
@@ -5268,9 +5250,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Workshop.</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Elsdon + David Jordan -->
 			<date>October 4</date>
 			<place>Iowa Memorial Union, University of Iowa, Iowa City, IA, USA</place>
 			<with>
@@ -5279,9 +5261,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>David J.: "He lectured the audience about applauding after solos, or actually asked them why they did it, was it a good solo or were they just acknowledging that they knew it was a solo? Coughing came up too. Group cough, college students coughing just to see how mad he would get, after a long tirade and a long silence (where he said he would continue when all the wise guys quit coughing). Dewey Redman stepped up to the mic and coughed. I recall material from Treasure Island or Yahwuh, but not sure."</comments>
+			<privatecomments>Peter Elsdon + David Jordan</privatecomments>
 		</concert>
 		<concert>
-			<!-- jazzmanxxi + Chuck Hill -->
 			<date>October 10</date>
 			<place>Symphony Hall, Springfield, MA, USA</place>
 			<with>
@@ -5290,9 +5272,9 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>Chuck H.: "My notes show that the Keith Jarrett Quartet (Jarrett, Redman, Haden, Motian) played nonstop for one hour and twenty minutes, followed by one short encore. They didn't begin until 10:50 at night, because they were preceeded by two other groups -- Oregon (Towner, McCandless, Moore, and Wolcott) playing seven pieces over a 45-minute period, then the Gary Burton Quintet (Burton, Swallow, Moses, Metheny, and Goodrick) playing five pieces over a 40-minute period."</comments>
+			<privatecomments>jazzmanxxi + Chuck Hill</privatecomments>
 		</concert>
 		<concert>
-			<!-- Don Quigley: scan du billet dans mail (https://mail.google.com/mail/#all/1267c7120dcbccfa) -->
 			<date>October 15</date>
 			<place>McCarter Theater, Princeton, NJ, USA</place>
 			<with>
@@ -5300,9 +5282,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Don Quigley: scan du billet dans mail (https://mail.google.com/mail/#all/1267c7120dcbccfa)</privatecomments>
 		</concert>
 		<concert>
-			<!-- Maurizio -->
 			<date>November 7</date>
 			<place>Stefaniensaal, Graz, Austria</place>
 			<with>
@@ -5312,6 +5294,7 @@
 				<name instr="conductor">Alois J. Hochstrasser</name>
 			</with>
 			<comments>Programme: "Compositions for soloists and strings".</comments>
+			<privatecomments>Maurizio</privatecomments>
 		</concert>
 		<concert>
 			<date>November 12</date>
@@ -5346,7 +5329,6 @@
 			<privatecomments>From Marc Morvan's list.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>November 29</date>
 			<place>Massey Hall, Toronto, ON, Canada</place>
 			<with>
@@ -5354,6 +5336,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>November 30</date>
@@ -5367,10 +5350,10 @@
 			<privatecomments>From Marc Morvan's list. Number of sets given by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Herbert Kohout -->
 			<date incomplete="yes">Autumn</date>
 			<place>Villingen-Schwenningen, Germany</place>
 			<with solo="yes"/>
+			<privatecomments>Herbert Kohout</privatecomments>
 		</concert>
 		<concert>
 			<date>December 3</date>
@@ -5394,7 +5377,6 @@
 			<privatecomments>Mentioned by Bruce Dinsmor.</privatecomments>
 		</concert>
 		<concert>
-			<!-- stupidrule2001@yahoo.com -->
 			<date>December 7</date>
 			<place>Kennedy Center, Washington, DC, USA</place>
 			<with>
@@ -5403,18 +5385,18 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>"At the end, he complained about the management's time limit on his performance."</comments>
+			<privatecomments>stupidrule2001@yahoo.com</privatecomments>
 		</concert>
 		<concert>
-			<!-- stupidrule2001@yahoo.com -->
 			<date>December 16 (?)</date>
 			<place>Kennedy Center, Washington, DC, USA</place>
 			<with solo="yes"/>
 			<comments>"The Andrew White Quartet opened."</comments>
+			<privatecomments>stupidrule2001@yahoo.com</privatecomments>
 		</concert>
 	</group>
 	<group year="1976">
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 14</date>
 			<place>Paramount Theatre, Oakland, CA, USA</place>
 			<with>
@@ -5422,9 +5404,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Jeffrey Utter <jlutter@yahoo.com> -->
 			<date>January 16</date>
 			<place>UC San Diego Gym, UC San Diego, San Diego, CA, USA</place>
 			<with>
@@ -5433,6 +5415,7 @@
 				<name>Paul Motian</name>
 			</with>
 			<comments>From the UCSD archives: "Jazz pianist Keith Jarrett will perform in concert at the University of California, San Diego Friday, Jan. 16, at 8:30 p.m. in the UC San Diego Gym. (...) Tickets for the performance are $3 for UC San Diego students in advance and $4.50 for general admission. Tickets can be obtained at the UC San Diego Box Office on campus (452-4559) or through Ticketron agencies."</comments>
+			<privatecomments>Jeffrey Utter &lt;jlutter@yahoo.com&gt;</privatecomments>
 		</concert>
 		<concert>
 			<date>January 17</date>
@@ -5447,7 +5430,6 @@
 			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>January 18</date>
 			<time>8 PM</time>
 			<place>Royce Hall, Los Angeles, CA, USA</place>
@@ -5456,10 +5438,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<privatecomments>Time from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
+			<privatecomments>Kenneth Kubernik. Time from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Ed Deal -->
 			<date>January 20</date>
 			<place>Moore Theater, Seattle, WA, USA</place>
 			<with>
@@ -5467,6 +5448,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Ed Deal</privatecomments>
 		</concert>
 		<concert>
 			<date>January 21</date>
@@ -5490,7 +5472,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>February 17</date>
 			<place>Performing Arts Center, Milwaukee, WI, USA</place>
 			<with>
@@ -5498,9 +5479,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Eric G. Postel (concert booked by him) -->
 			<date>February 28</date>
 			<place>McConaughy Hall, Wesleyan University, Middletown, CT, USA</place>
 			<with>
@@ -5508,6 +5489,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Eric G. Postel (concert booked by him)</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes">February</date>
@@ -5635,7 +5617,6 @@
 			<privatecomments>Added by Sep Troelstra. Articles about the concert in an email from Tonino Vantaggiato from January 24, 2022.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra -->
 			<date>May 3</date>
 			<place>Theater am Korntmarkt, Bregenz, Austria</place>
 			<release id="eyes-of-the-heart">Eyes of the Heart</release>
@@ -5644,6 +5625,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Sep Troelstra</privatecomments>
 		</concert>
 		<concert>
 			<date>May 5</date>
@@ -5670,7 +5652,6 @@
 			<privatecomments>Added by Sep Troelstra. Two scans of newspaper articles (in German) sent by email by Hanns-Peter Bushoff on November 16, 2022.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra -->
 			<date>May 7</date>
 			<place>Salle Pleyel, Paris, France</place>
 			<with>
@@ -5678,9 +5659,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Sep Troelstra</privatecomments>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra -->
 			<date>May 8</date>
 			<place>Palais des Congrès, Paris, France</place>
 			<with>
@@ -5688,9 +5669,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Sep Troelstra</privatecomments>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra -->
 			<date>May 10</date>
 			<time>8:15 PM</time>
 			<place>Tivoli Hall, Utrecht, Netherlands</place>
@@ -5700,11 +5681,10 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<!-- Comments by Peter Vaniterson -->
 			<comments>Peter V.: "They played 'The Survivors' Suite' and short parts from 'Eyes of the Heart'. It was recorded by Dutch radio and broadcast later on by Michiel de Ruyter." A scan of the concert poster is available <a href="https://www.flickr.com/photos/keithjarrettorg/21749918408">here</a>. Concert started with a solo set?</comments>
+			<privatecomments>Sep Troelstra / Comments by Peter Vaniterson</privatecomments>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra -->
 			<date>May 11</date>
 			<place>Auditorium Maurice Ravel, Lyon, France</place>
 			<event></event>
@@ -5713,9 +5693,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Sep Troelstra</privatecomments>
 		</concert>
 		<concert>
-			<!-- 24 Heures du 8 mai 1976 -->
 			<date>May 13</date>
 			<place>Kursaal, Bern, Switzerland</place>
 			<with>
@@ -5723,9 +5703,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>24 Heures du 8 mai 1976</privatecomments>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra -->
 			<date>May 14</date>
 			<place>Nürnberg, Germany</place>
 			<event>Jazz Ost-West 76</event>
@@ -5734,9 +5714,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Sep Troelstra</privatecomments>
 		</concert>
 		<concert>
-			<!-- Hans-Dieter Klinger (ticket scans available in August 20, 2015 email) -->
 			<date>May 17</date>
 			<time>8 PM</time>
 			<place>Theater in der Brienner Straße, Munich, Germany</place>
@@ -5745,6 +5725,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
+			<privatecomments>Hans-Dieter Klinger (ticket scans available in August 20, 2015 email)</privatecomments>
 		</concert>
 		<concert>
 			<date>May 18</date>
@@ -5802,7 +5783,6 @@
 			<privatecomments>From Marc Movan's list.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 10</date>
 			<place>Paramount Theatre, Oakland, CA, USA</place>
 			<with>
@@ -5812,9 +5792,9 @@
 				<name>26-piece string orchestra</name>
 			</with>
 			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 11</date>
 			<time>8:30 PM</time>
 			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
@@ -5825,10 +5805,9 @@
 				<name>26-piece string orchestra</name>
 			</with>
 			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
-			<privatecomments>Time from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
+			<privatecomments>Kenneth Kubernik. Time from photo sent by Arnulf Müller (May 27, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik + John C. Strawn (exact location) -->
 			<date>June 13</date>
 			<place>Seattle Opera House, Seattle, WA, USA</place>
 			<with>
@@ -5838,9 +5817,9 @@
 				<name>26-piece string orchestra</name>
 			</with>
 			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting." Produced by Albatross Productions.</comments>
+			<privatecomments>Kenneth Kubernik + John C. Strawn (exact location)</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 14</date>
 			<place>Queen Elizabeth Theatre, Vancouver, BC, Canada</place>
 			<with>
@@ -5850,9 +5829,9 @@
 				<name>26-piece string orchestra</name>
 			</with>
 			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik + John C. Strawn (exact location) -->
 			<date>June 15</date>
 			<place>Portland Civic Centre Theater, Portland, OR, USA</place>
 			<with>
@@ -5862,9 +5841,9 @@
 				<name instr="conductor">Paul Shure</name>
 			</with>
 			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting." Produced by Albatross Productions. John C. S.: "Keith commented that it was the best the music had sounded and was pleased."</comments>
+			<privatecomments>Kenneth Kubernik + John C. Strawn (exact location)</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 16</date>
 			<place>Civic Theatre, San Diego, CA, USA</place>
 			<with>
@@ -5874,6 +5853,7 @@
 				<name>26-piece string orchestra</name>
 			</with>
 			<comments>Kenneth K.: "The 'Arbour Zena' tour featuring a 26 piece string section with Charlie Haden, Jan Garbarek, and Paul Shure conducting."</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>June 28</date>
@@ -5894,18 +5874,18 @@
 			<privatecomments>Added by Mark Crutchfield. Correct venue by Ken Barry.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra -->
 			<date>July 21</date>
 			<place>Palais des Congrès, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
 			<with solo="yes"/>
+			<privatecomments>Sep Troelstra</privatecomments>
 		</concert>
 		<concert>
-			<!-- Sep Troelstra -->
 			<date>July 22</date>
 			<place>Palais des Congrès, Antibes Juan-Les-Pins, France</place>
 			<event>Jazz à Juan</event>
 			<with solo="yes"/>
+			<privatecomments>Sep Troelstra</privatecomments>
 		</concert>
 		<concert>
 			<date>July 24</date>
@@ -5932,11 +5912,11 @@
 			<privatecomments>Arnulf Müller. Location confirmed by Marc Movan.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>September 9</date>
 			<place>Arlington Theater, Santa Barbara, CA, USA</place>
 			<with solo="yes"/>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>September 18</date>
@@ -6010,33 +5990,32 @@
 	</group>
 	<group year="1977">
 		<concert>
-			<!-- http://www.redrocksonline.com/pages/concerts/detail.asp?id=2072 -->
 			<date>July 8</date>
 			<place>Red Rocks Amphitheatre, Morrison, CO, USA</place>
 			<with solo="yes"/>
 			<comments>Probably a solo concert.</comments>
+			<privatecomments>http://www.redrocksonline.com/pages/concerts/detail.asp?id=2072</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 10</date>
 			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
 			<comments>Kenneth K.: "So-called 'Staircase' tour"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>July 11</date>
 			<place>War Memorial Opera House, San Francisco, CA, USA</place>
 			<with solo="yes"/>
 			<comments>Kenneth K.: "So-called 'Staircase' tour"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
-			<!-- Bart Bartók -->
 			<date>July 12</date>
 			<place>Paramount Northwest, Seattle, WA, USA</place>
 			<with solo="yes"/>
 			<comments>Kenneth K.: "So-called 'Staircase' tour". Bart B.: "That concert was great with one little tidbit, there was a young woman who approached the stage at the beginning and, while we couldn't hear anything, she must have said or been saying something to Jarrett as he stopped playing, got up and walked over to the edge of the apron and pointed to his right with a completely stretched out arm. The woman left promptly through an exit."</comments>
+			<privatecomments>Kenneth Kubernik / Bart Bartók</privatecomments>
 		</concert>
 		<concert>
 			<date>July 14</date>
@@ -6053,10 +6032,10 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>August 27</date>
 			<place>Shelburne Farms, Shelburne, VT, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>August 29</date>
@@ -6064,7 +6043,6 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Stefan Hochuli -->
 			<date>October 12</date>
 			<place>Kongresshaus, Zürich, Switzerland</place>
 			<with>
@@ -6072,6 +6050,7 @@
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
+			<privatecomments>Stefan Hochuli</privatecomments>
 		</concert>
 		<concert>
 			<date>October 13</date>
@@ -6092,7 +6071,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- flambay / Christian -->
 			<date>October 15</date>
 			<place>Philharmonie, Berlin, Germany</place>
 			<with>
@@ -6100,6 +6078,7 @@
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
+			<privatecomments>flambay / Christian</privatecomments>
 		</concert>
 		<concert>
 			<date>October 16</date>
@@ -6111,7 +6090,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Jörg Bösselmann-Dirks -->
 			<date>October 17</date>
 			<place>Kuppelsaal, Stadthalle, Hannover, Germany</place>
 			<with>
@@ -6119,6 +6097,7 @@
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
+			<privatecomments>Jörg Bösselmann-Dirks</privatecomments>
 		</concert>
         <concert>
 			<date>October 20</date>
@@ -6184,7 +6163,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>November 13</date>
 			<place>Academy of Music, Philadelphia, PA, USA</place>
 			<with>
@@ -6192,6 +6170,7 @@
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>November 14</date>
@@ -6267,11 +6246,11 @@
 			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>March 15 (?)</date>
 			<place>Arlington Theater, Santa Barbara, CA, USA</place>
 			<with solo="yes"/>
 			<comments>Kenneth K.: "The show in March, '78 was on a Wednesday night, in the middle of the month - maybe the 15th or 16th"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>April 7</date>
@@ -6286,11 +6265,11 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- jazzmanxxi + Ann Zanetti (exact date, has ticket stub) -->
 			<date>July 4</date>
 			<time>7 PM</time>
 			<place>Tanglewood Music Shed, Lenox, MA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>jazzmanxxi + Ann Zanetti (exact date, has ticket stub)</privatecomments>
 		</concert>
 		<concert>
 			<date>August 11</date>
@@ -6306,60 +6285,60 @@
 			<privatecomments>Kenneth Kubernik. Rolf Rauschenbach (exact city).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Unknown source + Preston Keido Houser -->
 			<date incomplete="yes">Summer</date>
 			<place>Berkeley, CA, USA</place>
 			<with solo="yes"/>
 			<comments>The city (Berkeley) is not completely certain, but the concert did take place in the San Francisco Bay Area. Preston H.: "I attended a solo concert in the summer of 1978 in Berkeley, CA. or it could have been May, 1980, at Zellerbach Hall. I'm not sure. It was a long time ago and I don't have any program information but I seem to recall that Jarrett was added on Sunday night immediately after the Berkeley Jazz Festival (although not officially part of the festival itself; 5/22/80 was a Thursday). I remember the crowd was pretty rowdy but it was the best Jarrett solo concert I ever heard, something like a mystical experience in unholy circumstances."</comments> 
+			<privatecomments>Unknown source + Preston Keido Houser</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 15</date>
 			<place>Metropolitan Opera House, New York, NY, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 17</date>
 			<place>Auditorium Theater, Chicago, IL, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 19</date>
 			<place>Jones Hall, Houston, TX, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 22</date>
 			<place>Ford Auditorium, Detroit, MI, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 24</date>
 			<place>Fox Theater, Atlanta, GA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 26</date>
 			<place>Academy of Music, Philadelphia, PA, USA</place>
 			<with solo="yes"/>
 			<comments/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 29</date>
 			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 30</date>
 			<place>Pasadena Civic Auditorium, Pasadena, CA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>November 11</date>
@@ -6640,7 +6619,6 @@
 			<privatecomments>Concert mentioned by Tom Wilmeth.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 15</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
@@ -6650,9 +6628,9 @@
 				<name>Jon Christensen</name>
 			</with>
 			<comments>Exact recording date(s) of "Nude Ants" unknown (one night? several nights?).</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 16</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
@@ -6662,9 +6640,9 @@
 				<name>Jon Christensen</name>
 			</with>
 			<comments>Exact recording date(s) of "Nude Ants" unknown (one night? several nights?).</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 17</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
@@ -6674,9 +6652,9 @@
 				<name>Jon Christensen</name>
 			</with>
 			<comments>Exact recording date(s) of "Nude Ants" unknown (one night? several nights?).</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 18</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
@@ -6686,9 +6664,9 @@
 				<name>Jon Christensen</name>
 			</with>
 			<comments>Exact recording date(s) of "Nude Ants" unknown (one night? several nights?).</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 19</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
@@ -6698,9 +6676,9 @@
 				<name>Jon Christensen</name>
 			</with>
 			<comments>Exact recording date(s) of "Nude Ants" unknown (one night? several nights?).</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 20</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<release id="nude-ants">Nude Ants: Live at the Village Vanguard</release>
@@ -6710,6 +6688,7 @@
 				<name>Jon Christensen</name>
 			</with>
 			<comments>Exact recording date(s) of "Nude Ants" unknown (one night? several nights?).</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>June 17</date>
@@ -6759,10 +6738,10 @@
 			<privatecomments>jazzmanxxi. Exact date from Marc Morvan.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 31</date>
 			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>November 4</date>
@@ -6804,17 +6783,17 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Andy Boeckstaens and Paul Martin -->
 			<date>March 29</date>
 			<place>Royal Festival Hall, London, UK</place>
 			<with solo="yes"/>
+			<privatecomments>Andy Boeckstaens and Paul Martin</privatecomments>
 		</concert>
 		<concert>
-			<!-- Hans Månsson -->
 			<date>April 15</date>
 			<place>Konserthuset, Stockholm, Sweden</place>
 			<with solo="yes"/>
 			<comments>Comments from Hans: "One of the memorable moments in the concert was the 'Everybody cough' break in the midst of one of the tunes."</comments>
+			<privatecomments>Hans Månsson</privatecomments>
 		</concert>
 		<concert>
 			<date>April 19</date>
@@ -6824,10 +6803,10 @@
 			<privatecomments>Concert first mentioned by Ulf Larsson. Date confirmed by Gus (February 19, 2020 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- David Gitin -->
 			<date>May 22</date>
 			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>David Gitin</privatecomments>
 		</concert>
 		<concert>
 			<date>August 17</date>
@@ -6838,16 +6817,16 @@
 			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->	
 			<date>September 7</date>
 			<place>Salle Louis-Fréchette, Grand Théâtre, Québec, QC, Canada</place>
 			<with solo="yes"/>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 26</date>
 			<place>Dorothy Chandler Pavilion, Los Angeles Music Center, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>October 28</date>
@@ -6856,10 +6835,10 @@
 			<privatecomments>Jeff Esterholm (attended the concert).</privatecomments>
 		</concert>
 		<concert>
-			<!-- jazzmanxxi -->
 			<date incomplete="yes">October (?)</date>
 			<place>Fine Arts Center, University Of Massachusetts, Amherst, MA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>jazzmanxxi</privatecomments>
 		</concert>
 		<concert>
 			<date>December 1</date>
@@ -6875,16 +6854,16 @@
 			<privatecomments>James Dizdar. Exact date by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date incomplete="yes"/>
 			<place>Koncertsalen i Tivoli, Copenhagen, Denmark</place>
 			<with solo="yes"/>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date incomplete="yes"/>
 			<place>Falkoner Teatret, Frederiksberg, Denmark</place>
 			<with solo="yes"/>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 	</group>
 	<group year="1981">
@@ -6959,11 +6938,10 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- André Voerman -->
-			<!-- Review available in Word file in Gmail -->
 			<date>June 8</date>
 			<place>Palais des Beaux-Arts, Brussels, Belgium</place>
 			<with solo="yes"/>
+			<privatecomments>André Voerman / Review available in Word file in Gmail</privatecomments>
 		</concert>
 		<concert>
 			<date>June 10</date>
@@ -6971,17 +6949,17 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Miquel Romero -->
 			<date>June 15</date>
 			<place>Palau de la Música Catalana, Barcelona, Spain</place>
 			<with solo="yes"/>
+			<privatecomments>Miquel Romero</privatecomments>
 		</concert>
 		<concert>
-			<!-- Miguel Rovira -->
 			<date>June 17</date>
 			<place>Auditorium, Palma de Mallorca, Spain</place>
 			<with solo="yes"/>
 			<comments>Two white pianos were available. Keith Jarrett only played one.</comments>
+			<privatecomments>Miguel Rovira</privatecomments>
 		</concert>
 		<concert>
 			<date>June 24</date>
@@ -6996,10 +6974,10 @@
 			<privatecomments>Added by Simon Savary. "Autumn concert" added by Seth Melchert, but actually same concert (confirmed by Tonino Vantaggiato). Time by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Mark Matthew Freeman -->
 			<date>September 9</date>
 			<place>Civic Auditorium, Portland, OR, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Mark Matthew Freeman</privatecomments>
 		</concert>
 		<concert>
 			<date>October 21</date>
@@ -7052,17 +7030,17 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>December 11</date>
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with solo="yes"/>
 			<comments>Concert mentioned during "The Tomorrow Show" ("next Friday").</comments>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- jazzinreds@yahoo.co.uk -->
 			<date incomplete="yes"/>
 			<place>National Concert Hall, Dublin, Ireland</place>
 			<with solo="yes"/>
+			<privatecomments>jazzinreds@yahoo.co.uk</privatecomments>
 		</concert>
 	</group>
 	<group year="1982">
@@ -7088,10 +7066,10 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>March 11</date>
 			<place>Dallas Brooks Hall, Melbourne, Australia</place>
 			<with solo="yes"/>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>March 13</date>
@@ -7099,22 +7077,22 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Neil Allin Elphick: March + Arnulf Müller (exact day) -->
 			<date>March 15</date>
 			<place>Town Hall, Auckland, New Zealand</place>
 			<with solo="yes"/>
+			<privatecomments>Neil Allin Elphick: March + Arnulf Müller (exact day)</privatecomments>
 		</concert>
 		<concert>
-			<!-- Neil Allin Elphick: March + Arnulf Müller (exact day) -->
 			<date>March 17</date>
 			<place>Town Hall, Christchurch, New Zealand</place>
 			<with solo="yes"/>
+			<privatecomments>Neil Allin Elphick: March + Arnulf Müller (exact day)</privatecomments>
 		</concert>
 		<concert>
-			<!-- Neil Allin Elphick: March + Arnulf Müller (exact day) -->
 			<date>March 18</date>
 			<place>Town Hall, Wellington, New Zealand</place>
 			<with solo="yes"/>
+			<privatecomments>Neil Allin Elphick: March + Arnulf Müller (exact day)</privatecomments>
 		</concert>
 		<concert>
 			<date>March 21</date>
@@ -7145,11 +7123,11 @@
 			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Seth Melchert -->
 			<date incomplete="yes">April</date>
 			<place>War Memorial Opera House, San Francisco, CA, USA</place>
 			<with solo="yes"/>
 			<comments>Keith Jarrett read several poems from Rumi.</comments>
+			<privatecomments>Seth Melchert</privatecomments>
 		</concert>
 		<concert>
 			<date>August 29</date>
@@ -7210,23 +7188,23 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Bob Carroll -->
 			<date>November 2</date>
 			<place>Barbican Hall, London, UK</place>
 			<with solo="yes"/>
+			<privatecomments>Bob Carroll</privatecomments>
 		</concert>
 		<concert>
-			<!-- Bob Carroll -->
 			<date>November 4</date>
 			<place>National Concert Hall, Dublin, Ireland</place>
 			<with solo="yes"/>
+			<privatecomments>Bob Carroll</privatecomments>
 		</concert>
 		<concert>
-			<!-- Bob Carroll + Mark Whidby (comments) + David Walker (anecdote) -->
 			<date>November 6</date>
 			<place>Free Trade Hall, Manchester, UK</place>
 			<with solo="yes"/>
 			<comments>The concert was interrupted because of someone taking photographs. Comments from David: "It was a cold rainy Manchester evening, a sparse audience, some jaw dropping solos, but the evening was sadly remembered mostly for an extremely insensitive photographer on the balcony (during a particlarly sensitive section of a solo) blasting off a sequence of images on a motordrive, and Keith just slamming his hands on the keyboard marching over to the man and saying, 'Do you realise what it takes for me to build up to preparing for this piece of work and then to perform it?' He then told him to get out of the theatre, which to his credit he did."</comments>
+			<privatecomments>Bob Carroll + Mark Whidby (comments) + David Walker (anecdote)</privatecomments>
 		</concert>
 		<concert>
 			<date>November 7</date>
@@ -7252,11 +7230,10 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Brock Griffin -->
-			<!-- Concert poster in email + on Flickr -->
 			<date>December 8</date>
 			<place>Macky Auditorium, Boulder, CO, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Brock Griffin / Concert poster in email + on Flickr</privatecomments>
 		</concert>
 		<concert>
 			<date>December 10</date>
@@ -7265,27 +7242,26 @@
 			<privatecomments>Concert added by Tonino Vantaggiato .</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>December 11</date>
 			<place>Dorothy Chandler Pavillion, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 	</group>
 	<group year="1983">
 		<concert>
-			<!-- Mike Lewis -->
 			<date>April 11</date>
 			<place>Roy Thomson Hall, Toronto, ON, Canada</place>
 			<with solo="yes"/>
 			<comments>Two sets with one encore ("Over The Rainbow"). Mike L.: "I remember it as a tense show with a number of walk-outs after the first half."</comments>
+			<privatecomments>Mike Lewis</privatecomments>
 		</concert>
 		<concert>
-			<!-- mfallon@windstream.net -->
-			<!-- source: poster sold on eBay, year unknown, but confirmed by Mike -->
 			<date>April 12</date>
 			<place>Heinz Hall, Pittsburg, PA, USA</place>
 			<with solo="yes"/>
 			<comments>From Mike: "He played 'Somewhere Over The Rainbow' (maybe as a second encore). I remember during what was probably the first encore, where he did a bluesy vamp, the audience started clapping along and, after a while, he stopped playing, clapped along a bit and then said that 'What you are hearing out there is not the same thing as what I am hearing up here.' That got them quiet..."</comments>
+			<privatecomments>mfallon@windstream.net / source: poster sold on eBay, year unknown, but confirmed by Mike</privatecomments>
 		</concert>
 		<concert>
 			<date>April 14</date>
@@ -7296,10 +7272,10 @@
 			<privatecomments>Simon Savary.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>April 19</date>
 			<place>Théâtre St. Denis, Montréal, QC, Canada</place>
 			<with solo="yes"/>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>May 7</date>
@@ -7349,10 +7325,10 @@
 			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>May 23</date>
 			<place>Universal Amphitheatre, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>July 4</date>
@@ -7398,7 +7374,6 @@
 			<privatecomments>Added by Marc Morvan. <a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,19/articleid,1029_01_1983_0168_0019_22543384/anews,true/">Article</a>.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>September 6</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -7406,9 +7381,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Kenneth K.: "The debut of the 'Standards' trio"</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>September 7</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -7416,9 +7391,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>September 8</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -7426,9 +7401,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>September 9</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -7436,9 +7411,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>September 10</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -7446,9 +7421,9 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>September 11</date>
 			<place>Village Vanguard, New York, NY, USA</place>
 			<with>
@@ -7456,6 +7431,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments></comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>October 12</date>
@@ -7508,10 +7484,10 @@
 			<privatecomments>Marc Morvan (September 29, 2019 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Doug Nordfors -->
 			<date>December 3</date>
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Doug Nordfors</privatecomments>
 		</concert>
 		<concert>
 			<date>December 7</date>
@@ -7605,7 +7581,6 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Arnulf Müller --> 
 			<date>June 1</date>
 			<place>Funkhaus Halberg, Saarbrücken, Germany</place>
 			<event>Musik des 20. Jahrhunderts</event>
@@ -7615,6 +7590,7 @@
 				<name instr="conductor">Dennis Russel Davies</name>
 			</with>
 			<comments>Pieces played: "Suite für Solo Violine, Solo Klavier und kleines Orchester" (Lou Harrison) and "Konzert für Klavier mit Bläseroktettbegleitung" (Colin McPhee). Joachim Schall played durting the Lou Harrison piece only. Incomplete information about the concert (excerpt from Google cache): "Bei zwei Konzerten erlebte das Festival einen bisher ungekannten Ansturm. Dirigent Dennis Russel Davies hatte nicht nur seine komponierenden Freunde Lou Harrison und William Bolcom eingebracht - als weitaus folgenreicher erwies sich seine Einladung an die Piano-Kultfigur Keith Jarrett. Als Jarrett im ersten Orchesterkonzert im Funkhaus Halberg in Werken von Lou Harrison und Colin McPhee mitspielte, mussten einige Fans das Ganze vom Flur aus verfolgen, denn die Kapazitäten des großen Sendesaals reichten nicht aus. Und auch der Ansturm aufs zweite Orchesterkonzert war groß: hier trat Jarrett als Solist in Samuel Barbers Klavierkonzert auf. Ob seine Fans allerdings in ...</comments>
+			<privatecomments>Arnulf Müller</privatecomments>
 		</concert>
 		<concert>
 			<date>June 3</date>
@@ -7646,18 +7622,18 @@
 			<comments>The following works were played: Domenico Scarlatti: Sonata f-minor K 481, Domenico Scarlatti: Sonata D-major K534, Johann Sebastian Bach: French Suite No. 5 G-major BWV 816, Carl Philipp Emanuel Bach: Würtemberg-Sonata No. 1 a-minor, Ludwig van Beethoven: Sonata No. 8 c-minor op. 13 "Pathétique", and Dmitri Shostakovich: Prelude and Fugue e-minor op. 87:4 from 24 Preludes and Fugues op 87.</comments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 20</date>
 			<place>Louise M. Davies Symphony Hall, San Francisco, CA, USA</place>
 			<with solo="yes"/>
 			<comments>Kenneth K.: "Same program as Stockholm."</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>October 21</date>
 			<place>Dorothy Chandler Pavilion, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
 			<comments>Kenneth K.: "Same program as Stockholm."</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>October 26</date>
@@ -7709,19 +7685,19 @@
 			<privatecomments>See November 29 concert.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Nick Hoorweg -->
 			<date>December 18</date>
 			<place>Massey Hall, Toronto, ON, Canada</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Nick Hoorweg</privatecomments>
 		</concert>
 		<concert>
-			<!-- Anthony John Ollevou -->
 			<date incomplete="yes"/>
 			<place>Sydney, Australia</place>
 			<with/>
+			<privatecomments>Anthony John Ollevou</privatecomments>
 		</concert>
 	</group>
 	<group year="1985">
@@ -7869,12 +7845,12 @@
 			<comments/>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>March 8-24 (?)</date>
 			<place>Toronto, Canada</place>
 			<event>Bach 300 Festival</event>
 			<with solo="yes"/>
 			<comments>Part of the music was released on "All That Bach". The exact date is unknown. It is not clear if it was a concert or a studio session.</comments>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>March 22</date>
@@ -7900,13 +7876,13 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Not listed in 1991 Japanese tour book -->
 			<date>July 4</date>
 			<place>Rocca Brancaleone, Ravenna, Italy</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Not listed in 1991 Japanese tour book</privatecomments>
 		</concert>
 		<concert>
 			<date>July 5</date>
@@ -7994,7 +7970,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Pierre Pradat (exact venue) -->
 			<date>October 24</date>
 			<place>Chapiteau de la Pépinère, Nancy, France</place>
 			<event>Nancy Jazz Pulsations</event>
@@ -8002,6 +7977,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Pierre Pradat (exact venue)</privatecomments>
 		</concert>
 		<concert>
 			<date>October 27</date>
@@ -8131,13 +8107,13 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Lello Gnesutta: Teatro Romano, not Arena! -->
 			<date>July 1</date>
 			<place>Teatro Romano, Verona, Italy</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Lello Gnesutta: Teatro Romano, not Arena!</privatecomments>
 		</concert>
 		<concert>
 			<date>July 3</date>
@@ -8192,7 +8168,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Aziz Susam: photo billet: https://mail.google.com/mail/#all/1267bc5b469b7ff4, "Spor ve Sergi Sarayi" means "Sports And Exhibition Palace" -->
 			<date>July 16</date>
 			<place>Spor ve Sergi Sarayi, Istanbul, Turkey</place>
 			<event>Istanbul International Jazz Festival</event>
@@ -8200,9 +8175,9 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Aziz Susam: photo billet: https://mail.google.com/mail/#all/1267bc5b469b7ff4, "Spor ve Sergi Sarayi" means "Sports And Exhibition Palace"</privatecomments>
 		</concert>
 		<concert>
-			<!-- Gabriel Pérez -->
 			<date>July 18</date>
 			<place>Vitoria-Gasteiz, Spain</place>
 			<event>Vitoria Jazz Festival</event>
@@ -8210,6 +8185,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Gabriel Pérez</privatecomments>
 		</concert>
 		<concert>
 			<date>July 19</date>
@@ -8255,7 +8231,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>August 3</date>
 			<place>Cabrillo College, Aptos, CA, USA</place>
 			<event>Cabrillo Festival of Contemporary Music</event>
@@ -8264,6 +8239,7 @@
 				<name instr="conductor">Dennis Russel Davies</name>
 			</with>
 			<comments>Kenneth K.: "Lou Harrison Piano Concerto/Dennis Russell Davies conducting."</comments>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>August 27</date>
@@ -8395,18 +8371,18 @@
 			<comments>Keith Jarrett played BWV 846-869 (The Well-Tempered Clavier, Book I) and possibly other pieces.</comments>
 		</concert>
 		<concert>
-			<!-- Arnulf Müller -->
 			<date>March 27</date>
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with solo="yes"/>
 			<comments>Concert review: <a href="http://www.nytimes.com/1987/03/30/arts/music-keith-jarrett.html">Music: Keith Jarrett</a></comments>
+			<privatecomments>Arnulf Müller</privatecomments>
 		</concert>
 		<concert>
-			<!-- Diane Marcus + Preston Keido Houser-->
 			<date>April 5</date>
 			<place>Louise M. Davies Symphony Hall, San Francisco, CA, USA</place>
 			<with solo="yes"/>
 			<comments>Preston H.: "The concert was titled "Serious Drinking and Inner Vigilance: a Program of Solo Piano Improvisations for Hard Listening." It was the first time I heard several short improvisations as opposed to two long, uninterrupted sets. The program includes a short essay by Jarrett, really a rambling monologue, but wonderful nonetheless."</comments>
+			<privatecomments>Diane Marcus + Preston Keido Houser</privatecomments>
 		</concert>
 		<concert>
 			<date>April 11</date>
@@ -8415,10 +8391,10 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Anders Diehl: went to the April 12 concert. Old comments (now removed): "The exact day is unknown. What is certain is that Keith Jarrett played three solo concerts at the Suntory Hall between April 11 and April 14." -->
 			<date>April 12</date>
 			<place>Suntory Hall, Tokyo, Japan</place>
 			<with solo="yes"/>
+			<privatecomments>Anders Diehl: went to the April 12 concert. Old comments (now removed): "The exact day is unknown. What is certain is that Keith Jarrett played three solo concerts at the Suntory Hall between April 11 and April 14."</privatecomments>
 		</concert>
 		<concert>
 			<date>April 14</date>
@@ -8447,15 +8423,15 @@
 			<privatecomments>From Rolf Rauschenbach's list.</privatecomments>
 		</concert>
 		<concert>
-			<!-- brian.lindsay3@rogers.com -->
-			<!-- at 9 p.m. -->
 			<date>June 26</date>
+			<time>9 PM</time>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>brian.lindsay3@rogers.com</privatecomments>
 		</concert>
 		<concert>
 			<date>October 3</date>
@@ -8495,7 +8471,6 @@
 			<privatecomments>David H.: "I was at the show, and I'm pretty sure it was at Fair Park Music Hall, not Dallas Convention Center. Please double-check.".</privatecomments>
 		</concert>
 		<concert>
-			<!-- Listed as October 13 in Japanese 1991 tour book -->
 			<date>October 12</date>
 			<place>Wortham Center, Houston, TX, USA</place>
 			<release id="changeless">Changeless</release>
@@ -8504,6 +8479,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Only one tune was included on the album.</comments>
+			<privatecomments>Listed as October 13 in Japanese 1991 tour book</privatecomments>
 		</concert>
 		<concert>
 			<date>October 14</date>
@@ -8572,16 +8548,15 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>October 31</date>
 			<place>Hill Auditorium, Ann Arbor, MI, USA</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
-			<!-- No such concert according to Japanese 1991 tour book -->
 			<date incomplete="yes">October</date>
 			<place>New Orleans, LA, USA</place>
 			<with>
@@ -8589,6 +8564,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>This concert was cancelled.</comments>
+			<privatecomments>No such concert according to Japanese 1991 tour book</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes">October</date>
@@ -8599,13 +8575,13 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- No such concert according to Japanese 1991 tour book -->
 			<date>November 1</date>
 			<place>Ann Arbor, MI, USA</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>No such concert according to Japanese 1991 tour book</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes"/>
@@ -8723,20 +8699,20 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Aziz Susam: photo billet: https://mail.google.com/mail/#all/1267bc6fd7cb9ccd, Atatürk Kültür Merkezi = Ataturk Cultural Center -->
 			<date>June 16</date>
 			<place>Atatürk Kültür Merkezi, Istanbul, Turkey</place>
 			<event>Istanbul International Jazz Festival</event>
 			<with solo="yes"/>
+			<privatecomments>Aziz Susam: photo billet: https://mail.google.com/mail/#all/1267bc6fd7cb9ccd, Atatürk Kültür Merkezi = Ataturk Cultural Center</privatecomments>
 		</concert>
 		<concert>
-			<!-- Stewart Carolan -->
 			<date>June 20</date>
 			<time>9:30 PM</time>
 			<place>Ancient Odeum, Patras, Greece</place>
 			<event>Patras International Festival</event>
 			<with solo="yes"/>
 			<comments>Stewart C.: "The cost of the ticket was 1.500 drachmas. (...) I met Keith Jarrett at the soundcheck before the concert, which was very rare in itself as he never allowed any journalists to meet him before any of his concerts. (...) In 1983/4 I started to study the Goldberg Variations and I was intent on playing all 30 variations. (...) Imagine my absolute shock when I heard Keith playing the 28th Variation."</comments>
+			<privatecomments>Stewart Carolan</privatecomments>
 		</concert>
 		<concert>
 			<date>June 23</date>
@@ -8746,7 +8722,6 @@
 			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>September 14-18 (?)</date>
 			<place>St. Paul, MN, USA</place>
 			<with>
@@ -8754,6 +8729,7 @@
 				<name instr="conductor">Christopher Hogwood</name>
 			</with>
 			<comments>Mozart Piano Concerto No. 21. One or several concerts.</comments>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>October 17</date>
@@ -8762,11 +8738,11 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>October 22</date>
 			<place>Palais des Beaux-Arts, Brussels, Belgium</place>
 			<event>Belga Jazz Festival</event>
 			<with solo="yes"/>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>October 24</date>
@@ -8806,11 +8782,11 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Mike Lewis -->
 			<date>February 25</date>
 			<place>Jane Mallett Theatre, Toronto, ON, Canada</place>
 			<with solo="yes"/>
 			<comments>Mike L.: "Goldberg Variations on harpsichord, small theatre, lovely show."</comments>
+			<privatecomments>Mike Lewis</privatecomments>
 		</concert>
 		<concert>
 			<date>March 5</date>
@@ -8821,29 +8797,28 @@
 			<privatecomments>Facebook message from Harry Miller.</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Tóth, PDF sent by email -->
 			<date>March 20</date>
 			<place>Ferenc Liszt Academy of Music, Budapest, Hungary</place>
 			<event>Budapest Spring Festival</event>
 			<with solo="yes"/>
 			<comments>Keith Jarrett played pieces by Purcell, Mozart, Hindemith, and Bartok.</comments>
+			<privatecomments>Peter Tóth, PDF sent by email</privatecomments>
 		</concert>
 		<concert>
-			<!-- Peter Tóth, PDF sent by email -->
 			<date>March 22</date>
 			<place>Ferenc Liszt Academy of Music, Budapest, Hungary</place>
 			<event>Budapest Spring Festival</event>
 			<with solo="yes"/>
 			<comments>Keith Jarrett played two 40-minute improvised parts.</comments>
+			<privatecomments>Peter Tóth, PDF sent by email</privatecomments>
 		</concert>
 		<concert>
-			<!-- Mirco Merlo -->
 			<date>March 25</date>
 			<place>Teatro Comunale, Florence, Italy</place>
 			<with solo="yes"/>
+			<privatecomments>Mirco Merlo</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date incomplete="yes">April/May</date>
 			<place>Chile</place>
 			<with>
@@ -8851,6 +8826,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>A tour in Chile with the trio is mentioned in a letter written by Stephen Cloud to Kunihiko Yamashita on October 7, 1988 (source: "My Experience: My Ferocious Longing" book). I don't know if it eventually happened.</comments>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>May 14</date>
@@ -9036,10 +9012,10 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Doug Zimmerman -->
 			<date>December 1</date>
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Doug Zimmerman</privatecomments>
 		</concert>
 	</group>
 	<group year="1990">
@@ -9077,12 +9053,12 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
 			<date>July 4</date>
 			<time>6 PM</time>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<with solo="yes"/>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>October 28</date>
@@ -9183,7 +9159,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- 24 Heures du 5 décembre 1990 -->
 			<date>December 3</date>
 			<place>Victoria Hall, Geneva, Switzerland</place>
 			<with>
@@ -9191,6 +9166,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>8:30 PM.</comments>
+			<privatecomments>24 Heures du 5 décembre 1990</privatecomments>
 		</concert>
 		<concert>
 			<date>December 5</date>
@@ -9203,10 +9179,10 @@
 	</group>
 	<group year="1991">
 		<concert>
-			<!-- Arnulf Müller -->
 			<date>February 17</date>
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Arnulf Müller</privatecomments>
 		</concert>
 		<concert>
 			<date>April 5</date>
@@ -9297,7 +9273,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date incomplete="yes">June</date>
 			<place>Charleston, SC, USA</place>
 			<event>Piccolo Spoleto Festival</event>
@@ -9305,6 +9280,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
 			<date>July 11</date>
@@ -9407,11 +9383,11 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- 24 Heures du 19 octobre 1992 -->
 			<date>October 17</date>
 			<place>Victoria Hall, Geneva, Switzerland</place>
 			<with solo="yes"/>
 			<comments>8:30 PM.</comments>
+			<privatecomments>24 Heures du 19 octobre 1992</privatecomments>
 		</concert>
 		<concert>
 			<date>October 19</date>
@@ -9430,16 +9406,16 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Aurelio López -->
 			<date>November 21</date>
 			<place>Palacio de Bellas Artes, Mexico City, Mexico</place>
 			<with solo="yes"/>
+			<privatecomments>Aurelio López</privatecomments>
 		</concert>
 		<concert>
-			<!-- Aurelio López -->
 			<date>November 22</date>
 			<place>Sala Nezahualcóyotl, Mexico City, Mexico</place>
 			<with solo="yes"/>
+			<privatecomments>Aurelio López</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes"/>
@@ -9450,20 +9426,20 @@
 	</group>
 	<group year="1993">
 		<concert>
-			<!-- Arno Jacobs -->
 			<date>February 20</date>
 			<place>Concertgebouw, Amsterdam, Netherlands</place>
 			<with solo="yes"/>
 			<comments>"The concert started just before 21:00. He played one major piece. It was about 45 minutes of improvisation. After the break, he played another major piece. It was about 30 minutes of improvisation. He played two encores. The first was the standard 'Over the Rainbow'. The second was a few-minute blues." (Arno Jacobs)</comments>
-			<!-- 1- Free I.mprovisation: 38:25
-	2- Over The Rainbow: 5:24
-	3- Audience Noise (Mondharmonica Scene): 2:03 (He tries to play I. Wish I. Knew but it's being interrupted two times.There is something like an organ sound at the last second) -->
+			<privatecomments>Arno Jacobs. Setlist:
+			1. Free Improvisation: 38:25
+			2. Over The Rainbow: 5:24
+			3. Audience Noise (Mondharmonica Scene): 2:03 (He tries to play I Wish I Knew, but it's being interrupted two times. There is something like an organ sound at the last second)</privatecomments>
 		</concert>
 		<concert>
-			<!-- Arnulf Müller -->
 			<date>February 23</date>
 			<place>Stockholm, Sweden</place>
 			<with solo="yes"/>
+			<privatecomments>Arnulf Müller</privatecomments>
 		</concert>
 		<concert>
 			<date>March 14</date>
@@ -9505,7 +9481,6 @@
 			<comments>Mozart compositions were played.</comments>
 		</concert>
 		<concert>
-			<!-- Samarshe@aol.com -->
 			<date>June 19</date>
 			<place>Ravinia Festival, Highland Park, IL, USA</place>
 			<event>Jazz In June</event>
@@ -9513,9 +9488,9 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Samarshe@aol.com</privatecomments>
 		</concert>
 		<concert>
-			<!-- oscarq47@outlook.com -->
 			<date>June 24</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
 			<event>JVC Jazz Festival</event>
@@ -9523,17 +9498,18 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>oscarq47@outlook.com</privatecomments>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
-			<!-- at 8:30 p.m. -->
 			<date>July 3</date>
+			<time>8:30 PM</time>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>July 25</date>
@@ -9546,10 +9522,10 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Aziz Susam: I got the information from the site of a daily Turkish newspaper called Milliyet. http://gazetearsivi.milliyet.com.tr/ I can't send a direct link because you have to sign up to see the past archive of the newspaper. -->
 			<date>October 31</date>
 			<place>Cemal Resit Rey Concert Hall, Istanbul, Turkey</place>
 			<with solo="yes"/>
+			<privatecomments>Aziz Susam: I got the information from the site of a daily Turkish newspaper called Milliyet. http://gazetearsivi.milliyet.com.tr/ I can't send a direct link because you have to sign up to see the past archive of the newspaper.</privatecomments>
 		</concert>
 		<concert>
 			<date>November 5</date>
@@ -9557,7 +9533,6 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- keithjarrett.org@gwizdka.com -->
 			<date incomplete="yes">June</date>
 			<place>Roy Thompson Hall, Toronto, ON, Canada</place>
 			<event>Toronto Downtown Jazz Festival</event>
@@ -9565,12 +9540,13 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>keithjarrett.org@gwizdka.com</privatecomments>
 		</concert>
 		<concert>
 			<date incomplete="yes"></date>
 			<place>Munich, Germany</place>
 			<with solo="yes"/>
-			<!-- Speech transcription: https://mail.google.com/mail/#all/e812d3902b9bec5 -->
+			<privatecomments>Speech transcription: https://mail.google.com/mail/#all/e812d3902b9bec5</privatecomments>
 		</concert>
 	</group>
 	<group year="1994">
@@ -9602,24 +9578,24 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Kenneth Kubernik -->
 			<date>June 24</date>
 			<place>Louise M. Davies Symphony Hall, San Francisco, CA, USA</place>
 			<with solo="yes"/>
+			<privatecomments>Kenneth Kubernik</privatecomments>
 		</concert>
 		<concert>
-			<!-- Andy (awsphil@aol.com) -->
 			<date incomplete="yes">July-August</date>
 			<place>Hult Center, Eugene, OR, USA</place>
 			<event>Oregon Bach Festival</event>
 			<with solo="yes"/>
 			<comments>"Arvo Pärt was the guest composer that year."</comments>
+			<privatecomments>Andy (awsphil@aol.com)</privatecomments>
 		</concert>
 		<concert>
-			<!-- Bernhard Maag - PDF about the concert sent by email -->
 			<date>November 24</date>
 			<place>Opernhaus, Zürich, Switzerland</place>
 			<with solo="yes"/>
+			<privatecomments>Bernhard Maag - PDF about the concert sent by email</privatecomments>
 		</concert>
 		<concert>
 			<date>December 17</date>
@@ -9636,11 +9612,11 @@
 			<with/>
 		</concert>
 		<concert>
-			<!-- RL: 2 parts with about 6 encores -->
 			<date>February 10 (?)</date>
 			<place>Musikverein, Vienna, Austria</place>
 			<with solo="yes"/>
 			<comments>Two parts with about six encores were played.</comments>
+			<privatecomments>RL: 2 parts with about 6 encores</privatecomments>
 		</concert>
 		<concert>
 			<date>February 13</date>
@@ -9845,9 +9821,8 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Simon Savary -->
-			<!-- at 8:30 p.m. -->
 			<date>June 27</date>
+			<time>8:30 PM</time>
 			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<comments>This concert was cancelled.</comments>
@@ -9855,6 +9830,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Simon Savary</privatecomments>
 		</concert>
 		<concert>
 			<date>July 6</date>
@@ -9882,7 +9858,6 @@
 			<comments>Article about the concert, also mentioning the October 1996 mini-tour: <a href="http://ricerca.repubblica.it/repubblica/archivio/repubblica/1996/07/12/keith-jarrett-in-tre-il-jazz.html">La Repubblica</a>.</comments>
 		</concert>
 		<concert>
-			<!-- Aziz Susam: correct date + venue -->
 			<date>July 15</date>
 			<place>Cemil Topuzlu Open Air Theater, Istanbul, Turkey</place>
 			<event>International Istanbul Jazz Festival</event>
@@ -9890,6 +9865,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
+			<privatecomments>Aziz Susam: correct date + venue</privatecomments>
 		</concert>
 		<concert>
 			<date>July 19</date>
@@ -9901,7 +9877,6 @@
 			</with>
 		</concert>
 		<concert>
-			<!-- Mike Lewis -->
 			<date>August 20</date>
 			<place>Artpark, Lewiston, NY, USA</place>
 			<with>
@@ -9909,6 +9884,7 @@
 				<name>Jack DeJohnette</name>
 			</with>
 			<comments>Mike L.: "During the first set, he complained about a bum key on the piano and kept tapping it - Gary and Jack joined in on a blue improv, then he ended the set early so that the piano would get fixed. A friend of mine presented the show and managed to find a tuner to fix the piano. Second set was great and Jarrett seemed happy. My friend handed him the cheque after the show and all Jarrett said was, "Next time, make sure the piano is tuned"."</comments>
+			<privatecomments>Mike Lewis</privatecomments>
 		</concert>
 		<concert>
 			<date>October 21</date>
@@ -11159,27 +11135,25 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-			<!--
-Think the playlist was:
+			<privatecomments>Think the playlist was:
 
-1) The Masquerade is over
-2) You belong to me ? (The bitter end?)
-3) Soflty as in morning sunrise?
-4) Everything happens to me
-5) Straight no Chaser
+				1) The Masquerade is over
+				2) You belong to me ? (The bitter end?)
+				3) Soflty as in morning sunrise?
+				4) Everything happens to me
+				5) Straight no Chaser
 
-Break
+				Break
 
-1) While we were young (with beautiful vamp)
-2) Smoke get in your eyes
-3) Solar
-4) Someday my Prince will come
-5) When I fall in Love
-6) God bless the Child (encore)
-7) Tenessee Waltz (encore)
+				1) While we were young (with beautiful vamp)
+				2) Smoke get in your eyes
+				3) Solar
+				4) Someday my Prince will come
+				5) When I fall in Love
+				6) God bless the Child (encore)
+				7) Tenessee Waltz (encore)
 
-not completely sure about the order of 3,4,5 and i think he played another song after 2.
-		-->
+				not completely sure about the order of 3,4,5 and i think he played another song after 2.</privatecomments>
 		</concert>
 		<concert>
 			<date>March 5</date>
@@ -11430,12 +11404,12 @@ not completely sure about the order of 3,4,5 and i think he played another song 
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<!-- Franck Bichot -->
 			<date>November 16</date>
 			<place>Paris, France</place>
 			<event></event>
 			<with solo="yes"/>
 			<comments>Private concert. Venue unknown. It was probably a solo concert, not a trio concert, but this remains to be confirmed.</comments>
+			<privatecomments>Franck Bichot</privatecomments>
 		</concert>
 		<concert>
 			<date>November 20</date>
