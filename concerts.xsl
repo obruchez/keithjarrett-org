@@ -6,7 +6,7 @@
     <xsl:variable name="color1">d2d2d2</xsl:variable>
     <xsl:variable name="color2">f0f0f0</xsl:variable>
 
-    <xsl:template match="/"> 
+    <xsl:template match="/">
         <xsl:apply-templates/>
     </xsl:template>
 
@@ -23,7 +23,7 @@
     </xsl:template>
 
     <xsl:template match="tt">
-        <tt><xsl:apply-templates select="@*|node()" /></tt>
+        <code><xsl:apply-templates select="@*|node()" /></code>
     </xsl:template>
 
     <xsl:template match="sub">
@@ -34,9 +34,9 @@
         <sup><xsl:apply-templates select="@*|node()" /></sup>
     </xsl:template>
 
-    <xsl:template match="concerts">    
-        <p>The first draft of this list was created by <a href="http://profiles.yahoo.com/sombrero_sam" target="_new">sombrero_sam / Ron</a> from the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_new">Keith Jarrett Yahoo! Group</a>. Some of the information in this list also comes from messages posted in the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_new">Keith Jarrett Yahoo! Group</a>, from the <a href="http://www.plosin.com/milesahead/" target="_new">Miles Ahead Discography</a>, from various trading/bootleg lists, and from people who emailed me. If you have a correction or addition to this list, please send an email to <a href="mailto:concerts@keithjarrett.org">concerts@keithjarrett.org</a>.</p>
-        
+    <xsl:template match="concerts">
+        <p>The first draft of this list was created by <a href="http://profiles.yahoo.com/sombrero_sam" target="_blank" rel="noopener noreferrer">sombrero_sam / Ron</a> from the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_blank" rel="noopener noreferrer">Keith Jarrett Yahoo! Group</a>. Some of the information in this list also comes from messages posted in the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_blank" rel="noopener noreferrer">Keith Jarrett Yahoo! Group</a>, from the <a href="http://www.plosin.com/milesahead/" target="_blank" rel="noopener noreferrer">Miles Ahead Discography</a>, from various trading/bootleg lists, and from people who emailed me. If you have a correction or addition to this list, please send an email to <a href="mailto:concerts@keithjarrett.org">concerts@keithjarrett.org</a>.</p>
+
         <p>I'm specifically looking for more information about the following concerts:
         <ul>
             <li>Schwab Auditorium, University Park, PA, USA, 1966-67 (with Charles Lloyd, organized by Penn State Jazz Club)</li> <!-- Craig Freas -->
@@ -62,14 +62,14 @@
 
         <p>You can also download the discography by Maurizio Garbolino (June 2019 version): <a href="https://www.keithjarrett.org/wp-content/uploads/2019-06-Keith-Jarrett-discography-Maurizio.pdf">PDF</a> or <a href="https://www.keithjarrett.org/wp-content/uploads/2019-06-Keith-Jarrett-discography-Maurizio.doc">Word</a>.</p>
 
-        <p>Thanks to: Robert Baker, Ken Barry, Bart Bartók, Mark Bauer, Matthias Bohlen, Robert Bright, Hanns-Peter Bushoff, Stewart Carolan, Ron Cherian, Philippe Cortens, Mark Crutchfield, Ed Deal, Anders Diehl, Bruce Dinsmor, James Dizdar, Rob Doughty, Peter Eldson, Ellwood Epps, Jeff Esterholm, Damian Evans, James A. Ewart, Craig Freas, Maurizio Garbolino, Jude Gartland, Frank Geck, Ralph Grabowski, Brock Griffin, Bill Groeneveld, Peter Harlan, Johan Hauknes, Bill Hery, George Hobbs, Preston Keido Houser, David Howard, Robert Iannapollo, Volker R. Jacobs, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Hartmut Kuipers, Jacques D. Levy, Mike Lewis, Jan Lohmann, Jani Lustrek, Jon Luttrell, Aleksandar Mandić, John Marshall, Jerry Margolin, Attila Marton, Steve McAllister, Mark McQuain, Harry Miller, Keith N. Moore, David Rae Morris, Marc Morvan, Arnulf Müller, Mihály Müller, Steven R. Muller, Michele Munro, Norman Neschen, Kaisa Nuolioja, Judith Palmer, Stephan Perthes, Tóth Péter, Paul Pitre, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Oscar Quinones, Rolf Rauschenbach, Ken Reap, Steve Rhodes, Richard Roehl, Gerd Rudel, Dan Santoro, Terry Saundry, Simon Savary, Leonhard Schilde, Dan Schilling, Ted Selke, Pat Sigler, Robert Smith, Wylie Smith, Stefan, John C. Strawn, Hiroshi Sumi, Christian Teichert, Peter Tóth, Sep Troelstra, Andrea Thorsen Turman, Tonino Vantaggiato, Matias J. Vega, Bill Vosteen, David Weininger, Tom Wilmeth, Robert Wood, Brian Ziegler, and many others. If you want (or don't want) your name to be listed here, please let me know.</p> 
+        <p>Thanks to: Robert Baker, Ken Barry, Bart Bartók, Mark Bauer, Matthias Bohlen, Robert Bright, Hanns-Peter Bushoff, Stewart Carolan, Ron Cherian, Philippe Cortens, Mark Crutchfield, Ed Deal, Anders Diehl, Bruce Dinsmor, James Dizdar, Rob Doughty, Peter Eldson, Ellwood Epps, Jeff Esterholm, Damian Evans, James A. Ewart, Craig Freas, Maurizio Garbolino, Jude Gartland, Frank Geck, Ralph Grabowski, Brock Griffin, Bill Groeneveld, Peter Harlan, Johan Hauknes, Bill Hery, George Hobbs, Preston Keido Houser, David Howard, Robert Iannapollo, Volker R. Jacobs, David Jordan, Craig Kerr, Billy Klein, Hans-Dieter Klinger, Kenneth Kubernik, Hartmut Kuipers, Jacques D. Levy, Mike Lewis, Jan Lohmann, Jani Lustrek, Jon Luttrell, Aleksandar Mandić, John Marshall, Jerry Margolin, Attila Marton, Steve McAllister, Mark McQuain, Harry Miller, Keith N. Moore, David Rae Morris, Marc Morvan, Arnulf Müller, Mihály Müller, Steven R. Muller, Michele Munro, Norman Neschen, Kaisa Nuolioja, Judith Palmer, Stephan Perthes, Tóth Péter, Paul Pitre, Pierre Pradat, Victor Pugatschew, Richard Purschwitz, Oscar Quinones, Rolf Rauschenbach, Ken Reap, Steve Rhodes, Richard Roehl, Gerd Rudel, Dan Santoro, Terry Saundry, Simon Savary, Leonhard Schilde, Dan Schilling, Ted Selke, Pat Sigler, Robert Smith, Wylie Smith, Stefan, John C. Strawn, Hiroshi Sumi, Christian Teichert, Peter Tóth, Sep Troelstra, Andrea Thorsen Turman, Tonino Vantaggiato, Matias J. Vega, Bill Vosteen, David Weininger, Tom Wilmeth, Robert Wood, Brian Ziegler, and many others. If you want (or don't want) your name to be listed here, please let me know.</p>
 
         <p>Last update: <xsl:value-of select="@modified"/>.</p>
         <p>Number of entries: <xsl:value-of select="count(descendant::concert)"/>.</p>
 
-        <a name="Top"/>
-        
-        <p align="center">
+        <div id="Top"/>
+
+        <p style="text-align: center">
             <xsl:for-each select="group">
                 <a href="#{@year}"><xsl:value-of select="@year"/></a>
                 <xsl:if test="position()!=last()"><xsl:text> - </xsl:text></xsl:if>
@@ -80,28 +80,28 @@
             <xsl:call-template name="group"/>
         </xsl:for-each>
     </xsl:template>
-    
+
     <xsl:template name="group">
         <p>
-            <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000">
+            <table style="border-collapse: collapse; border-spacing: 0; width: 100%; background-color: #000000">
                 <tr>
-                    <td style="text-align: center; padding-top: 0px; padding-bottom: 0px;">
-                        <a name="{@year}"/><font size="5" color="#ffffff"><i><xsl:value-of select="@year"/></i></font>
+                    <td style="text-align: center; padding: 0">
+                        <span id="{@year}" style="font-size: x-large; color: #ffffff"><i><xsl:value-of select="@year"/></i></span>
                     </td>
                 </tr>
             </table>
         </p>
 
         <p>
-            <table border="0" width="100%">
+            <table style="width: 100%">
                 <tr>
-                    <td align="center" bgcolor="#{$color1}" style="white-space: nowrap"><b>Date</b></td>
-                    <td align="center" bgcolor="#{$color1}"><b>Place</b></td>
-                    <td align="center" bgcolor="#{$color1}"><b>Release</b></td>
-                    <td align="center" bgcolor="#{$color1}"><b>Musicians</b></td>
-                    <td align="center" bgcolor="#{$color1}" style="width: 300px"><b>Comments</b></td>
+                    <td style="text-align: center; white-space: nowrap; background-color: #{$color1}"><b>Date</b></td>
+                    <td style="text-align: center; background-color: #{$color1}"><b>Place</b></td>
+                    <td style="text-align: center; background-color: #{$color1}"><b>Release</b></td>
+                    <td style="text-align: center; background-color: #{$color1}"><b>Musicians</b></td>
+                    <td style="text-align: center; width: 300px; background-color: #{$color1}"><b>Comments</b></td>
                 </tr>
-    
+
                 <xsl:for-each select="concert">
                     <xsl:call-template name="concert">
                         <xsl:with-param name="year" select="../@year"/>
@@ -110,7 +110,7 @@
             </table>
         </p>
 
-        <p align="right"><a href="#Top"><font size="2">[Back to the top]</font></a></p>
+        <p style="text-align: right"><a href="#Top"><span style="font-size: small">[Back to the top]</span></a></p>
     </xsl:template>
 
     <xsl:template name="concert">
@@ -124,7 +124,7 @@
         </xsl:variable>
 
         <tr>
-            <td align="center" bgcolor="#{$color}" style="white-space: nowrap">
+            <td style="text-align: center; white-space: nowrap; background-color: #{$color}">
                 <xsl:value-of select="date"/>
                 <xsl:if test=".//date/@incomplete!='yes' or string-length(.//date/@incomplete)=0"><xsl:text>,</xsl:text></xsl:if>
                 <xsl:text> </xsl:text>
@@ -135,14 +135,14 @@
                     <xsl:text>)</xsl:text>
                 </xsl:if>
             </td>
-            <td align="center" bgcolor="#{$color}">
+            <td style="text-align: center; background-color: #{$color}">
                 <xsl:value-of select="place"/>
 
                 <xsl:if test="string-length(event)!=0">
                 (<xsl:apply-templates select="event"/>)
                 </xsl:if>
             </td>
-            <td align="center" bgcolor="#{$color}">
+            <td style="text-align: center; background-color: #{$color}">
                 <xsl:choose>
                     <xsl:when test="count(child::release) = 1">
                         <i><xsl:value-of select="child::release[1]"/></i>
@@ -151,7 +151,7 @@
                         (<xsl:value-of select="support[1]"/>)
                         </xsl:if>
                     </xsl:when>
-            
+
                     <xsl:when test="count(child::release) = 2">
                         <i><xsl:value-of select="child::release[1]"/></i>
 
@@ -167,7 +167,7 @@
                         (<xsl:value-of select="support[2]"/>)
                         </xsl:if>
                     </xsl:when>
-            
+
                     <xsl:when test="count(child::release) > 2">
                         <xsl:for-each select="release">
                             <i><xsl:value-of select="."/></i>
@@ -176,7 +176,7 @@
                                 <xsl:when test="position()=last()-1">
                                     <xsl:text>, and </xsl:text>
                                 </xsl:when>
-                        
+
                                 <xsl:when test="position()!=last()">
                                     <xsl:text>, </xsl:text>
                                 </xsl:when>
@@ -187,10 +187,10 @@
                     <xsl:otherwise>-</xsl:otherwise>
                 </xsl:choose>
             </td>
-            <td align="center" bgcolor="#{$color}">
+            <td style="text-align: center; background-color: #{$color}">
                 <xsl:apply-templates select="with"/>
             </td>
-            <td align="center" bgcolor="#{$color}" style="width: 300px">
+            <td style="text-align: center; width: 300px; background-color: #{$color}">
                 <xsl:choose>
                     <xsl:when test="string-length(comments)!=0">
                         <xsl:apply-templates select="comments"/>
@@ -212,7 +212,7 @@
                     <xsl:text>)</xsl:text>
                 </xsl:if>
             </xsl:when>
-            
+
             <xsl:when test="count(child::name) = 2">
                 <xsl:value-of select="child::name[1]"/>
                 <xsl:if test="string-length(child::name[1]/@instr)!=0">
@@ -228,7 +228,7 @@
                     <xsl:text>)</xsl:text>
                 </xsl:if>
             </xsl:when>
-            
+
             <xsl:when test="count(child::name) > 2">
                 <xsl:for-each select="name">
                     <xsl:value-of select="."/>
@@ -243,7 +243,7 @@
                         <xsl:when test="position()=last()-1">
                             <xsl:text>, and </xsl:text>
                         </xsl:when>
-                        
+
                         <xsl:when test="position()!=last()">
                             <xsl:text>, </xsl:text>
                         </xsl:when>
