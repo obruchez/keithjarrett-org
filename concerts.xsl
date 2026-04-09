@@ -35,7 +35,7 @@
     </xsl:template>
 
     <xsl:template match="concerts">
-        <p>The first draft of this list was created by <a href="http://profiles.yahoo.com/sombrero_sam" target="_blank" rel="noopener noreferrer">sombrero_sam / Ron</a> from the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_blank" rel="noopener noreferrer">Keith Jarrett Yahoo! Group</a>. Some of the information in this list also comes from messages posted in the <a href="http://groups.yahoo.com/group/keithjarrett/" target="_blank" rel="noopener noreferrer">Keith Jarrett Yahoo! Group</a>, from the <a href="http://www.plosin.com/milesahead/" target="_blank" rel="noopener noreferrer">Miles Ahead Discography</a>, from various trading/bootleg lists, and from people who emailed me. If you have a correction or addition to this list, please send an email to <a href="mailto:concerts@keithjarrett.org">concerts@keithjarrett.org</a>.</p>
+        <p>The first draft of this list was created by sombrero_sam / Ron from the <a href="https://web.archive.org/web/20201214152341/https://groups.yahoo.com/neo/groups/keithjarrett/info" target="_blank" rel="noopener noreferrer nofollow">Keith Jarrett Yahoo! Group</a>. Some of the information in this list also comes from messages posted in the Keith Jarrett Yahoo! Group, from the <a href="https://www.plosin.com/milesahead/" target="_blank" rel="noopener noreferrer nofollow">Miles Ahead Discography</a>, from various trading/bootleg lists, and from people who emailed me. If you have a correction or addition to this list, please send an email to <a href="mailto:concerts@keithjarrett.org">concerts@keithjarrett.org</a>.</p>
 
         <p>I'm specifically looking for more information about the following concerts:
         <ul>
