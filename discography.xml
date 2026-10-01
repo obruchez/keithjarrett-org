@@ -214,6 +214,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/d14ac8ec-388f-3c48-92fe-43e2b35bb897"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5472421"/>
 	</release>
+	<release id="conception-vessel">
+		<artist>Paul Motian</artist>
+		<name>Conception Vessel</name>
+		<year>1973</year>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000587885"/>
+		<link type="Discogs" url="https://www.discogs.com/master/161724"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/27855677-3112-30fd-85b1-47802abd3bf6"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5158414"/>
+	</release>
 	<release id="solo-concerts-bremen-and-lausanne">
 		<artist>Keith Jarrett</artist>
 		<name>Solo Concerts: Bremen/Lausanne</name>
