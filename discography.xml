@@ -551,6 +551,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3c165b2e-4716-3843-b544-7b8223e4de90"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2295483"/>
 	</release>
+	<release id="tabula-rasa">
+		<artist>Arvo Pärt</artist>
+		<name>Tabula Rasa</name>
+		<year>1984</year>
+		<firstreleasedate>1984-09-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000161674"/>
+		<link type="Discogs" url="https://www.discogs.com/master/68271"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/21525fce-629f-393a-a34c-2f41ef78508d"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3513555"/>
+	</release>
 	<release id="standards-volume-2">
 		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
 		<name>Standards, Volume 2</name>
