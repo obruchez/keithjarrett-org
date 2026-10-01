@@ -6498,7 +6498,7 @@
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
-			<release>Sleeper</release>
+			<release id="sleeper">Sleeper</release>
 		</concert>
 		<concert>
 			<date>April 17</date>

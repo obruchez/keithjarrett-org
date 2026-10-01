@@ -1028,6 +1028,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/84893687-41c9-48f0-b76e-630fa9a292bb"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7335137"/>
 	</release>
+	<release id="sleeper">
+		<artist>Keith Jarrett, Jan Garbarek, Palle Danielsson &amp; Jon Christensen</artist>
+		<name>Sleeper</name>
+		<year>2012</year>
+		<firstreleasedate>2012-07-13</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0002388856"/>
+		<link type="Discogs" url="https://www.discogs.com/master/542263"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/492760bf-7bc4-4888-9550-b2c4d2b4662b"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7539791"/>
+	</release>
 
 	<!-- TODO: Barber: Piano Concerto; Bartók: Piano Concerto No. 3; Keith Jarrett: Tokyo Encore -->
 
