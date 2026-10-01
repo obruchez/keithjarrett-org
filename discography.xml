@@ -809,6 +809,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/56fed9a1-ec8b-37a3-9629-f2d8bf4ff041"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7598431"/>
 	</release>
+	<release id="suites-for-keyboard">
+		<artist>Keith Jarrett</artist>
+		<name>G. F. Händel: Suites for Keyboard</name>
+		<year>1995</year>
+		<firstreleasedate>1995-09-12</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0001812686"/>
+		<link type="Discogs" url="https://www.discogs.com/master/406968"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/c32c8e15-8b23-3b54-bdaf-c36d2d8d37b7"/>
+	</release>
 	<release id="at-the-blue-note">
 		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
 		<name>Keith Jarrett at the Blue Note - The complete recordings</name>
