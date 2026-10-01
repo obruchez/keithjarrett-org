@@ -492,25 +492,6 @@ New World Records NW 366-2.
   Second Gamelan,
   Chorale.
 
-<sect1>Goldberg Variations, <it>(Johann Sebastian Bach)</it>
-
-<p>
-<bf>1989.</bf>
-Yatsugatake Kohgen Ongakudoh, Japan, January 10-12, 1989;
-Peter Laenger (sound engineer).
-ECM NEW SERIES 1395; LP 839 622-1/CD 839 622-2.
-
-<bf>Featuring:</bf>
-  Keith Jarrett <it>(harpsichord)</it> (*).
-
-Johann Sebastian Bach, Goldberg Variationen (BWV 998);
-<bf>Tracks:</bf>
-  Aria,
-  Variations 1-30,
-  Aria.
-
-(*) <footnote>Instrument made by Tatsuo Takahashi.</footnote>
-
 <sect>The years ranging from 1990 to 2000+
 
 <sect1>Lousadzak for Piano and Orchestra, <it>(Alan Hovhaness)</it>

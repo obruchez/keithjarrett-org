@@ -641,6 +641,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3697a2df-0d93-3daf-9604-3e47a493be0e"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3702715"/>
 	</release>
+	<release id="goldberg-variations">
+		<artist>Keith Jarrett</artist>
+		<name>J. S. Bach: Goldberg Variations</name>
+		<year>1989</year>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0001810111"/>
+		<link type="Discogs" url="https://www.discogs.com/master/402826"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/b0757053-4889-3da9-bf28-6de5f2ef8307"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q6104356"/>
+	</release>
 	<release id="personal-mountains">
 		<artist>Keith Jarrett, Jan Garbarek, Palle Danielsson &amp; Jon Christensen</artist>
 		<name>Personal Mountains</name>
