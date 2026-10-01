@@ -830,28 +830,6 @@ Live; November 3, 1971, Beograd;
   Yesternow - Part 1 <it>(Miles Davis)</it>.
 
 
-<sect1>Piano Concertos K.467, 488, 595, Masonic Funeral Music K.477, Symphony in G Minor K.550, <it>(W. A. Mozart)</it>
-
-<p>
-<bf>1996.</bf>
-Recorded November 1994 and January 1995
-at Mozart-Saal / Liederhalle, Stuttgart.
-Peter Laenger (tonmeister).
-Manfred Eicher (producer).
-ECM New Series 1565/66 449 670-2.
-
-<bf>Featuring:</bf>
-Keith Jarrett <it>(piano)</it>,
-Stuttgarter Kammerorchester,
-Dennis Russell Davies <it>(conductor)</it>.
-
-<bf>Tracks:</bf>
-Concerto for Piano and Orchestra No.23 in A Major K.488,
-Concerto for Piano and Orchestra No.27 in B-flat Major K.595,
-Masonic Funeral Music K.477,
-Concerto for Piano and Orchestra No.21 in C Major K.467,
-Symphony No.40 in G Minor K.550.
-
 <sect1>W.A.Mozart Piano Concertos, 
 <it>(Keith Jarrett)</it>
 

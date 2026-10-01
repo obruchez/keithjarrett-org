@@ -831,6 +831,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/c81c22f8-0fbe-3a16-8dcf-7226737bf115"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q4459658"/>
 	</release>
+	<release id="piano-concertos-k-467-488-595">
+		<artist>Keith Jarrett, Stuttgarter Kammerorchester &amp; Dennis Russell Davies</artist>
+		<name>W. A. Mozart: Piano Concertos K. 467, 488, 595 / Masonic Funeral Music K. 477 / Symphony in G Minor K. 550</name>
+		<year>1996</year>
+		<firstreleasedate>1996-09-30</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0001804408"/>
+		<link type="Discogs" url="https://www.discogs.com/master/1292873"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/45838ed1-ad0e-43a1-8a44-bfdd5ed72e46"/>
+	</release>
 	<release id="la-scala">
 		<artist>Keith Jarrett</artist>
 		<name>La Scala</name>
