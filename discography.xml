@@ -1052,6 +1052,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/83f8603a-78f4-4cdc-9b04-6eb512b55750"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q17036559"/>
 	</release>
+	<release id="six-sonatas-for-violin-and-piano">
+		<artist>Michelle Makarski &amp; Keith Jarrett</artist>
+		<name>J. S. Bach: Six Sonatas for Violin and Piano</name>
+		<year>2013</year>
+		<firstreleasedate>2013-09-27</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0002560268"/>
+		<link type="Discogs" url="https://www.discogs.com/master/1115060"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/9a5f6cb3-524c-4550-bb7c-e654c5ac111d"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q65245109"/>
+	</release>
 
 	<!-- TODO: Barber: Piano Concerto; Bartók: Piano Concerto No. 3; Keith Jarrett: Tokyo Encore -->
 
