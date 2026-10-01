@@ -10564,7 +10564,7 @@
 		</concert>
 		<concert>
 			<date>July 22</date>
-			<place>Parco Della Musica, Rome, Italy</place>
+			<place>Auditorium Parco della Musica, Rome, Italy</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10735,7 +10735,7 @@
 		</concert>
 		<concert>
 			<date>November 7</date>
-			<place>Santa Cecilia Hall, Auditorium Parco Della Musica, Rome, Italy</place>
+			<place>Santa Cecilia Hall, Auditorium Parco della Musica, Rome, Italy</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -12209,7 +12209,7 @@
 		</concert>
 		<concert>
 			<date>July 12</date>
-			<place>Parco Della Musica, Rome, Italy</place>
+			<place>Santa Cecilia Hall, Auditorium Parco della Musica, Rome, Italy</place>
 			<time>7 PM</time>
 			<release id="roma">Roma</release>
 			<with solo="yes"/>
