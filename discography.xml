@@ -406,6 +406,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/dd1e865a-ae3f-3c36-ab95-d30f2b449018"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5003902"/>
 	</release>
+	<release id="tales-of-another">
+		<artist>Gary Peacock</artist>
+		<name>Tales of Another</name>
+		<year>1977</year>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000515609"/>
+		<link type="Discogs" url="https://www.discogs.com/master/168862"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/32abf540-5f67-39b0-ac44-8777431543d8"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3514480"/>
+	</release>
 	<release id="sun-bear-concerts">
 		<artist>Keith Jarrett</artist>
 		<name>Sun Bear Concerts</name>
