@@ -865,6 +865,15 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/c045faf4-175e-3272-b996-096cf2a86911"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q17026026"/>
 	</release>
+	<release id="piano-concertos-k-271-453-466">
+		<artist>Keith Jarrett, Stuttgarter Kammerorchester &amp; Dennis Russell Davies</artist>
+		<name>W. A. Mozart: Piano Concertos K. 271, 453, 466 / Adagio and Fugue K. 546</name>
+		<year>1999</year>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0001392205"/>
+		<link type="Discogs" url="https://www.discogs.com/master/1499401"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/10e03b39-7788-3269-bcdb-980335a17369"/>
+	</release>
 	<release id="the-melody-at-night-with-you">
 		<artist>Keith Jarrett</artist>
 		<name>The Melody At Night, With You</name>
