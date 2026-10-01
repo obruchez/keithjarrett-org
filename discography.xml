@@ -28,6 +28,7 @@
 		<type>album</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000224251"/>
 		<link type="Discogs" url="https://www.discogs.com/master/168858"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/4bef948d-be92-460a-ba10-76aeeb61e743"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5306478"/>
 	</release>
 	<release id="forest-flower">
@@ -57,8 +58,10 @@
 		<name>Journey Within</name>
 		<year>1967</year>
 		<type>album</type>
+		<type>live</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000894426"/>
 		<link type="Discogs" url="https://www.discogs.com/master/366042"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/a8037fb0-7ac1-433e-88ab-33b97d93bb93"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q6296363"/>
 	</release>
 	<release id="charles-lloyd-in-europe">
@@ -87,7 +90,7 @@
 		<name>Restoration Ruin</name>
 		<year>1968</year>
 		<type>album</type>
-		<link type="AllMusic" url="https://www.allmusic.com/album/restoration-ruin-mw0000868106/credits"/>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000868106"/>
 		<link type="Discogs" url="https://www.discogs.com/master/292854"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3d857781-8db4-3283-b046-ef3c04b4f850"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q17027792"/>
@@ -144,7 +147,7 @@
 		<type>album</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000111796"/>
 		<link type="Discogs" url="https://www.discogs.com/master/271143"/>
-		<link type="MusicBrainz" url="https://musicbrainz.org/release/9654811d-cad3-44b7-b29d-a0bb0777b1c7"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/ac589e3d-8047-31f4-819b-72921dd6b7b3"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7752504"/>
 	</release>
 	<release id="the-flowering">
@@ -213,14 +216,14 @@
 	</release>
 	<release id="solo-concerts-bremen-and-lausanne">
 		<artist>Keith Jarrett</artist>
-		<name>Solo Concerts: Bremen and Lausanne</name>
+		<name>Solo Concerts: Bremen/Lausanne</name>
 		<year>1973</year>
 		<firstreleasedate>1973-11-01</firstreleasedate>
 		<type>album</type>
 		<type>live</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000649585"/>
 		<link type="Discogs" url="https://www.discogs.com/master/26363"/>
-		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/e64d5bbe-7494-3634-ac11-a4ac06b3714"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/e64d5bbe-7494-3634-ac11-a4ac06b37144"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2299135"/>
 	</release>
 	<release id="in-the-light">
@@ -252,7 +255,7 @@
 		<type>album</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000192033"/>
 		<link type="Discogs" url="https://www.discogs.com/master/26453"/>
-		<link type="MusicBrainz" url="https://musicbrainz.org/release/bbf913d4-df10-4c46-8eda-1412600d84fc"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/205aaf21-be0c-312b-aa95-431ef9277c9c"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2895061"/>
 	</release>
 	<release id="luminessence">
@@ -262,7 +265,7 @@
 		<firstreleasedate>1975-03-xx</firstreleasedate>
 		<type>album</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000200605"/>
-		<link type="Discogs" url="https://www.discogs.com/release/3548396"/>
+		<link type="Discogs" url="https://www.discogs.com/master/26439"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/cba95cf7-3e69-3b58-8b9f-9b018de0633c"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3267308"/>
 	</release>
@@ -282,7 +285,7 @@
 		<year>1975</year>
 		<type>album</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000744051"/>
-		<link type="Discogs" url="https://www.discogs.com/release/1903153"/>
+		<link type="Discogs" url="https://www.discogs.com/master/238335"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/977a4ca2-d51b-3d42-bb5c-7cfb775c7a50"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5351470"/>
 	</release>
@@ -301,7 +304,7 @@
 		<artist>Keith Jarrett</artist>
 		<name>The Köln Concert</name>
 		<year>1975</year>
-		<firstreleasedate>‎1975-11-30</firstreleasedate>
+		<firstreleasedate>1975-11-30</firstreleasedate>
 		<type>album</type>
 		<type>live</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000188364"/>
@@ -480,7 +483,7 @@
 		<year>1982</year>
 		<firstreleasedate>1982-02-xx</firstreleasedate>
 		<type>album</type>
-		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000898684"/>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000841941"/>
 		<link type="Discogs" url="https://www.discogs.com/master/259251"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/c63d6808-0f59-48b5-a611-63e6b41176a5"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7336839"/>
@@ -505,7 +508,7 @@
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000188229"/>
 		<link type="Discogs" url="https://www.discogs.com/master/299956"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/794ec2de-07e4-3773-84c2-9d807678746f"/>
-		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2703037"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q93619322"/>
 	</release>
 	<release id="changes">
 		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
@@ -594,8 +597,8 @@
 		<type>live</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000197806"/>
 		<link type="Discogs" url="https://www.discogs.com/master/53937"/>
-		<link type="MusicBrainz" url="https://www.wikidata.org/wiki/Q3702715"/>
-		<link type="Wikidata" url="https://musicbrainz.org/release-group/3697a2df-0d93-3daf-9604-3e47a493be0e"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3697a2df-0d93-3daf-9604-3e47a493be0e"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3702715"/>
 	</release>
 	<release id="personal-mountains">
 		<artist>Keith Jarrett, Jan Garbarek, Palle Danielsson &amp; Jon Christensen</artist>
@@ -667,17 +670,6 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/9d13c204-8e04-3db3-b8df-aae4931ccdcc"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7728416"/>
 	</release>
-	<release id="bye-bye-blackbird">
-		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
-		<name>Bye Bye Blackbird</name>
-		<year>1993</year>
-		<firstreleasedate>1993-04-xx</firstreleasedate>
-		<type>album</type>
-		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000096952"/>
-		<link type="Discogs" url="https://www.discogs.com/master/79381"/>
-		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/abab7f9f-d122-36e5-ac24-a95dd68d7576"/>
-		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5004017"/>
-	</release>
 	<release id="vienna-concert">
 		<artist>Keith Jarrett</artist>
 		<name>Vienna Concert</name>
@@ -689,6 +681,17 @@
 		<link type="Discogs" url="https://www.discogs.com/master/861832"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/e9daa13f-3d75-3b98-baed-8f45986badf8"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q4011471"/>
+	</release>
+	<release id="bye-bye-blackbird">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>Bye Bye Blackbird</name>
+		<year>1993</year>
+		<firstreleasedate>1993-04-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000096952"/>
+		<link type="Discogs" url="https://www.discogs.com/master/79381"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/abab7f9f-d122-36e5-ac24-a95dd68d7576"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5004017"/>
 	</release>
 	<release id="at-the-deer-head-inn">
 		<artist>Keith Jarrett, Gary Peacock &amp; Paul Motian</artist>
@@ -907,7 +910,7 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/884cd772-2368-4070-951a-9fcd30fbc307"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q60773202"/>
 	</release>
-    <release id="the-well‐tempered-clavier-book-i">
+	<release id="the-well-tempered-clavier-book-i">
 		<artist>Keith Jarrett</artist>
 		<name>The Well‐Tempered Clavier, Book I</name>
 		<year>2019</year>
@@ -928,7 +931,7 @@
 		<type>live</type>
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0003322318"/>
 		<link type="Discogs" url="https://www.discogs.com/master/1629545"/>
-		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/05a77155-66b8-4dd0-8066-a62eec05a645"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/9a8c67d2-388b-41cf-a7d8-0051df2e311b"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q74813257"/>
 	</release>
 	<release id="budapest-concert">
@@ -954,6 +957,17 @@
 		<link type="Discogs" url="https://www.discogs.com/master/2804822"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/656e8ab7-3ac7-4aa4-b891-a600d5f43c65"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q114697352"/>
+	</release>
+	<release id="the-old-country">
+		<artist>Keith Jarrett</artist>
+		<name>The Old Country: More from the Deer Head Inn</name>
+		<year>2024</year>
+		<firstreleasedate>2024-11-08</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0004365123"/>
+		<link type="Discogs" url="https://www.discogs.com/master/3650598"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/218aafd2-1c0a-4378-81b7-2bae9ac38d73"/>
 	</release>
 	<release id="new-vienna">
 		<artist>Keith Jarrett</artist>

@@ -5624,7 +5624,7 @@
 		</concert>
 		<concert>
 			<date>May 3</date>
-			<place>Theater am Korntmarkt, Bregenz, Austria</place>
+			<place>Theater am Kornmarkt, Bregenz, Austria</place>
 			<release id="eyes-of-the-heart">Eyes of the Heart</release>
 			<with>
 				<name>Dewey Redman</name>
@@ -6782,7 +6782,7 @@
 		<concert>
 			<date>March 22</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
-			<release>The Celestial Hawk</release>
+			<release id="the-celestial-hawk">The Celestial Hawk</release>
 			<with>
 				<name>Syracuse Symphony</name>
 				<name>Christopher Keene</name>
@@ -8373,7 +8373,7 @@
 			<date>March 7</date>
 			<place>Troy Savings Bank Music Hall , New York, NY, USA</place>
 			<with solo="yes"/>
-			<release id="the-well‐tempered-clavier-book-i">J.S. Bach: The Well-Tempered Clavier, Book I</release>
+			<release id="the-well-tempered-clavier-book-i">J.S. Bach: The Well-Tempered Clavier, Book I</release>
 			<comments>Keith Jarrett played BWV 846-869 (The Well-Tempered Clavier, Book I) and possibly other pieces.</comments>
 		</concert>
 		<concert>
@@ -8930,7 +8930,7 @@
 		<concert>
 			<date>October 7</date>
 			<place>Konserthus, Oslo, Norway</place>
-			<release id="standards-in-norway">Standards In Norway</release>
+			<release id="standards-in-norway">Standards in Norway</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -9381,8 +9381,8 @@
 		<concert>
 			<date>September 16</date>
 			<place>Deer Head Inn, Delaware Water Gap, PA, USA</place>
-			<release id="at-the-deer-head-inn">At The Deer Head Inn</release>
-			<release id="the-old-country">The Old Country</release>
+			<release id="at-the-deer-head-inn">At the Deer Head Inn</release>
+			<release id="the-old-country">The Old Country: More from the Deer Head Inn</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Paul Motian</name>
@@ -10111,7 +10111,7 @@
 		<concert>
 			<date>July 28</date>
 			<place>Royal Festival Hall, London, UK</place>
-			<release>Inside Out</release>
+			<release id="inside-out">Inside Out</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
