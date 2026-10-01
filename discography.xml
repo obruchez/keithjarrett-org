@@ -787,6 +787,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/bedf5432-cc5a-36c3-992f-4c05b8e83e8c"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q4966435"/>
 	</release>
+	<release id="3-sonaten-fur-viola-da-gamba-und-cembalo">
+		<artist>Kim Kashkashian &amp; Keith Jarrett</artist>
+		<name>J. S. Bach: 3 Sonaten für Viola da Gamba und Cembalo</name>
+		<year>1994</year>
+		<firstreleasedate>1994-10-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0001347257"/>
+		<link type="Discogs" url="https://www.discogs.com/master/1245833"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/b2364d74-6e74-3af5-a719-1ea54f266c9c"/>
+	</release>
 	<release id="standards-in-norway">
 		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
 		<name>Standards in Norway</name>
