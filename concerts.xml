@@ -10197,7 +10197,7 @@
 			<date>April 24</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<release id="always-let-me-go">Always Let Me Go (?)</release>
-			<release>Yesterdays</release>
+			<release id="yesterdays">Yesterdays</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10223,7 +10223,7 @@
 			<date>April 30</date>
 			<place>Metropolitan Festival Hall, Tokyo, Japan</place>
 			<release id="always-let-me-go">Always Let Me Go (?)</release>
-			<release>Yesterdays</release>
+			<release id="yesterdays">Yesterdays</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
