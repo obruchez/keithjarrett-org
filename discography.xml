@@ -342,6 +342,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/df98314a-855c-4c1f-bc84-fa599cd1291a"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7460297"/>
 	</release>
+	<release id="gnu-high">
+		<artist>Kenny Wheeler</artist>
+		<name>Gnu High</name>
+		<year>1976</year>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000188923"/>
+		<link type="Discogs" url="https://www.discogs.com/master/228440"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/888c3e40-77e4-31eb-8e42-ae1507addfdf"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5574489"/>
+	</release>
 	<release id="arbour-zena">
 		<artist>Keith Jarrett</artist>
 		<name>Arbour Zena</name>
