@@ -10267,7 +10267,7 @@
 			<date>July 22</date>
 			<place>Stravinski Hall, Montreux, Switzerland</place>
 			<event>Montreux Jazz Festival</event>
-			<release>My Foolish Heart: Live at Montreux</release>
+			<release id="my-foolish-heart">My Foolish Heart: Live at Montreux</release>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
