@@ -10455,14 +10455,14 @@
 			<date>October 27</date>
 			<place>Festival Hall, Osaka, Japan</place>
 			<with solo="yes"/>
-			<release>Radiance</release>
+			<release id="radiance">Radiance</release>
 		</concert>
 		<concert>
 			<date>October 30</date>
 			<place>Metropolitan Festival Hall, Tokyo, Japan</place>
 			<with solo="yes"/>
 			<comments>Keith Jarrett's 150<sup>th</sup> performance in Japan.</comments>
-			<release>Radiance</release>
+			<release id="radiance">Radiance</release>
 		</concert>
 		<concert>
 			<date>October 31</date>

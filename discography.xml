@@ -945,6 +945,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/9cd97b88-14e9-3880-8287-7e2a5409d1b0"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2156532"/>
 	</release>
+	<release id="radiance">
+		<artist>Keith Jarrett</artist>
+		<name>Radiance</name>
+		<year>2005</year>
+		<firstreleasedate>2005-05-02</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000204582"/>
+		<link type="Discogs" url="https://www.discogs.com/master/936177"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/5553fc5c-477a-3701-9745-1a7e7ca82a57"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q1959525"/>
+	</release>
 
 	<!-- TODO: Barber: Piano Concerto; Bartók: Piano Concerto No. 3; Keith Jarrett: Tokyo Encore -->
 
