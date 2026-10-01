@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2023-09-04">
+<discography modified="2026-10-01">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -954,6 +954,27 @@
 		<link type="Discogs" url="https://www.discogs.com/master/2804822"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/656e8ab7-3ac7-4aa4-b891-a600d5f43c65"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q114697352"/>
+	</release>
+	<release id="new-vienna">
+		<artist>Keith Jarrett</artist>
+		<name>New Vienna</name>
+		<year>2025</year>
+		<firstreleasedate>2025-05-30</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0004504317"/>
+		<link type="Discogs" url="https://www.discogs.com/master/3864808"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/8985ae32-8bcc-47f2-9722-0237a7e7510f"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q134612007"/>
+	</release>
+	<release id="roma">
+		<!-- TODO: add AllMusic, Discogs, MusicBrainz and Wikidata links once released -->
+		<artist>Keith Jarrett</artist>
+		<name>Roma</name>
+		<year>2026</year>
+		<firstreleasedate>2026-11-06</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
 	</release>
 </discography>
 

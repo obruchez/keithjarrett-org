@@ -14,7 +14,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="August 16, 2026">
+<concerts modified="October 1, 2026">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -12203,12 +12203,14 @@
 			<date>July 9</date>
 			<place>Goldener Saal, Musikverein, Vienna, Austria</place>
 			<time>7:45 PM</time>
+			<release id="new-vienna">New Vienna</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>
 			<date>July 12</date>
 			<place>Parco Della Musica, Rome, Italy</place>
 			<time>7 PM</time>
+			<release id="roma">Roma</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>
