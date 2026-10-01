@@ -10862,7 +10862,7 @@
 		<concert>
 			<date>September 26</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
-			<release>The Carnegie Hall Concert</release>
+			<release id="the-carnegie-hall-concert">The Carnegie Hall Concert</release>
 			<with solo="yes"/>
 		</concert>
 		<concert>
