@@ -1101,6 +1101,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3f9b64ca-d3d2-4350-95d0-952bfb207551"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q17490367"/>
 	</release>
+	<release id="hamburg-72">
+		<artist>Keith Jarrett, Charlie Haden &amp; Paul Motian</artist>
+		<name>Hamburg '72</name>
+		<year>2014</year>
+		<firstreleasedate>2014-11-21</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0002766770"/>
+		<link type="Discogs" url="https://www.discogs.com/master/798359"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/ac9a0157-831d-40f9-b1ca-265497b0e7f0"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q19284712"/>
+	</release>
 	<release id="creation">
 		<artist>Keith Jarrett</artist>
 		<name>Creation</name>
