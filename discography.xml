@@ -754,6 +754,16 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/abab7f9f-d122-36e5-ac24-a95dd68d7576"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5004017"/>
 	</release>
+	<release id="the-french-suites">
+		<artist>Keith Jarrett</artist>
+		<name>J. S. Bach: The French Suites</name>
+		<year>1993</year>
+		<firstreleasedate>1993-10-xx</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0001341918"/>
+		<link type="Discogs" url="https://www.discogs.com/master/1183745"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/140d0a07-ac2f-3cec-9948-4abbd6ee16b9"/>
+	</release>
 	<release id="at-the-deer-head-inn">
 		<artist>Keith Jarrett, Gary Peacock &amp; Paul Motian</artist>
 		<name>At the Deer Head Inn</name>
