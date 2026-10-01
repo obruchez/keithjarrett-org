@@ -1075,8 +1075,6 @@
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q16666649"/>
 	</release>
 
-	<!-- TODO: Barber: Piano Concerto; Bartók: Piano Concerto No. 3; Keith Jarrett: Tokyo Encore -->
-
 <!--
 	<release id="">
 		<artist>Keith Jarrett</artist>
@@ -1124,6 +1122,18 @@
 		<link type="Discogs" url="https://www.discogs.com/master/1069420"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/38b82833-997b-4fce-89a3-51e858dea4f9"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q19946311"/>
+	</release>
+	<release id="barber-bartok-jarrett">
+		<artist>Keith Jarrett</artist>
+		<name>Barber / Bartók / Jarrett</name>
+		<year>2015</year>
+		<firstreleasedate>2015-05-08</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0002837317"/>
+		<link type="Discogs" url="https://www.discogs.com/master/1292404"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/69c2a2b4-874c-419f-93d8-d36733d1498b"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q65227499"/>
 	</release>
 	<release id="a-multitude-of-angels">
 		<artist>Keith Jarrett</artist>
