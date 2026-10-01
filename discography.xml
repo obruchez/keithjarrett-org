@@ -993,6 +993,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/d76ffde6-7deb-3c2a-8373-c1158ae58efb"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2576359"/>
 	</release>
+	<release id="paris-london-testament">
+		<artist>Keith Jarrett</artist>
+		<name>Paris / London: Testament</name>
+		<year>2009</year>
+		<firstreleasedate>2009-10-02</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000829182"/>
+		<link type="Discogs" url="https://www.discogs.com/master/288555"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/db458929-1aa3-4617-b51b-ff65b2374753"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7137195"/>
+	</release>
 
 	<!-- TODO: Barber: Piano Concerto; Bartók: Piano Concerto No. 3; Keith Jarrett: Tokyo Encore -->
 
