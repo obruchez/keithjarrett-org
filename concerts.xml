@@ -11602,7 +11602,7 @@
 			<date>April 9</date>
 			<place>Theatro Municipal, Rio de Janeiro, Brazil</place>
 			<with solo="yes"/>
-			<release>Rio</release>
+			<release id="rio">Rio</release>
 		</concert>
 		<concert>
 			<date>April 12</date>
