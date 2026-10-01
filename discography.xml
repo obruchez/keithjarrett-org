@@ -1040,6 +1040,18 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/492760bf-7bc4-4888-9550-b2c4d2b4662b"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7539791"/>
 	</release>
+	<release id="somewhere">
+		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
+		<name>Somewhere</name>
+		<year>2013</year>
+		<firstreleasedate>2013-05-24</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0002517148"/>
+		<link type="Discogs" url="https://www.discogs.com/master/1020285"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/83f8603a-78f4-4cdc-9b04-6eb512b55750"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q17036559"/>
+	</release>
 
 	<!-- TODO: Barber: Piano Concerto; Bartók: Piano Concerto No. 3; Keith Jarrett: Tokyo Encore -->
 

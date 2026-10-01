@@ -11347,7 +11347,7 @@
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
 			</with>
-			<release>Somewhere</release>
+			<release id="somewhere">Somewhere</release>
 		</concert>
 		<concert>
 			<date>July 13</date>
