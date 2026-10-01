@@ -1005,6 +1005,17 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/db458929-1aa3-4617-b51b-ff65b2374753"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7137195"/>
 	</release>
+	<release id="jasmine">
+		<artist>Keith Jarrett &amp; Charlie Haden</artist>
+		<name>Jasmine</name>
+		<year>2010</year>
+		<firstreleasedate>2010-05-07</firstreleasedate>
+		<type>album</type>
+		<link type="AllMusic" url="https://www.allmusic.com/album/mw0001975715"/>
+		<link type="Discogs" url="https://www.discogs.com/master/560734"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/05020f18-7389-454a-9348-8dd0e1c2b68b"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q6161735"/>
+	</release>
 
 	<!-- TODO: Barber: Piano Concerto; Bartók: Piano Concerto No. 3; Keith Jarrett: Tokyo Encore -->
 
