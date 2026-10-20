@@ -2,7 +2,7 @@
 
 <!-- Checklist: add release id to concerts.xml if live concert -->
 
-<discography modified="2026-10-01">
+<discography modified="2026-10-20">
 	<release id="swinging-big-sound">
 		<artist>Don Jacoby and the College All-Stars</artist>
 		<name>Swinging Big Sound</name>
@@ -640,6 +640,15 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/3697a2df-0d93-3daf-9604-3e47a493be0e"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3702715"/>
 	</release>
+	<release id="piano-concerto-suite-for-violin-piano-and-small-orchestra">
+		<artist>Keith Jarrett, New Japan Philharmonic &amp; Naoto Otomo</artist>
+		<name>Lou Harrison: Piano Concerto / Suite for Violin, Piano and Small Orchestra</name>
+		<year>1988</year>
+		<type>album</type>
+		<type>live</type>
+		<link type="Discogs" url="https://www.discogs.com/master/288714"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/21bdbd22-b86f-43ab-bf5d-c1d94625ea08"/>
+	</release>
 	<release id="goldberg-variations">
 		<artist>Keith Jarrett</artist>
 		<name>J. S. Bach: Goldberg Variations</name>
@@ -673,6 +682,14 @@
 		<link type="Discogs" url="https://www.discogs.com/master/347492"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/ff67b63e-1a9a-38ed-b399-2df09661817b"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q5071906"/>
+	</release>
+	<release id="mysterious-mountain-lousadzak-elegiac-symphony">
+		<artist>Keith Jarrett, American Composers Orchestra &amp; Dennis Russell Davies</artist>
+		<name>Alan Hovhaness / Lou Harrison: Mysterious Mountain / Lousadzak / Elegiac Symphony</name>
+		<year>1989</year>
+		<type>album</type>
+		<link type="Discogs" url="https://www.discogs.com/master/1228551"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/b3475889-3c2e-455d-8153-246a944066ff"/>
 	</release>
 	<release id="paris-concert">
 		<artist>Keith Jarrett</artist>
@@ -720,6 +737,14 @@
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/9d13c204-8e04-3db3-b8df-aae4931ccdcc"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7728416"/>
 	</release>
+	<release id="recorder-sonatas">
+		<artist>Michala Petri &amp; Keith Jarrett</artist>
+		<name>G. F. Händel: Recorder Sonatas</name>
+		<year>1991</year>
+		<type>album</type>
+		<link type="Discogs" url="https://www.discogs.com/master/718846"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/14b6e30b-8b00-34c1-91b7-d8f9e45e1da1"/>
+	</release>
 	<release id="24-preludes-and-fugues">
 		<artist>Keith Jarrett</artist>
 		<name>Dmitri Shostakovich: 24 Preludes and Fugues, Op. 87</name>
@@ -729,6 +754,7 @@
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0001821325"/>
 		<link type="Discogs" url="https://www.discogs.com/master/582875"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/c11f7773-a87e-3625-93d0-a3ddce2d46b8"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q138823454"/>
 	</release>
 	<release id="vienna-concert">
 		<artist>Keith Jarrett</artist>
@@ -741,6 +767,22 @@
 		<link type="Discogs" url="https://www.discogs.com/master/861832"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/e9daa13f-3d75-3b98-baed-8f45986badf8"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q4011471"/>
+	</release>
+	<release id="bach-sonatas">
+		<artist>Michala Petri &amp; Keith Jarrett</artist>
+		<name>J. S. Bach: Sonatas</name>
+		<year>1992</year>
+		<type>album</type>
+		<link type="Discogs" url="https://www.discogs.com/master/535486"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/4dc5792e-ffda-36ee-9b03-acd5d5665377"/>
+	</release>
+	<release id="seven-pastorales-etruscan-concerto">
+		<artist>Keith Jarrett, Brooklyn Philharmonic Orchestra &amp; Dennis Russell Davies</artist>
+		<name>Lou Harrison / Peggy Glanville-Hicks: Seven Pastorales / Etruscan Concerto</name>
+		<year>1992</year>
+		<type>album</type>
+		<link type="Discogs" url="https://www.discogs.com/master/1197596"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/1d72106d-1aec-4575-a471-043fff7f5d84"/>
 	</release>
 	<release id="bye-bye-blackbird">
 		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
@@ -840,6 +882,16 @@
 		<link type="Discogs" url="https://www.discogs.com/master/1292873"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/45838ed1-ad0e-43a1-8a44-bfdd5ed72e46"/>
 	</release>
+	<release id="mysteries-the-impulse-years-1975-1976">
+		<artist>Keith Jarrett</artist>
+		<name>Mysteries: The Impulse Years 1975-1976</name>
+		<year>1996</year>
+		<firstreleasedate>1996-10-22</firstreleasedate>
+		<type>album</type>
+		<link type="Discogs" url="https://www.discogs.com/master/1494003"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/d1cd898d-1aaf-3962-8090-da587c70ec6b"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q17060918"/>
+	</release>
 	<release id="la-scala">
 		<artist>Keith Jarrett</artist>
 		<name>La Scala</name>
@@ -851,6 +903,17 @@
 		<link type="Discogs" url="https://www.discogs.com/master/259278"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/52ca368a-a71f-3627-b65c-0b4055857d20"/>
 		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q3819026"/>
+	</release>
+	<release id="the-impulse-years-1973-1974">
+		<artist>Keith Jarrett</artist>
+		<name>The Impulse Years: 1973-1974</name>
+		<year>1997</year>
+		<firstreleasedate>1997-11-11</firstreleasedate>
+		<type>album</type>
+		<type>live</type>
+		<link type="Discogs" url="https://www.discogs.com/master/1489566"/>
+		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/298b777b-bc1a-304b-bf4f-d0a9e8b52078"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7741643"/>
 	</release>
 	<release id="tokyo-96">
 		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
@@ -930,7 +993,7 @@
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0000030116"/>
 		<link type="Discogs" url="https://www.discogs.com/master/1067453"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/58ee14a1-caf7-3152-a370-45b45eee999c"/>
-		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q7898039"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q2396410"/>
 	</release>
 	<release id="the-out-of-towners">
 		<artist>Keith Jarrett, Gary Peacock &amp; Jack DeJohnette</artist>
@@ -1238,6 +1301,7 @@
 		<link type="AllMusic" url="https://www.allmusic.com/album/mw0004365123"/>
 		<link type="Discogs" url="https://www.discogs.com/master/3650598"/>
 		<link type="MusicBrainz" url="https://musicbrainz.org/release-group/218aafd2-1c0a-4378-81b7-2bae9ac38d73"/>
+		<link type="Wikidata" url="https://www.wikidata.org/wiki/Q131101607"/>
 	</release>
 	<release id="new-vienna">
 		<artist>Keith Jarrett</artist>
