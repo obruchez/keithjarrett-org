@@ -14,7 +14,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 1, 2026">
+<concerts modified="October 20, 2026">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -143,7 +143,7 @@
 		</concert>
 		<concert>
 			<date>April 28</date>
-			<place>Kulttuuritalo, Helsinki, Sweden</place>
+			<place>Kulttuuritalo, Helsinki, Finland</place>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Cecil McBee</name>
@@ -600,7 +600,7 @@
 		</concert>
 		<concert>
 			<date incomplete="yes">May</date>
-			<place>US Ambassy, Moscow, Russia</place>
+			<place>US Embassy, Moscow, Russia</place>
 			<with>
 				<name>Charles Lloyd</name>
 				<name>Ron McClure</name>
@@ -1322,7 +1322,7 @@
 			</with>
 		</concert>
 		<concert>
-			<date>April/May (?)</date>
+			<date incomplete="yes">April/May (?)</date>
 			<place>Symphony Hall, Boston, MA, USA</place>
 			<with>
 				<name>Charlie Haden</name>
@@ -1447,7 +1447,7 @@
 		</concert>
 		<concert>
 			<date>September 7</date>
-			<place>The Sogn Jazz Club, Sogn Student Accomodation Halls (Sogn Studentby), Oslo , Norway</place>
+			<place>The Sogn Jazz Club, Sogn Student Accommodation Halls (Sogn Studentby), Oslo, Norway</place>
 			<with>
 				<name>August "Gus" Nemeth</name>
 				<name>Bob Ventrello</name>
@@ -1516,7 +1516,7 @@
 			<place>Le Caméléon, Paris, France</place>
 			<with>
 				<name>Dave Holland</name>
-				<name>Jack DeJohnnette</name>
+				<name>Jack DeJohnette</name>
 			</with>
 			<comments>This is the night when Miles Davis, his wife, Dave Holland, and Jack DeJohnette came to listen to Keith Jarrett after their concert at the Salle Pleyel. Keith Jarrett jammed with Dave Holland and Jack DeJohnette. He probably played a regular concert with Aldo Romano and Jean-François Jenny-Clark before (not confirmed). Jacques L.: "Le soir du 3 novembre 1969, Keith Jarrett a joué 2 sets au Caméléon et il était seul en tout cas au 2ème set, c'est certain. Et c'est entre les deux sets qu'il a parlé avec Miles Davis dans le couloir près du vestiaire. Il était adossé au mur et Miles lui parlait la main droite appuyée au mur au-dessus de son épaule. C'était sur un piano droit pas très neuf et j'ai tenu cette poignée pendant tout le concert... Je crois que je la tiens encore !"</comments>
 			<privatecomments>Vincent Lespagnol + Jacques D. Levy</privatecomments>
@@ -2428,8 +2428,8 @@
 			<privatecomments>Keith N. Moore</privatecomments>
 		</concert>
 		<concert>
-			<date>Early May</date>
-			<place>Shelly’s Manne-Hole, Los Angeles, CA, USA</place>
+			<date incomplete="yes">Early May</date>
+			<place>Shelly's Manne-Hole, Los Angeles, CA, USA</place>
 			<with>
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
@@ -2620,7 +2620,7 @@
 		</concert>
 		<concert>
 			<date>October 21</date>
-			<place>Conservatorio Giuseppi Verdi, Milan, Italy</place>
+			<place>Conservatorio Giuseppe Verdi, Milan, Italy</place>
 			<release>Miles Davis Group Live with Keith Jarrett</release>
 			<with>
 				<name>Miles Davis</name>
@@ -2908,7 +2908,7 @@
 				<name>Miles Davis</name>
 				<name>Gary Bartz</name>
 				<name>Michael Henderson</name>
-				<name>Jack De Johnette</name>
+				<name>Jack DeJohnette</name>
 				<name>Charles Don Alias</name>
 				<name>James Mtume Foreman</name>
 			</with>
@@ -2920,7 +2920,7 @@
 			<with>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -2934,7 +2934,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -2948,7 +2948,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -2962,7 +2962,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -2976,7 +2976,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -2990,7 +2990,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -3004,7 +3004,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -3018,7 +3018,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -3031,7 +3031,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -3044,7 +3044,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -3057,7 +3057,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -3070,7 +3070,7 @@
 				<name instr="trumpet">Miles Davis</name>
 				<name instr="soprano saxophone, alto saxophone">Gary Bartz</name>
 				<name instr="electric bass">Michael Henderson</name>
-				<name instr="drums">Jack De Johnette</name>
+				<name instr="drums">Jack DeJohnette</name>
 				<name instr="percussions">Charles Don Alias</name>
 				<name instr="percussions">James Mtume Foreman</name>
 			</with>
@@ -3967,7 +3967,7 @@
 			<date>March 17</date>
 			<place>Alice Tully Hall, Lincoln Center, New York, NY, USA</place>
 			<with>
-				<name instr="conductor">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russell Davies</name>
 			</with>
 			<comments>Kenneth K.: "Jarrett was the featured soloist in Carla Bley's '3/4, for Piano and Orchestra' conducted by Dennis Russell Davies. (...) This may be his first encounter with Dennis Russell Davies with whom he would work over the next two decades. Bley's piece required a pianist well above her skill set; not sure exactly how Jarrett was approached but the concert took place on a Sunday afternoon, just two days before his engagement at the Vanguard. Jarrett would reprise this performance that December in Minneapolis, where he performed a series of concerts for quartet and serious compositions, including a piece from 'In the Light'."</comments>
 			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
@@ -4277,6 +4277,13 @@
 			<comments><a href="https://web.archive.org/web/20181023035425/http://www.pescarajazz.com/index/timeline/1974">Pescara Jazz Festival 74</a>.</comments>
 		</concert>
 		<concert>
+			<date>July 27</date>
+			<place>Palais des Congrès, Antibes Juan-Les-Pins, France</place>
+			<event>Jazz à Juan</event>
+			<with solo="yes"/>
+			<privatecomments>Listed in Jazz Magazine. YouTube video (good quality, mono): https://www.youtube.com/watch?v=e-AsGNFFnRw. July 23 is wrong according to Simon Savary (correct date is July 27).</privatecomments>
+		</concert>
+		<concert>
 			<date>July 29</date>
 			<place>Piazza della Fontana Maggiore, Perugia, Italy</place>
 			<event>Umbria Jazz Festival</event>
@@ -4289,13 +4296,6 @@
 			<with solo="yes"/>
 			<comments>Marc M.: "Villalago is a neoclassical villa built in the 19th century with a park and an amphitheatre (there is also a town named Villalago in Italy but it's another place)."</comments>
 			<privatecomments>Arnulf Müller</privatecomments>
-		</concert>
-		<concert>
-			<date>July 27</date>
-			<place>Palais des Congrès, Antibes Juan-Les-Pins, France</place>
-			<event>Jazz à Juan</event>
-			<with solo="yes"/>
-			<privatecomments>Listed in Jazz Magazine. YouTube video (good quality, mono): https://www.youtube.com/watch?v=e-AsGNFFnRw. July 23 is wrong according to Simon Savary (correct date is July 27).</privatecomments>
 		</concert>
 		<concert>
 			<date>August 1</date>
@@ -4636,7 +4636,7 @@
 			<date>December 21</date>
 			<place>O'Shaughnessy Theatre, St Paul, MN, USA</place>
 			<with>
-				<name instr="conductor">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russell Davies</name>
 			</with>
 			<comments>Kenneth K.: "'In the Cave, In the Light'. '3/4, for Piano and Orchestra'.</comments>
 			<privatecomments>Mentioned by Kenneth Kubernik.</privatecomments>
@@ -4653,7 +4653,7 @@
 		</concert>
 		<concert>
 			<date incomplete="yes">September-December (?)</date>
-			<place>Webster Grove, MO, USA</place>
+			<place>Webster Groves, MO, USA</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -4945,7 +4945,7 @@
 			<privatecomments>Peter Elsdon</privatecomments>
 		</concert>
 		<concert>
-			<date>February or April (?)</date>
+			<date incomplete="yes">February or April (?)</date>
 			<place>Moore Theater, Seattle, WA, USA</place>
 			<with solo="yes"/>
 			<privatecomments>Ed Deal</privatecomments>
@@ -5125,7 +5125,7 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<comments>Keith Jarrett played after Oregon and before Thelonius Monk.</comments>
+			<comments>Keith Jarrett played after Oregon and before Thelonious Monk.</comments>
 			<privatecomments>Frederik Adlers + Wolfgang's Vault</privatecomments>
 		</concert>
 		<concert>
@@ -5653,9 +5653,9 @@
 				<name>Charlie Haden</name>
 				<name>Paul Motian</name>
 			</with>
-			<image type="article">1976-05-08-Westfälische-Nachrichten.pdf</image>
-			<image type="article">1976-05-11-Münstersche-Zeitung.pdf</image>
-			<comments>Two articles about the concert: <a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1976-05-08-Westf%C3%A4lische-Nachrichten.pdf">Westfälische Nachrichten (May 8, 1976)</a> and <a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1976-05-11-M%C3%BCnstersche-Zeitung.pdf">Münstersche Zeitung (May 11, 1976)</a>.</comments>
+			<image type="article">1976-05-08-Westfälische-Nachrichten.pdf</image>
+			<image type="article">1976-05-11-Münstersche-Zeitung.pdf</image>
+			<comments>Two articles about the concert: <a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1976-05-08-Westf%C3%A4lische-Nachrichten.pdf">Westfälische Nachrichten (May 8, 1976)</a> and <a href="https://github.com/obruchez/keithjarrett-org/blob/master/images/1976-05-11-M%C3%BCnstersche-Zeitung.pdf">Münstersche Zeitung (May 11, 1976)</a>.</comments>
 			<privatecomments>Added by Sep Troelstra. Two scans of newspaper articles (in German) sent by email by Hanns-Peter Bushoff on November 16, 2022.</privatecomments>
 		</concert>
 		<concert>
@@ -5736,7 +5736,7 @@
 		</concert>
 		<concert>
 			<date>May 18</date>
-			<place>Vienna, Australia</place>
+			<place>Vienna, Austria</place>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -5909,11 +5909,11 @@
 		</concert>
 		<concert>
 			<date>August 7</date>
-			<place>Waumbek Village, Jeffersons, NH, USA</place>
+			<place>Waumbek Village, Jefferson, NH, USA</place>
 			<event>White Mountains Festival</event>
 			<with>
 				<name instr="orchestra">Unknown orchestra</name>
-				<name instr="conductor">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russell Davies</name>
 			</with>
 			<comments>Concert mentioned in <a href="http://news.google.com/newspapers?nid=2209&amp;dat=19760713&amp;id=6XtjAAAAIBAJ&amp;sjid=0XkNAAAAIBAJ&amp;pg=5327,2006229">"White Mountains Festival Expected to Lure Thousands"</a></comments>
 			<privatecomments>Arnulf Müller. Location confirmed by Marc Movan.</privatecomments>
@@ -6229,7 +6229,7 @@
 		</concert>
 		<concert>
 			<date>November 20</date>
-			<place>Avery Fisher Hall, New York</place>
+			<place>Avery Fisher Hall, New York, NY, USA</place>
 			<with>
 				<name>Jan Garbarek</name>
 				<name>Palle Danielsson</name>
@@ -6373,7 +6373,7 @@
 		</concert>
 		<concert>
 			<date>November 19</date>
-			<place>Adelaide Festival Centre, Adelaide, Autralia</place>
+			<place>Adelaide Festival Centre, Adelaide, Australia</place>
 			<with solo="yes"/>
 			<comments>Victor P.: "He walked out - played half the concert. Intermission - walked back on - played the other half. Walked off - it was fantastic." (year is uncertain) Robert B.: "The concert was in a small venue in the Adelaide Festival Complex that would have held an audience of only 200 or so, nothing but perfect silence - no coughing or photos! (...) He spent most of the time playing in a crouched position off the stool, vocalizing and gesticulating toward the piano with his torso. He played one very long amazing improvisation, then approached the microphone, his fingers drumming its stem, and said "I'll be back later... to play some more of whatever that was"." (this might be another concert than Victor, maybe in the mid-70s)</comments>
 			<privatecomments>Victor Pugatschew. Robert Bright. Rolf Rauschenbach (exact date and venue).</privatecomments>
@@ -6393,7 +6393,7 @@
 		</concert>
 		<concert>
 			<date incomplete="yes"/>
-			<place>Theatre Royal, Dury Lane, London, UK</place>
+			<place>Theatre Royal, Drury Lane, London, UK</place>
 			<with solo="yes"/>
 		</concert>
 	</group>
@@ -7250,7 +7250,7 @@
 		</concert>
 		<concert>
 			<date>December 11</date>
-			<place>Dorothy Chandler Pavillion, Los Angeles, CA, USA</place>
+			<place>Dorothy Chandler Pavilion, Los Angeles, CA, USA</place>
 			<with solo="yes"/>
 			<privatecomments>Simon Savary</privatecomments>
 		</concert>
@@ -7265,7 +7265,7 @@
 		</concert>
 		<concert>
 			<date>April 12</date>
-			<place>Heinz Hall, Pittsburg, PA, USA</place>
+			<place>Heinz Hall, Pittsburgh, PA, USA</place>
 			<with solo="yes"/>
 			<comments>From Mike: "He played 'Somewhere Over The Rainbow' (maybe as a second encore). I remember during what was probably the first encore, where he did a bluesy vamp, the audience started clapping along and, after a while, he stopped playing, clapped along a bit and then said that 'What you are hearing out there is not the same thing as what I am hearing up here.' That got them quiet..."</comments>
 			<privatecomments>mfallon@windstream.net / source: poster sold on eBay, year unknown, but confirmed by Mike</privatecomments>
@@ -7465,7 +7465,7 @@
 			<place>Avery Fisher Hall, Lincoln Center, New York, NY, USA</place>
 			<with>
 				<name instr="orchestra">American Composers Orchestra</name>
-				<name instr="conductor">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russell Davies</name>
 			</with>
 			<comments>Article quoted by Tonino V.: "The American Composers Orchestra, beginning its eighth season, has expanded its former three-concert schedule to five. The orchestra will open its 1983-84 season with a program in Avery Fisher Hall Sunday at 8. Dennis Russell Davies will conduct a program consisting of Samuel Barber's Piano Concerto (with Keith Jarrett as soloist), Elliott Carter's "Variations for Orchestra" and the New York premiere of Curtis O.B. Curtis-Smith's "The Great American Symphony.""</comments>
 			<privatecomments>Added by Tonino Vantaggiato.</privatecomments>
@@ -7562,7 +7562,7 @@
 		</concert>
 		<concert>
 			<date>January 19</date>
-			<place>Sun Palace, Fukuoaka, Japan</place>
+			<place>Sun Palace, Fukuoka, Japan</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
@@ -7594,9 +7594,9 @@
 			<with>
 				<name instr="violin">Joachim Schall</name>
 				<name instr="orchestra">Rundfunk Sinfonieorchester Saarbrücken</name>
-				<name instr="conductor">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russell Davies</name>
 			</with>
-			<comments>Pieces played: "Suite für Solo Violine, Solo Klavier und kleines Orchester" (Lou Harrison) and "Konzert für Klavier mit Bläseroktettbegleitung" (Colin McPhee). Joachim Schall played durting the Lou Harrison piece only. Incomplete information about the concert (excerpt from Google cache): "Bei zwei Konzerten erlebte das Festival einen bisher ungekannten Ansturm. Dirigent Dennis Russel Davies hatte nicht nur seine komponierenden Freunde Lou Harrison und William Bolcom eingebracht - als weitaus folgenreicher erwies sich seine Einladung an die Piano-Kultfigur Keith Jarrett. Als Jarrett im ersten Orchesterkonzert im Funkhaus Halberg in Werken von Lou Harrison und Colin McPhee mitspielte, mussten einige Fans das Ganze vom Flur aus verfolgen, denn die Kapazitäten des großen Sendesaals reichten nicht aus. Und auch der Ansturm aufs zweite Orchesterkonzert war groß: hier trat Jarrett als Solist in Samuel Barbers Klavierkonzert auf. Ob seine Fans allerdings in ...</comments>
+			<comments>Pieces played: "Suite für Solo Violine, Solo Klavier und kleines Orchester" (Lou Harrison) and "Konzert für Klavier mit Bläseroktettbegleitung" (Colin McPhee). Joachim Schall played during the Lou Harrison piece only. Incomplete information about the concert (excerpt from Google cache): "Bei zwei Konzerten erlebte das Festival einen bisher ungekannten Ansturm. Dirigent Dennis Russel Davies hatte nicht nur seine komponierenden Freunde Lou Harrison und William Bolcom eingebracht - als weitaus folgenreicher erwies sich seine Einladung an die Piano-Kultfigur Keith Jarrett. Als Jarrett im ersten Orchesterkonzert im Funkhaus Halberg in Werken von Lou Harrison und Colin McPhee mitspielte, mussten einige Fans das Ganze vom Flur aus verfolgen, denn die Kapazitäten des großen Sendesaals reichten nicht aus. Und auch der Ansturm aufs zweite Orchesterkonzert war groß: hier trat Jarrett als Solist in Samuel Barbers Klavierkonzert auf. Ob seine Fans allerdings in ...</comments>
 			<privatecomments>Arnulf Müller</privatecomments>
 		</concert>
 		<concert>
@@ -7605,7 +7605,7 @@
 			<event>Musik des 20. Jahrhunderts</event>
 			<with>
 				<name instr="orchestra">Rundfunk‐Sinfonieorchester Saarbrücken</name>
-				<name instr="conductor">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russell Davies</name>
 			</with>
 			<release id="barber-bartok-jarrett">Barber/Bartók</release>
 			<comments>Piece played: "Piano Concerto, op. 38" (Samuel Barber).</comments>
@@ -7719,7 +7719,7 @@
 				<name instr="conductor">Kazuyoshi Akiyama</name>
 			</with>
 			<release id="barber-bartok-jarrett">Barber/Bartók</release>
-			<comments>The following pieces were played: Franzosische Suiten (J.S. Bach) / Sonata for Violin and Piano (K. Jarrett) / Adagio for Oboe and String Orchestra (K. Jarrett) / Elegy for Violin and String Orchestra (K. Jarrett) / Piano Concerto No. 3 Sz. 119 (B. Bartok).</comments>
+			<comments>The following pieces were played: Französische Suiten (J.S. Bach) / Sonata for Violin and Piano (K. Jarrett) / Adagio for Oboe and String Orchestra (K. Jarrett) / Elegy for Violin and String Orchestra (K. Jarrett) / Piano Concerto No. 3 Sz. 119 (B. Bartok).</comments>
 		</concert>
 		<concert>
 			<date>February 1</date>
@@ -7853,7 +7853,7 @@
 		</concert>
 		<concert>
 			<date>March 8-24 (?)</date>
-			<place>Toronto, Canada</place>
+			<place>Toronto, ON, Canada</place>
 			<event>Bach 300 Festival</event>
 			<with solo="yes"/>
 			<comments>Part of the music was released on "All That Bach". The exact date is unknown. It is not clear if it was a concert or a studio session.</comments>
@@ -8071,7 +8071,7 @@
 				<name instr="cello">Hakuro Mohri</name>
 				<name instr="flute">Masami Nakagawa</name>
 				<name instr="biwa">Kinshi Tsuruta</name>
-				<name instr="orchestra">New Japan Philarmonic</name>
+				<name instr="orchestra">New Japan Philharmonic</name>
 				<name instr="conductor">Naoto Otomo</name>
 			</with>
 			<comments>According to koinumamusic.com, the following pieces were played: Sacred Ground (For The American Indian) (K. Jarrett) / Improvisation Duo with biwa / Piano Concerto (L. Harrison). According to ecmrecords.com, "Sacred Ground (For The American Indian)" is a piece for piano, flute, cello, and clarinet, commissioned by the Chamber Music Society of Lincoln Center, premiered in 1985 at Alice Tully Hall, with Jarrett joined by Paula Robison, Fred Sherry and Richard Stoltzman. From koinumamusic.com: "In Tokyo in 1986, following a performance of a Lou Harrison piece, Keith Jarrett came back onstage in response to enthusiastic applause and agreed to play an encore. After striking the first chord of a standard tune, Jarrett suddenly remembered that the piano was especially tuned to Harrison's Piano Concerto -- a composition which called for the black keys to be tuned in fourths and fifths, the white keys in just intonation. Undaunted, he was able to play a perfect rendition of the standard by spontaneously selecting the "right" keys." Comment from Kaisa N.: "This seems like a misunderstanding. The comment makes it sound like the instrument was tuned in such a way that it would actually produce different notes than in standard tuning, so that Jarrett would actually have had to choose different keys to produce the notes he wanted. The Kirnberger 2 system, which is reportedly required for Lou Harrison's Piano Concerto, doesn't change the notes to different notes. It only does what different piano tuning systems do in general: it makes some specific keys and chords sound better "in tune" and some others somewhat more "out of tune" than in standard tuning (which is always a little "out of tune", but it's equally good/bad for all chords". A pianist could play on such an instrument without taking it into account at all, and a layman probably wouldn't notice anything. A musician with a trained ear would probably notice something "slightly off", but not too much. I don't doubt that Jarrett might have forgotten about the tuning, then suddenly remembered it and felt somewhat amused. I also don't doubt it could have affected the way he chose to play the chosen standard. Being the top class improviser he was, he would probably use it to his advantage, stressing the "good" chords in Kirnberger 2 and not dwelling on the "bad" ones so much. But to give an impression that he had to drastically change something in order to succeed is not right."</comments>
@@ -8084,7 +8084,7 @@
 				<name instr="clarinet">Richard Stoltzman</name>
 				<name instr="piano">Chick Corea</name>
 				<name instr="bass">Eddie Gomez</name>
-				<name instr="orchestra">New Japan Philarmonic</name>
+				<name instr="orchestra">New Japan Philharmonic</name>
 				<name instr="conductor">Naoto Otomo</name>
 			</with>
 			<comments/>
@@ -8243,7 +8243,7 @@
 			<event>Cabrillo Festival of Contemporary Music</event>
 			<with>
 				<name instr="orchestra">Unknown orchestra</name>
-				<name instr="conductor">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russell Davies</name>
 			</with>
 			<comments>Kenneth K.: "Lou Harrison Piano Concerto/Dennis Russell Davies conducting."</comments>
 			<privatecomments>Kenneth Kubernik</privatecomments>
@@ -8372,7 +8372,7 @@
 	<group year="1987">
 		<concert>
 			<date>March 7</date>
-			<place>Troy Savings Bank Music Hall , New York, NY, USA</place>
+			<place>Troy Savings Bank Music Hall, New York, NY, USA</place>
 			<with solo="yes"/>
 			<release id="the-well-tempered-clavier-book-i">J.S. Bach: The Well-Tempered Clavier, Book I</release>
 			<comments>Keith Jarrett played BWV 846-869 (The Well-Tempered Clavier, Book I) and possibly other pieces.</comments>
@@ -8432,7 +8432,7 @@
 		<concert>
 			<date>June 26</date>
 			<time>9 PM</time>
-			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
+			<place>Salle Wilfrid-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
@@ -8532,7 +8532,7 @@
 		</concert>
 		<concert>
 			<date>October 25</date>
-			<place>Roy Thomson Hall, Toronto, OT, Canada</place>
+			<place>Roy Thomson Hall, Toronto, ON, Canada</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -8699,7 +8699,7 @@
 		</concert>
 		<concert>
 			<date>April 24</date>
-			<place>Festival Hall, Osaka</place>
+			<place>Festival Hall, Osaka, Japan</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -8980,7 +8980,7 @@
 		</concert>
 		<concert>
 			<date>October 19</date>
-			<place>Kongreßalle Killesberg, Stuttgart, Germany</place>
+			<place>Kongreßhalle Killesberg, Stuttgart, Germany</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -9062,7 +9062,7 @@
 		<concert>
 			<date>July 4</date>
 			<time>6 PM</time>
-			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
+			<place>Salle Wilfrid-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<with solo="yes"/>
 			<privatecomments>Simon Savary</privatecomments>
@@ -9071,8 +9071,8 @@
 			<date>October 28</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
 			<with>
-				<name instr="orchestra">American Composer's Orchestra</name>
-				<name instr="conductor">Dennis Russel Davies</name>
+				<name instr="orchestra">American Composers Orchestra</name>
+				<name instr="conductor">Dennis Russell Davies</name>
 			</with>
 			<comments>This concert was cancelled.</comments>
 		</concert>
@@ -9151,7 +9151,7 @@
 		</concert>
 		<concert>
 			<date>November 28</date>
-			<place>Musikverein, Vienna, Autria</place>
+			<place>Musikverein, Vienna, Austria</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -9322,9 +9322,9 @@
 			<place>Beethovenhalle, Bonn, Germany</place>
 			<with>
 				<name instr="orchestra">Unknown orchestra</name>
-				<name instr="conductor">Dennis Russel Davies</name>
+				<name instr="conductor">Dennis Russell Davies</name>
 			</with>
-			<comments>Keith played a Mozart concerto, KV 467. The orchestra, conducted by Dennis Russel Davies, also played "Bridge of Light for Viola and Orchestra" and Stravinsky compositions (?).</comments>
+			<comments>Keith played a Mozart concerto, KV 467. The orchestra, conducted by Dennis Russell Davies, also played "Bridge of Light for Viola and Orchestra" and Stravinsky compositions (?).</comments>
 			<privatecomments>Mentioned by Klaus Lipinski.</privatecomments>
 		</concert>
 		<concert>
@@ -9340,7 +9340,7 @@
 			<with>
 				<name instr="orchestra">Unknown orchestra</name>
 				<name instr="viola">Patricia McCarty</name>
-				<name instr="conductor">Dennis Russel Davies (?)</name>
+				<name instr="conductor">Dennis Russell Davies (?)</name>
 			</with>
 			<comments>Same program as on October 21.</comments>
 			<privatecomments>Added by Klaus Lipinski. More information from Matthias Bohlen (textual information about concert poster, see 2022-11-07 email).</privatecomments>
@@ -9510,7 +9510,7 @@
 		<concert>
 			<date>July 3</date>
 			<time>8:30 PM</time>
-			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
+			<place>Salle Wilfrid-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
@@ -9541,7 +9541,7 @@
 		</concert>
 		<concert>
 			<date incomplete="yes">June</date>
-			<place>Roy Thompson Hall, Toronto, ON, Canada</place>
+			<place>Roy Thomson Hall, Toronto, ON, Canada</place>
 			<event>Toronto Downtown Jazz Festival</event>
 			<with>
 				<name>Gary Peacock</name>
@@ -9830,7 +9830,7 @@
 		<concert>
 			<date>June 27</date>
 			<time>8:30 PM</time>
-			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
+			<place>Salle Wilfrid-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<comments>This concert was cancelled.</comments>
 			<with>
@@ -9901,7 +9901,7 @@
 		</concert>
 		<concert>
 			<date>October 23</date>
-			<place>Teatro Communale, Modena, Italy</place>
+			<place>Teatro Comunale, Modena, Italy</place>
 			<with solo="yes"/>
 			<privatecomments>Link to article given by Arnulf Müller (March 14, 2016 email).</privatecomments>
 			<release id="a-multitude-of-angels">A Multitude of Angels</release>
@@ -10048,7 +10048,7 @@
 		</concert>
 		<concert>
 			<date>November 21</date>
-			<place>Roy Thompson Hall, Toronto, ON, Canada</place>
+			<place>Roy Thomson Hall, Toronto, ON, Canada</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10128,7 +10128,7 @@
 		</concert>
 		<concert>
 			<date>September 23</date>
-			<place>Hill Auditorium, Ann Arbor, MA, USA</place>
+			<place>Hill Auditorium, Ann Arbor, MI, USA</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10556,7 +10556,7 @@
 		</concert>
 		<concert>
 			<date>July 20</date>
-			<place>Castel de Peralada Festival, Peralada, Spain</place>
+			<place>Castell de Peralada Festival, Peralada, Spain</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10590,7 +10590,7 @@
 		<concert>
 			<date>September 19</date>
 			<place>Carnegie Hall, New York, NY, USA</place>
-			<event>JVC Festivall</event>
+			<event>JVC Festival</event>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -10685,7 +10685,7 @@
 		</concert>
 		<concert>
 			<date>July 1</date>
-			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
+			<place>Salle Wilfrid-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
@@ -11058,7 +11058,7 @@
 		</concert>
 		<concert>
 			<date>July 1</date>
-			<place>Salle Wilfred-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
+			<place>Salle Wilfrid-Pelletier, Place Des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
@@ -11075,7 +11075,7 @@
 		</concert>
 		<concert>
 			<date>July 10</date>
-			<place>Arena Santa Guiliana, Perugia, Italy</place>
+			<place>Arena Santa Giuliana, Perugia, Italy</place>
 			<event>Umbria Jazz Festival</event>
 			<with>
 				<name>Gary Peacock</name>
@@ -11313,7 +11313,7 @@
 		</concert>
 		<concert>
 			<date>March 11</date>
-			<place>Royce Hall, UCLA, Los Angeles, USA</place>
+			<place>Royce Hall, UCLA, Los Angeles, CA, USA</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -11321,7 +11321,7 @@
 		</concert>
 		<concert>
 			<date>March 14</date>
-			<place>Zellerbach Hall, UC Berkeley, Berkeley, USA</place>
+			<place>Zellerbach Hall, UC Berkeley, Berkeley, CA, USA</place>
 			<with>
 				<name>Gary Peacock</name>
 				<name>Jack DeJohnette</name>
@@ -11463,7 +11463,7 @@
 		</concert>
 		<concert>
 			<date>July 3</date>
-			<place>Salle Wilfred-Pelletier, Place des Arts, Montréal, QC, Canada</place>
+			<place>Salle Wilfrid-Pelletier, Place des Arts, Montréal, QC, Canada</place>
 			<event>Festival International de Jazz de Montréal</event>
 			<with>
 				<name>Gary Peacock</name>
@@ -11950,7 +11950,7 @@
 			</with>
 		</concert>
 		<concert>
-			<date>July</date>
+			<date incomplete="yes">July</date>
 			<place></place>
 			<time> PM</time>
 			<with>
@@ -12041,19 +12041,19 @@
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<date>April 30</date>
+			<date>April 30</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
 			<release id="creation">Creation</release>
 			<comments>An excerpt from this concert is included on the <i>Creation</i> album.</comments>
 		</concert>
 		<concert>
-			<date>May 3</date>
+			<date>May 3</date>
 			<place>Festival Hall, Osaka, Japan</place>
 			<with solo="yes"/>
 		</concert>
 		<concert>
-			<date>May 6</date>
+			<date>May 6</date>
 			<place>Orchard Hall, Bunkamura, Tokyo, Japan</place>
 			<with solo="yes"/>
 			<release id="creation">Creation</release>
