@@ -3364,7 +3364,7 @@
 			<place>Village Vanguard, New York, NY, USA</place>
 			<release id="fort-yawuh">Fort Yawuh</release>
 			<release>Impulse Artists On Tour</release>
-			<release>The Impulse Years, 1973-1974</release>
+			<release id="the-impulse-years-1973-1974">The Impulse Years, 1973-1974</release>
 			<with>
 				<name>Dewey Redman</name>
 				<name>Charlie Haden</name>
@@ -8065,7 +8065,7 @@
 			<date>January 30</date>
 			<place>U-Port Kanihoken Hall, Tokyo, Japan</place>
 			<event>2<sup>nd</sup> Tokyo Music Joy</event>
-			<release>Works By Lou Harrison</release>
+			<release id="piano-concerto-suite-for-violin-piano-and-small-orchestra">Works By Lou Harrison</release>
 			<with>
 				<name instr="clarinet">Richard Stoltzman</name>
 				<name instr="cello">Hakuro Mohri</name>
