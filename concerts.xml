@@ -14,7 +14,7 @@
 -->
 
 <?xml-stylesheet type="text/xsl" href="concerts.xsl"?>
-<concerts modified="October 20, 2026">
+<concerts modified="October 22, 2026">
 	<group year="1951">
 		<concert>
 			<date incomplete="yes"/>
@@ -6168,6 +6168,17 @@
 				<name>Palle Danielsson</name>
 				<name>Jon Christensen</name>
 			</with>
+		</concert>
+		<concert>
+			<date>November 12 (?)</date>
+			<place>Woolsey Hall, Yale University, New Haven, CT, USA</place>
+			<with>
+				<name>Jan Garbarek</name>
+				<name>Palle Danielsson</name>
+				<name>Jon Christensen</name>
+			</with>
+			<comments>The exact date is uncertain (the quartet played in Boston on November 11 and in Philadelphia on November 13). Phil S.: "All acoustic - no mikes or amps, etc. The pristine acoustics of Woolsey Hall brought the magic right to my seat."</comments>
+			<privatecomments>Added by Phil Siena (emails of July 30 and October 13, 2026).</privatecomments>
 		</concert>
 		<concert>
 			<date>November 13</date>

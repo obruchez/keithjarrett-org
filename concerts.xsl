@@ -49,7 +49,6 @@
             <li>High School Auditorium, Santa Barbara, CA, USA, late 1974 or early to mid-1975 (solo concert)</li> <!-- John Marshall -->
             <li>Clark University, Worcester, MA, USA, 1974 or 1975 (solo concert)</li> <!-- Rob Doughty -->
             <li>Robert Mondavi Winery, Oakville, CA, USA, 1976 or 1977 (solo concert, double header with Dizzy Gillespie)</li> <!-- Jon Luttrell -->
-            <li>Woolsey Hall, Yale University, New Haven, CT, USA, 1977 or 1979 (with the European Quartet)</li> <!-- Phil Siena -->
             <li>Hartford, CT, USA, around 1979 (solo concert)</li> <!-- Jude Gartland -->
             <li>Royal Festival Hall, London, UK, around 1979 (solo concert) (same as the March 29, 1980 concert?)</li>
             <li>Orpheum Theatre or Queen Elizabeth Theatre, Vancouver, BC, Canada, on July 30, 1983 or October 17, 1984 (solo concert)</li> <!-- Norman Baldwin, see email for anecdote -->
